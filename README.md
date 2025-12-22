@@ -16,8 +16,8 @@ Analyze word frequency (nouns, adjectives, verbs) by political party in German B
 
 ```bash
 # Clone repository
-git clone https://github.com/your-username/bundestag-noun-analysis
-cd bundestag-noun-analysis
+git clone https://github.com/Movm/bundestag-wrapped
+cd bundestag-wrapped
 
 # Create virtual environment
 python -m venv .venv
