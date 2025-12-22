@@ -1,0 +1,69 @@
+@import "tailwindcss";
+
+@theme {
+  /* Party Colors */
+  --color-spd: #E3000F;
+  --color-cdu: #000000;
+  --color-gruene: #1AA037;
+  --color-afd: #009EE0;
+  --color-linke: #BE3075;
+  --color-bsw: #FF6B35;
+  --color-fraktionslos: #6B7280;
+
+  /* Background gradients */
+  --color-bg-primary: #0a0a0f;
+  --color-bg-secondary: #12121a;
+  --color-bg-card: #1a1a24;
+
+  /* Accent */
+  --color-accent: #8b5cf6;
+  --color-accent-light: #a78bfa;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: linear-gradient(180deg, var(--color-bg-primary) 0%, var(--color-bg-secondary) 100%);
+  min-height: 100vh;
+  font-family: system-ui, -apple-system, sans-serif;
+  color: white;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--color-bg-secondary);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-accent);
+  border-radius: 3px;
+}
+
+/* Animated gradient text */
+.gradient-text {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%);
+  background-size: 200% 200%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  animation: gradient-shift 3s ease infinite;
+}
+
+@keyframes gradient-shift {
+  0%, 100% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+}
+
+/* Glass effect */
+.glass {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}

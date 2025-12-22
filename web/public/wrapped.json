@@ -1,0 +1,877 @@
+{
+  "metadata": {
+    "totalSpeeches": 3082,
+    "totalWords": 2042947,
+    "partyCount": 6,
+    "speakerCount": 584,
+    "wahlperiode": 21,
+    "sitzungen": 50
+  },
+  "parties": [
+    {
+      "party": "AfD",
+      "speeches": 822,
+      "totalWords": 503634,
+      "uniqueSpeakers": 153,
+      "topWords": [
+        {
+          "word": "deutschland",
+          "count": 1914
+        },
+        {
+          "word": "euro",
+          "count": 1500
+        },
+        {
+          "word": "land",
+          "count": 1067
+        },
+        {
+          "word": "milliarde",
+          "count": 1011
+        },
+        {
+          "word": "bürger",
+          "count": 851
+        },
+        {
+          "word": "mensch",
+          "count": 728
+        },
+        {
+          "word": "million",
+          "count": 621
+        }
+      ],
+      "signatureWords": [
+        {
+          "word": "altpartei",
+          "ratio": 79.9
+        },
+        {
+          "word": "antifa",
+          "ratio": 21.5
+        },
+        {
+          "word": "steuerzahler",
+          "ratio": 14.4
+        },
+        {
+          "word": "ausländer",
+          "ratio": 13.9
+        },
+        {
+          "word": "kernkraftwerk",
+          "ratio": 12.4
+        }
+      ],
+      "keyTopics": [
+        {
+          "word": "steuerzahler",
+          "count": 210,
+          "ratio": 14.4
+        },
+        {
+          "word": "volk",
+          "count": 145,
+          "ratio": 11.0
+        },
+        {
+          "word": "alternative",
+          "count": 166,
+          "ratio": 8.1
+        },
+        {
+          "word": "bürger",
+          "count": 851,
+          "ratio": 6.0
+        },
+        {
+          "word": "steuergeld",
+          "count": 197,
+          "ratio": 5.5
+        }
+      ],
+      "avgSpeechLength": 663,
+      "descriptiveness": 21.5,
+      "topSpeaker": {
+        "name": "Markus Frohnmaier",
+        "speeches": 23
+      }
+    },
+    {
+      "party": "CDU/CSU",
+      "speeches": 892,
+      "totalWords": 603908,
+      "uniqueSpeakers": 180,
+      "topWords": [
+        {
+          "word": "deutschland",
+          "count": 1667
+        },
+        {
+          "word": "land",
+          "count": 1640
+        },
+        {
+          "word": "mensch",
+          "count": 1251
+        },
+        {
+          "word": "euro",
+          "count": 1120
+        },
+        {
+          "word": "haushalt",
+          "count": 766
+        },
+        {
+          "word": "milliarde",
+          "count": 712
+        },
+        {
+          "word": "weg",
+          "count": 554
+        }
+      ],
+      "signatureWords": [
+        {
+          "word": "wettbewerbsfähigkeit",
+          "ratio": 6.4
+        },
+        {
+          "word": "marktwirtschaft",
+          "ratio": 4.7
+        },
+        {
+          "word": "wachstum",
+          "ratio": 4.3
+        },
+        {
+          "word": "botschaft",
+          "ratio": 3.8
+        },
+        {
+          "word": "spielraum",
+          "ratio": 3.3
+        }
+      ],
+      "keyTopics": [
+        {
+          "word": "wettbewerbsfähigkeit",
+          "count": 180,
+          "ratio": 6.4
+        },
+        {
+          "word": "wachstum",
+          "count": 169,
+          "ratio": 4.3
+        },
+        {
+          "word": "bürokratie",
+          "count": 176,
+          "ratio": 2.5
+        },
+        {
+          "word": "innovation",
+          "count": 161,
+          "ratio": 2.5
+        },
+        {
+          "word": "europa",
+          "count": 539,
+          "ratio": 2.1
+        }
+      ],
+      "avgSpeechLength": 694,
+      "descriptiveness": 21.7,
+      "topSpeaker": {
+        "name": "Jürgen Hardt",
+        "speeches": 16
+      }
+    },
+    {
+      "party": "GRÜNE",
+      "speeches": 503,
+      "totalWords": 342015,
+      "uniqueSpeakers": 92,
+      "topWords": [
+        {
+          "word": "mensch",
+          "count": 1259
+        },
+        {
+          "word": "land",
+          "count": 881
+        },
+        {
+          "word": "deutschland",
+          "count": 601
+        },
+        {
+          "word": "euro",
+          "count": 596
+        },
+        {
+          "word": "geld",
+          "count": 410
+        },
+        {
+          "word": "milliarde",
+          "count": 408
+        },
+        {
+          "word": "bundesregierung",
+          "count": 386
+        }
+      ],
+      "signatureWords": [
+        {
+          "word": "klimakrise",
+          "ratio": 6.0
+        },
+        {
+          "word": "gas",
+          "ratio": 4.8
+        },
+        {
+          "word": "lücke",
+          "ratio": 4.7
+        },
+        {
+          "word": "zivilgesellschaft",
+          "ratio": 4.4
+        },
+        {
+          "word": "donald trump",
+          "ratio": 4.0
+        }
+      ],
+      "keyTopics": [
+        {
+          "word": "gas",
+          "count": 70,
+          "ratio": 4.8
+        },
+        {
+          "word": "friedrich merz",
+          "count": 72,
+          "ratio": 3.1
+        },
+        {
+          "word": "kanzler",
+          "count": 89,
+          "ratio": 2.6
+        },
+        {
+          "word": "ampel",
+          "count": 69,
+          "ratio": 2.5
+        },
+        {
+          "word": "klimaschutz",
+          "count": 218,
+          "ratio": 2.3
+        }
+      ],
+      "avgSpeechLength": 653,
+      "descriptiveness": 18.5,
+      "topSpeaker": {
+        "name": "Dr. Paula Piechotta",
+        "speeches": 19
+      }
+    },
+    {
+      "party": "DIE LINKE",
+      "speeches": 362,
+      "totalWords": 219316,
+      "uniqueSpeakers": 64,
+      "topWords": [
+        {
+          "word": "mensch",
+          "count": 982
+        },
+        {
+          "word": "euro",
+          "count": 574
+        },
+        {
+          "word": "land",
+          "count": 446
+        },
+        {
+          "word": "milliarde",
+          "count": 390
+        },
+        {
+          "word": "deutschland",
+          "count": 302
+        },
+        {
+          "word": "bundesregierung",
+          "count": 286
+        },
+        {
+          "word": "geld",
+          "count": 286
+        }
+      ],
+      "signatureWords": [
+        {
+          "word": "profit",
+          "ratio": 37.5
+        },
+        {
+          "word": "rüstung",
+          "ratio": 33.6
+        },
+        {
+          "word": "vermögensteuer",
+          "ratio": 29.5
+        },
+        {
+          "word": "aufrüstung",
+          "ratio": 28.9
+        },
+        {
+          "word": "superreiche",
+          "ratio": 24.6
+        }
+      ],
+      "keyTopics": [
+        {
+          "word": "rüstung",
+          "count": 49,
+          "ratio": 33.6
+        },
+        {
+          "word": "konzern",
+          "count": 57,
+          "ratio": 8.3
+        },
+        {
+          "word": "reiche",
+          "count": 76,
+          "ratio": 6.3
+        },
+        {
+          "word": "miete",
+          "count": 92,
+          "ratio": 5.2
+        },
+        {
+          "word": "armut",
+          "count": 57,
+          "ratio": 4.6
+        }
+      ],
+      "avgSpeechLength": 616,
+      "descriptiveness": 18.8,
+      "topSpeaker": {
+        "name": "Sascha Wagner",
+        "speeches": 20
+      }
+    },
+    {
+      "party": "SPD",
+      "speeches": 613,
+      "totalWords": 368878,
+      "uniqueSpeakers": 94,
+      "topWords": [
+        {
+          "word": "mensch",
+          "count": 1073
+        },
+        {
+          "word": "land",
+          "count": 922
+        },
+        {
+          "word": "deutschland",
+          "count": 829
+        },
+        {
+          "word": "euro",
+          "count": 696
+        },
+        {
+          "word": "haushalt",
+          "count": 448
+        },
+        {
+          "word": "sicherheit",
+          "count": 428
+        },
+        {
+          "word": "milliarde",
+          "count": 407
+        }
+      ],
+      "signatureWords": [
+        {
+          "word": "spd-bundestagsfraktion",
+          "ratio": 73.6
+        },
+        {
+          "word": "afghaninn",
+          "ratio": 44.2
+        },
+        {
+          "word": "aufnahmezusage",
+          "ratio": 24.0
+        },
+        {
+          "word": "aufenthaltsgesetz",
+          "ratio": 23.1
+        },
+        {
+          "word": "ortskraft",
+          "ratio": 13.9
+        }
+      ],
+      "keyTopics": [
+        {
+          "word": "aufnahmezusage",
+          "count": 89,
+          "ratio": 24.0
+        },
+        {
+          "word": "bmi",
+          "count": 93,
+          "ratio": 5.1
+        },
+        {
+          "word": "zusammenhalt",
+          "count": 115,
+          "ratio": 4.1
+        },
+        {
+          "word": "stabilität",
+          "count": 87,
+          "ratio": 3.3
+        },
+        {
+          "word": "person",
+          "count": 131,
+          "ratio": 3.0
+        }
+      ],
+      "avgSpeechLength": 656,
+      "descriptiveness": 20.9,
+      "topSpeaker": {
+        "name": "Frauke Heiligenstadt",
+        "speeches": 18
+      }
+    },
+    {
+      "party": "fraktionslos",
+      "speeches": 19,
+      "totalWords": 5196,
+      "uniqueSpeakers": 1,
+      "topWords": [
+        {
+          "word": "dank",
+          "count": 25
+        },
+        {
+          "word": "minderheit",
+          "count": 22
+        },
+        {
+          "word": "land",
+          "count": 15
+        },
+        {
+          "word": "mensch",
+          "count": 14
+        },
+        {
+          "word": "bund",
+          "count": 13
+        },
+        {
+          "word": "finanzierung",
+          "count": 11
+        },
+        {
+          "word": "projekt",
+          "count": 9
+        }
+      ],
+      "signatureWords": [
+        {
+          "word": "ssw",
+          "ratio": 1154.7
+        },
+        {
+          "word": "nordschleswig",
+          "ratio": 962.3
+        },
+        {
+          "word": "friese",
+          "ratio": 769.8
+        },
+        {
+          "word": "bedarfsplan",
+          "ratio": 577.4
+        },
+        {
+          "word": "moin",
+          "ratio": 421.0
+        }
+      ],
+      "keyTopics": [
+        {
+          "word": "ssw",
+          "count": 6,
+          "ratio": 1154.7
+        },
+        {
+          "word": "nordschleswig",
+          "count": 5,
+          "ratio": 962.3
+        },
+        {
+          "word": "friese",
+          "count": 4,
+          "ratio": 769.8
+        },
+        {
+          "word": "bedarfsplan",
+          "count": 3,
+          "ratio": 577.4
+        },
+        {
+          "word": "moin",
+          "count": 7,
+          "ratio": 421.0
+        }
+      ],
+      "avgSpeechLength": 399,
+      "descriptiveness": 25.1,
+      "topSpeaker": {
+        "name": "Stefan Seidler",
+        "speeches": 19
+      }
+    }
+  ],
+  "drama": {
+    "topInterrupters": [
+      {
+        "name": "Stephan Brandner",
+        "party": "AfD",
+        "count": 787
+      },
+      {
+        "name": "Jörn König",
+        "party": "AfD",
+        "count": 297
+      },
+      {
+        "name": "Dr. Götz Frömming",
+        "party": "AfD",
+        "count": 280
+      },
+      {
+        "name": "Marc Bernhard",
+        "party": "AfD",
+        "count": 211
+      },
+      {
+        "name": "Dr. Johannes Fechner",
+        "party": "SPD",
+        "count": 192
+      }
+    ],
+    "mostInterrupted": [
+      {
+        "name": "Stephan Brandner",
+        "party": "AfD",
+        "count": 166
+      },
+      {
+        "name": "Jens Spahn",
+        "party": "CDU/CSU",
+        "count": 122
+      },
+      {
+        "name": "Clara Bünger",
+        "party": "DIE LINKE",
+        "count": 102
+      },
+      {
+        "name": "Dunja Kreiser",
+        "party": "SPD",
+        "count": 96
+      },
+      {
+        "name": "Dr. Paula Piechotta",
+        "party": "GRÜNE",
+        "count": 92
+      }
+    ],
+    "applauseChampions": [
+      {
+        "party": "CDU/CSU",
+        "count": 9944
+      },
+      {
+        "party": "SPD",
+        "count": 8276
+      },
+      {
+        "party": "AfD",
+        "count": 7626
+      },
+      {
+        "party": "DIE LINKE",
+        "count": 4327
+      },
+      {
+        "party": "GRÜNE",
+        "count": 3728
+      }
+    ],
+    "loudestHecklers": [
+      {
+        "party": "AfD",
+        "count": 1184
+      },
+      {
+        "party": "GRÜNE",
+        "count": 912
+      },
+      {
+        "party": "DIE LINKE",
+        "count": 755
+      },
+      {
+        "party": "SPD",
+        "count": 437
+      },
+      {
+        "party": "CDU/CSU",
+        "count": 400
+      }
+    ]
+  },
+  "topSpeakers": [
+    {
+      "name": "Markus Frohnmaier",
+      "party": "AfD",
+      "speeches": 23
+    },
+    {
+      "name": "Sascha Wagner",
+      "party": "DIE LINKE",
+      "speeches": 20
+    },
+    {
+      "name": "Stephan Brandner",
+      "party": "AfD",
+      "speeches": 19
+    },
+    {
+      "name": "Dr. Paula Piechotta",
+      "party": "GRÜNE",
+      "speeches": 19
+    },
+    {
+      "name": "Stefan Seidler",
+      "party": "fraktionslos",
+      "speeches": 19
+    },
+    {
+      "name": "Wolfgang Wiehle",
+      "party": "AfD",
+      "speeches": 18
+    },
+    {
+      "name": "Frauke Heiligenstadt",
+      "party": "SPD",
+      "speeches": 18
+    },
+    {
+      "name": "Helge Lindh",
+      "party": "SPD",
+      "speeches": 17
+    },
+    {
+      "name": "Jürgen Hardt",
+      "party": "CDU/CSU",
+      "speeches": 16
+    },
+    {
+      "name": "Kay Gottschalk",
+      "party": "AfD",
+      "speeches": 15
+    }
+  ],
+  "hotTopics": [
+    "deutschland",
+    "euro",
+    "land",
+    "mensch",
+    "geld",
+    "politik",
+    "bundesregierung",
+    "dank",
+    "haushalt",
+    "recht",
+    "verantwortung",
+    "mittel",
+    "milliarde",
+    "million",
+    "staat"
+  ],
+  "quizQuestions": [
+    {
+      "type": "guess-party",
+      "question": "Welche Partei nutzt dieses Wort am häufigsten?",
+      "word": "altpartei",
+      "options": [
+        "CDU/CSU",
+        "AfD",
+        "DIE LINKE",
+        "GRÜNE"
+      ],
+      "correctAnswer": "AfD",
+      "explanation": "AfD verwendet \"altpartei\" 79.9x häufiger als andere.",
+      "ratio": 79.9
+    },
+    {
+      "type": "guess-party",
+      "question": "Welche Fraktion redet besonders oft über dieses Thema?",
+      "word": "rüstung",
+      "options": [
+        "DIE LINKE",
+        "AfD",
+        "CDU/CSU",
+        "GRÜNE"
+      ],
+      "correctAnswer": "DIE LINKE",
+      "explanation": "DIE LINKE verwendet \"rüstung\" 49× (33.6x häufiger als andere).",
+      "ratio": 33.6
+    },
+    {
+      "type": "prediction",
+      "question": "Welche Partei hat die meisten Reden gehalten?",
+      "options": [
+        "AfD",
+        "SPD",
+        "GRÜNE",
+        "CDU/CSU"
+      ],
+      "correctAnswer": "CDU/CSU",
+      "explanation": "CDU/CSU mit 892 Reden!"
+    },
+    {
+      "type": "prediction",
+      "question": "Wer hat am meisten unterbrochen?",
+      "options": [
+        "Jörn König (AfD)",
+        "Stephan Brandner (AfD)",
+        "Dr. Götz Frömming (AfD)",
+        "Marc Bernhard (AfD)"
+      ],
+      "correctAnswer": "Stephan Brandner (AfD)",
+      "explanation": "Stephan Brandner (AfD) mit 787 Unterbrechungen!"
+    },
+    {
+      "type": "prediction",
+      "question": "Welche Partei applaudiert am meisten?",
+      "options": [
+        "SPD",
+        "CDU/CSU",
+        "DIE LINKE",
+        "AfD"
+      ],
+      "correctAnswer": "CDU/CSU",
+      "explanation": "CDU/CSU mit 9,944 Beifallsbekundungen!"
+    },
+    {
+      "type": "prediction",
+      "question": "Welche Partei ruft am lautesten dazwischen?",
+      "options": [
+        "SPD",
+        "GRÜNE",
+        "DIE LINKE",
+        "AfD"
+      ],
+      "correctAnswer": "AfD",
+      "explanation": "AfD mit 1,184 Zwischenrufen!"
+    },
+    {
+      "type": "prediction",
+      "question": "Wer hat die meisten Reden gehalten?",
+      "options": [
+        "Dr. Paula Piechotta (GRÜNE)",
+        "Sascha Wagner (DIE LINKE)",
+        "Stephan Brandner (AfD)",
+        "Markus Frohnmaier (AfD)"
+      ],
+      "correctAnswer": "Markus Frohnmaier (AfD)",
+      "explanation": "Markus Frohnmaier (AfD) mit 23 Reden!"
+    },
+    {
+      "type": "prediction",
+      "question": "Wer hat insgesamt die meisten Wörter gesprochen?",
+      "options": [
+        "Dr. Michael Espendiller (AfD)",
+        "Heidi Reichinnek (DIE LINKE)",
+        "Dr. Paula Piechotta (GRÜNE)",
+        "Jens Spahn (CDU/CSU)"
+      ],
+      "correctAnswer": "Jens Spahn (CDU/CSU)",
+      "explanation": "Jens Spahn mit 14,698 Wörtern aus 9 Reden!"
+    },
+    {
+      "type": "prediction",
+      "question": "Welches Wort nutzen ALLE Parteien am meisten?",
+      "options": [
+        "deutschland",
+        "euro",
+        "land",
+        "mensch"
+      ],
+      "correctAnswer": "deutschland",
+      "explanation": "\"deutschland\" ist das gemeinsame Top-Wort aller Parteien!"
+    },
+    {
+      "type": "prediction",
+      "question": "Wer sagt am häufigsten \"Moin\"?",
+      "options": [
+        "fraktionslos",
+        "AfD",
+        "GRÜNE",
+        "CDU/CSU"
+      ],
+      "correctAnswer": "fraktionslos",
+      "explanation": "fraktionslos grüßt mit 7x \"Moin\"!"
+    },
+    {
+      "type": "prediction",
+      "question": "Welche Fraktion hat die meisten verschiedenen Redner?",
+      "options": [
+        "SPD",
+        "GRÜNE",
+        "AfD",
+        "CDU/CSU"
+      ],
+      "correctAnswer": "CDU/CSU",
+      "explanation": "CDU/CSU mit 180 verschiedenen Rednern!"
+    },
+    {
+      "type": "prediction",
+      "question": "Wer stellt die meisten Zwischenfragen?",
+      "options": [
+        "Stephan Brandner (AfD)",
+        "Bernd Schattner (AfD)",
+        "Tobias Matthias Peterka (AfD)",
+        "Dr. Rainer Kraft (AfD)"
+      ],
+      "correctAnswer": "Stephan Brandner (AfD)",
+      "explanation": "Stephan Brandner (AfD) mit 39 Fragen!"
+    }
+  ]
+}
