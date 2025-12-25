@@ -30,7 +30,7 @@ export function GenderAnalysisSection() {
           className="grid md:grid-cols-3 gap-6 mb-12"
         >
           <div className="bg-white border border-stone-200 rounded-lg p-6 text-center">
-            <div className="text-3xl font-mono text-blue-600 mb-2">410</div>
+            <div className="text-3xl font-mono text-blue-600 mb-2">409</div>
             <div className="text-sm text-stone-600">Männliche Redner:innen</div>
             <div className="text-xs text-stone-400 mt-1">67,3%</div>
           </div>
@@ -40,7 +40,7 @@ export function GenderAnalysisSection() {
             <div className="text-xs text-stone-400 mt-1">32,7%</div>
           </div>
           <div className="bg-white border border-stone-200 rounded-lg p-6 text-center">
-            <div className="text-3xl font-mono text-stone-900 mb-2">609</div>
+            <div className="text-3xl font-mono text-stone-900 mb-2">608</div>
             <div className="text-sm text-stone-600">Redner:innen gesamt</div>
             <div className="text-xs text-stone-400 mt-1">100% erkannt</div>
           </div>
@@ -109,18 +109,18 @@ export function GenderAnalysisSection() {
                     <div className="w-3 h-3 rounded-full bg-blue-500" />
                     <span className="text-sm text-stone-700">Männer</span>
                   </div>
-                  <span className="font-mono text-stone-900">6.478</span>
+                  <span className="font-mono text-stone-900">6.551</span>
                 </div>
                 <div className="flex items-center justify-between">
                   <div className="flex items-center gap-2">
                     <div className="w-3 h-3 rounded-full bg-pink-500" />
                     <span className="text-sm text-stone-700">Frauen</span>
                   </div>
-                  <span className="font-mono text-stone-900">1.379</span>
+                  <span className="font-mono text-stone-900">1.440</span>
                 </div>
                 <div className="pt-2 border-t border-stone-200">
                   <div className="text-xs text-stone-500">
-                    Männeranteil: <span className="font-mono">82,4%</span>
+                    Männeranteil: <span className="font-mono">82,0%</span>
                   </div>
                 </div>
               </div>
@@ -136,14 +136,14 @@ export function GenderAnalysisSection() {
                     <div className="w-3 h-3 rounded-full bg-blue-500" />
                     <span className="text-sm text-stone-700">Männer</span>
                   </div>
-                  <span className="font-mono text-stone-900">5.172</span>
+                  <span className="font-mono text-stone-900">5.280</span>
                 </div>
                 <div className="flex items-center justify-between">
                   <div className="flex items-center gap-2">
                     <div className="w-3 h-3 rounded-full bg-pink-500" />
                     <span className="text-sm text-stone-700">Frauen</span>
                   </div>
-                  <span className="font-mono text-stone-900">2.669</span>
+                  <span className="font-mono text-stone-900">2.724</span>
                 </div>
                 <div className="pt-2 border-t border-stone-200">
                   <div className="text-xs text-stone-500">
@@ -158,10 +158,10 @@ export function GenderAnalysisSection() {
           <div className="bg-amber-50 border border-amber-200 rounded-lg p-5">
             <h5 className="font-medium text-amber-900 mb-2">Zentrale Erkenntnis</h5>
             <p className="text-sm text-amber-800">
-              Frauen stellen <strong>32,7%</strong> der Redner:innen, machen aber nur <strong>17,6%</strong> der
+              Frauen stellen <strong>32,7%</strong> der Redner:innen, machen aber nur <strong>18,0%</strong> der
               Zwischenrufe. Gleichzeitig erhalten sie <strong>34,0%</strong> aller Zwischenrufe –
               überproportional zu ihrem Anteil. Männer unterbrechen häufiger als sie selbst
-              unterbrochen werden (Ratio 1,25).
+              unterbrochen werden (Ratio 1,24).
             </p>
           </div>
         </motion.div>

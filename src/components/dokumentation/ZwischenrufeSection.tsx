@@ -50,7 +50,7 @@ export function ZwischenrufeSection() {
           className="grid grid-cols-2 md:grid-cols-5 gap-3 mb-12"
         >
           <div className="bg-white border border-stone-200 rounded-lg p-4 text-center">
-            <div className="text-xl font-mono text-stone-900 mb-1">7.552</div>
+            <div className="text-xl font-mono text-stone-900 mb-1">8.004</div>
             <div className="text-xs text-stone-500">Zwischenrufe</div>
           </div>
           <div className="bg-white border border-stone-200 rounded-lg p-4 text-center">
@@ -62,11 +62,11 @@ export function ZwischenrufeSection() {
             <div className="text-xs text-emerald-700">Zustimmung</div>
           </div>
           <div className="bg-red-50 border border-red-200 rounded-lg p-4 text-center">
-            <div className="text-xl font-mono text-red-600 mb-1">11,6%</div>
+            <div className="text-xl font-mono text-red-600 mb-1">11,1%</div>
             <div className="text-xs text-red-700">Kritik</div>
           </div>
           <div className="bg-stone-50 border border-stone-200 rounded-lg p-4 text-center col-span-2 md:col-span-1">
-            <div className="text-xl font-mono text-stone-600 mb-1">70,5%</div>
+            <div className="text-xl font-mono text-stone-600 mb-1">71,0%</div>
             <div className="text-xs text-stone-500">Neutral</div>
           </div>
         </motion.div>
@@ -256,7 +256,7 @@ export function ZwischenrufeSection() {
             </div>
             <div className="bg-red-50 border border-red-200 rounded-lg p-4">
               <div className="text-xs font-mono text-red-600 uppercase tracking-wider mb-3">
-                Kritik (11,6%)
+                Kritik (11,1%)
               </div>
               <div className="flex flex-wrap gap-1.5">
                 {sentimentKeywordsNegative.map(word => (
@@ -271,7 +271,7 @@ export function ZwischenrufeSection() {
 
           <div className="bg-stone-50 border border-stone-200 rounded-lg p-4 mb-6">
             <div className="text-xs font-mono text-stone-500 uppercase tracking-wider mb-2">
-              Neutral (70,5%)
+              Neutral (71,0%)
             </div>
             <p className="text-sm text-stone-600">
               Fragen ("Was?", "Wie bitte?"), Kommentare, thematische Einwürfe ("Infrastruktur!")

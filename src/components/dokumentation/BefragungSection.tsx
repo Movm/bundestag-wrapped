@@ -155,7 +155,7 @@ export function BefragungSection() {
               <ol className="text-sm text-stone-700 space-y-1">
                 <li>1. Friedrich Merz (CDU/CSU) – 86</li>
                 <li>2. Lars Klingbeil (SPD) – 79</li>
-                <li>3. Stefan Rouenhoff (CDU/CSU) – 63</li>
+                <li>3. Frank Schwabe (SPD) – 62</li>
               </ol>
             </div>
           </div>
