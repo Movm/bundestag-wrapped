@@ -1,0 +1,298 @@
+{
+  "name": "Linda Heitmann",
+  "party": "GRÜNE",
+  "slug": "linda-heitmann",
+  "academicTitle": null,
+  "speeches": 5,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 2047,
+  "avgWords": 341,
+  "minWords": 85,
+  "maxWords": 516,
+  "rankings": {
+    "speechRank": 403,
+    "wordsRank": 459,
+    "partySpeechRank": 64,
+    "partyWordsRank": 72,
+    "partySize": 85,
+    "totalSpeakers": 609,
+    "percentile": 33.8,
+    "verbosityRank": 429,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 60,
+    "longestSpeechRank": 516
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 10,
+    "interrupterRank": null,
+    "interruptedRank": 287
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "ausschuss",
+        "count": 6
+      },
+      {
+        "word": "fast",
+        "count": 5
+      },
+      {
+        "word": "menschen",
+        "count": 5
+      },
+      {
+        "word": "beiträge",
+        "count": 5
+      },
+      {
+        "word": "steuerzuschuss",
+        "count": 5
+      },
+      {
+        "word": "maßnahmen",
+        "count": 5
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "steuerzuschuss",
+        "count": 5,
+        "ratioParty": 886.5,
+        "ratioBundestag": 2060.2
+      },
+      {
+        "word": "beiträge",
+        "count": 5,
+        "ratioParty": 42.2,
+        "ratioBundestag": 36.1
+      },
+      {
+        "word": "ausschuss",
+        "count": 6,
+        "ratioParty": 33.2,
+        "ratioBundestag": 33.9
+      },
+      {
+        "word": "maßnahmen",
+        "count": 5,
+        "ratioParty": 7.1,
+        "ratioBundestag": 5.9
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 341,
+    "partyAvgWords": 567,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.6,
+    "vsParliament": 0.56
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "5"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "2.047"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Linda Heitmann häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Steuerzuschuss",
+        "isCorrect": true
+      },
+      {
+        "text": "Debatte",
+        "isCorrect": false
+      },
+      {
+        "text": "Gesetzentwurf",
+        "isCorrect": false
+      },
+      {
+        "text": "Rente",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Steuerzuschuss\" nutzt Linda Heitmann 886.5× häufiger als der GRÜNE-Durchschnitt.",
+    "explanationBundestag": "2060.2× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🦫",
+    "name": "Biber",
+    "title": "Konstruktive Brückenbauerin",
+    "reason": "Du baust Brücken zwischen Positionen – kooperativ und lösungsorientiert.",
+    "id": "biber",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüterin",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.807
+      },
+      {
+        "emoji": "🦉",
+        "name": "Eule",
+        "title": "Themenexpertin",
+        "reason": "Dein Fachwort \"Steuerzuschuss\" nutzt du 886.5× häufiger als deine Fraktion.",
+        "id": "eule",
+        "score": 0.8
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 75.0,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 88.9,
+      "collaboration": 75.0,
+      "demand_intensity": 13.3,
+      "acknowledgment": 0.0,
+      "authority": 77.8,
+      "future_orientation": 65.2,
+      "emotional_intensity": 0.0,
+      "inclusivity": 40.5,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 6,
+      "words": 1348,
+      "adjectives": 4,
+      "verbs": 15
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.0,
+      "wirtschaft": 0.0,
+      "soziales": 1.48,
+      "sicherheit": 0.0,
+      "gesundheit": 4.45,
+      "europa": 0.0,
+      "digital": 0.0,
+      "bildung": 0.0,
+      "finanzen": 3.71,
+      "justiz": 3.71,
+      "arbeit": 2.23,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "gesundheit",
+        "score": 4.45,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 3.71,
+        "rank": 2
+      },
+      {
+        "topic": "justiz",
+        "score": 3.71,
+        "rank": 3
+      },
+      {
+        "topic": "arbeit",
+        "score": 2.23,
+        "rank": 4
+      },
+      {
+        "topic": "soziales",
+        "score": 1.48,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 2
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "behandlung",
+          "count": 2
+        },
+        {
+          "word": "pandemie",
+          "count": 1
+        },
+        {
+          "word": "impfquote",
+          "count": 1
+        },
+        {
+          "word": "gesundheitspolitik",
+          "count": 1
+        },
+        {
+          "word": "krankenversicherung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "kosten",
+          "count": 1
+        },
+        {
+          "word": "finanzminister",
+          "count": 1
+        },
+        {
+          "word": "haushaltsentwurf",
+          "count": 1
+        },
+        {
+          "word": "finanzierung",
+          "count": 1
+        },
+        {
+          "word": "haushalt",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "bundesverfassungsgericht",
+          "count": 2
+        },
+        {
+          "word": "klage",
+          "count": 2
+        },
+        {
+          "word": "verfassungswidrig",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitnehmer",
+          "count": 2
+        },
+        {
+          "word": "einkommen",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

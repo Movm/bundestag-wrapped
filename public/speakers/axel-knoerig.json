@@ -1,0 +1,346 @@
+{
+  "name": "Axel Knoerig",
+  "party": "CDU/CSU",
+  "slug": "axel-knoerig",
+  "academicTitle": null,
+  "speeches": 3,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 2136,
+  "avgWords": 712,
+  "minWords": 575,
+  "maxWords": 841,
+  "rankings": {
+    "speechRank": 499,
+    "wordsRank": 447,
+    "partySpeechRank": 158,
+    "partyWordsRank": 142,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 18.1,
+    "verbosityRank": 26,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 8,
+    "longestSpeechRank": 147
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 3,
+    "interrupterRank": null,
+    "interruptedRank": 469
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "wohnungen",
+        "count": 12
+      },
+      {
+        "word": "jahr",
+        "count": 11
+      },
+      {
+        "word": "bauen",
+        "count": 10
+      },
+      {
+        "word": "menschen",
+        "count": 9
+      },
+      {
+        "word": "haushalt",
+        "count": 8
+      },
+      {
+        "word": "neue",
+        "count": 8
+      },
+      {
+        "word": "kommunen",
+        "count": 7
+      },
+      {
+        "word": "familien",
+        "count": 7
+      },
+      {
+        "word": "deutschland",
+        "count": 7
+      },
+      {
+        "word": "städtebauförderung",
+        "count": 7
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "bauhaushalt",
+        "count": 6,
+        "ratioParty": 2352.7,
+        "ratioBundestag": 7356.5
+      },
+      {
+        "word": "städtebauförderung",
+        "count": 7,
+        "ratioParty": 137.2,
+        "ratioBundestag": 161.9
+      },
+      {
+        "word": "nächstes",
+        "count": 5,
+        "ratioParty": 103.2,
+        "ratioBundestag": 77.6
+      },
+      {
+        "word": "wohnungen",
+        "count": 12,
+        "ratioParty": 74.7,
+        "ratioBundestag": 43.0
+      },
+      {
+        "word": "wohnung",
+        "count": 5,
+        "ratioParty": 59.4,
+        "ratioBundestag": 29.3
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 712,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 1.03,
+    "vsParliament": 1.16
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "3"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "2.136"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Axel Knoerig häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Gesetzentwurf",
+        "isCorrect": false
+      },
+      {
+        "text": "Politik",
+        "isCorrect": false
+      },
+      {
+        "text": "Kinder",
+        "isCorrect": false
+      },
+      {
+        "text": "Bauhaushalt",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Bauhaushalt\" nutzt Axel Knoerig 2352.7× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "7356.5× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🦫",
+    "name": "Biber",
+    "title": "Konstruktiver Brückenbauer",
+    "reason": "Du baust Brücken zwischen Positionen – kooperativ und lösungsorientiert.",
+    "id": "biber",
+    "alternatives": [
+      {
+        "emoji": "🦦",
+        "name": "Otter",
+        "title": "Positiver Teamplayer",
+        "reason": "Du bringst gute Stimmung und konstruktive Beiträge ins Plenum.",
+        "id": "otter",
+        "score": 0.867
+      },
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Cleverer Stratege",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 0.84
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 66.7,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 100.0,
+      "collaboration": 100.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 8.3,
+      "authority": 73.5,
+      "future_orientation": 100.0,
+      "emotional_intensity": 100.0,
+      "inclusivity": 54.8,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 3,
+      "words": 1359,
+      "adjectives": 6,
+      "verbs": 12
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 2.21,
+      "wirtschaft": 4.42,
+      "soziales": 22.81,
+      "sicherheit": 0.0,
+      "gesundheit": 0.0,
+      "europa": 0.0,
+      "digital": 0.0,
+      "bildung": 4.42,
+      "finanzen": 15.45,
+      "justiz": 0.0,
+      "arbeit": 1.47,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "soziales",
+        "score": 22.81,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 15.45,
+        "rank": 2
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 4.42,
+        "rank": 3
+      },
+      {
+        "topic": "bildung",
+        "score": 4.42,
+        "rank": 4
+      },
+      {
+        "topic": "klima",
+        "score": 2.21,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "biomasse",
+          "count": 3
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 3
+        },
+        {
+          "word": "markt",
+          "count": 1
+        },
+        {
+          "word": "standort",
+          "count": 1
+        },
+        {
+          "word": "wachstum",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "wohnungen",
+          "count": 12
+        },
+        {
+          "word": "familien",
+          "count": 7
+        },
+        {
+          "word": "wohnung",
+          "count": 5
+        },
+        {
+          "word": "altersvorsorge",
+          "count": 1
+        },
+        {
+          "word": "mietpreisbremse",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "studenten",
+          "count": 2
+        },
+        {
+          "word": "schulen",
+          "count": 1
+        },
+        {
+          "word": "student",
+          "count": 1
+        },
+        {
+          "word": "auszubildende",
+          "count": 1
+        },
+        {
+          "word": "forschung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 8
+        },
+        {
+          "word": "investitionen",
+          "count": 2
+        },
+        {
+          "word": "investition",
+          "count": 2
+        },
+        {
+          "word": "zinsen",
+          "count": 2
+        },
+        {
+          "word": "kosten",
+          "count": 2
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "löhne",
+          "count": 1
+        },
+        {
+          "word": "arbeitskräfte",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

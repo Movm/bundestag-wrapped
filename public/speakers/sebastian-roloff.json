@@ -1,0 +1,416 @@
+{
+  "name": "Sebastian Roloff",
+  "party": "SPD",
+  "slug": "sebastian-roloff",
+  "academicTitle": null,
+  "speeches": 12,
+  "wortbeitraege": 2,
+  "befragungResponses": 0,
+  "totalWords": 6589,
+  "avgWords": 471,
+  "minWords": 109,
+  "maxWords": 931,
+  "rankings": {
+    "speechRank": 75,
+    "wordsRank": 102,
+    "partySpeechRank": 20,
+    "partyWordsRank": 25,
+    "partySize": 109,
+    "totalSpeakers": 609,
+    "percentile": 87.7,
+    "verbosityRank": 208,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 45,
+    "longestSpeechRank": 92
+  },
+  "drama": {
+    "interruptionsGiven": 4,
+    "interruptionsReceived": 16,
+    "interrupterRank": 225,
+    "interruptedRank": 168
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "deutschland",
+        "count": 27
+      },
+      {
+        "word": "unternehmen",
+        "count": 24
+      },
+      {
+        "word": "beispiel",
+        "count": 22
+      },
+      {
+        "word": "schnell",
+        "count": 14
+      },
+      {
+        "word": "china",
+        "count": 13
+      },
+      {
+        "word": "industrie",
+        "count": 12
+      },
+      {
+        "word": "wirtschaft",
+        "count": 11
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "rohstoffe",
+        "count": 10,
+        "ratioParty": 71.5,
+        "ratioBundestag": 63.9
+      },
+      {
+        "word": "zollpolitik",
+        "count": 5,
+        "ratioParty": 65.5,
+        "ratioBundestag": 165.0
+      },
+      {
+        "word": "industriestrompreis",
+        "count": 8,
+        "ratioParty": 48.4,
+        "ratioBundestag": 35.6
+      },
+      {
+        "word": "autos",
+        "count": 5,
+        "ratioParty": 43.7,
+        "ratioBundestag": 21.5
+      },
+      {
+        "word": "brüssel",
+        "count": 5,
+        "ratioParty": 18.7,
+        "ratioBundestag": 8.8
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 471,
+    "partyAvgWords": 637,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.74,
+    "vsParliament": 0.77
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "12"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "6.589"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Sebastian Roloff häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Energie",
+        "isCorrect": false
+      },
+      {
+        "text": "Haushalt",
+        "isCorrect": false
+      },
+      {
+        "text": "Rohstoffe",
+        "isCorrect": true
+      },
+      {
+        "text": "Freiheit",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Rohstoffe\" nutzt Sebastian Roloff 71.5× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "63.9× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🐿️",
+    "name": "Eichhörnchen",
+    "title": "Themenhüter",
+    "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+    "id": "eichhoernchen",
+    "alternatives": [
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißiger Abgeordneter",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      },
+      {
+        "emoji": "🦫",
+        "name": "Biber",
+        "title": "Konstruktiver Brückenbauer",
+        "reason": "Du baust Brücken zwischen Positionen – kooperativ und lösungsorientiert.",
+        "id": "biber",
+        "score": 0.902
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 66.7,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 94.1,
+      "collaboration": 100.0,
+      "demand_intensity": 4.3,
+      "acknowledgment": 4.3,
+      "authority": 84.7,
+      "future_orientation": 83.8,
+      "emotional_intensity": 40.9,
+      "inclusivity": 42.5,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 14,
+      "words": 4201,
+      "adjectives": 12,
+      "verbs": 46
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 2.38,
+      "wirtschaft": 20.71,
+      "soziales": 0.0,
+      "sicherheit": 0.0,
+      "gesundheit": 0.48,
+      "europa": 5.95,
+      "digital": 0.95,
+      "bildung": 1.43,
+      "finanzen": 5.24,
+      "justiz": 0.0,
+      "arbeit": 3.57,
+      "mobilitaet": 4.76
+    },
+    "topTopics": [
+      {
+        "topic": "wirtschaft",
+        "score": 20.71,
+        "rank": 1
+      },
+      {
+        "topic": "europa",
+        "score": 5.95,
+        "rank": 2
+      },
+      {
+        "topic": "finanzen",
+        "score": 5.24,
+        "rank": 3
+      },
+      {
+        "topic": "mobilitaet",
+        "score": 4.76,
+        "rank": 4
+      },
+      {
+        "topic": "arbeit",
+        "score": 3.57,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "energie",
+          "count": 3
+        },
+        {
+          "word": "klimaschutz",
+          "count": 2
+        },
+        {
+          "word": "erneuerbare",
+          "count": 1
+        },
+        {
+          "word": "recycling",
+          "count": 1
+        },
+        {
+          "word": "klimaneutralität",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 24
+        },
+        {
+          "word": "industrie",
+          "count": 12
+        },
+        {
+          "word": "markt",
+          "count": 6
+        },
+        {
+          "word": "handwerk",
+          "count": 5
+        },
+        {
+          "word": "mittelstand",
+          "count": 5
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "pharmaindustrie",
+          "count": 1
+        },
+        {
+          "word": "pandemie",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "china",
+          "count": 13
+        },
+        {
+          "word": "brüssel",
+          "count": 5
+        },
+        {
+          "word": "europa",
+          "count": 5
+        },
+        {
+          "word": "moskau",
+          "count": 1
+        },
+        {
+          "word": "angriffskrieg",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "hardware",
+          "count": 1
+        },
+        {
+          "word": "digital",
+          "count": 1
+        },
+        {
+          "word": "digitalisierung",
+          "count": 1
+        },
+        {
+          "word": "daten",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "professor",
+          "count": 1
+        },
+        {
+          "word": "wissenschaft",
+          "count": 1
+        },
+        {
+          "word": "forschungsförderung",
+          "count": 1
+        },
+        {
+          "word": "hochschulen",
+          "count": 1
+        },
+        {
+          "word": "forschung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "sondervermögen",
+          "count": 4
+        },
+        {
+          "word": "investitionen",
+          "count": 4
+        },
+        {
+          "word": "haushalt",
+          "count": 3
+        },
+        {
+          "word": "zuschuss",
+          "count": 2
+        },
+        {
+          "word": "entlastung",
+          "count": 2
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitsplätze",
+          "count": 6
+        },
+        {
+          "word": "einkommen",
+          "count": 4
+        },
+        {
+          "word": "beschäftigung",
+          "count": 2
+        },
+        {
+          "word": "beschäftigte",
+          "count": 1
+        },
+        {
+          "word": "arbeitslose",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "autos",
+          "count": 5
+        },
+        {
+          "word": "infrastruktur",
+          "count": 3
+        },
+        {
+          "word": "elektromobilität",
+          "count": 3
+        },
+        {
+          "word": "fliegen",
+          "count": 2
+        },
+        {
+          "word": "fahrzeuge",
+          "count": 2
+        }
+      ]
+    }
+  }
+}

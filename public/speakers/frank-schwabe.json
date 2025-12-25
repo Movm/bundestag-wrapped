@@ -1,0 +1,429 @@
+{
+  "name": "Frank Schwabe",
+  "party": "SPD",
+  "slug": "frank-schwabe",
+  "academicTitle": null,
+  "speeches": 1,
+  "wortbeitraege": 62,
+  "befragungResponses": 62,
+  "totalWords": 7738,
+  "avgWords": 123,
+  "minWords": 30,
+  "maxWords": 400,
+  "rankings": {
+    "speechRank": 585,
+    "wordsRank": 75,
+    "partySpeechRank": 102,
+    "partyWordsRank": 17,
+    "partySize": 109,
+    "totalSpeakers": 609,
+    "percentile": 3.9,
+    "verbosityRank": null,
+    "verbosityTotal": null,
+    "partyVerbosityRank": null,
+    "longestSpeechRank": 578
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 7,
+    "interrupterRank": null,
+    "interruptedRank": 361
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "abgeordneter",
+        "count": 34
+      },
+      {
+        "word": "abgeordnete",
+        "count": 27
+      },
+      {
+        "word": "justiz",
+        "count": 26
+      },
+      {
+        "word": "gewalt",
+        "count": 25
+      },
+      {
+        "word": "rechtsstaat",
+        "count": 20
+      },
+      {
+        "word": "habe",
+        "count": 17
+      },
+      {
+        "word": "schutz",
+        "count": 17
+      },
+      {
+        "word": "bundesregierung",
+        "count": 15
+      },
+      {
+        "word": "beispiel",
+        "count": 15
+      },
+      {
+        "word": "debatte",
+        "count": 14
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "strafgesetzbuch",
+        "count": 9,
+        "ratioParty": 200.1,
+        "ratioBundestag": 137.6
+      },
+      {
+        "word": "richter",
+        "count": 12,
+        "ratioParty": 61.6,
+        "ratioBundestag": 37.7
+      },
+      {
+        "word": "kampagne",
+        "count": 5,
+        "ratioParty": 55.6,
+        "ratioBundestag": 54.2
+      },
+      {
+        "word": "nummer",
+        "count": 6,
+        "ratioParty": 50.0,
+        "ratioBundestag": 36.0
+      },
+      {
+        "word": "absatz",
+        "count": 11,
+        "ratioParty": 45.8,
+        "ratioBundestag": 25.3
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "demokratisch",
+        "count": 4,
+        "ratioParty": 14.8,
+        "ratioBundestag": 17.2
+      },
+      {
+        "word": "geschützt",
+        "count": 5,
+        "ratioParty": 9.3,
+        "ratioBundestag": 12.4
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 123,
+    "partyAvgWords": 637,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.19,
+    "vsParliament": 0.2
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "1"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "7.738"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Frank Schwabe häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Strafgesetzbuch",
+        "isCorrect": true
+      },
+      {
+        "text": "Zukunft",
+        "isCorrect": false
+      },
+      {
+        "text": "Ausschuss",
+        "isCorrect": false
+      },
+      {
+        "text": "Klima",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Strafgesetzbuch\" nutzt Frank Schwabe 200.1× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "137.6× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Frank Schwabe häufiger als der Rest der SPD-Fraktion?",
+    "options": [
+      {
+        "text": "Groß",
+        "isCorrect": false
+      },
+      {
+        "text": "Europäisch",
+        "isCorrect": false
+      },
+      {
+        "text": "Demokratisch",
+        "isCorrect": true
+      },
+      {
+        "text": "Sicher",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Demokratisch\" nutzt Frank Schwabe 14.8× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "17.2× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🦊",
+    "name": "Fuchs",
+    "title": "Cleverer Stratege",
+    "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+    "id": "fuchs",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüter",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 1.0
+      },
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißiger Abgeordneter",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 90.9,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 86.0,
+      "collaboration": 88.9,
+      "demand_intensity": 1.9,
+      "acknowledgment": 1.9,
+      "authority": 76.3,
+      "future_orientation": 87.6,
+      "emotional_intensity": 18.2,
+      "inclusivity": 38.6,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 63,
+      "words": 4944,
+      "adjectives": 22,
+      "verbs": 54
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.61,
+      "klima": 1.42,
+      "wirtschaft": 1.82,
+      "soziales": 1.01,
+      "sicherheit": 7.08,
+      "gesundheit": 0.0,
+      "europa": 0.2,
+      "digital": 1.82,
+      "bildung": 0.4,
+      "finanzen": 0.81,
+      "justiz": 13.96,
+      "arbeit": 0.0,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "justiz",
+        "score": 13.96,
+        "rank": 1
+      },
+      {
+        "topic": "sicherheit",
+        "score": 7.08,
+        "rank": 2
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 1.82,
+        "rank": 3
+      },
+      {
+        "topic": "digital",
+        "score": 1.82,
+        "rank": 4
+      },
+      {
+        "topic": "klima",
+        "score": 1.42,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "zuwanderung",
+          "count": 1
+        },
+        {
+          "word": "migration",
+          "count": 1
+        },
+        {
+          "word": "asylverfahren",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "klimaneutralität",
+          "count": 3
+        },
+        {
+          "word": "nachhaltig",
+          "count": 2
+        },
+        {
+          "word": "klimaneutral",
+          "count": 2
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 5
+        },
+        {
+          "word": "wettbewerb",
+          "count": 3
+        },
+        {
+          "word": "qualifikation",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 2
+        },
+        {
+          "word": "eltern",
+          "count": 2
+        },
+        {
+          "word": "mietpreisbremse",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "gewalt",
+          "count": 25
+        },
+        {
+          "word": "täter",
+          "count": 4
+        },
+        {
+          "word": "polizisten",
+          "count": 3
+        },
+        {
+          "word": "raub",
+          "count": 2
+        },
+        {
+          "word": "polizei",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "frieden",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 6
+        },
+        {
+          "word": "internet",
+          "count": 2
+        },
+        {
+          "word": "digital",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "professor",
+          "count": 1
+        },
+        {
+          "word": "universität",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushaltsausschuss",
+          "count": 1
+        },
+        {
+          "word": "etat",
+          "count": 1
+        },
+        {
+          "word": "haushalt",
+          "count": 1
+        },
+        {
+          "word": "bundeshaushalt",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "rechtsstaat",
+          "count": 20
+        },
+        {
+          "word": "richter",
+          "count": 12
+        },
+        {
+          "word": "verbraucherschutz",
+          "count": 7
+        },
+        {
+          "word": "gericht",
+          "count": 6
+        },
+        {
+          "word": "gerichte",
+          "count": 5
+        }
+      ]
+    }
+  }
+}

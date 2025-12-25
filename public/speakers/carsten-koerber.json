@@ -1,0 +1,395 @@
+{
+  "name": "Carsten Körber",
+  "party": "CDU/CSU",
+  "slug": "carsten-koerber",
+  "academicTitle": null,
+  "speeches": 5,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 3238,
+  "avgWords": 648,
+  "minWords": 591,
+  "maxWords": 718,
+  "rankings": {
+    "speechRank": 387,
+    "wordsRank": 338,
+    "partySpeechRank": 112,
+    "partyWordsRank": 101,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 36.5,
+    "verbosityRank": 43,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 14,
+    "longestSpeechRank": 280
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 9,
+    "interrupterRank": null,
+    "interruptedRank": 304
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "haushalt",
+        "count": 23
+      },
+      {
+        "word": "raumfahrt",
+        "count": 19
+      },
+      {
+        "word": "deutschland",
+        "count": 15
+      },
+      {
+        "word": "forschung",
+        "count": 13
+      },
+      {
+        "word": "neue",
+        "count": 13
+      },
+      {
+        "word": "investieren",
+        "count": 11
+      },
+      {
+        "word": "technologie",
+        "count": 10
+      },
+      {
+        "word": "nächsten",
+        "count": 10
+      },
+      {
+        "word": "jahr",
+        "count": 10
+      },
+      {
+        "word": "zukunft",
+        "count": 10
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "raumfahrt",
+        "count": 19,
+        "ratioParty": 92.6,
+        "ratioBundestag": 123.6
+      },
+      {
+        "word": "haushälter",
+        "count": 6,
+        "ratioParty": 33.8,
+        "ratioBundestag": 52.9
+      },
+      {
+        "word": "technologie",
+        "count": 10,
+        "ratioParty": 32.5,
+        "ratioBundestag": 42.9
+      },
+      {
+        "word": "schulden",
+        "count": 7,
+        "ratioParty": 25.4,
+        "ratioBundestag": 12.7
+      },
+      {
+        "word": "forschung",
+        "count": 13,
+        "ratioParty": 17.1,
+        "ratioBundestag": 18.8
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "entscheidend",
+        "count": 3,
+        "ratioParty": 5.4,
+        "ratioBundestag": 8.8
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 648,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.94,
+    "vsParliament": 1.06
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "5"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "3.238"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Carsten Körber häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Raumfahrt",
+        "isCorrect": true
+      },
+      {
+        "text": "Kanzler",
+        "isCorrect": false
+      },
+      {
+        "text": "Gesetzentwurf",
+        "isCorrect": false
+      },
+      {
+        "text": "Politik",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Raumfahrt\" nutzt Carsten Körber 92.6× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "123.6× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Carsten Körber häufiger als der Rest der CDU/CSU-Fraktion?",
+    "options": [
+      {
+        "text": "Groß",
+        "isCorrect": false
+      },
+      {
+        "text": "Entscheidend",
+        "isCorrect": true
+      },
+      {
+        "text": "Schlecht",
+        "isCorrect": false
+      },
+      {
+        "text": "Sicher",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Entscheidend\" nutzt Carsten Körber 5.4× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "8.8× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🦫",
+    "name": "Biber",
+    "title": "Konstruktiver Brückenbauer",
+    "reason": "Du baust Brücken zwischen Positionen – kooperativ und lösungsorientiert.",
+    "id": "biber",
+    "alternatives": [
+      {
+        "emoji": "🦦",
+        "name": "Otter",
+        "title": "Positiver Teamplayer",
+        "reason": "Du bringst gute Stimmung und konstruktive Beiträge ins Plenum.",
+        "id": "otter",
+        "score": 0.968
+      },
+      {
+        "emoji": "🐬",
+        "name": "Delfin",
+        "title": "Diplomatischer Redner",
+        "reason": "Aktiv im Parlament, aber respektvoll ohne viele Zwischenrufe.",
+        "id": "delfin",
+        "score": 0.875
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 100.0,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 89.5,
+      "collaboration": 100.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 0.0,
+      "authority": 76.7,
+      "future_orientation": 96.7,
+      "emotional_intensity": 33.3,
+      "inclusivity": 67.3,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 5,
+      "words": 2099,
+      "adjectives": 8,
+      "verbs": 24
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 1.91,
+      "wirtschaft": 2.86,
+      "soziales": 0.48,
+      "sicherheit": 0.0,
+      "gesundheit": 1.43,
+      "europa": 0.48,
+      "digital": 5.72,
+      "bildung": 7.62,
+      "finanzen": 26.68,
+      "justiz": 0.48,
+      "arbeit": 0.0,
+      "mobilitaet": 1.91
+    },
+    "topTopics": [
+      {
+        "topic": "finanzen",
+        "score": 26.68,
+        "rank": 1
+      },
+      {
+        "topic": "bildung",
+        "score": 7.62,
+        "rank": 2
+      },
+      {
+        "topic": "digital",
+        "score": 5.72,
+        "rank": 3
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 2.86,
+        "rank": 4
+      },
+      {
+        "topic": "klima",
+        "score": 1.91,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "energie",
+          "count": 2
+        },
+        {
+          "word": "klimaschutz",
+          "count": 1
+        },
+        {
+          "word": "klimaneutralität",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "wettbewerbsfähigkeit",
+          "count": 3
+        },
+        {
+          "word": "wachstum",
+          "count": 2
+        },
+        {
+          "word": "fachkräfte",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "sozialstaat",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "medizin",
+          "count": 2
+        },
+        {
+          "word": "covid",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "technologie",
+          "count": 10
+        },
+        {
+          "word": "digitalisierung",
+          "count": 1
+        },
+        {
+          "word": "daten",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "forschung",
+          "count": 13
+        },
+        {
+          "word": "wissenschaftler",
+          "count": 1
+        },
+        {
+          "word": "schule",
+          "count": 1
+        },
+        {
+          "word": "bildung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 23
+        },
+        {
+          "word": "sondervermögen",
+          "count": 8
+        },
+        {
+          "word": "investitionen",
+          "count": 7
+        },
+        {
+          "word": "schulden",
+          "count": 7
+        },
+        {
+          "word": "etat",
+          "count": 2
+        }
+      ],
+      "justiz": [
+        {
+          "word": "beschluss",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 3
+        },
+        {
+          "word": "verkehr",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

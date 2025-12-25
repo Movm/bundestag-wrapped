@@ -1,0 +1,540 @@
+{
+  "name": "Tino Chrupalla",
+  "party": "AfD",
+  "slug": "tino-chrupalla",
+  "academicTitle": null,
+  "speeches": 9,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 13087,
+  "avgWords": 1309,
+  "minWords": 40,
+  "maxWords": 2095,
+  "rankings": {
+    "speechRank": 154,
+    "wordsRank": 10,
+    "partySpeechRank": 34,
+    "partyWordsRank": 3,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 74.7,
+    "verbosityRank": 3,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 1,
+    "longestSpeechRank": 9
+  },
+  "drama": {
+    "interruptionsGiven": 133,
+    "interruptionsReceived": 22,
+    "interrupterRank": 11,
+    "interruptedRank": 111
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "deutschland",
+        "count": 70
+      },
+      {
+        "word": "deutschen",
+        "count": 37
+      },
+      {
+        "word": "merz",
+        "count": 36
+      },
+      {
+        "word": "land",
+        "count": 33
+      },
+      {
+        "word": "bundeskanzler",
+        "count": 31
+      },
+      {
+        "word": "bürger",
+        "count": 28
+      },
+      {
+        "word": "endlich",
+        "count": 27
+      },
+      {
+        "word": "lassen",
+        "count": 25
+      },
+      {
+        "word": "deutsche",
+        "count": 25
+      },
+      {
+        "word": "politik",
+        "count": 24
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "haßelmann",
+        "count": 6,
+        "ratioParty": 85.6,
+        "ratioBundestag": 50.2
+      },
+      {
+        "word": "verhandlungen",
+        "count": 6,
+        "ratioParty": 15.1,
+        "ratioBundestag": 5.1
+      },
+      {
+        "word": "glaubwürdigkeit",
+        "count": 7,
+        "ratioParty": 14.3,
+        "ratioBundestag": 14.5
+      },
+      {
+        "word": "stahl",
+        "count": 6,
+        "ratioParty": 13.5,
+        "ratioBundestag": 10.7
+      },
+      {
+        "word": "bundeskanzler",
+        "count": 31,
+        "ratioParty": 12.4,
+        "ratioBundestag": 10.5
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "maßgeblich",
+        "count": 3,
+        "ratioParty": 11.7,
+        "ratioBundestag": 7.0
+      },
+      {
+        "word": "sicher",
+        "count": 8,
+        "ratioParty": 2.9,
+        "ratioBundestag": 2.1
+      },
+      {
+        "word": "wirtschaftlich",
+        "count": 3,
+        "ratioParty": 2.7,
+        "ratioBundestag": 2.5
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 1309,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 2.23,
+    "vsParliament": 2.14
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "9"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "13.087"
+    },
+    {
+      "emoji": "📚",
+      "label": "Wortreichster",
+      "value": "#3 von 521"
+    },
+    {
+      "emoji": "📏",
+      "label": "Längste Rede",
+      "value": "#9 (2.095 Wörter)"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufer",
+      "value": "#11 (133x)"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Tino Chrupalla häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Investitionen",
+        "isCorrect": false
+      },
+      {
+        "text": "Debatte",
+        "isCorrect": false
+      },
+      {
+        "text": "Abstimmung",
+        "isCorrect": false
+      },
+      {
+        "text": "Haßelmann",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Haßelmann\" nutzt Tino Chrupalla 85.6× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "50.2× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Tino Chrupalla häufiger als der Rest der AfD-Fraktion?",
+    "options": [
+      {
+        "text": "Maßgeblich",
+        "isCorrect": true
+      },
+      {
+        "text": "Europäisch",
+        "isCorrect": false
+      },
+      {
+        "text": "Stark",
+        "isCorrect": false
+      },
+      {
+        "text": "Wichtig",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Maßgeblich\" nutzt Tino Chrupalla 11.7× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "7.0× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 68.6,
+      "aggression": 14.0,
+      "labeling": 4.7,
+      "solution_focus": 76.6,
+      "collaboration": 66.7,
+      "demand_intensity": 14.8,
+      "acknowledgment": 4.9,
+      "authority": 73.4,
+      "future_orientation": 86.3,
+      "emotional_intensity": 38.2,
+      "inclusivity": 55.8,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 10,
+      "words": 8619,
+      "adjectives": 43,
+      "verbs": 81
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.58,
+      "klima": 1.16,
+      "wirtschaft": 7.77,
+      "soziales": 4.87,
+      "sicherheit": 4.06,
+      "gesundheit": 1.04,
+      "europa": 11.02,
+      "digital": 0.23,
+      "bildung": 1.16,
+      "finanzen": 9.75,
+      "justiz": 0.58,
+      "arbeit": 2.67,
+      "mobilitaet": 1.97
+    },
+    "topTopics": [
+      {
+        "topic": "europa",
+        "score": 11.02,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 9.75,
+        "rank": 2
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 7.77,
+        "rank": 3
+      },
+      {
+        "topic": "soziales",
+        "score": 4.87,
+        "rank": 4
+      },
+      {
+        "topic": "sicherheit",
+        "score": 4.06,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "migration",
+          "count": 2
+        },
+        {
+          "word": "rückführung",
+          "count": 1
+        },
+        {
+          "word": "zuwanderung",
+          "count": 1
+        },
+        {
+          "word": "integration",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "wasserstoff",
+          "count": 5
+        },
+        {
+          "word": "energie",
+          "count": 2
+        },
+        {
+          "word": "kernenergie",
+          "count": 1
+        },
+        {
+          "word": "energiewende",
+          "count": 1
+        },
+        {
+          "word": "klimaneutralität",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 12
+        },
+        {
+          "word": "mittelstand",
+          "count": 7
+        },
+        {
+          "word": "firmen",
+          "count": 5
+        },
+        {
+          "word": "industrie",
+          "count": 5
+        },
+        {
+          "word": "automobilindustrie",
+          "count": 4
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 9
+        },
+        {
+          "word": "rentner",
+          "count": 8
+        },
+        {
+          "word": "rente",
+          "count": 7
+        },
+        {
+          "word": "renten",
+          "count": 5
+        },
+        {
+          "word": "sozialstaat",
+          "count": 3
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "bundeswehr",
+          "count": 8
+        },
+        {
+          "word": "waffen",
+          "count": 6
+        },
+        {
+          "word": "soldaten",
+          "count": 4
+        },
+        {
+          "word": "bündnisfall",
+          "count": 3
+        },
+        {
+          "word": "terrorismus",
+          "count": 2
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "krankenhäuser",
+          "count": 2
+        },
+        {
+          "word": "sucht",
+          "count": 2
+        },
+        {
+          "word": "prävention",
+          "count": 1
+        },
+        {
+          "word": "gesundheitspolitik",
+          "count": 1
+        },
+        {
+          "word": "pflege",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "ukraine",
+          "count": 23
+        },
+        {
+          "word": "europa",
+          "count": 15
+        },
+        {
+          "word": "frieden",
+          "count": 10
+        },
+        {
+          "word": "russland",
+          "count": 10
+        },
+        {
+          "word": "krieg",
+          "count": 9
+        }
+      ],
+      "digital": [
+        {
+          "word": "netz",
+          "count": 1
+        },
+        {
+          "word": "digitalisierung",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "schulen",
+          "count": 5
+        },
+        {
+          "word": "bildung",
+          "count": 2
+        },
+        {
+          "word": "ausbildung",
+          "count": 1
+        },
+        {
+          "word": "weiterbildung",
+          "count": 1
+        },
+        {
+          "word": "forschung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "schulden",
+          "count": 14
+        },
+        {
+          "word": "bundeshaushalt",
+          "count": 9
+        },
+        {
+          "word": "kosten",
+          "count": 9
+        },
+        {
+          "word": "steuern",
+          "count": 8
+        },
+        {
+          "word": "investitionen",
+          "count": 8
+        }
+      ],
+      "justiz": [
+        {
+          "word": "grundgesetz",
+          "count": 3
+        },
+        {
+          "word": "beschluss",
+          "count": 1
+        },
+        {
+          "word": "gerichte",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitsplätze",
+          "count": 10
+        },
+        {
+          "word": "rentenversicherung",
+          "count": 3
+        },
+        {
+          "word": "arbeitnehmer",
+          "count": 2
+        },
+        {
+          "word": "arbeitskraft",
+          "count": 2
+        },
+        {
+          "word": "sozialabgaben",
+          "count": 2
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 8
+        },
+        {
+          "word": "straßen",
+          "count": 6
+        },
+        {
+          "word": "straße",
+          "count": 1
+        },
+        {
+          "word": "bahnstrecke",
+          "count": 1
+        },
+        {
+          "word": "bahn",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

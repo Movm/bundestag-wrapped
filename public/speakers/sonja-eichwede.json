@@ -1,0 +1,477 @@
+{
+  "name": "Sonja Eichwede",
+  "party": "SPD",
+  "slug": "sonja-eichwede",
+  "academicTitle": null,
+  "speeches": 16,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 7015,
+  "avgWords": 438,
+  "minWords": 57,
+  "maxWords": 706,
+  "rankings": {
+    "speechRank": 20,
+    "wordsRank": 93,
+    "partySpeechRank": 6,
+    "partyWordsRank": 20,
+    "partySize": 109,
+    "totalSpeakers": 609,
+    "percentile": 96.7,
+    "verbosityRank": 266,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 60,
+    "longestSpeechRank": 294
+  },
+  "drama": {
+    "interruptionsGiven": 13,
+    "interruptionsReceived": 23,
+    "interrupterRank": 131,
+    "interruptedRank": 106
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "wichtig",
+        "count": 32
+      },
+      {
+        "word": "land",
+        "count": 28
+      },
+      {
+        "word": "demokratie",
+        "count": 23
+      },
+      {
+        "word": "rechtsstaat",
+        "count": 22
+      },
+      {
+        "word": "menschen",
+        "count": 21
+      },
+      {
+        "word": "wichtige",
+        "count": 19
+      },
+      {
+        "word": "deutschland",
+        "count": 19
+      },
+      {
+        "word": "landes",
+        "count": 18
+      },
+      {
+        "word": "gesellschaft",
+        "count": 18
+      },
+      {
+        "word": "koalition",
+        "count": 16
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "einwanderungsland",
+        "count": 5,
+        "ratioParty": 89.8,
+        "ratioBundestag": 100.6
+      },
+      {
+        "word": "bundesjustizministerin",
+        "count": 6,
+        "ratioParty": 86.2,
+        "ratioBundestag": 155.2
+      },
+      {
+        "word": "freiheitlich",
+        "count": 9,
+        "ratioParty": 80.9,
+        "ratioBundestag": 56.2
+      },
+      {
+        "word": "bundesinnenminister",
+        "count": 6,
+        "ratioParty": 61.6,
+        "ratioBundestag": 21.5
+      },
+      {
+        "word": "grundordnung",
+        "count": 8,
+        "ratioParty": 47.9,
+        "ratioBundestag": 43.9
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "freiheitlich",
+        "count": 9,
+        "ratioParty": 80.9,
+        "ratioBundestag": 56.2
+      },
+      {
+        "word": "rechts",
+        "count": 3,
+        "ratioParty": 3.8,
+        "ratioBundestag": 3.4
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 438,
+    "partyAvgWords": 637,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.69,
+    "vsParliament": 0.71
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "16"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "7.015"
+    },
+    {
+      "emoji": "🏆",
+      "label": "Rang (Reden)",
+      "value": "#20 von 609"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufe",
+      "value": "13"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Sonja Eichwede häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Sicherheit",
+        "isCorrect": false
+      },
+      {
+        "text": "Einwanderungsland",
+        "isCorrect": true
+      },
+      {
+        "text": "Zukunft",
+        "isCorrect": false
+      },
+      {
+        "text": "Gesetz",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Einwanderungsland\" nutzt Sonja Eichwede 89.8× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "100.6× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Sonja Eichwede häufiger als der Rest der SPD-Fraktion?",
+    "options": [
+      {
+        "text": "Freiheitlich",
+        "isCorrect": true
+      },
+      {
+        "text": "National",
+        "isCorrect": false
+      },
+      {
+        "text": "Schlecht",
+        "isCorrect": false
+      },
+      {
+        "text": "Sicher",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Freiheitlich\" nutzt Sonja Eichwede 80.9× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "56.2× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🦔",
+    "name": "Igel",
+    "title": "Beharrliche Rednerin",
+    "reason": "Auch wenn du oft unterbrochen wirst – du lässt dich nicht beirren.",
+    "id": "igel",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüterin",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 1.0
+      },
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißige Abgeordnete",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 100.0,
+      "aggression": 0.0,
+      "labeling": 11.1,
+      "solution_focus": 85.1,
+      "collaboration": 53.8,
+      "demand_intensity": 3.4,
+      "acknowledgment": 4.6,
+      "authority": 72.6,
+      "future_orientation": 98.9,
+      "emotional_intensity": 81.2,
+      "inclusivity": 73.3,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 16,
+      "words": 4592,
+      "adjectives": 27,
+      "verbs": 87
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 3.7,
+      "klima": 0.0,
+      "wirtschaft": 0.44,
+      "soziales": 3.7,
+      "sicherheit": 7.62,
+      "gesundheit": 0.0,
+      "europa": 6.32,
+      "digital": 1.09,
+      "bildung": 1.31,
+      "finanzen": 4.36,
+      "justiz": 7.84,
+      "arbeit": 0.87,
+      "mobilitaet": 0.65
+    },
+    "topTopics": [
+      {
+        "topic": "justiz",
+        "score": 7.84,
+        "rank": 1
+      },
+      {
+        "topic": "sicherheit",
+        "score": 7.62,
+        "rank": 2
+      },
+      {
+        "topic": "europa",
+        "score": 6.32,
+        "rank": 3
+      },
+      {
+        "topic": "finanzen",
+        "score": 4.36,
+        "rank": 4
+      },
+      {
+        "topic": "migration",
+        "score": 3.7,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "grenzkontrollen",
+          "count": 4
+        },
+        {
+          "word": "asyl",
+          "count": 3
+        },
+        {
+          "word": "staatsangehörigkeit",
+          "count": 3
+        },
+        {
+          "word": "integration",
+          "count": 2
+        },
+        {
+          "word": "asylverfahren",
+          "count": 2
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "standort",
+          "count": 1
+        },
+        {
+          "word": "fachkräftemangel",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "mietpreisbremse",
+          "count": 7
+        },
+        {
+          "word": "miete",
+          "count": 4
+        },
+        {
+          "word": "mieten",
+          "count": 3
+        },
+        {
+          "word": "kind",
+          "count": 2
+        },
+        {
+          "word": "wohnungsmarkt",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "gewalt",
+          "count": 13
+        },
+        {
+          "word": "bundespolizei",
+          "count": 5
+        },
+        {
+          "word": "extremismus",
+          "count": 4
+        },
+        {
+          "word": "täter",
+          "count": 3
+        },
+        {
+          "word": "polizei",
+          "count": 3
+        }
+      ],
+      "europa": [
+        {
+          "word": "russland",
+          "count": 12
+        },
+        {
+          "word": "europa",
+          "count": 6
+        },
+        {
+          "word": "angriffskrieg",
+          "count": 3
+        },
+        {
+          "word": "ukraine",
+          "count": 2
+        },
+        {
+          "word": "freizügigkeit",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 3
+        },
+        {
+          "word": "desinformation",
+          "count": 2
+        }
+      ],
+      "bildung": [
+        {
+          "word": "bildung",
+          "count": 4
+        },
+        {
+          "word": "ausbildung",
+          "count": 1
+        },
+        {
+          "word": "forschung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 11
+        },
+        {
+          "word": "etat",
+          "count": 2
+        },
+        {
+          "word": "bundeshaushalt",
+          "count": 2
+        },
+        {
+          "word": "kosten",
+          "count": 2
+        },
+        {
+          "word": "steuern",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "rechtsstaat",
+          "count": 22
+        },
+        {
+          "word": "verbraucherschutz",
+          "count": 2
+        },
+        {
+          "word": "strafen",
+          "count": 2
+        },
+        {
+          "word": "beschluss",
+          "count": 2
+        },
+        {
+          "word": "mietrecht",
+          "count": 2
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "kündigung",
+          "count": 2
+        },
+        {
+          "word": "beschäftigte",
+          "count": 1
+        },
+        {
+          "word": "gewerkschaft",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 3
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,342 @@
+{
+  "name": "Torben Braga",
+  "party": "AfD",
+  "slug": "torben-braga",
+  "academicTitle": null,
+  "speeches": 4,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 1566,
+  "avgWords": 313,
+  "minWords": 14,
+  "maxWords": 512,
+  "rankings": {
+    "speechRank": 453,
+    "wordsRank": 503,
+    "partySpeechRank": 111,
+    "partyWordsRank": 118,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 25.6,
+    "verbosityRank": 453,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 113,
+    "longestSpeechRank": 518
+  },
+  "drama": {
+    "interruptionsGiven": 1,
+    "interruptionsReceived": 3,
+    "interrupterRank": 342,
+    "interruptedRank": 467
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "außenpolitik",
+        "count": 8
+      },
+      {
+        "word": "auswärtigen",
+        "count": 5
+      },
+      {
+        "word": "amtes",
+        "count": 5
+      },
+      {
+        "word": "deutschen",
+        "count": 5
+      },
+      {
+        "word": "bundesregierung",
+        "count": 5
+      },
+      {
+        "word": "weiter",
+        "count": 4
+      },
+      {
+        "word": "mittel",
+        "count": 4
+      },
+      {
+        "word": "jahren",
+        "count": 4
+      },
+      {
+        "word": "guardian",
+        "count": 4
+      },
+      {
+        "word": "einsatz",
+        "count": 4
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "amtes",
+        "count": 5,
+        "ratioParty": 181.9,
+        "ratioBundestag": 183.0
+      },
+      {
+        "word": "auswärtigen",
+        "count": 5,
+        "ratioParty": 56.8,
+        "ratioBundestag": 55.9
+      },
+      {
+        "word": "außenpolitik",
+        "count": 8,
+        "ratioParty": 34.2,
+        "ratioBundestag": 47.4
+      },
+      {
+        "word": "bundesregierung",
+        "count": 5,
+        "ratioParty": 3.0,
+        "ratioBundestag": 2.8
+      },
+      {
+        "word": "deutschen",
+        "count": 5,
+        "ratioParty": 2.6,
+        "ratioBundestag": 4.1
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 313,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.53,
+    "vsParliament": 0.51
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "4"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "1.566"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Torben Braga häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Verantwortung",
+        "isCorrect": false
+      },
+      {
+        "text": "Amtes",
+        "isCorrect": true
+      },
+      {
+        "text": "Bildung",
+        "isCorrect": false
+      },
+      {
+        "text": "Minister",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Amtes\" nutzt Torben Braga 181.9× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "183.0× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 40.0,
+      "aggression": 11.1,
+      "labeling": 33.3,
+      "solution_focus": 75.0,
+      "collaboration": 100.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 0.0,
+      "authority": 75.0,
+      "future_orientation": 70.0,
+      "emotional_intensity": 75.0,
+      "inclusivity": 91.7,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 5,
+      "words": 1035,
+      "adjectives": 9,
+      "verbs": 6
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 5.8,
+      "klima": 0.0,
+      "wirtschaft": 0.0,
+      "soziales": 0.97,
+      "sicherheit": 6.76,
+      "gesundheit": 2.9,
+      "europa": 17.39,
+      "digital": 0.97,
+      "bildung": 1.93,
+      "finanzen": 3.86,
+      "justiz": 0.0,
+      "arbeit": 0.97,
+      "mobilitaet": 2.9
+    },
+    "topTopics": [
+      {
+        "topic": "europa",
+        "score": 17.39,
+        "rank": 1
+      },
+      {
+        "topic": "sicherheit",
+        "score": 6.76,
+        "rank": 2
+      },
+      {
+        "topic": "migration",
+        "score": 5.8,
+        "rank": 3
+      },
+      {
+        "topic": "finanzen",
+        "score": 3.86,
+        "rank": 4
+      },
+      {
+        "topic": "gesundheit",
+        "score": 2.9,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "mittelmeer",
+          "count": 3
+        },
+        {
+          "word": "migration",
+          "count": 2
+        },
+        {
+          "word": "zuwanderung",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "inklusion",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "bundeswehr",
+          "count": 3
+        },
+        {
+          "word": "terroristen",
+          "count": 1
+        },
+        {
+          "word": "anschlag",
+          "count": 1
+        },
+        {
+          "word": "waffen",
+          "count": 1
+        },
+        {
+          "word": "soldaten",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "operation",
+          "count": 2
+        },
+        {
+          "word": "medikamente",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "außenpolitik",
+          "count": 8
+        },
+        {
+          "word": "israel",
+          "count": 3
+        },
+        {
+          "word": "waffenlieferungen",
+          "count": 2
+        },
+        {
+          "word": "völkerrecht",
+          "count": 2
+        },
+        {
+          "word": "krieg",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "daten",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "schulen",
+          "count": 2
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "steuerzahler",
+          "count": 2
+        },
+        {
+          "word": "inflation",
+          "count": 1
+        },
+        {
+          "word": "kosten",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "vereinbarkeit",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 1
+        },
+        {
+          "word": "schiff",
+          "count": 1
+        },
+        {
+          "word": "schiffe",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

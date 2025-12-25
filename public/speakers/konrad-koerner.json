@@ -1,0 +1,506 @@
+{
+  "name": "Dr. Konrad Körner",
+  "party": "CDU/CSU",
+  "slug": "konrad-koerner",
+  "academicTitle": "Dr",
+  "speeches": 23,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 11236,
+  "avgWords": 468,
+  "minWords": 62,
+  "maxWords": 892,
+  "rankings": {
+    "speechRank": 5,
+    "wordsRank": 23,
+    "partySpeechRank": 1,
+    "partyWordsRank": 10,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 99.2,
+    "verbosityRank": 211,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 77,
+    "longestSpeechRank": 112
+  },
+  "drama": {
+    "interruptionsGiven": 32,
+    "interruptionsReceived": 48,
+    "interrupterRank": 59,
+    "interruptedRank": 20
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 21
+      },
+      {
+        "word": "schaffen",
+        "count": 20
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "wahlfreiheit",
+        "count": 6,
+        "ratioParty": 60.7,
+        "ratioBundestag": 53.5
+      },
+      {
+        "word": "elterngeld",
+        "count": 13,
+        "ratioParty": 43.8,
+        "ratioBundestag": 39.2
+      },
+      {
+        "word": "schuldnerberatung",
+        "count": 5,
+        "ratioParty": 29.5,
+        "ratioBundestag": 22.8
+      },
+      {
+        "word": "erzählen",
+        "count": 5,
+        "ratioParty": 27.2,
+        "ratioBundestag": 8.1
+      },
+      {
+        "word": "vermieter",
+        "count": 8,
+        "ratioParty": 25.7,
+        "ratioBundestag": 23.8
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "links",
+        "count": 4,
+        "ratioParty": 4.6,
+        "ratioBundestag": 2.9
+      },
+      {
+        "word": "rechts",
+        "count": 3,
+        "ratioParty": 2.4,
+        "ratioBundestag": 2.1
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 468,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.68,
+    "vsParliament": 0.76
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "23"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "11.236"
+    },
+    {
+      "emoji": "🏆",
+      "label": "Rang (Reden)",
+      "value": "#5 von 609"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufe",
+      "value": "32"
+    },
+    {
+      "emoji": "🥇",
+      "label": "Rang in CDU/CSU",
+      "value": "#1 von 203"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Dr. Konrad Körner häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Wirtschaft",
+        "isCorrect": false
+      },
+      {
+        "text": "Koalition",
+        "isCorrect": false
+      },
+      {
+        "text": "Rente",
+        "isCorrect": false
+      },
+      {
+        "text": "Wahlfreiheit",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Wahlfreiheit\" nutzt Dr. Konrad Körner 60.7× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "53.5× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Dr. Konrad Körner häufiger als der Rest der CDU/CSU-Fraktion?",
+    "options": [
+      {
+        "text": "Wirtschaftlich",
+        "isCorrect": false
+      },
+      {
+        "text": "National",
+        "isCorrect": false
+      },
+      {
+        "text": "Links",
+        "isCorrect": true
+      },
+      {
+        "text": "Richtig",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Links\" nutzt Dr. Konrad Körner 4.6× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "2.9× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🦁",
+    "name": "Löwe",
+    "title": "Fraktionsstimme",
+    "reason": "Als #1 in der CDU/CSU-Fraktion bist du eine führende Stimme.",
+    "id": "loewe",
+    "alternatives": [
+      {
+        "emoji": "🐴",
+        "name": "Pferd",
+        "title": "Fleißiger Debattierer",
+        "reason": "Mit 24 Reden gehörst du zu den aktivsten Abgeordneten.",
+        "id": "pferd",
+        "score": 1.0
+      },
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüter",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 1.0
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 85.2,
+      "aggression": 7.5,
+      "labeling": 25.0,
+      "solution_focus": 90.8,
+      "collaboration": 50.0,
+      "demand_intensity": 12.4,
+      "acknowledgment": 4.7,
+      "authority": 74.8,
+      "future_orientation": 84.9,
+      "emotional_intensity": 21.2,
+      "inclusivity": 56.4,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 24,
+      "words": 7441,
+      "adjectives": 40,
+      "verbs": 129
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.13,
+      "klima": 0.27,
+      "wirtschaft": 2.42,
+      "soziales": 12.77,
+      "sicherheit": 0.94,
+      "gesundheit": 0.67,
+      "europa": 2.02,
+      "digital": 5.24,
+      "bildung": 3.23,
+      "finanzen": 2.42,
+      "justiz": 4.7,
+      "arbeit": 1.08,
+      "mobilitaet": 0.4
+    },
+    "topTopics": [
+      {
+        "topic": "soziales",
+        "score": 12.77,
+        "rank": 1
+      },
+      {
+        "topic": "digital",
+        "score": 5.24,
+        "rank": 2
+      },
+      {
+        "topic": "justiz",
+        "score": 4.7,
+        "rank": 3
+      },
+      {
+        "topic": "bildung",
+        "score": 3.23,
+        "rank": 4
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 2.42,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "grenze",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "ökosystem",
+          "count": 1
+        },
+        {
+          "word": "nachhaltig",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 3
+        },
+        {
+          "word": "kredite",
+          "count": 2
+        },
+        {
+          "word": "wirtschaftswachstum",
+          "count": 2
+        },
+        {
+          "word": "firmen",
+          "count": 1
+        },
+        {
+          "word": "marktwirtschaft",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 16
+        },
+        {
+          "word": "eltern",
+          "count": 14
+        },
+        {
+          "word": "elterngeld",
+          "count": 13
+        },
+        {
+          "word": "familien",
+          "count": 11
+        },
+        {
+          "word": "kind",
+          "count": 7
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "extremismus",
+          "count": 3
+        },
+        {
+          "word": "radikalisierung",
+          "count": 1
+        },
+        {
+          "word": "islamismus",
+          "count": 1
+        },
+        {
+          "word": "überwachung",
+          "count": 1
+        },
+        {
+          "word": "gewalt",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "therapie",
+          "count": 2
+        },
+        {
+          "word": "krankheit",
+          "count": 1
+        },
+        {
+          "word": "prävention",
+          "count": 1
+        },
+        {
+          "word": "medikament",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 4
+        },
+        {
+          "word": "gipfel",
+          "count": 2
+        },
+        {
+          "word": "putin",
+          "count": 2
+        },
+        {
+          "word": "binnenmarkt",
+          "count": 2
+        },
+        {
+          "word": "allianz",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "daten",
+          "count": 13
+        },
+        {
+          "word": "digitalisierung",
+          "count": 11
+        },
+        {
+          "word": "digital",
+          "count": 5
+        },
+        {
+          "word": "netz",
+          "count": 4
+        },
+        {
+          "word": "software",
+          "count": 2
+        }
+      ],
+      "bildung": [
+        {
+          "word": "bildung",
+          "count": 10
+        },
+        {
+          "word": "schulen",
+          "count": 3
+        },
+        {
+          "word": "schüler",
+          "count": 2
+        },
+        {
+          "word": "kinderbetreuung",
+          "count": 2
+        },
+        {
+          "word": "grundschule",
+          "count": 2
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 4
+        },
+        {
+          "word": "schulden",
+          "count": 2
+        },
+        {
+          "word": "kosten",
+          "count": 2
+        },
+        {
+          "word": "bundeshaushalt",
+          "count": 2
+        },
+        {
+          "word": "steuer",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "rechtsstaat",
+          "count": 6
+        },
+        {
+          "word": "verordnung",
+          "count": 4
+        },
+        {
+          "word": "datenschutz",
+          "count": 4
+        },
+        {
+          "word": "grundgesetz",
+          "count": 3
+        },
+        {
+          "word": "grundrechte",
+          "count": 3
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "minijob",
+          "count": 3
+        },
+        {
+          "word": "arbeitsplatz",
+          "count": 3
+        },
+        {
+          "word": "arbeitslosigkeit",
+          "count": 1
+        },
+        {
+          "word": "einkommen",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "auto",
+          "count": 1
+        },
+        {
+          "word": "infrastruktur",
+          "count": 1
+        },
+        {
+          "word": "verkehr",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

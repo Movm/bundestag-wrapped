@@ -1,0 +1,503 @@
+{
+  "name": "Armand Zorn",
+  "party": "SPD",
+  "slug": "armand-zorn",
+  "academicTitle": null,
+  "speeches": 14,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 8416,
+  "avgWords": 601,
+  "minWords": 354,
+  "maxWords": 824,
+  "rankings": {
+    "speechRank": 44,
+    "wordsRank": 59,
+    "partySpeechRank": 12,
+    "partyWordsRank": 14,
+    "partySize": 109,
+    "totalSpeakers": 609,
+    "percentile": 92.8,
+    "verbosityRank": 68,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 10,
+    "longestSpeechRank": 169
+  },
+  "drama": {
+    "interruptionsGiven": 16,
+    "interruptionsReceived": 6,
+    "interrupterRank": 116,
+    "interruptedRank": 370
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "sorgen",
+        "count": 43
+      },
+      {
+        "word": "deutschland",
+        "count": 34
+      },
+      {
+        "word": "infrastruktur",
+        "count": 28
+      },
+      {
+        "word": "menschen",
+        "count": 22
+      },
+      {
+        "word": "staat",
+        "count": 21
+      },
+      {
+        "word": "grundlage",
+        "count": 20
+      },
+      {
+        "word": "koalition",
+        "count": 19
+      },
+      {
+        "word": "wirtschaft",
+        "count": 18
+      },
+      {
+        "word": "digitale",
+        "count": 18
+      },
+      {
+        "word": "unternehmen",
+        "count": 18
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "automobilbranche",
+        "count": 5,
+        "ratioParty": 51.4,
+        "ratioBundestag": 97.2
+      },
+      {
+        "word": "hinkriegen",
+        "count": 5,
+        "ratioParty": 44.0,
+        "ratioBundestag": 77.8
+      },
+      {
+        "word": "germany",
+        "count": 5,
+        "ratioParty": 34.2,
+        "ratioBundestag": 25.5
+      },
+      {
+        "word": "wirtschaftspolitik",
+        "count": 5,
+        "ratioParty": 23.7,
+        "ratioBundestag": 10.7
+      },
+      {
+        "word": "staatsmodernisierung",
+        "count": 7,
+        "ratioParty": 22.7,
+        "ratioBundestag": 15.3
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "zuverlässig",
+        "count": 3,
+        "ratioParty": 10.9,
+        "ratioBundestag": 14.8
+      },
+      {
+        "word": "konstruktiv",
+        "count": 3,
+        "ratioParty": 7.1,
+        "ratioBundestag": 12.1
+      },
+      {
+        "word": "stark",
+        "count": 7,
+        "ratioParty": 4.0,
+        "ratioBundestag": 5.4
+      },
+      {
+        "word": "entscheidend",
+        "count": 3,
+        "ratioParty": 2.8,
+        "ratioBundestag": 3.4
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 601,
+    "partyAvgWords": 637,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.94,
+    "vsParliament": 0.98
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "14"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "8.416"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufe",
+      "value": "16"
+    },
+    {
+      "emoji": "📊",
+      "label": "Top-Redner",
+      "value": "Top 8%"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Armand Zorn häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Rente",
+        "isCorrect": false
+      },
+      {
+        "text": "Demokratie",
+        "isCorrect": false
+      },
+      {
+        "text": "Verantwortung",
+        "isCorrect": false
+      },
+      {
+        "text": "Automobilbranche",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Automobilbranche\" nutzt Armand Zorn 51.4× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "97.2× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Armand Zorn häufiger als der Rest der SPD-Fraktion?",
+    "options": [
+      {
+        "text": "Gut",
+        "isCorrect": false
+      },
+      {
+        "text": "Zuverlässig",
+        "isCorrect": true
+      },
+      {
+        "text": "Jung",
+        "isCorrect": false
+      },
+      {
+        "text": "Groß",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Zuverlässig\" nutzt Armand Zorn 10.9× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "14.8× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐿️",
+    "name": "Eichhörnchen",
+    "title": "Themenhüter",
+    "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+    "id": "eichhoernchen",
+    "alternatives": [
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißiger Abgeordneter",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      },
+      {
+        "emoji": "🐴",
+        "name": "Pferd",
+        "title": "Fleißiger Debattierer",
+        "reason": "Mit 14 Reden gehörst du zu den aktivsten Abgeordneten.",
+        "id": "pferd",
+        "score": 0.927
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 91.4,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 91.5,
+      "collaboration": 90.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 12.5,
+      "authority": 79.4,
+      "future_orientation": 86.2,
+      "emotional_intensity": 35.0,
+      "inclusivity": 65.2,
+      "discriminatory": 0.19
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 14,
+      "words": 5342,
+      "adjectives": 35,
+      "verbs": 104
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 3.37,
+      "wirtschaft": 8.99,
+      "soziales": 0.56,
+      "sicherheit": 0.56,
+      "gesundheit": 0.19,
+      "europa": 3.18,
+      "digital": 5.05,
+      "bildung": 1.12,
+      "finanzen": 6.74,
+      "justiz": 1.12,
+      "arbeit": 1.87,
+      "mobilitaet": 12.17
+    },
+    "topTopics": [
+      {
+        "topic": "mobilitaet",
+        "score": 12.17,
+        "rank": 1
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 8.99,
+        "rank": 2
+      },
+      {
+        "topic": "finanzen",
+        "score": 6.74,
+        "rank": 3
+      },
+      {
+        "topic": "digital",
+        "score": 5.05,
+        "rank": 4
+      },
+      {
+        "topic": "klima",
+        "score": 3.37,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "klimaschutz",
+          "count": 8
+        },
+        {
+          "word": "klimaneutralität",
+          "count": 3
+        },
+        {
+          "word": "nachhaltig",
+          "count": 2
+        },
+        {
+          "word": "steinkohle",
+          "count": 1
+        },
+        {
+          "word": "nachhaltigkeit",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 18
+        },
+        {
+          "word": "wirtschaftswachstum",
+          "count": 6
+        },
+        {
+          "word": "wirtschaftspolitik",
+          "count": 5
+        },
+        {
+          "word": "industrie",
+          "count": 4
+        },
+        {
+          "word": "wachstum",
+          "count": 4
+        }
+      ],
+      "soziales": [
+        {
+          "word": "familien",
+          "count": 3
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "verteidigung",
+          "count": 2
+        },
+        {
+          "word": "verteidigungsfähigkeit",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "sucht",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 6
+        },
+        {
+          "word": "brüssel",
+          "count": 3
+        },
+        {
+          "word": "gipfel",
+          "count": 2
+        },
+        {
+          "word": "europäisch",
+          "count": 2
+        },
+        {
+          "word": "abkommen",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 14
+        },
+        {
+          "word": "daten",
+          "count": 3
+        },
+        {
+          "word": "cloud",
+          "count": 3
+        },
+        {
+          "word": "digital",
+          "count": 2
+        },
+        {
+          "word": "algorithmen",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "bildung",
+          "count": 2
+        },
+        {
+          "word": "ausbildung",
+          "count": 2
+        },
+        {
+          "word": "forschung",
+          "count": 2
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 8
+        },
+        {
+          "word": "haushaltsentwurf",
+          "count": 8
+        },
+        {
+          "word": "sondervermögen",
+          "count": 8
+        },
+        {
+          "word": "investitionen",
+          "count": 7
+        },
+        {
+          "word": "subvention",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "datenschutz",
+          "count": 2
+        },
+        {
+          "word": "gesetzesänderung",
+          "count": 2
+        },
+        {
+          "word": "grundrechte",
+          "count": 1
+        },
+        {
+          "word": "gesetzgebung",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitsplätze",
+          "count": 8
+        },
+        {
+          "word": "arbeitnehmerinnen",
+          "count": 1
+        },
+        {
+          "word": "arbeitnehmer",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 28
+        },
+        {
+          "word": "bahn",
+          "count": 6
+        },
+        {
+          "word": "verkehr",
+          "count": 4
+        },
+        {
+          "word": "straßen",
+          "count": 4
+        },
+        {
+          "word": "fahrzeuge",
+          "count": 3
+        }
+      ]
+    }
+  }
+}

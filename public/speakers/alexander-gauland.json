@@ -1,0 +1,278 @@
+{
+  "name": "Dr. Alexander Gauland",
+  "party": "AfD",
+  "slug": "alexander-gauland",
+  "academicTitle": "Dr",
+  "speeches": 2,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 1223,
+  "avgWords": 612,
+  "minWords": 393,
+  "maxWords": 830,
+  "rankings": {
+    "speechRank": 563,
+    "wordsRank": 534,
+    "partySpeechRank": 139,
+    "partyWordsRank": 126,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 7.6,
+    "verbosityRank": null,
+    "verbosityTotal": null,
+    "partyVerbosityRank": null,
+    "longestSpeechRank": 161
+  },
+  "drama": {
+    "interruptionsGiven": 1,
+    "interruptionsReceived": 6,
+    "interrupterRank": 313,
+    "interruptedRank": 384
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "israel",
+        "count": 14
+      },
+      {
+        "word": "hamas",
+        "count": 8
+      },
+      {
+        "word": "deutschen",
+        "count": 7
+      },
+      {
+        "word": "terroristen",
+        "count": 6
+      },
+      {
+        "word": "tragödie",
+        "count": 5
+      },
+      {
+        "word": "deutsche",
+        "count": 5
+      },
+      {
+        "word": "diesen",
+        "count": 4
+      },
+      {
+        "word": "gaza",
+        "count": 4
+      },
+      {
+        "word": "helmut",
+        "count": 3
+      },
+      {
+        "word": "schmidt",
+        "count": 3
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "tragödie",
+        "count": 5,
+        "ratioParty": 583.6,
+        "ratioBundestag": 860.6
+      },
+      {
+        "word": "terroristen",
+        "count": 6,
+        "ratioParty": 147.4,
+        "ratioBundestag": 221.3
+      },
+      {
+        "word": "israel",
+        "count": 14,
+        "ratioParty": 112.7,
+        "ratioBundestag": 67.9
+      },
+      {
+        "word": "hamas",
+        "count": 8,
+        "ratioParty": 76.2,
+        "ratioBundestag": 76.1
+      },
+      {
+        "word": "deutschen",
+        "count": 7,
+        "ratioParty": 4.6,
+        "ratioBundestag": 7.4
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 612,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 1.04,
+    "vsParliament": 1.0
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "2"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "1.223"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Dr. Alexander Gauland häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Familie",
+        "isCorrect": false
+      },
+      {
+        "text": "Tragödie",
+        "isCorrect": true
+      },
+      {
+        "text": "Investitionen",
+        "isCorrect": false
+      },
+      {
+        "text": "Gesetz",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Tragödie\" nutzt Dr. Alexander Gauland 583.6× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "860.6× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 100.0,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 75.0,
+      "collaboration": 25.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 11.1,
+      "authority": 60.0,
+      "future_orientation": 60.0,
+      "emotional_intensity": 50.0,
+      "inclusivity": 63.6,
+      "discriminatory": 0.0
+    },
+    "confidence": "low",
+    "sampleSize": {
+      "speeches": 2,
+      "words": 807,
+      "adjectives": 2,
+      "verbs": 9
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 1.24,
+      "klima": 0.0,
+      "wirtschaft": 2.48,
+      "soziales": 0.0,
+      "sicherheit": 7.43,
+      "gesundheit": 0.0,
+      "europa": 27.26,
+      "digital": 1.24,
+      "bildung": 1.24,
+      "finanzen": 0.0,
+      "justiz": 0.0,
+      "arbeit": 0.0,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "europa",
+        "score": 27.26,
+        "rank": 1
+      },
+      {
+        "topic": "sicherheit",
+        "score": 7.43,
+        "rank": 2
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 2.48,
+        "rank": 3
+      },
+      {
+        "topic": "migration",
+        "score": 1.24,
+        "rank": 4
+      },
+      {
+        "topic": "digital",
+        "score": 1.24,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "einwanderer",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "werk",
+          "count": 1
+        },
+        {
+          "word": "unternehmen",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "terroristen",
+          "count": 6
+        }
+      ],
+      "europa": [
+        {
+          "word": "israel",
+          "count": 14
+        },
+        {
+          "word": "außenminister",
+          "count": 2
+        },
+        {
+          "word": "türkei",
+          "count": 2
+        },
+        {
+          "word": "krieg",
+          "count": 1
+        },
+        {
+          "word": "frieden",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "netz",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "schulen",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

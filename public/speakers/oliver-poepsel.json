@@ -1,0 +1,438 @@
+{
+  "name": "Oliver Pöpsel",
+  "party": "CDU/CSU",
+  "slug": "oliver-poepsel",
+  "academicTitle": null,
+  "speeches": 8,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 4305,
+  "avgWords": 478,
+  "minWords": 30,
+  "maxWords": 751,
+  "rankings": {
+    "speechRank": 221,
+    "wordsRank": 230,
+    "partySpeechRank": 54,
+    "partyWordsRank": 70,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 63.7,
+    "verbosityRank": 199,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 71,
+    "longestSpeechRank": 248
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 11,
+    "interrupterRank": null,
+    "interruptedRank": 248
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "kinder",
+        "count": 18
+      },
+      {
+        "word": "weiter",
+        "count": 13
+      },
+      {
+        "word": "haushalt",
+        "count": 10
+      },
+      {
+        "word": "investitionen",
+        "count": 10
+      },
+      {
+        "word": "ministerin",
+        "count": 9
+      },
+      {
+        "word": "bildung",
+        "count": 9
+      },
+      {
+        "word": "gehört",
+        "count": 8
+      },
+      {
+        "word": "deutschland",
+        "count": 8
+      },
+      {
+        "word": "familien",
+        "count": 8
+      },
+      {
+        "word": "heißt",
+        "count": 8
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "babyboomer",
+        "count": 5,
+        "ratioParty": 485.3,
+        "ratioBundestag": 506.7
+      },
+      {
+        "word": "hilfen",
+        "count": 5,
+        "ratioParty": 57.1,
+        "ratioBundestag": 46.1
+      },
+      {
+        "word": "kitas",
+        "count": 7,
+        "ratioParty": 48.5,
+        "ratioBundestag": 24.9
+      },
+      {
+        "word": "freiwilligendienste",
+        "count": 7,
+        "ratioParty": 42.5,
+        "ratioBundestag": 74.7
+      },
+      {
+        "word": "vielfalt",
+        "count": 6,
+        "ratioParty": 28.4,
+        "ratioBundestag": 22.9
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 478,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.69,
+    "vsParliament": 0.78
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "8"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "4.305"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Oliver Pöpsel häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Babyboomer",
+        "isCorrect": true
+      },
+      {
+        "text": "Migration",
+        "isCorrect": false
+      },
+      {
+        "text": "Bürger",
+        "isCorrect": false
+      },
+      {
+        "text": "Kanzler",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Babyboomer\" nutzt Oliver Pöpsel 485.3× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "506.7× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🐝",
+    "name": "Biene",
+    "title": "Fleißiger Abgeordneter",
+    "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+    "id": "biene",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüter",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.972
+      },
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Cleverer Stratege",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 0.92
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 100.0,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 91.2,
+      "collaboration": 66.7,
+      "demand_intensity": 6.7,
+      "acknowledgment": 4.4,
+      "authority": 78.3,
+      "future_orientation": 93.3,
+      "emotional_intensity": 33.3,
+      "inclusivity": 60.7,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 9,
+      "words": 2738,
+      "adjectives": 7,
+      "verbs": 45
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.0,
+      "wirtschaft": 6.57,
+      "soziales": 16.07,
+      "sicherheit": 2.19,
+      "gesundheit": 1.1,
+      "europa": 0.0,
+      "digital": 2.56,
+      "bildung": 9.13,
+      "finanzen": 12.78,
+      "justiz": 1.83,
+      "arbeit": 2.56,
+      "mobilitaet": 1.46
+    },
+    "topTopics": [
+      {
+        "topic": "soziales",
+        "score": 16.07,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 12.78,
+        "rank": 2
+      },
+      {
+        "topic": "bildung",
+        "score": 9.13,
+        "rank": 3
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 6.57,
+        "rank": 4
+      },
+      {
+        "topic": "digital",
+        "score": 2.56,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "wirtschaft": [
+        {
+          "word": "wachstum",
+          "count": 4
+        },
+        {
+          "word": "fachkräftemangel",
+          "count": 3
+        },
+        {
+          "word": "fachkräfte",
+          "count": 2
+        },
+        {
+          "word": "wirtschaftswachstum",
+          "count": 2
+        },
+        {
+          "word": "wettbewerbsfähigkeit",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 18
+        },
+        {
+          "word": "familien",
+          "count": 8
+        },
+        {
+          "word": "jugend",
+          "count": 4
+        },
+        {
+          "word": "familie",
+          "count": 3
+        },
+        {
+          "word": "rentner",
+          "count": 2
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "gewalt",
+          "count": 3
+        },
+        {
+          "word": "spionage",
+          "count": 1
+        },
+        {
+          "word": "täter",
+          "count": 1
+        },
+        {
+          "word": "kriminalität",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "pflegekraft",
+          "count": 1
+        },
+        {
+          "word": "pflegeversicherung",
+          "count": 1
+        },
+        {
+          "word": "prävention",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "netz",
+          "count": 4
+        },
+        {
+          "word": "digitalisierung",
+          "count": 1
+        },
+        {
+          "word": "internet",
+          "count": 1
+        },
+        {
+          "word": "verschlüsselung",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "bildung",
+          "count": 9
+        },
+        {
+          "word": "erzieher",
+          "count": 3
+        },
+        {
+          "word": "bildungspolitik",
+          "count": 2
+        },
+        {
+          "word": "forschung",
+          "count": 2
+        },
+        {
+          "word": "kinderbetreuung",
+          "count": 2
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 10
+        },
+        {
+          "word": "investitionen",
+          "count": 10
+        },
+        {
+          "word": "sondervermögen",
+          "count": 3
+        },
+        {
+          "word": "entlastung",
+          "count": 2
+        },
+        {
+          "word": "steuerpolitik",
+          "count": 2
+        }
+      ],
+      "justiz": [
+        {
+          "word": "grundgesetz",
+          "count": 2
+        },
+        {
+          "word": "rechtsstaat",
+          "count": 1
+        },
+        {
+          "word": "verordnung",
+          "count": 1
+        },
+        {
+          "word": "grundrechte",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "rentenversicherung",
+          "count": 2
+        },
+        {
+          "word": "überstunden",
+          "count": 2
+        },
+        {
+          "word": "sozialversicherung",
+          "count": 1
+        },
+        {
+          "word": "arbeitslosenversicherung",
+          "count": 1
+        },
+        {
+          "word": "arbeitskräfte",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "deutschlandticket",
+          "count": 2
+        },
+        {
+          "word": "verkehr",
+          "count": 1
+        },
+        {
+          "word": "straßen",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

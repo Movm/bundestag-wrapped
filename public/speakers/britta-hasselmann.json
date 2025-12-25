@@ -1,0 +1,492 @@
+{
+  "name": "Britta Haßelmann",
+  "party": "GRÜNE",
+  "slug": "britta-hasselmann",
+  "academicTitle": null,
+  "speeches": 7,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 6136,
+  "avgWords": 767,
+  "minWords": 45,
+  "maxWords": 1930,
+  "rankings": {
+    "speechRank": 257,
+    "wordsRank": 119,
+    "partySpeechRank": 43,
+    "partyWordsRank": 17,
+    "partySize": 85,
+    "totalSpeakers": 609,
+    "percentile": 57.8,
+    "verbosityRank": 14,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 2,
+    "longestSpeechRank": 12
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 60,
+    "interrupterRank": null,
+    "interruptedRank": 10
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "land",
+        "count": 30
+      },
+      {
+        "word": "menschen",
+        "count": 29
+      },
+      {
+        "word": "ukraine",
+        "count": 25
+      },
+      {
+        "word": "merz",
+        "count": 19
+      },
+      {
+        "word": "europa",
+        "count": 17
+      },
+      {
+        "word": "wissen",
+        "count": 12
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "nahen",
+        "count": 5,
+        "ratioParty": 22.3,
+        "ratioBundestag": 23.6
+      },
+      {
+        "word": "ankündigungen",
+        "count": 5,
+        "ratioParty": 22.3,
+        "ratioBundestag": 41.5
+      },
+      {
+        "word": "gemeinden",
+        "count": 6,
+        "ratioParty": 12.1,
+        "ratioBundestag": 15.3
+      },
+      {
+        "word": "notwendig",
+        "count": 11,
+        "ratioParty": 10.1,
+        "ratioBundestag": 8.7
+      },
+      {
+        "word": "israel",
+        "count": 7,
+        "ratioParty": 9.3,
+        "ratioBundestag": 7.1
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "zentral",
+        "count": 3,
+        "ratioParty": 17.0,
+        "ratioBundestag": 10.8
+      },
+      {
+        "word": "gescheitert",
+        "count": 3,
+        "ratioParty": 11.7,
+        "ratioBundestag": 12.3
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 767,
+    "partyAvgWords": 567,
+    "parliamentAvgWords": 613,
+    "vsParty": 1.35,
+    "vsParliament": 1.25
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "7"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "6.136"
+    },
+    {
+      "emoji": "📚",
+      "label": "Wortreichster",
+      "value": "#14 von 521"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Britta Haßelmann häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Gesellschaft",
+        "isCorrect": false
+      },
+      {
+        "text": "Europa",
+        "isCorrect": false
+      },
+      {
+        "text": "Nahen",
+        "isCorrect": true
+      },
+      {
+        "text": "Antrag",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Nahen\" nutzt Britta Haßelmann 22.3× häufiger als der GRÜNE-Durchschnitt.",
+    "explanationBundestag": "23.6× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Britta Haßelmann häufiger als der Rest der GRÜNE-Fraktion?",
+    "options": [
+      {
+        "text": "Sicher",
+        "isCorrect": false
+      },
+      {
+        "text": "Schlecht",
+        "isCorrect": false
+      },
+      {
+        "text": "Zentral",
+        "isCorrect": true
+      },
+      {
+        "text": "Sozial",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Zentral\" nutzt Britta Haßelmann 17.0× häufiger als der GRÜNE-Durchschnitt.",
+    "explanationBundestag": "10.8× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐿️",
+    "name": "Eichhörnchen",
+    "title": "Themenhüterin",
+    "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+    "id": "eichhoernchen",
+    "alternatives": [
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißige Abgeordnete",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      },
+      {
+        "emoji": "🐻",
+        "name": "Bär",
+        "title": "Standhafte Debattiererin",
+        "reason": "Trotz 60× unterbrochen zu werden, bleibst du standhaft.",
+        "id": "baer",
+        "score": 0.916
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 52.6,
+      "aggression": 20.0,
+      "labeling": 4.0,
+      "solution_focus": 65.4,
+      "collaboration": 50.0,
+      "demand_intensity": 3.2,
+      "acknowledgment": 6.5,
+      "authority": 83.1,
+      "future_orientation": 80.0,
+      "emotional_intensity": 58.8,
+      "inclusivity": 60.2,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 8,
+      "words": 3785,
+      "adjectives": 25,
+      "verbs": 31
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.79,
+      "klima": 1.85,
+      "wirtschaft": 0.79,
+      "soziales": 2.11,
+      "sicherheit": 1.32,
+      "gesundheit": 0.79,
+      "europa": 26.42,
+      "digital": 0.53,
+      "bildung": 0.79,
+      "finanzen": 3.96,
+      "justiz": 3.43,
+      "arbeit": 1.59,
+      "mobilitaet": 3.43
+    },
+    "topTopics": [
+      {
+        "topic": "europa",
+        "score": 26.42,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 3.96,
+        "rank": 2
+      },
+      {
+        "topic": "justiz",
+        "score": 3.43,
+        "rank": 3
+      },
+      {
+        "topic": "mobilitaet",
+        "score": 3.43,
+        "rank": 4
+      },
+      {
+        "topic": "soziales",
+        "score": 2.11,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "abschiebung",
+          "count": 1
+        },
+        {
+          "word": "grenzkontrollen",
+          "count": 1
+        },
+        {
+          "word": "aufenthaltsstatus",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "klimaneutralität",
+          "count": 3
+        },
+        {
+          "word": "klimaschutz",
+          "count": 2
+        },
+        {
+          "word": "solarenergie",
+          "count": 1
+        },
+        {
+          "word": "energiewende",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "industrie",
+          "count": 2
+        },
+        {
+          "word": "wirtschaftspolitik",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "rente",
+          "count": 2
+        },
+        {
+          "word": "kinder",
+          "count": 2
+        },
+        {
+          "word": "rentenniveau",
+          "count": 1
+        },
+        {
+          "word": "altersarmut",
+          "count": 1
+        },
+        {
+          "word": "eltern",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "verteidigungsfähigkeit",
+          "count": 2
+        },
+        {
+          "word": "polizisten",
+          "count": 2
+        },
+        {
+          "word": "terror",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "krankenversicherung",
+          "count": 1
+        },
+        {
+          "word": "vorsorge",
+          "count": 1
+        },
+        {
+          "word": "arzt",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "ukraine",
+          "count": 25
+        },
+        {
+          "word": "europa",
+          "count": 17
+        },
+        {
+          "word": "frieden",
+          "count": 9
+        },
+        {
+          "word": "israel",
+          "count": 7
+        },
+        {
+          "word": "iran",
+          "count": 7
+        }
+      ],
+      "digital": [
+        {
+          "word": "cybersicherheit",
+          "count": 1
+        },
+        {
+          "word": "pressefreiheit",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "schulen",
+          "count": 2
+        },
+        {
+          "word": "studierende",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "investitionen",
+          "count": 3
+        },
+        {
+          "word": "sondervermögen",
+          "count": 3
+        },
+        {
+          "word": "haushalt",
+          "count": 2
+        },
+        {
+          "word": "finanzierung",
+          "count": 1
+        },
+        {
+          "word": "schuldenbremse",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "beschluss",
+          "count": 4
+        },
+        {
+          "word": "bundesverfassungsgericht",
+          "count": 3
+        },
+        {
+          "word": "rechtsstaatlichkeit",
+          "count": 1
+        },
+        {
+          "word": "grundrechte",
+          "count": 1
+        },
+        {
+          "word": "verwaltungsgericht",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitnehmer",
+          "count": 2
+        },
+        {
+          "word": "arbeitnehmerinnen",
+          "count": 1
+        },
+        {
+          "word": "arbeitsplätze",
+          "count": 1
+        },
+        {
+          "word": "arbeitsplatz",
+          "count": 1
+        },
+        {
+          "word": "rentenversicherung",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 4
+        },
+        {
+          "word": "bahn",
+          "count": 4
+        },
+        {
+          "word": "schiene",
+          "count": 2
+        },
+        {
+          "word": "straßen",
+          "count": 2
+        },
+        {
+          "word": "fliegen",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

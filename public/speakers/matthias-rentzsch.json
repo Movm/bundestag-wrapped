@@ -1,0 +1,202 @@
+{
+  "name": "Matthias Rentzsch",
+  "party": "AfD",
+  "slug": "matthias-rentzsch",
+  "academicTitle": null,
+  "speeches": 1,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 517,
+  "avgWords": 517,
+  "minWords": 517,
+  "maxWords": 517,
+  "rankings": {
+    "speechRank": 581,
+    "wordsRank": 591,
+    "partySpeechRank": 145,
+    "partyWordsRank": 144,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 4.6,
+    "verbosityRank": null,
+    "verbosityTotal": null,
+    "partyVerbosityRank": null,
+    "longestSpeechRank": 515
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 6,
+    "interrupterRank": null,
+    "interruptedRank": 379
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "entwicklungshilfe",
+        "count": 4
+      },
+      {
+        "word": "entwicklungshilfezahlungen",
+        "count": 3
+      },
+      {
+        "word": "verwendungsnachweise",
+        "count": 3
+      },
+      {
+        "word": "deutschen",
+        "count": 3
+      },
+      {
+        "word": "projekte",
+        "count": 3
+      },
+      {
+        "word": "ministerin",
+        "count": 2
+      },
+      {
+        "word": "volumen",
+        "count": 2
+      },
+      {
+        "word": "sogenannte",
+        "count": 2
+      },
+      {
+        "word": "aller",
+        "count": 2
+      },
+      {
+        "word": "diesen",
+        "count": 2
+      }
+    ],
+    "signatureWords": [],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 517,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.88,
+    "vsParliament": 0.84
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "1"
+    }
+  ],
+  "signatureQuiz": null,
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 50.0,
+      "aggression": 50.0,
+      "labeling": 0.0,
+      "solution_focus": 50.0,
+      "collaboration": 50.0,
+      "demand_intensity": 100.0,
+      "acknowledgment": 0.0,
+      "authority": 50.0,
+      "future_orientation": 50.0,
+      "emotional_intensity": 50.0,
+      "inclusivity": 50.0,
+      "discriminatory": 2.99
+    },
+    "confidence": "low",
+    "sampleSize": {
+      "speeches": 1,
+      "words": 335,
+      "adjectives": 4,
+      "verbs": 2
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 2.99,
+      "wirtschaft": 2.99,
+      "soziales": 0.0,
+      "sicherheit": 0.0,
+      "gesundheit": 0.0,
+      "europa": 8.96,
+      "digital": 2.99,
+      "bildung": 0.0,
+      "finanzen": 5.97,
+      "justiz": 0.0,
+      "arbeit": 0.0,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "europa",
+        "score": 8.96,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 5.97,
+        "rank": 2
+      },
+      {
+        "topic": "klima",
+        "score": 2.99,
+        "rank": 3
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 2.99,
+        "rank": 4
+      },
+      {
+        "topic": "digital",
+        "score": 2.99,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "müll",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "wirtschaftswachstum",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "china",
+          "count": 2
+        },
+        {
+          "word": "afrika",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "online",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "bundesrechnungshof",
+          "count": 1
+        },
+        {
+          "word": "steuerzahler",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

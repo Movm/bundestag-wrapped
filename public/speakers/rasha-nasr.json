@@ -1,0 +1,531 @@
+{
+  "name": "Rasha Nasr",
+  "party": "SPD",
+  "slug": "rasha-nasr",
+  "academicTitle": null,
+  "speeches": 14,
+  "wortbeitraege": 5,
+  "befragungResponses": 0,
+  "totalWords": 8929,
+  "avgWords": 470,
+  "minWords": 38,
+  "maxWords": 943,
+  "rankings": {
+    "speechRank": 42,
+    "wordsRank": 49,
+    "partySpeechRank": 11,
+    "partyWordsRank": 10,
+    "partySize": 109,
+    "totalSpeakers": 609,
+    "percentile": 93.1,
+    "verbosityRank": 209,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 46,
+    "longestSpeechRank": 86
+  },
+  "drama": {
+    "interruptionsGiven": 55,
+    "interruptionsReceived": 33,
+    "interrupterRank": 32,
+    "interruptedRank": 47
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 49
+      },
+      {
+        "word": "land",
+        "count": 35
+      },
+      {
+        "word": "sicherheit",
+        "count": 29
+      },
+      {
+        "word": "drucksache",
+        "count": 27
+      },
+      {
+        "word": "deutschland",
+        "count": 23
+      },
+      {
+        "word": "integration",
+        "count": 19
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "syrien",
+        "count": 6,
+        "ratioParty": 85.2,
+        "ratioBundestag": 9.1
+      },
+      {
+        "word": "unterrichtung",
+        "count": 5,
+        "ratioParty": 56.8,
+        "ratioBundestag": 239.3
+      },
+      {
+        "word": "drucksache",
+        "count": 27,
+        "ratioParty": 46.7,
+        "ratioBundestag": 250.1
+      },
+      {
+        "word": "verurteilt",
+        "count": 6,
+        "ratioParty": 37.9,
+        "ratioBundestag": 26.5
+      },
+      {
+        "word": "ratsdokument",
+        "count": 16,
+        "ratioParty": 27.6,
+        "ratioBundestag": 306.3
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "peinlich",
+        "count": 3,
+        "ratioParty": 34.1,
+        "ratioBundestag": 16.0
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 470,
+    "partyAvgWords": 637,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.74,
+    "vsParliament": 0.77
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "14"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "8.929"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufe",
+      "value": "55"
+    },
+    {
+      "emoji": "📊",
+      "label": "Top-Redner",
+      "value": "Top 7%"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Rasha Nasr häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Reform",
+        "isCorrect": false
+      },
+      {
+        "text": "Demokratie",
+        "isCorrect": false
+      },
+      {
+        "text": "Syrien",
+        "isCorrect": true
+      },
+      {
+        "text": "Gesetzentwurf",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Syrien\" nutzt Rasha Nasr 85.2× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "9.1× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Rasha Nasr häufiger als der Rest der SPD-Fraktion?",
+    "options": [
+      {
+        "text": "Erfolgreich",
+        "isCorrect": false
+      },
+      {
+        "text": "Peinlich",
+        "isCorrect": true
+      },
+      {
+        "text": "Sozial",
+        "isCorrect": false
+      },
+      {
+        "text": "Wichtig",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Peinlich\" nutzt Rasha Nasr 34.1× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "16.0× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐴",
+    "name": "Pferd",
+    "title": "Fleißige Debattiererin",
+    "reason": "Mit 19 Reden gehörst du zu den aktivsten Abgeordneten.",
+    "id": "pferd",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüterin",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 1.0
+      },
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißige Abgeordnete",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 71.0,
+      "aggression": 18.6,
+      "labeling": 9.3,
+      "solution_focus": 86.5,
+      "collaboration": 50.0,
+      "demand_intensity": 8.9,
+      "acknowledgment": 7.1,
+      "authority": 74.3,
+      "future_orientation": 79.4,
+      "emotional_intensity": 30.0,
+      "inclusivity": 62.9,
+      "discriminatory": 0.17
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 19,
+      "words": 5787,
+      "adjectives": 43,
+      "verbs": 56
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 7.78,
+      "klima": 0.69,
+      "wirtschaft": 1.21,
+      "soziales": 5.88,
+      "sicherheit": 4.32,
+      "gesundheit": 1.9,
+      "europa": 4.67,
+      "digital": 0.52,
+      "bildung": 1.04,
+      "finanzen": 3.28,
+      "justiz": 1.21,
+      "arbeit": 4.32,
+      "mobilitaet": 1.9
+    },
+    "topTopics": [
+      {
+        "topic": "migration",
+        "score": 7.78,
+        "rank": 1
+      },
+      {
+        "topic": "soziales",
+        "score": 5.88,
+        "rank": 2
+      },
+      {
+        "topic": "europa",
+        "score": 4.67,
+        "rank": 3
+      },
+      {
+        "topic": "sicherheit",
+        "score": 4.32,
+        "rank": 4
+      },
+      {
+        "topic": "arbeit",
+        "score": 4.32,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "integration",
+          "count": 19
+        },
+        {
+          "word": "geflüchtete",
+          "count": 4
+        },
+        {
+          "word": "migranten",
+          "count": 3
+        },
+        {
+          "word": "migration",
+          "count": 3
+        },
+        {
+          "word": "subsidiär",
+          "count": 2
+        }
+      ],
+      "klima": [
+        {
+          "word": "energie",
+          "count": 2
+        },
+        {
+          "word": "klimawandel",
+          "count": 1
+        },
+        {
+          "word": "müll",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "fachkräfte",
+          "count": 2
+        },
+        {
+          "word": "betriebe",
+          "count": 1
+        },
+        {
+          "word": "unternehmen",
+          "count": 1
+        },
+        {
+          "word": "gründer",
+          "count": 1
+        },
+        {
+          "word": "anlage",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "familie",
+          "count": 7
+        },
+        {
+          "word": "kinder",
+          "count": 6
+        },
+        {
+          "word": "familien",
+          "count": 5
+        },
+        {
+          "word": "eltern",
+          "count": 3
+        },
+        {
+          "word": "kind",
+          "count": 2
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "gewalt",
+          "count": 6
+        },
+        {
+          "word": "polizei",
+          "count": 3
+        },
+        {
+          "word": "täter",
+          "count": 2
+        },
+        {
+          "word": "verfassungsschutz",
+          "count": 2
+        },
+        {
+          "word": "spionage",
+          "count": 2
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "pandemie",
+          "count": 2
+        },
+        {
+          "word": "krankenhäuser",
+          "count": 2
+        },
+        {
+          "word": "sucht",
+          "count": 1
+        },
+        {
+          "word": "prävention",
+          "count": 1
+        },
+        {
+          "word": "vorsorge",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "ukraine",
+          "count": 4
+        },
+        {
+          "word": "krieg",
+          "count": 4
+        },
+        {
+          "word": "israel",
+          "count": 4
+        },
+        {
+          "word": "china",
+          "count": 3
+        },
+        {
+          "word": "frieden",
+          "count": 3
+        }
+      ],
+      "digital": [
+        {
+          "word": "daten",
+          "count": 1
+        },
+        {
+          "word": "netz",
+          "count": 1
+        },
+        {
+          "word": "digitalisierung",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "bildung",
+          "count": 2
+        },
+        {
+          "word": "schülerinnen",
+          "count": 1
+        },
+        {
+          "word": "studenten",
+          "count": 1
+        },
+        {
+          "word": "schule",
+          "count": 1
+        },
+        {
+          "word": "qualifizierung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 7
+        },
+        {
+          "word": "steuern",
+          "count": 5
+        },
+        {
+          "word": "investitionen",
+          "count": 1
+        },
+        {
+          "word": "kosten",
+          "count": 1
+        },
+        {
+          "word": "haushaltsausschuss",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "rechtsstaat",
+          "count": 3
+        },
+        {
+          "word": "gesetzgebung",
+          "count": 2
+        },
+        {
+          "word": "menschenrechte",
+          "count": 1
+        },
+        {
+          "word": "staatsanwaltschaft",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "mindestlohn",
+          "count": 9
+        },
+        {
+          "word": "arbeitnehmer",
+          "count": 3
+        },
+        {
+          "word": "einkommen",
+          "count": 3
+        },
+        {
+          "word": "arbeitsplätze",
+          "count": 2
+        },
+        {
+          "word": "gewerkschaften",
+          "count": 2
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 6
+        },
+        {
+          "word": "fahrzeuge",
+          "count": 2
+        },
+        {
+          "word": "auto",
+          "count": 2
+        },
+        {
+          "word": "elektroauto",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

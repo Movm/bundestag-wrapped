@@ -1,0 +1,451 @@
+{
+  "name": "Dr. Till Steffen",
+  "party": "GRÜNE",
+  "slug": "till-steffen",
+  "academicTitle": "Dr",
+  "speeches": 8,
+  "wortbeitraege": 3,
+  "befragungResponses": 0,
+  "totalWords": 6196,
+  "avgWords": 563,
+  "minWords": 68,
+  "maxWords": 759,
+  "rankings": {
+    "speechRank": 239,
+    "wordsRank": 115,
+    "partySpeechRank": 40,
+    "partyWordsRank": 16,
+    "partySize": 85,
+    "totalSpeakers": 609,
+    "percentile": 60.8,
+    "verbosityRank": 100,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 12,
+    "longestSpeechRank": 240
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 19,
+    "interrupterRank": null,
+    "interruptedRank": 142
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "mieterinnen",
+        "count": 18
+      },
+      {
+        "word": "verbraucherinnen",
+        "count": 16
+      },
+      {
+        "word": "wohnung",
+        "count": 16
+      },
+      {
+        "word": "verbraucher",
+        "count": 14
+      },
+      {
+        "word": "mieten",
+        "count": 14
+      },
+      {
+        "word": "mieter",
+        "count": 13
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "verbraucherschutzministerin",
+        "count": 5,
+        "ratioParty": 299.9,
+        "ratioBundestag": 2110.2
+      },
+      {
+        "word": "mieterinnen",
+        "count": 18,
+        "ratioParty": 134.9,
+        "ratioBundestag": 92.6
+      },
+      {
+        "word": "mietern",
+        "count": 5,
+        "ratioParty": 100.0,
+        "ratioBundestag": 78.2
+      },
+      {
+        "word": "mieter",
+        "count": 13,
+        "ratioParty": 97.5,
+        "ratioBundestag": 43.2
+      },
+      {
+        "word": "verbraucherinnen",
+        "count": 16,
+        "ratioParty": 96.0,
+        "ratioBundestag": 58.7
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "geschützt",
+        "count": 5,
+        "ratioParty": 18.7,
+        "ratioBundestag": 15.5
+      },
+      {
+        "word": "wirksam",
+        "count": 3,
+        "ratioParty": 12.0,
+        "ratioBundestag": 9.1
+      },
+      {
+        "word": "nachhaltig",
+        "count": 3,
+        "ratioParty": 7.5,
+        "ratioBundestag": 7.4
+      },
+      {
+        "word": "stark",
+        "count": 3,
+        "ratioParty": 3.8,
+        "ratioBundestag": 3.1
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 563,
+    "partyAvgWords": 567,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.99,
+    "vsParliament": 0.92
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "8"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "6.196"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Dr. Till Steffen häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Antrag",
+        "isCorrect": false
+      },
+      {
+        "text": "Verbraucherschutzministerin",
+        "isCorrect": true
+      },
+      {
+        "text": "Gesellschaft",
+        "isCorrect": false
+      },
+      {
+        "text": "Politik",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Verbraucherschutzministerin\" nutzt Dr. Till Steffen 299.9× häufiger als der GRÜNE-Durchschnitt.",
+    "explanationBundestag": "2110.2× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Dr. Till Steffen häufiger als der Rest der GRÜNE-Fraktion?",
+    "options": [
+      {
+        "text": "Jung",
+        "isCorrect": false
+      },
+      {
+        "text": "Problematisch",
+        "isCorrect": false
+      },
+      {
+        "text": "Geschützt",
+        "isCorrect": true
+      },
+      {
+        "text": "Sozial",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Geschützt\" nutzt Dr. Till Steffen 18.7× häufiger als der GRÜNE-Durchschnitt.",
+    "explanationBundestag": "15.5× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐿️",
+    "name": "Eichhörnchen",
+    "title": "Themenhüter",
+    "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+    "id": "eichhoernchen",
+    "alternatives": [
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißiger Abgeordneter",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      },
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Cleverer Stratege",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 0.947
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 85.7,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 90.9,
+      "collaboration": 60.0,
+      "demand_intensity": 11.4,
+      "acknowledgment": 11.4,
+      "authority": 85.7,
+      "future_orientation": 77.8,
+      "emotional_intensity": 40.0,
+      "inclusivity": 28.8,
+      "discriminatory": 0.25
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 11,
+      "words": 3942,
+      "adjectives": 21,
+      "verbs": 35
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 1.01,
+      "klima": 1.78,
+      "wirtschaft": 5.33,
+      "soziales": 14.71,
+      "sicherheit": 0.51,
+      "gesundheit": 0.25,
+      "europa": 0.51,
+      "digital": 3.3,
+      "bildung": 0.51,
+      "finanzen": 0.76,
+      "justiz": 6.34,
+      "arbeit": 0.25,
+      "mobilitaet": 0.25
+    },
+    "topTopics": [
+      {
+        "topic": "soziales",
+        "score": 14.71,
+        "rank": 1
+      },
+      {
+        "topic": "justiz",
+        "score": 6.34,
+        "rank": 2
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 5.33,
+        "rank": 3
+      },
+      {
+        "topic": "digital",
+        "score": 3.3,
+        "rank": 4
+      },
+      {
+        "topic": "klima",
+        "score": 1.78,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "grenze",
+          "count": 2
+        },
+        {
+          "word": "staatsangehörigkeit",
+          "count": 1
+        },
+        {
+          "word": "zuwanderung",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "nachhaltig",
+          "count": 3
+        },
+        {
+          "word": "klimaneutral",
+          "count": 2
+        },
+        {
+          "word": "nachhaltigkeit",
+          "count": 1
+        },
+        {
+          "word": "emissionen",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "markt",
+          "count": 7
+        },
+        {
+          "word": "unternehmen",
+          "count": 6
+        },
+        {
+          "word": "marktwirtschaft",
+          "count": 3
+        },
+        {
+          "word": "fachkräfte",
+          "count": 1
+        },
+        {
+          "word": "produktion",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "wohnung",
+          "count": 16
+        },
+        {
+          "word": "mieten",
+          "count": 14
+        },
+        {
+          "word": "mietpreisbremse",
+          "count": 11
+        },
+        {
+          "word": "wohnungen",
+          "count": 5
+        },
+        {
+          "word": "kind",
+          "count": 4
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "betrug",
+          "count": 2
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "krankheit",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 1
+        },
+        {
+          "word": "bündnis",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "plattformen",
+          "count": 4
+        },
+        {
+          "word": "digitalisierung",
+          "count": 3
+        },
+        {
+          "word": "online",
+          "count": 1
+        },
+        {
+          "word": "netz",
+          "count": 1
+        },
+        {
+          "word": "cloud",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "bildung",
+          "count": 1
+        },
+        {
+          "word": "studierende",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 2
+        },
+        {
+          "word": "bundeshaushalt",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "verbraucherschutz",
+          "count": 7
+        },
+        {
+          "word": "mietrecht",
+          "count": 5
+        },
+        {
+          "word": "bundesgerichtshof",
+          "count": 4
+        },
+        {
+          "word": "gerichte",
+          "count": 2
+        },
+        {
+          "word": "urteil",
+          "count": 2
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "kündigungsschutz",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "flughafen",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

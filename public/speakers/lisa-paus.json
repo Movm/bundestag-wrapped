@@ -1,0 +1,497 @@
+{
+  "name": "Lisa Paus",
+  "party": "GRÜNE",
+  "slug": "lisa-paus",
+  "academicTitle": null,
+  "speeches": 9,
+  "wortbeitraege": 3,
+  "befragungResponses": 0,
+  "totalWords": 5812,
+  "avgWords": 484,
+  "minWords": 10,
+  "maxWords": 876,
+  "rankings": {
+    "speechRank": 148,
+    "wordsRank": 130,
+    "partySpeechRank": 24,
+    "partyWordsRank": 23,
+    "partySize": 85,
+    "totalSpeakers": 609,
+    "percentile": 75.7,
+    "verbosityRank": 180,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 23,
+    "longestSpeechRank": 121
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 22,
+    "interrupterRank": null,
+    "interruptedRank": 109
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 25
+      },
+      {
+        "word": "haushalt",
+        "count": 24
+      },
+      {
+        "word": "merz",
+        "count": 16
+      },
+      {
+        "word": "wohnungen",
+        "count": 15
+      },
+      {
+        "word": "bauen",
+        "count": 14
+      },
+      {
+        "word": "werte",
+        "count": 12
+      },
+      {
+        "word": "investitionen",
+        "count": 12
+      },
+      {
+        "word": "jahr",
+        "count": 11
+      },
+      {
+        "word": "endlich",
+        "count": 11
+      },
+      {
+        "word": "geld",
+        "count": 11
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "sozialwohnungen",
+        "count": 5,
+        "ratioParty": 157.5,
+        "ratioBundestag": 67.1
+      },
+      {
+        "word": "hubertz",
+        "count": 9,
+        "ratioParty": 70.9,
+        "ratioBundestag": 42.9
+      },
+      {
+        "word": "wohnungsbau",
+        "count": 5,
+        "ratioParty": 63.0,
+        "ratioBundestag": 10.3
+      },
+      {
+        "word": "alleinerziehende",
+        "count": 5,
+        "ratioParty": 31.5,
+        "ratioBundestag": 38.2
+      },
+      {
+        "word": "bezahlbar",
+        "count": 5,
+        "ratioParty": 26.2,
+        "ratioBundestag": 17.0
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "absurd",
+        "count": 3,
+        "ratioParty": 8.2,
+        "ratioBundestag": 11.8
+      },
+      {
+        "word": "schlecht",
+        "count": 5,
+        "ratioParty": 5.9,
+        "ratioBundestag": 10.6
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 484,
+    "partyAvgWords": 567,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.85,
+    "vsParliament": 0.79
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "9"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "5.812"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Lisa Paus häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Sozialwohnungen",
+        "isCorrect": true
+      },
+      {
+        "text": "Opposition",
+        "isCorrect": false
+      },
+      {
+        "text": "Gesellschaft",
+        "isCorrect": false
+      },
+      {
+        "text": "Antrag",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Sozialwohnungen\" nutzt Lisa Paus 157.5× häufiger als der GRÜNE-Durchschnitt.",
+    "explanationBundestag": "67.1× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Lisa Paus häufiger als der Rest der GRÜNE-Fraktion?",
+    "options": [
+      {
+        "text": "Sicher",
+        "isCorrect": false
+      },
+      {
+        "text": "Absurd",
+        "isCorrect": true
+      },
+      {
+        "text": "Jung",
+        "isCorrect": false
+      },
+      {
+        "text": "Notwendig",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Absurd\" nutzt Lisa Paus 8.2× häufiger als der GRÜNE-Durchschnitt.",
+    "explanationBundestag": "11.8× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐿️",
+    "name": "Eichhörnchen",
+    "title": "Themenhüterin",
+    "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+    "id": "eichhoernchen",
+    "alternatives": [
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißige Abgeordnete",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      },
+      {
+        "emoji": "🦔",
+        "name": "Igel",
+        "title": "Beharrliche Rednerin",
+        "reason": "Auch wenn du oft unterbrochen wirst – du lässt dich nicht beirren.",
+        "id": "igel",
+        "score": 0.911
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 55.6,
+      "aggression": 28.0,
+      "labeling": 0.0,
+      "solution_focus": 77.8,
+      "collaboration": 60.0,
+      "demand_intensity": 10.7,
+      "acknowledgment": 7.1,
+      "authority": 83.2,
+      "future_orientation": 74.1,
+      "emotional_intensity": 57.9,
+      "inclusivity": 47.6,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 12,
+      "words": 3756,
+      "adjectives": 25,
+      "verbs": 28
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 4.26,
+      "wirtschaft": 3.46,
+      "soziales": 15.71,
+      "sicherheit": 0.53,
+      "gesundheit": 0.8,
+      "europa": 1.06,
+      "digital": 0.8,
+      "bildung": 2.4,
+      "finanzen": 17.84,
+      "justiz": 1.6,
+      "arbeit": 2.13,
+      "mobilitaet": 1.33
+    },
+    "topTopics": [
+      {
+        "topic": "finanzen",
+        "score": 17.84,
+        "rank": 1
+      },
+      {
+        "topic": "soziales",
+        "score": 15.71,
+        "rank": 2
+      },
+      {
+        "topic": "klima",
+        "score": 4.26,
+        "rank": 3
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 3.46,
+        "rank": 4
+      },
+      {
+        "topic": "bildung",
+        "score": 2.4,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "klimaschutz",
+          "count": 6
+        },
+        {
+          "word": "klimakrise",
+          "count": 3
+        },
+        {
+          "word": "energie",
+          "count": 2
+        },
+        {
+          "word": "nachhaltigkeit",
+          "count": 1
+        },
+        {
+          "word": "kreislaufwirtschaft",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 4
+        },
+        {
+          "word": "wachstum",
+          "count": 4
+        },
+        {
+          "word": "fachkräftemangel",
+          "count": 2
+        },
+        {
+          "word": "wettbewerbsfähigkeit",
+          "count": 1
+        },
+        {
+          "word": "rezession",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "wohnungen",
+          "count": 15
+        },
+        {
+          "word": "wohnung",
+          "count": 7
+        },
+        {
+          "word": "kinder",
+          "count": 5
+        },
+        {
+          "word": "alleinerziehende",
+          "count": 5
+        },
+        {
+          "word": "familie",
+          "count": 4
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "verteidigungsfähigkeit",
+          "count": 1
+        },
+        {
+          "word": "verteidigung",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "pflege",
+          "count": 3
+        }
+      ],
+      "europa": [
+        {
+          "word": "bündnis",
+          "count": 2
+        },
+        {
+          "word": "ukrainer",
+          "count": 1
+        },
+        {
+          "word": "europa",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "algorithmen",
+          "count": 1
+        },
+        {
+          "word": "software",
+          "count": 1
+        },
+        {
+          "word": "digitalisierung",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "schulen",
+          "count": 2
+        },
+        {
+          "word": "studierende",
+          "count": 2
+        },
+        {
+          "word": "schule",
+          "count": 1
+        },
+        {
+          "word": "wissenschaftler",
+          "count": 1
+        },
+        {
+          "word": "auszubildende",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 24
+        },
+        {
+          "word": "investitionen",
+          "count": 12
+        },
+        {
+          "word": "sondervermögen",
+          "count": 10
+        },
+        {
+          "word": "kosten",
+          "count": 7
+        },
+        {
+          "word": "schulden",
+          "count": 3
+        }
+      ],
+      "justiz": [
+        {
+          "word": "grundgesetz",
+          "count": 2
+        },
+        {
+          "word": "bundesverfassungsgericht",
+          "count": 1
+        },
+        {
+          "word": "gleichstellung",
+          "count": 1
+        },
+        {
+          "word": "mietrecht",
+          "count": 1
+        },
+        {
+          "word": "gleichberechtigung",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "vollzeit",
+          "count": 2
+        },
+        {
+          "word": "überstunden",
+          "count": 2
+        },
+        {
+          "word": "mindestlohn",
+          "count": 1
+        },
+        {
+          "word": "vereinbarkeit",
+          "count": 1
+        },
+        {
+          "word": "minijob",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 2
+        },
+        {
+          "word": "bahn",
+          "count": 1
+        },
+        {
+          "word": "bahnhof",
+          "count": 1
+        },
+        {
+          "word": "deutschlandticket",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

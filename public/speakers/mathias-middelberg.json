@@ -1,0 +1,496 @@
+{
+  "name": "Dr. Mathias Middelberg",
+  "party": "CDU/CSU",
+  "slug": "mathias-middelberg",
+  "academicTitle": "Dr",
+  "speeches": 9,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 7050,
+  "avgWords": 783,
+  "minWords": 604,
+  "maxWords": 991,
+  "rankings": {
+    "speechRank": 179,
+    "wordsRank": 91,
+    "partySpeechRank": 40,
+    "partyWordsRank": 28,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 70.6,
+    "verbosityRank": 11,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 3,
+    "longestSpeechRank": 68
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 18,
+    "interrupterRank": null,
+    "interruptedRank": 148
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "deutschland",
+        "count": 42
+      },
+      {
+        "word": "investitionen",
+        "count": 37
+      },
+      {
+        "word": "wichtig",
+        "count": 26
+      },
+      {
+        "word": "kommunen",
+        "count": 26
+      },
+      {
+        "word": "land",
+        "count": 24
+      },
+      {
+        "word": "bund",
+        "count": 23
+      },
+      {
+        "word": "länder",
+        "count": 23
+      },
+      {
+        "word": "wachstum",
+        "count": 18
+      },
+      {
+        "word": "jahr",
+        "count": 17
+      },
+      {
+        "word": "richtig",
+        "count": 16
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "zielgenau",
+        "count": 7,
+        "ratioParty": 71.2,
+        "ratioBundestag": 134.0
+      },
+      {
+        "word": "wirtschaftliches",
+        "count": 9,
+        "ratioParty": 61.0,
+        "ratioBundestag": 76.6
+      },
+      {
+        "word": "energiepreisen",
+        "count": 6,
+        "ratioParty": 52.3,
+        "ratioBundestag": 60.5
+      },
+      {
+        "word": "absenkung",
+        "count": 10,
+        "ratioParty": 45.2,
+        "ratioBundestag": 51.1
+      },
+      {
+        "word": "stillstand",
+        "count": 5,
+        "ratioParty": 33.9,
+        "ratioBundestag": 25.2
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "kritisch",
+        "count": 4,
+        "ratioParty": 14.8,
+        "ratioBundestag": 13.8
+      },
+      {
+        "word": "konstruktiv",
+        "count": 3,
+        "ratioParty": 14.6,
+        "ratioBundestag": 14.9
+      },
+      {
+        "word": "wettbewerbsfähig",
+        "count": 3,
+        "ratioParty": 7.2,
+        "ratioBundestag": 14.0
+      },
+      {
+        "word": "entscheidend",
+        "count": 7,
+        "ratioParty": 6.2,
+        "ratioBundestag": 10.0
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 783,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 1.14,
+    "vsParliament": 1.28
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "9"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "7.050"
+    },
+    {
+      "emoji": "📚",
+      "label": "Wortreichster",
+      "value": "#11 von 521"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Dr. Mathias Middelberg häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Klima",
+        "isCorrect": false
+      },
+      {
+        "text": "Kinder",
+        "isCorrect": false
+      },
+      {
+        "text": "Bürger",
+        "isCorrect": false
+      },
+      {
+        "text": "Zielgenau",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Zielgenau\" nutzt Dr. Mathias Middelberg 71.2× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "134.0× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Dr. Mathias Middelberg häufiger als der Rest der CDU/CSU-Fraktion?",
+    "options": [
+      {
+        "text": "Alt",
+        "isCorrect": false
+      },
+      {
+        "text": "Neu",
+        "isCorrect": false
+      },
+      {
+        "text": "Kritisch",
+        "isCorrect": true
+      },
+      {
+        "text": "Politisch",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Kritisch\" nutzt Dr. Mathias Middelberg 14.8× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "13.8× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐿️",
+    "name": "Eichhörnchen",
+    "title": "Themenhüter",
+    "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+    "id": "eichhoernchen",
+    "alternatives": [
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißiger Abgeordneter",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      },
+      {
+        "emoji": "🦔",
+        "name": "Igel",
+        "title": "Beharrlicher Redner",
+        "reason": "Auch wenn du oft unterbrochen wirst – du lässt dich nicht beirren.",
+        "id": "igel",
+        "score": 0.919
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 84.6,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 92.9,
+      "collaboration": 75.0,
+      "demand_intensity": 2.9,
+      "acknowledgment": 11.4,
+      "authority": 83.7,
+      "future_orientation": 88.7,
+      "emotional_intensity": 50.0,
+      "inclusivity": 61.2,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 9,
+      "words": 4344,
+      "adjectives": 26,
+      "verbs": 70
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.23,
+      "klima": 0.69,
+      "wirtschaft": 12.66,
+      "soziales": 4.83,
+      "sicherheit": 0.69,
+      "gesundheit": 0.69,
+      "europa": 0.69,
+      "digital": 1.61,
+      "bildung": 2.99,
+      "finanzen": 22.56,
+      "justiz": 0.46,
+      "arbeit": 4.14,
+      "mobilitaet": 6.45
+    },
+    "topTopics": [
+      {
+        "topic": "finanzen",
+        "score": 22.56,
+        "rank": 1
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 12.66,
+        "rank": 2
+      },
+      {
+        "topic": "mobilitaet",
+        "score": 6.45,
+        "rank": 3
+      },
+      {
+        "topic": "soziales",
+        "score": 4.83,
+        "rank": 4
+      },
+      {
+        "topic": "arbeit",
+        "score": 4.14,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "asylverfahren",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "klimaschutz",
+          "count": 1
+        },
+        {
+          "word": "klimapolitik",
+          "count": 1
+        },
+        {
+          "word": "klimaneutralität",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "wachstum",
+          "count": 18
+        },
+        {
+          "word": "standort",
+          "count": 9
+        },
+        {
+          "word": "unternehmen",
+          "count": 7
+        },
+        {
+          "word": "wettbewerbsfähigkeit",
+          "count": 6
+        },
+        {
+          "word": "wirtschaftswachstum",
+          "count": 3
+        }
+      ],
+      "soziales": [
+        {
+          "word": "bürgergeld",
+          "count": 10
+        },
+        {
+          "word": "rente",
+          "count": 4
+        },
+        {
+          "word": "familie",
+          "count": 3
+        },
+        {
+          "word": "grundsicherung",
+          "count": 2
+        },
+        {
+          "word": "rentner",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "verteidigung",
+          "count": 2
+        },
+        {
+          "word": "verteidigungsfähigkeit",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "pflege",
+          "count": 1
+        },
+        {
+          "word": "arzt",
+          "count": 1
+        },
+        {
+          "word": "krankenversicherung",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 2
+        },
+        {
+          "word": "sanktionen",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 7
+        }
+      ],
+      "bildung": [
+        {
+          "word": "bildung",
+          "count": 6
+        },
+        {
+          "word": "forschung",
+          "count": 5
+        },
+        {
+          "word": "schule",
+          "count": 1
+        },
+        {
+          "word": "ausbildung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "investitionen",
+          "count": 37
+        },
+        {
+          "word": "haushalt",
+          "count": 13
+        },
+        {
+          "word": "steuern",
+          "count": 12
+        },
+        {
+          "word": "entlastung",
+          "count": 12
+        },
+        {
+          "word": "finanzminister",
+          "count": 4
+        }
+      ],
+      "justiz": [
+        {
+          "word": "rechtsstaat",
+          "count": 1
+        },
+        {
+          "word": "grundgesetz",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitsplätze",
+          "count": 9
+        },
+        {
+          "word": "arbeitnehmer",
+          "count": 6
+        },
+        {
+          "word": "sozialabgaben",
+          "count": 1
+        },
+        {
+          "word": "arbeitsplatz",
+          "count": 1
+        },
+        {
+          "word": "langzeitarbeitslose",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 11
+        },
+        {
+          "word": "verkehr",
+          "count": 4
+        },
+        {
+          "word": "fahrzeuge",
+          "count": 4
+        },
+        {
+          "word": "fliegen",
+          "count": 3
+        },
+        {
+          "word": "luftverkehr",
+          "count": 2
+        }
+      ]
+    }
+  }
+}

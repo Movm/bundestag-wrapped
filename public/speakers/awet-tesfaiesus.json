@@ -1,0 +1,377 @@
+{
+  "name": "Awet Tesfaiesus",
+  "party": "GRÜNE",
+  "slug": "awet-tesfaiesus",
+  "academicTitle": null,
+  "speeches": 4,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 1530,
+  "avgWords": 306,
+  "minWords": 58,
+  "maxWords": 501,
+  "rankings": {
+    "speechRank": 407,
+    "wordsRank": 510,
+    "partySpeechRank": 65,
+    "partyWordsRank": 77,
+    "partySize": 85,
+    "totalSpeakers": 609,
+    "percentile": 33.2,
+    "verbosityRank": 457,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 66,
+    "longestSpeechRank": 522
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 6,
+    "interrupterRank": null,
+    "interruptedRank": 373
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "gerecht",
+        "count": 6
+      },
+      {
+        "word": "menschen",
+        "count": 6
+      },
+      {
+        "word": "stärken",
+        "count": 5
+      },
+      {
+        "word": "gesetz",
+        "count": 5
+      },
+      {
+        "word": "arbeit",
+        "count": 5
+      },
+      {
+        "word": "geben",
+        "count": 4
+      },
+      {
+        "word": "recht",
+        "count": 4
+      },
+      {
+        "word": "rechtsstaat",
+        "count": 4
+      },
+      {
+        "word": "mittel",
+        "count": 4
+      },
+      {
+        "word": "zeiten",
+        "count": 4
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "gerecht",
+        "count": 6,
+        "ratioParty": 19.6,
+        "ratioBundestag": 23.3
+      },
+      {
+        "word": "stärken",
+        "count": 5,
+        "ratioParty": 11.4,
+        "ratioBundestag": 6.9
+      },
+      {
+        "word": "gesetz",
+        "count": 5,
+        "ratioParty": 7.5,
+        "ratioBundestag": 6.3
+      },
+      {
+        "word": "arbeit",
+        "count": 5,
+        "ratioParty": 7.1,
+        "ratioBundestag": 5.8
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "gerecht",
+        "count": 6,
+        "ratioParty": 19.6,
+        "ratioBundestag": 23.3
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 306,
+    "partyAvgWords": 567,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.54,
+    "vsParliament": 0.5
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "4"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "1.530"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Awet Tesfaiesus häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Reform",
+        "isCorrect": false
+      },
+      {
+        "text": "Gerecht",
+        "isCorrect": true
+      },
+      {
+        "text": "Klima",
+        "isCorrect": false
+      },
+      {
+        "text": "Freiheit",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Gerecht\" nutzt Awet Tesfaiesus 19.6× häufiger als der GRÜNE-Durchschnitt.",
+    "explanationBundestag": "23.3× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Awet Tesfaiesus häufiger als der Rest der GRÜNE-Fraktion?",
+    "options": [
+      {
+        "text": "Notwendig",
+        "isCorrect": false
+      },
+      {
+        "text": "Groß",
+        "isCorrect": false
+      },
+      {
+        "text": "Richtig",
+        "isCorrect": false
+      },
+      {
+        "text": "Gerecht",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Gerecht\" nutzt Awet Tesfaiesus 19.6× häufiger als der GRÜNE-Durchschnitt.",
+    "explanationBundestag": "23.3× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐇",
+    "name": "Hase",
+    "title": "Wendige Optimistin",
+    "reason": "Mit positivem Blick reagierst du schnell auf neue Themen.",
+    "id": "hase",
+    "alternatives": [
+      {
+        "emoji": "🦦",
+        "name": "Otter",
+        "title": "Positive Teamplayerin",
+        "reason": "Du bringst gute Stimmung und konstruktive Beiträge ins Plenum.",
+        "id": "otter",
+        "score": 0.85
+      },
+      {
+        "emoji": "🦫",
+        "name": "Biber",
+        "title": "Konstruktive Brückenbauerin",
+        "reason": "Du baust Brücken zwischen Positionen – kooperativ und lösungsorientiert.",
+        "id": "biber",
+        "score": 0.8
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 100.0,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 100.0,
+      "collaboration": 50.0,
+      "demand_intensity": 11.1,
+      "acknowledgment": 16.7,
+      "authority": 55.6,
+      "future_orientation": 96.2,
+      "emotional_intensity": 50.0,
+      "inclusivity": 40.0,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 5,
+      "words": 1020,
+      "adjectives": 8,
+      "verbs": 18
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.98,
+      "wirtschaft": 2.94,
+      "soziales": 0.0,
+      "sicherheit": 0.0,
+      "gesundheit": 0.0,
+      "europa": 3.92,
+      "digital": 4.9,
+      "bildung": 0.0,
+      "finanzen": 7.84,
+      "justiz": 7.84,
+      "arbeit": 0.98,
+      "mobilitaet": 1.96
+    },
+    "topTopics": [
+      {
+        "topic": "finanzen",
+        "score": 7.84,
+        "rank": 1
+      },
+      {
+        "topic": "justiz",
+        "score": 7.84,
+        "rank": 2
+      },
+      {
+        "topic": "digital",
+        "score": 4.9,
+        "rank": 3
+      },
+      {
+        "topic": "europa",
+        "score": 3.92,
+        "rank": 4
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 2.94,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "nachhaltig",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "konzerne",
+          "count": 1
+        },
+        {
+          "word": "werke",
+          "count": 1
+        },
+        {
+          "word": "unternehmen",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 2
+        },
+        {
+          "word": "außenminister",
+          "count": 1
+        },
+        {
+          "word": "amerika",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "digital",
+          "count": 2
+        },
+        {
+          "word": "digitalisierung",
+          "count": 1
+        },
+        {
+          "word": "netz",
+          "count": 1
+        },
+        {
+          "word": "technologie",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 3
+        },
+        {
+          "word": "kosten",
+          "count": 3
+        },
+        {
+          "word": "bundeshaushalt",
+          "count": 1
+        },
+        {
+          "word": "defizit",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "rechtsstaat",
+          "count": 4
+        },
+        {
+          "word": "verordnung",
+          "count": 1
+        },
+        {
+          "word": "justizministerium",
+          "count": 1
+        },
+        {
+          "word": "straftaten",
+          "count": 1
+        },
+        {
+          "word": "menschenrechte",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "einkommen",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 1
+        },
+        {
+          "word": "straßen",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,306 @@
+{
+  "name": "Knut Abraham",
+  "party": "CDU/CSU",
+  "slug": "knut-abraham",
+  "academicTitle": null,
+  "speeches": 5,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 2334,
+  "avgWords": 389,
+  "minWords": 50,
+  "maxWords": 604,
+  "rankings": {
+    "speechRank": 360,
+    "wordsRank": 425,
+    "partySpeechRank": 99,
+    "partyWordsRank": 132,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 40.9,
+    "verbosityRank": 356,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 127,
+    "longestSpeechRank": 420
+  },
+  "drama": {
+    "interruptionsGiven": 11,
+    "interruptionsReceived": 24,
+    "interrupterRank": 151,
+    "interruptedRank": 84
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "putin",
+        "count": 15
+      },
+      {
+        "word": "ukraine",
+        "count": 9
+      },
+      {
+        "word": "wissen",
+        "count": 9
+      },
+      {
+        "word": "debatte",
+        "count": 8
+      },
+      {
+        "word": "russland",
+        "count": 8
+      },
+      {
+        "word": "denkmal",
+        "count": 8
+      },
+      {
+        "word": "deutschen",
+        "count": 7
+      },
+      {
+        "word": "europas",
+        "count": 6
+      },
+      {
+        "word": "diplomatie",
+        "count": 6
+      },
+      {
+        "word": "rede",
+        "count": 5
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "denkmal",
+        "count": 8,
+        "ratioParty": 730.9,
+        "ratioBundestag": 703.2
+      },
+      {
+        "word": "diplomatie",
+        "count": 6,
+        "ratioParty": 66.4,
+        "ratioBundestag": 48.3
+      },
+      {
+        "word": "putin",
+        "count": 15,
+        "ratioParty": 50.8,
+        "ratioBundestag": 58.1
+      },
+      {
+        "word": "europas",
+        "count": 6,
+        "ratioParty": 13.9,
+        "ratioBundestag": 23.8
+      },
+      {
+        "word": "russland",
+        "count": 8,
+        "ratioParty": 11.6,
+        "ratioBundestag": 14.5
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 389,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.57,
+    "vsParliament": 0.63
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "5"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "2.334"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufe",
+      "value": "11"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Knut Abraham häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Denkmal",
+        "isCorrect": true
+      },
+      {
+        "text": "Gesellschaft",
+        "isCorrect": false
+      },
+      {
+        "text": "Freiheit",
+        "isCorrect": false
+      },
+      {
+        "text": "Energie",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Denkmal\" nutzt Knut Abraham 730.9× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "703.2× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🦊",
+    "name": "Fuchs",
+    "title": "Cleverer Stratege",
+    "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+    "id": "fuchs",
+    "alternatives": [
+      {
+        "emoji": "🦔",
+        "name": "Igel",
+        "title": "Beharrlicher Redner",
+        "reason": "Auch wenn du oft unterbrochen wirst – du lässt dich nicht beirren.",
+        "id": "igel",
+        "score": 0.875
+      },
+      {
+        "emoji": "🦉",
+        "name": "Eule",
+        "title": "Themenexperte",
+        "reason": "Dein Fachwort \"Denkmal\" nutzt du 730.9× häufiger als deine Fraktion.",
+        "id": "eule",
+        "score": 0.86
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 75.0,
+      "aggression": 33.3,
+      "labeling": 0.0,
+      "solution_focus": 75.0,
+      "collaboration": 33.3,
+      "demand_intensity": 0.0,
+      "acknowledgment": 11.8,
+      "authority": 72.7,
+      "future_orientation": 80.0,
+      "emotional_intensity": 60.0,
+      "inclusivity": 53.8,
+      "discriminatory": 0.69
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 6,
+      "words": 1458,
+      "adjectives": 6,
+      "verbs": 17
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 1.37,
+      "klima": 0.0,
+      "wirtschaft": 0.0,
+      "soziales": 2.06,
+      "sicherheit": 4.12,
+      "gesundheit": 0.0,
+      "europa": 41.15,
+      "digital": 0.0,
+      "bildung": 0.0,
+      "finanzen": 0.0,
+      "justiz": 0.0,
+      "arbeit": 0.0,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "europa",
+        "score": 41.15,
+        "rank": 1
+      },
+      {
+        "topic": "sicherheit",
+        "score": 4.12,
+        "rank": 2
+      },
+      {
+        "topic": "soziales",
+        "score": 2.06,
+        "rank": 3
+      },
+      {
+        "topic": "migration",
+        "score": 1.37,
+        "rank": 4
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "flüchtlinge",
+          "count": 1
+        },
+        {
+          "word": "grenze",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 3
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "verteidigungsfähigkeit",
+          "count": 1
+        },
+        {
+          "word": "soldaten",
+          "count": 1
+        },
+        {
+          "word": "waffen",
+          "count": 1
+        },
+        {
+          "word": "verbrechen",
+          "count": 1
+        },
+        {
+          "word": "armee",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "putin",
+          "count": 15
+        },
+        {
+          "word": "ukraine",
+          "count": 9
+        },
+        {
+          "word": "russland",
+          "count": 8
+        },
+        {
+          "word": "diplomatie",
+          "count": 6
+        },
+        {
+          "word": "krieg",
+          "count": 5
+        }
+      ]
+    }
+  }
+}

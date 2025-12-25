@@ -1,0 +1,430 @@
+{
+  "name": "Julian Joswig",
+  "party": "GRÜNE",
+  "slug": "julian-joswig",
+  "academicTitle": null,
+  "speeches": 6,
+  "wortbeitraege": 8,
+  "befragungResponses": 0,
+  "totalWords": 3847,
+  "avgWords": 275,
+  "minWords": 66,
+  "maxWords": 613,
+  "rankings": {
+    "speechRank": 310,
+    "wordsRank": 270,
+    "partySpeechRank": 53,
+    "partyWordsRank": 45,
+    "partySize": 85,
+    "totalSpeakers": 609,
+    "percentile": 49.1,
+    "verbosityRank": 480,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 71,
+    "longestSpeechRank": 405
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 10,
+    "interrupterRank": null,
+    "interruptedRank": 270
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "zukunft",
+        "count": 14
+      },
+      {
+        "word": "wirtschaft",
+        "count": 12
+      },
+      {
+        "word": "bundesregierung",
+        "count": 12
+      },
+      {
+        "word": "menschen",
+        "count": 11
+      },
+      {
+        "word": "deutsche",
+        "count": 10
+      },
+      {
+        "word": "investitionen",
+        "count": 10
+      },
+      {
+        "word": "grüne",
+        "count": 10
+      },
+      {
+        "word": "beim",
+        "count": 9
+      },
+      {
+        "word": "europarat",
+        "count": 8
+      },
+      {
+        "word": "unternehmen",
+        "count": 7
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "europarat",
+        "count": 8,
+        "ratioParty": 95.8,
+        "ratioBundestag": 68.8
+      },
+      {
+        "word": "automobilindustrie",
+        "count": 7,
+        "ratioParty": 37.3,
+        "ratioBundestag": 32.6
+      },
+      {
+        "word": "grüner",
+        "count": 5,
+        "ratioParty": 36.8,
+        "ratioBundestag": 46.6
+      },
+      {
+        "word": "verbrenner",
+        "count": 7,
+        "ratioParty": 24.8,
+        "ratioBundestag": 48.4
+      },
+      {
+        "word": "menschenrechte",
+        "count": 5,
+        "ratioParty": 16.0,
+        "ratioBundestag": 15.9
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 275,
+    "partyAvgWords": 567,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.49,
+    "vsParliament": 0.45
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "6"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "3.847"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Julian Joswig häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Gesetzentwurf",
+        "isCorrect": false
+      },
+      {
+        "text": "Minister",
+        "isCorrect": false
+      },
+      {
+        "text": "Demokratie",
+        "isCorrect": false
+      },
+      {
+        "text": "Europarat",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Europarat\" nutzt Julian Joswig 95.8× häufiger als der GRÜNE-Durchschnitt.",
+    "explanationBundestag": "68.8× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🐬",
+    "name": "Delfin",
+    "title": "Diplomatischer Redner",
+    "reason": "Aktiv im Parlament, aber respektvoll ohne viele Zwischenrufe.",
+    "id": "delfin",
+    "alternatives": [
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißiger Abgeordneter",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 0.981
+      },
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüter",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.954
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 36.4,
+      "aggression": 6.7,
+      "labeling": 20.0,
+      "solution_focus": 82.4,
+      "collaboration": 100.0,
+      "demand_intensity": 4.8,
+      "acknowledgment": 9.5,
+      "authority": 71.9,
+      "future_orientation": 72.2,
+      "emotional_intensity": 66.7,
+      "inclusivity": 40.4,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 14,
+      "words": 2483,
+      "adjectives": 15,
+      "verbs": 21
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.81,
+      "klima": 6.04,
+      "wirtschaft": 14.1,
+      "soziales": 0.81,
+      "sicherheit": 0.0,
+      "gesundheit": 0.0,
+      "europa": 13.29,
+      "digital": 2.42,
+      "bildung": 1.61,
+      "finanzen": 7.25,
+      "justiz": 5.24,
+      "arbeit": 0.0,
+      "mobilitaet": 4.03
+    },
+    "topTopics": [
+      {
+        "topic": "wirtschaft",
+        "score": 14.1,
+        "rank": 1
+      },
+      {
+        "topic": "europa",
+        "score": 13.29,
+        "rank": 2
+      },
+      {
+        "topic": "finanzen",
+        "score": 7.25,
+        "rank": 3
+      },
+      {
+        "topic": "klima",
+        "score": 6.04,
+        "rank": 4
+      },
+      {
+        "topic": "justiz",
+        "score": 5.24,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "grenzkontrollen",
+          "count": 2
+        }
+      ],
+      "klima": [
+        {
+          "word": "klimaschutz",
+          "count": 5
+        },
+        {
+          "word": "wasserstoff",
+          "count": 2
+        },
+        {
+          "word": "klimakrise",
+          "count": 2
+        },
+        {
+          "word": "umwelt",
+          "count": 2
+        },
+        {
+          "word": "klimaziel",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 7
+        },
+        {
+          "word": "automobilindustrie",
+          "count": 7
+        },
+        {
+          "word": "industrie",
+          "count": 5
+        },
+        {
+          "word": "wettbewerbsfähigkeit",
+          "count": 4
+        },
+        {
+          "word": "markt",
+          "count": 3
+        }
+      ],
+      "soziales": [
+        {
+          "word": "rente",
+          "count": 1
+        },
+        {
+          "word": "kind",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "europarat",
+          "count": 8
+        },
+        {
+          "word": "europa",
+          "count": 5
+        },
+        {
+          "word": "krieg",
+          "count": 4
+        },
+        {
+          "word": "china",
+          "count": 4
+        },
+        {
+          "word": "ukraine",
+          "count": 3
+        }
+      ],
+      "digital": [
+        {
+          "word": "rechenzentrum",
+          "count": 1
+        },
+        {
+          "word": "digitalisierung",
+          "count": 1
+        },
+        {
+          "word": "netzausbau",
+          "count": 1
+        },
+        {
+          "word": "digital",
+          "count": 1
+        },
+        {
+          "word": "technologie",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "forschung",
+          "count": 2
+        },
+        {
+          "word": "schulen",
+          "count": 1
+        },
+        {
+          "word": "wissenschaft",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "investitionen",
+          "count": 10
+        },
+        {
+          "word": "sondervermögen",
+          "count": 5
+        },
+        {
+          "word": "subventionen",
+          "count": 1
+        },
+        {
+          "word": "haushalt",
+          "count": 1
+        },
+        {
+          "word": "etat",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "menschenrechte",
+          "count": 5
+        },
+        {
+          "word": "grundrechte",
+          "count": 2
+        },
+        {
+          "word": "verteidiger",
+          "count": 1
+        },
+        {
+          "word": "grundgesetz",
+          "count": 1
+        },
+        {
+          "word": "strafverfolgung",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "autos",
+          "count": 4
+        },
+        {
+          "word": "infrastruktur",
+          "count": 2
+        },
+        {
+          "word": "auto",
+          "count": 1
+        },
+        {
+          "word": "stau",
+          "count": 1
+        },
+        {
+          "word": "fahrzeuge",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

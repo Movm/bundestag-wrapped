@@ -1,0 +1,378 @@
+{
+  "name": "Dr. Thomas Pauls",
+  "party": "CDU/CSU",
+  "slug": "thomas-pauls",
+  "academicTitle": "Dr",
+  "speeches": 4,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 2290,
+  "avgWords": 572,
+  "minWords": 461,
+  "maxWords": 711,
+  "rankings": {
+    "speechRank": 418,
+    "wordsRank": 431,
+    "partySpeechRank": 125,
+    "partyWordsRank": 134,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 31.4,
+    "verbosityRank": 91,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 38,
+    "longestSpeechRank": 288
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 4,
+    "interrupterRank": null,
+    "interruptedRank": 415
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "deutschland",
+        "count": 13
+      },
+      {
+        "word": "souveränität",
+        "count": 8
+      },
+      {
+        "word": "übrigens",
+        "count": 8
+      },
+      {
+        "word": "jahren",
+        "count": 8
+      },
+      {
+        "word": "digitale",
+        "count": 5
+      },
+      {
+        "word": "jahre",
+        "count": 5
+      },
+      {
+        "word": "setzen",
+        "count": 5
+      },
+      {
+        "word": "investieren",
+        "count": 5
+      },
+      {
+        "word": "einfach",
+        "count": 5
+      },
+      {
+        "word": "medikamente",
+        "count": 5
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "medikamente",
+        "count": 5,
+        "ratioParty": 607.4,
+        "ratioBundestag": 111.7
+      },
+      {
+        "word": "souveränität",
+        "count": 8,
+        "ratioParty": 28.9,
+        "ratioBundestag": 28.4
+      },
+      {
+        "word": "übrigens",
+        "count": 8,
+        "ratioParty": 11.6,
+        "ratioBundestag": 12.5
+      },
+      {
+        "word": "digitale",
+        "count": 5,
+        "ratioParty": 9.6,
+        "ratioBundestag": 10.6
+      },
+      {
+        "word": "investieren",
+        "count": 5,
+        "ratioParty": 4.9,
+        "ratioBundestag": 5.2
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 572,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.83,
+    "vsParliament": 0.93
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "4"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "2.290"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Dr. Thomas Pauls häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Energie",
+        "isCorrect": false
+      },
+      {
+        "text": "Medikamente",
+        "isCorrect": true
+      },
+      {
+        "text": "Minister",
+        "isCorrect": false
+      },
+      {
+        "text": "Steuern",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Medikamente\" nutzt Dr. Thomas Pauls 607.4× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "111.7× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🦫",
+    "name": "Biber",
+    "title": "Konstruktiver Brückenbauer",
+    "reason": "Du baust Brücken zwischen Positionen – kooperativ und lösungsorientiert.",
+    "id": "biber",
+    "alternatives": [
+      {
+        "emoji": "🐇",
+        "name": "Hase",
+        "title": "Wendiger Optimist",
+        "reason": "Mit positivem Blick reagierst du schnell auf neue Themen.",
+        "id": "hase",
+        "score": 0.786
+      },
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Cleverer Stratege",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 0.753
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 71.4,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 100.0,
+      "collaboration": 50.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 10.5,
+      "authority": 85.3,
+      "future_orientation": 70.0,
+      "emotional_intensity": 25.0,
+      "inclusivity": 46.5,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 4,
+      "words": 1462,
+      "adjectives": 7,
+      "verbs": 19
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.0,
+      "wirtschaft": 6.16,
+      "soziales": 2.74,
+      "sicherheit": 2.05,
+      "gesundheit": 11.63,
+      "europa": 3.42,
+      "digital": 6.84,
+      "bildung": 2.74,
+      "finanzen": 2.05,
+      "justiz": 0.68,
+      "arbeit": 0.0,
+      "mobilitaet": 0.68
+    },
+    "topTopics": [
+      {
+        "topic": "gesundheit",
+        "score": 11.63,
+        "rank": 1
+      },
+      {
+        "topic": "digital",
+        "score": 6.84,
+        "rank": 2
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 6.16,
+        "rank": 3
+      },
+      {
+        "topic": "europa",
+        "score": 3.42,
+        "rank": 4
+      },
+      {
+        "topic": "soziales",
+        "score": 2.74,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "wirtschaft": [
+        {
+          "word": "markt",
+          "count": 3
+        },
+        {
+          "word": "unternehmen",
+          "count": 2
+        },
+        {
+          "word": "industrie",
+          "count": 2
+        },
+        {
+          "word": "gründer",
+          "count": 1
+        },
+        {
+          "word": "märkte",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 3
+        },
+        {
+          "word": "kind",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "polizei",
+          "count": 2
+        },
+        {
+          "word": "videoüberwachung",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "medikamente",
+          "count": 5
+        },
+        {
+          "word": "medikament",
+          "count": 4
+        },
+        {
+          "word": "gesundheitssystem",
+          "count": 3
+        },
+        {
+          "word": "behandlung",
+          "count": 2
+        },
+        {
+          "word": "rezept",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 3
+        },
+        {
+          "word": "gipfel",
+          "count": 1
+        },
+        {
+          "word": "kooperation",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "cloud",
+          "count": 2
+        },
+        {
+          "word": "online",
+          "count": 2
+        },
+        {
+          "word": "digitalisierung",
+          "count": 2
+        },
+        {
+          "word": "daten",
+          "count": 1
+        },
+        {
+          "word": "netz",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "forschung",
+          "count": 3
+        },
+        {
+          "word": "schule",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 2
+        },
+        {
+          "word": "währung",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "datenschutz",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "fahrrad",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

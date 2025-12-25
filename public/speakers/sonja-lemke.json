@@ -1,0 +1,525 @@
+{
+  "name": "Sonja Lemke",
+  "party": "DIE LINKE",
+  "slug": "sonja-lemke",
+  "academicTitle": null,
+  "speeches": 14,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 7820,
+  "avgWords": 559,
+  "minWords": 292,
+  "maxWords": 928,
+  "rankings": {
+    "speechRank": 38,
+    "wordsRank": 72,
+    "partySpeechRank": 5,
+    "partyWordsRank": 10,
+    "partySize": 63,
+    "totalSpeakers": 609,
+    "percentile": 93.8,
+    "verbosityRank": 104,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 6,
+    "longestSpeechRank": 94
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 29,
+    "interrupterRank": 68,
+    "interruptedRank": 55
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 33
+      },
+      {
+        "word": "daten",
+        "count": 23
+      },
+      {
+        "word": "forschung",
+        "count": 23
+      },
+      {
+        "word": "agenda",
+        "count": 20
+      },
+      {
+        "word": "haushalt",
+        "count": 20
+      },
+      {
+        "word": "geld",
+        "count": 20
+      },
+      {
+        "word": "hightech",
+        "count": 18
+      },
+      {
+        "word": "bundesregierung",
+        "count": 18
+      },
+      {
+        "word": "endlich",
+        "count": 18
+      },
+      {
+        "word": "reden",
+        "count": 16
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "grundfinanzierung",
+        "count": 5,
+        "ratioParty": 164.0,
+        "ratioBundestag": 201.3
+      },
+      {
+        "word": "hightech",
+        "count": 18,
+        "ratioParty": 73.8,
+        "ratioBundestag": 22.6
+      },
+      {
+        "word": "zuhörende",
+        "count": 8,
+        "ratioParty": 52.5,
+        "ratioBundestag": 322.1
+      },
+      {
+        "word": "datenschutz",
+        "count": 7,
+        "ratioParty": 38.3,
+        "ratioBundestag": 41.8
+      },
+      {
+        "word": "forschung",
+        "count": 23,
+        "ratioParty": 32.8,
+        "ratioBundestag": 13.8
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "wirksam",
+        "count": 3,
+        "ratioParty": 8.9,
+        "ratioBundestag": 7.0
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 559,
+    "partyAvgWords": 521,
+    "parliamentAvgWords": 613,
+    "vsParty": 1.07,
+    "vsParliament": 0.91
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "14"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "7.820"
+    },
+    {
+      "emoji": "🥇",
+      "label": "Rang in DIE LINKE",
+      "value": "#5 von 63"
+    },
+    {
+      "emoji": "📊",
+      "label": "Top-Redner",
+      "value": "Top 7%"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Sonja Lemke häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Zukunft",
+        "isCorrect": false
+      },
+      {
+        "text": "Bundesregierung",
+        "isCorrect": false
+      },
+      {
+        "text": "Grundfinanzierung",
+        "isCorrect": true
+      },
+      {
+        "text": "Sicherheit",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Grundfinanzierung\" nutzt Sonja Lemke 164.0× häufiger als der DIE LINKE-Durchschnitt.",
+    "explanationBundestag": "201.3× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Sonja Lemke häufiger als der Rest der DIE LINKE-Fraktion?",
+    "options": [
+      {
+        "text": "Wichtig",
+        "isCorrect": false
+      },
+      {
+        "text": "Wirksam",
+        "isCorrect": true
+      },
+      {
+        "text": "Schlecht",
+        "isCorrect": false
+      },
+      {
+        "text": "Wirtschaftlich",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Wirksam\" nutzt Sonja Lemke 8.9× häufiger als der DIE LINKE-Durchschnitt.",
+    "explanationBundestag": "7.0× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐿️",
+    "name": "Eichhörnchen",
+    "title": "Themenhüterin",
+    "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+    "id": "eichhoernchen",
+    "alternatives": [
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißige Abgeordnete",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      },
+      {
+        "emoji": "🐻",
+        "name": "Bär",
+        "title": "Standhafte Debattiererin",
+        "reason": "Trotz 29× unterbrochen zu werden, bleibst du standhaft.",
+        "id": "baer",
+        "score": 0.973
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 59.3,
+      "aggression": 12.9,
+      "labeling": 0.0,
+      "solution_focus": 72.4,
+      "collaboration": 50.0,
+      "demand_intensity": 2.7,
+      "acknowledgment": 8.1,
+      "authority": 72.8,
+      "future_orientation": 92.2,
+      "emotional_intensity": 66.7,
+      "inclusivity": 39.3,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 14,
+      "words": 5161,
+      "adjectives": 31,
+      "verbs": 37
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.78,
+      "wirtschaft": 3.68,
+      "soziales": 1.94,
+      "sicherheit": 2.33,
+      "gesundheit": 2.13,
+      "europa": 0.19,
+      "digital": 9.11,
+      "bildung": 9.69,
+      "finanzen": 9.49,
+      "justiz": 4.65,
+      "arbeit": 0.78,
+      "mobilitaet": 4.26
+    },
+    "topTopics": [
+      {
+        "topic": "bildung",
+        "score": 9.69,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 9.49,
+        "rank": 2
+      },
+      {
+        "topic": "digital",
+        "score": 9.11,
+        "rank": 3
+      },
+      {
+        "topic": "justiz",
+        "score": 4.65,
+        "rank": 4
+      },
+      {
+        "topic": "mobilitaet",
+        "score": 4.26,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "energie",
+          "count": 1
+        },
+        {
+          "word": "klimakrise",
+          "count": 1
+        },
+        {
+          "word": "umwelt",
+          "count": 1
+        },
+        {
+          "word": "klimaneutral",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 9
+        },
+        {
+          "word": "konzerne",
+          "count": 4
+        },
+        {
+          "word": "industrie",
+          "count": 2
+        },
+        {
+          "word": "markt",
+          "count": 1
+        },
+        {
+          "word": "lieferkette",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 3
+        },
+        {
+          "word": "sozialstaat",
+          "count": 2
+        },
+        {
+          "word": "rentner",
+          "count": 1
+        },
+        {
+          "word": "mieten",
+          "count": 1
+        },
+        {
+          "word": "umverteilung",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "militär",
+          "count": 3
+        },
+        {
+          "word": "angriff",
+          "count": 2
+        },
+        {
+          "word": "rüstung",
+          "count": 2
+        },
+        {
+          "word": "gewalt",
+          "count": 2
+        },
+        {
+          "word": "verteidigung",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "krankheit",
+          "count": 5
+        },
+        {
+          "word": "covid",
+          "count": 2
+        },
+        {
+          "word": "corona",
+          "count": 1
+        },
+        {
+          "word": "therapie",
+          "count": 1
+        },
+        {
+          "word": "psychisch",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "gipfel",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "daten",
+          "count": 23
+        },
+        {
+          "word": "technologie",
+          "count": 5
+        },
+        {
+          "word": "digital",
+          "count": 5
+        },
+        {
+          "word": "digitalisierung",
+          "count": 4
+        },
+        {
+          "word": "software",
+          "count": 3
+        }
+      ],
+      "bildung": [
+        {
+          "word": "forschung",
+          "count": 23
+        },
+        {
+          "word": "wissenschaft",
+          "count": 13
+        },
+        {
+          "word": "studium",
+          "count": 3
+        },
+        {
+          "word": "bafög",
+          "count": 2
+        },
+        {
+          "word": "universitäten",
+          "count": 2
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 20
+        },
+        {
+          "word": "sondervermögen",
+          "count": 6
+        },
+        {
+          "word": "finanzierung",
+          "count": 5
+        },
+        {
+          "word": "kosten",
+          "count": 4
+        },
+        {
+          "word": "schuldenbremse",
+          "count": 4
+        }
+      ],
+      "justiz": [
+        {
+          "word": "datenschutz",
+          "count": 7
+        },
+        {
+          "word": "grundrechte",
+          "count": 7
+        },
+        {
+          "word": "verordnung",
+          "count": 5
+        },
+        {
+          "word": "diskriminierung",
+          "count": 2
+        },
+        {
+          "word": "menschenrechte",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitszeit",
+          "count": 1
+        },
+        {
+          "word": "beschäftigte",
+          "count": 1
+        },
+        {
+          "word": "mitbestimmung",
+          "count": 1
+        },
+        {
+          "word": "arbeitnehmer",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 13
+        },
+        {
+          "word": "straßen",
+          "count": 3
+        },
+        {
+          "word": "bahn",
+          "count": 2
+        },
+        {
+          "word": "fliegen",
+          "count": 1
+        },
+        {
+          "word": "fahrzeuge",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

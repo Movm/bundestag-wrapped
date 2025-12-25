@@ -1,0 +1,380 @@
+{
+  "name": "Janina Böttger",
+  "party": "DIE LINKE",
+  "slug": "janina-boettger",
+  "academicTitle": null,
+  "speeches": 5,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 1245,
+  "avgWords": 208,
+  "minWords": 60,
+  "maxWords": 443,
+  "rankings": {
+    "speechRank": 357,
+    "wordsRank": 529,
+    "partySpeechRank": 45,
+    "partyWordsRank": 58,
+    "partySize": 63,
+    "totalSpeakers": 609,
+    "percentile": 41.4,
+    "verbosityRank": 503,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 58,
+    "longestSpeechRank": 560
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 3,
+    "interrupterRank": 316,
+    "interruptedRank": 447
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "europa",
+        "count": 8
+      },
+      {
+        "word": "europäischen",
+        "count": 7
+      },
+      {
+        "word": "europäische",
+        "count": 6
+      },
+      {
+        "word": "verhindern",
+        "count": 5
+      },
+      {
+        "word": "brüssel",
+        "count": 5
+      },
+      {
+        "word": "regionen",
+        "count": 5
+      },
+      {
+        "word": "soziale",
+        "count": 5
+      },
+      {
+        "word": "soll",
+        "count": 4
+      },
+      {
+        "word": "gehört",
+        "count": 4
+      },
+      {
+        "word": "union",
+        "count": 4
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "brüssel",
+        "count": 5,
+        "ratioParty": 364.4,
+        "ratioBundestag": 46.9
+      },
+      {
+        "word": "europa",
+        "count": 8,
+        "ratioParty": 40.7,
+        "ratioBundestag": 11.1
+      },
+      {
+        "word": "regionen",
+        "count": 5,
+        "ratioParty": 36.4,
+        "ratioBundestag": 46.9
+      },
+      {
+        "word": "europäische",
+        "count": 6,
+        "ratioParty": 36.4,
+        "ratioBundestag": 17.1
+      },
+      {
+        "word": "europäischen",
+        "count": 7,
+        "ratioParty": 32.6,
+        "ratioBundestag": 13.4
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 208,
+    "partyAvgWords": 521,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.4,
+    "vsParliament": 0.34
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "5"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "1.245"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Janina Böttger häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Arbeit",
+        "isCorrect": false
+      },
+      {
+        "text": "Minister",
+        "isCorrect": false
+      },
+      {
+        "text": "Bildung",
+        "isCorrect": false
+      },
+      {
+        "text": "Brüssel",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Brüssel\" nutzt Janina Böttger 364.4× häufiger als der DIE LINKE-Durchschnitt.",
+    "explanationBundestag": "46.9× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🦊",
+    "name": "Fuchs",
+    "title": "Clevere Strategin",
+    "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+    "id": "fuchs",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüterin",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.775
+      },
+      {
+        "emoji": "🦜",
+        "name": "Papagei",
+        "title": "Neugierige Fragestellerin",
+        "reason": "Mit vielen Fragen bringst du wichtige Themen auf den Tisch.",
+        "id": "papagei",
+        "score": 0.769
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 75.0,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 28.6,
+      "collaboration": 50.0,
+      "demand_intensity": 9.1,
+      "acknowledgment": 9.1,
+      "authority": 100.0,
+      "future_orientation": 89.5,
+      "emotional_intensity": 60.0,
+      "inclusivity": 36.0,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 6,
+      "words": 794,
+      "adjectives": 4,
+      "verbs": 11
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 2.52,
+      "klima": 2.52,
+      "wirtschaft": 3.78,
+      "soziales": 6.3,
+      "sicherheit": 1.26,
+      "gesundheit": 0.0,
+      "europa": 23.93,
+      "digital": 0.0,
+      "bildung": 2.52,
+      "finanzen": 6.3,
+      "justiz": 5.04,
+      "arbeit": 6.3,
+      "mobilitaet": 1.26
+    },
+    "topTopics": [
+      {
+        "topic": "europa",
+        "score": 23.93,
+        "rank": 1
+      },
+      {
+        "topic": "soziales",
+        "score": 6.3,
+        "rank": 2
+      },
+      {
+        "topic": "finanzen",
+        "score": 6.3,
+        "rank": 3
+      },
+      {
+        "topic": "arbeit",
+        "score": 6.3,
+        "rank": 4
+      },
+      {
+        "topic": "justiz",
+        "score": 5.04,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "migration",
+          "count": 1
+        },
+        {
+          "word": "grenze",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "umweltschutz",
+          "count": 1
+        },
+        {
+          "word": "klimaschutz",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "konkurrenz",
+          "count": 1
+        },
+        {
+          "word": "konzern",
+          "count": 1
+        },
+        {
+          "word": "markt",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "rente",
+          "count": 2
+        },
+        {
+          "word": "umverteilung",
+          "count": 1
+        },
+        {
+          "word": "armut",
+          "count": 1
+        },
+        {
+          "word": "riester",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "rüstung",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 8
+        },
+        {
+          "word": "brüssel",
+          "count": 5
+        },
+        {
+          "word": "außenminister",
+          "count": 1
+        },
+        {
+          "word": "krieg",
+          "count": 1
+        },
+        {
+          "word": "frieden",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "schulen",
+          "count": 1
+        },
+        {
+          "word": "bildung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 3
+        },
+        {
+          "word": "bundeshaushalt",
+          "count": 2
+        }
+      ],
+      "justiz": [
+        {
+          "word": "rechtsstaatlichkeit",
+          "count": 3
+        },
+        {
+          "word": "gesetzgebung",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitnehmer",
+          "count": 2
+        },
+        {
+          "word": "arbeitsplätze",
+          "count": 1
+        },
+        {
+          "word": "arbeitnehmerinnen",
+          "count": 1
+        },
+        {
+          "word": "arbeitslosigkeit",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "straßen",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

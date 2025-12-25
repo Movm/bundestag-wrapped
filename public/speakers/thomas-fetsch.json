@@ -1,0 +1,348 @@
+{
+  "name": "Thomas Fetsch",
+  "party": "AfD",
+  "slug": "thomas-fetsch",
+  "academicTitle": null,
+  "speeches": 9,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 3549,
+  "avgWords": 355,
+  "minWords": 62,
+  "maxWords": 665,
+  "rankings": {
+    "speechRank": 147,
+    "wordsRank": 305,
+    "partySpeechRank": 32,
+    "partyWordsRank": 68,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 75.9,
+    "verbosityRank": 404,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 99,
+    "longestSpeechRank": 341
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 11,
+    "interrupterRank": null,
+    "interruptedRank": 254
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "koalition",
+        "count": 16
+      },
+      {
+        "word": "unternehmen",
+        "count": 10
+      },
+      {
+        "word": "digitalisierung",
+        "count": 9
+      },
+      {
+        "word": "mietpreisbremse",
+        "count": 9
+      },
+      {
+        "word": "justiz",
+        "count": 8
+      },
+      {
+        "word": "bürger",
+        "count": 7
+      },
+      {
+        "word": "land",
+        "count": 7
+      },
+      {
+        "word": "entwurf",
+        "count": 7
+      },
+      {
+        "word": "aufgrund",
+        "count": 7
+      },
+      {
+        "word": "allerdings",
+        "count": 6
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "kommunikation",
+        "count": 6,
+        "ratioParty": 46.3,
+        "ratioBundestag": 41.9
+      },
+      {
+        "word": "mietpreisbremse",
+        "count": 9,
+        "ratioParty": 39.7,
+        "ratioBundestag": 25.0
+      },
+      {
+        "word": "justiz",
+        "count": 8,
+        "ratioParty": 21.3,
+        "ratioBundestag": 15.7
+      },
+      {
+        "word": "verlängerung",
+        "count": 5,
+        "ratioParty": 19.8,
+        "ratioBundestag": 21.8
+      },
+      {
+        "word": "digitalisierung",
+        "count": 9,
+        "ratioParty": 19.3,
+        "ratioBundestag": 11.2
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 355,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.6,
+    "vsParliament": 0.58
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "9"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "3.549"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Thomas Fetsch häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Opposition",
+        "isCorrect": false
+      },
+      {
+        "text": "Koalition",
+        "isCorrect": false
+      },
+      {
+        "text": "Kommunikation",
+        "isCorrect": true
+      },
+      {
+        "text": "Zukunft",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Kommunikation\" nutzt Thomas Fetsch 46.3× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "41.9× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 66.7,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 60.0,
+      "collaboration": 33.3,
+      "demand_intensity": 7.1,
+      "acknowledgment": 0.0,
+      "authority": 63.2,
+      "future_orientation": 86.0,
+      "emotional_intensity": 42.1,
+      "inclusivity": 40.9,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 10,
+      "words": 2431,
+      "adjectives": 12,
+      "verbs": 14
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.41,
+      "wirtschaft": 5.76,
+      "soziales": 7.82,
+      "sicherheit": 0.0,
+      "gesundheit": 0.0,
+      "europa": 0.0,
+      "digital": 4.94,
+      "bildung": 0.82,
+      "finanzen": 4.52,
+      "justiz": 4.11,
+      "arbeit": 0.41,
+      "mobilitaet": 0.41
+    },
+    "topTopics": [
+      {
+        "topic": "soziales",
+        "score": 7.82,
+        "rank": 1
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 5.76,
+        "rank": 2
+      },
+      {
+        "topic": "digital",
+        "score": 4.94,
+        "rank": 3
+      },
+      {
+        "topic": "finanzen",
+        "score": 4.52,
+        "rank": 4
+      },
+      {
+        "topic": "justiz",
+        "score": 4.11,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "klimaschutz",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 10
+        },
+        {
+          "word": "wirtschaftskrise",
+          "count": 1
+        },
+        {
+          "word": "marktwirtschaft",
+          "count": 1
+        },
+        {
+          "word": "markt",
+          "count": 1
+        },
+        {
+          "word": "konkurrenz",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "mietpreisbremse",
+          "count": 9
+        },
+        {
+          "word": "mieten",
+          "count": 5
+        },
+        {
+          "word": "wohnungen",
+          "count": 2
+        },
+        {
+          "word": "wohnung",
+          "count": 2
+        },
+        {
+          "word": "wohnungsmarkt",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 9
+        },
+        {
+          "word": "pressefreiheit",
+          "count": 2
+        },
+        {
+          "word": "onlinezugangsgesetz",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "professor",
+          "count": 2
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 2
+        },
+        {
+          "word": "bundesrechnungshof",
+          "count": 2
+        },
+        {
+          "word": "haushaltsentwurf",
+          "count": 1
+        },
+        {
+          "word": "schulden",
+          "count": 1
+        },
+        {
+          "word": "finanzamt",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "bundesverfassungsgericht",
+          "count": 2
+        },
+        {
+          "word": "rechtsprechung",
+          "count": 2
+        },
+        {
+          "word": "richter",
+          "count": 1
+        },
+        {
+          "word": "verbraucherschutz",
+          "count": 1
+        },
+        {
+          "word": "gerichte",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "einkommen",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "verkehrspolitik",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

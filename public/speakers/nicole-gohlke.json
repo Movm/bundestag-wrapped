@@ -1,0 +1,459 @@
+{
+  "name": "Nicole Gohlke",
+  "party": "DIE LINKE",
+  "slug": "nicole-gohlke",
+  "academicTitle": null,
+  "speeches": 10,
+  "wortbeitraege": 10,
+  "befragungResponses": 0,
+  "totalWords": 6096,
+  "avgWords": 305,
+  "minWords": 81,
+  "maxWords": 844,
+  "rankings": {
+    "speechRank": 120,
+    "wordsRank": 121,
+    "partySpeechRank": 20,
+    "partyWordsRank": 13,
+    "partySize": 63,
+    "totalSpeakers": 609,
+    "percentile": 80.3,
+    "verbosityRank": 460,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 49,
+    "longestSpeechRank": 144
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 20,
+    "interrupterRank": 112,
+    "interruptedRank": 132
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "bildung",
+        "count": 26
+      },
+      {
+        "word": "menschen",
+        "count": 20
+      },
+      {
+        "word": "bafög",
+        "count": 19
+      },
+      {
+        "word": "bundesregierung",
+        "count": 18
+      },
+      {
+        "word": "studierenden",
+        "count": 13
+      },
+      {
+        "word": "endlich",
+        "count": 13
+      },
+      {
+        "word": "ministerin",
+        "count": 12
+      },
+      {
+        "word": "braucht",
+        "count": 12
+      },
+      {
+        "word": "gute",
+        "count": 12
+      },
+      {
+        "word": "kinder",
+        "count": 12
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "wissenschaftsfreiheit",
+        "count": 7,
+        "ratioParty": 310.2,
+        "ratioBundestag": 77.6
+      },
+      {
+        "word": "studierenden",
+        "count": 13,
+        "ratioParty": 288.0,
+        "ratioBundestag": 216.1
+      },
+      {
+        "word": "bafög",
+        "count": 19,
+        "ratioParty": 140.3,
+        "ratioBundestag": 46.4
+      },
+      {
+        "word": "ganztag",
+        "count": 8,
+        "ratioParty": 118.2,
+        "ratioBundestag": 78.6
+      },
+      {
+        "word": "studium",
+        "count": 11,
+        "ratioParty": 97.5,
+        "ratioBundestag": 116.0
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "rechts",
+        "count": 3,
+        "ratioParty": 2.5,
+        "ratioBundestag": 4.1
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 305,
+    "partyAvgWords": 521,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.59,
+    "vsParliament": 0.5
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "10"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "6.096"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Nicole Gohlke häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Gesetz",
+        "isCorrect": false
+      },
+      {
+        "text": "Wirtschaft",
+        "isCorrect": false
+      },
+      {
+        "text": "Wissenschaftsfreiheit",
+        "isCorrect": true
+      },
+      {
+        "text": "Rente",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Wissenschaftsfreiheit\" nutzt Nicole Gohlke 310.2× häufiger als der DIE LINKE-Durchschnitt.",
+    "explanationBundestag": "77.6× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Nicole Gohlke häufiger als der Rest der DIE LINKE-Fraktion?",
+    "options": [
+      {
+        "text": "Wirtschaftlich",
+        "isCorrect": false
+      },
+      {
+        "text": "Sicher",
+        "isCorrect": false
+      },
+      {
+        "text": "Erfolgreich",
+        "isCorrect": false
+      },
+      {
+        "text": "Rechts",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Rechts\" nutzt Nicole Gohlke 2.5× häufiger als der DIE LINKE-Durchschnitt.",
+    "explanationBundestag": "4.1× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🦊",
+    "name": "Fuchs",
+    "title": "Clevere Strategin",
+    "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+    "id": "fuchs",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüterin",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 1.0
+      },
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißige Abgeordnete",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 76.9,
+      "aggression": 18.2,
+      "labeling": 22.7,
+      "solution_focus": 76.9,
+      "collaboration": 50.0,
+      "demand_intensity": 5.7,
+      "acknowledgment": 2.9,
+      "authority": 60.6,
+      "future_orientation": 89.6,
+      "emotional_intensity": 60.0,
+      "inclusivity": 34.8,
+      "discriminatory": 0.26
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 20,
+      "words": 3849,
+      "adjectives": 22,
+      "verbs": 35
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.52,
+      "klima": 0.52,
+      "wirtschaft": 1.3,
+      "soziales": 9.87,
+      "sicherheit": 1.04,
+      "gesundheit": 0.0,
+      "europa": 0.52,
+      "digital": 1.04,
+      "bildung": 33.78,
+      "finanzen": 7.79,
+      "justiz": 2.34,
+      "arbeit": 0.78,
+      "mobilitaet": 2.34
+    },
+    "topTopics": [
+      {
+        "topic": "bildung",
+        "score": 33.78,
+        "rank": 1
+      },
+      {
+        "topic": "soziales",
+        "score": 9.87,
+        "rank": 2
+      },
+      {
+        "topic": "finanzen",
+        "score": 7.79,
+        "rank": 3
+      },
+      {
+        "topic": "justiz",
+        "score": 2.34,
+        "rank": 4
+      },
+      {
+        "topic": "mobilitaet",
+        "score": 2.34,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "obergrenze",
+          "count": 1
+        },
+        {
+          "word": "migranten",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "nachhaltig",
+          "count": 1
+        },
+        {
+          "word": "energie",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "fachkräfte",
+          "count": 3
+        },
+        {
+          "word": "fachkräftemangel",
+          "count": 1
+        },
+        {
+          "word": "wirtschaftswachstum",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 12
+        },
+        {
+          "word": "familie",
+          "count": 5
+        },
+        {
+          "word": "eltern",
+          "count": 4
+        },
+        {
+          "word": "jugend",
+          "count": 3
+        },
+        {
+          "word": "kind",
+          "count": 3
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "einbruch",
+          "count": 1
+        },
+        {
+          "word": "verteidigung",
+          "count": 1
+        },
+        {
+          "word": "verfassungsschutz",
+          "count": 1
+        },
+        {
+          "word": "polizei",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "kriegsverbrechen",
+          "count": 2
+        }
+      ],
+      "digital": [
+        {
+          "word": "technologie",
+          "count": 2
+        },
+        {
+          "word": "daten",
+          "count": 1
+        },
+        {
+          "word": "internet",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "bildung",
+          "count": 26
+        },
+        {
+          "word": "bafög",
+          "count": 19
+        },
+        {
+          "word": "wissenschaft",
+          "count": 11
+        },
+        {
+          "word": "studium",
+          "count": 11
+        },
+        {
+          "word": "schulen",
+          "count": 9
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "sondervermögen",
+          "count": 7
+        },
+        {
+          "word": "haushalt",
+          "count": 5
+        },
+        {
+          "word": "bank",
+          "count": 4
+        },
+        {
+          "word": "schulden",
+          "count": 3
+        },
+        {
+          "word": "verschuldung",
+          "count": 3
+        }
+      ],
+      "justiz": [
+        {
+          "word": "grundgesetz",
+          "count": 2
+        },
+        {
+          "word": "haft",
+          "count": 2
+        },
+        {
+          "word": "verurteilung",
+          "count": 1
+        },
+        {
+          "word": "novelle",
+          "count": 1
+        },
+        {
+          "word": "gleichberechtigung",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "vereinbarkeit",
+          "count": 2
+        },
+        {
+          "word": "gewerkschaften",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 7
+        },
+        {
+          "word": "bahn",
+          "count": 1
+        },
+        {
+          "word": "verkehrsinfrastruktur",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

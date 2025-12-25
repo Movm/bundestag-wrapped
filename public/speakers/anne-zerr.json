@@ -1,0 +1,326 @@
+{
+  "name": "Anne Zerr",
+  "party": "DIE LINKE",
+  "slug": "anne-zerr",
+  "academicTitle": null,
+  "speeches": 3,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 1245,
+  "avgWords": 311,
+  "minWords": 118,
+  "maxWords": 462,
+  "rankings": {
+    "speechRank": 476,
+    "wordsRank": 530,
+    "partySpeechRank": 55,
+    "partyWordsRank": 59,
+    "partySize": 63,
+    "totalSpeakers": 609,
+    "percentile": 21.8,
+    "verbosityRank": 454,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 47,
+    "longestSpeechRank": 550
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 4,
+    "interrupterRank": 324,
+    "interruptedRank": 434
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 17
+      },
+      {
+        "word": "arbeitenden",
+        "count": 11
+      },
+      {
+        "word": "arbeit",
+        "count": 8
+      },
+      {
+        "word": "leben",
+        "count": 7
+      },
+      {
+        "word": "achtstundentag",
+        "count": 6
+      },
+      {
+        "word": "arbeiten",
+        "count": 6
+      },
+      {
+        "word": "bundesregierung",
+        "count": 5
+      },
+      {
+        "word": "höchstarbeitszeit",
+        "count": 5
+      },
+      {
+        "word": "gewerkschaften",
+        "count": 5
+      },
+      {
+        "word": "land",
+        "count": 5
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "achtstundentag",
+        "count": 6,
+        "ratioParty": 213.2,
+        "ratioBundestag": 558.5
+      },
+      {
+        "word": "arbeitenden",
+        "count": 11,
+        "ratioParty": 71.1,
+        "ratioBundestag": 268.1
+      },
+      {
+        "word": "höchstarbeitszeit",
+        "count": 5,
+        "ratioParty": 61.4,
+        "ratioBundestag": 465.4
+      },
+      {
+        "word": "gewerkschaften",
+        "count": 5,
+        "ratioParty": 48.5,
+        "ratioBundestag": 124.9
+      },
+      {
+        "word": "arbeit",
+        "count": 8,
+        "ratioParty": 10.9,
+        "ratioBundestag": 11.6
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 311,
+    "partyAvgWords": 521,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.6,
+    "vsParliament": 0.51
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "3"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "1.245"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Anne Zerr häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Koalition",
+        "isCorrect": false
+      },
+      {
+        "text": "Europa",
+        "isCorrect": false
+      },
+      {
+        "text": "Achtstundentag",
+        "isCorrect": true
+      },
+      {
+        "text": "Gesetzentwurf",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Achtstundentag\" nutzt Anne Zerr 213.2× häufiger als der DIE LINKE-Durchschnitt.",
+    "explanationBundestag": "558.5× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🦫",
+    "name": "Biber",
+    "title": "Konstruktive Brückenbauerin",
+    "reason": "Du baust Brücken zwischen Positionen – kooperativ und lösungsorientiert.",
+    "id": "biber",
+    "alternatives": [
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Clevere Strategin",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 0.853
+      },
+      {
+        "emoji": "🐬",
+        "name": "Delfin",
+        "title": "Diplomatische Rednerin",
+        "reason": "Aktiv im Parlament, aber respektvoll ohne viele Zwischenrufe.",
+        "id": "delfin",
+        "score": 0.85
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 0.0,
+      "aggression": 50.0,
+      "labeling": 0.0,
+      "solution_focus": 66.7,
+      "collaboration": 100.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 0.0,
+      "authority": 57.1,
+      "future_orientation": 83.3,
+      "emotional_intensity": 33.3,
+      "inclusivity": 40.0,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 4,
+      "words": 814,
+      "adjectives": 2,
+      "verbs": 8
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 2.46,
+      "klima": 0.0,
+      "wirtschaft": 1.23,
+      "soziales": 3.69,
+      "sicherheit": 1.23,
+      "gesundheit": 1.23,
+      "europa": 0.0,
+      "digital": 0.0,
+      "bildung": 0.0,
+      "finanzen": 2.46,
+      "justiz": 0.0,
+      "arbeit": 19.66,
+      "mobilitaet": 1.23
+    },
+    "topTopics": [
+      {
+        "topic": "arbeit",
+        "score": 19.66,
+        "rank": 1
+      },
+      {
+        "topic": "soziales",
+        "score": 3.69,
+        "rank": 2
+      },
+      {
+        "topic": "migration",
+        "score": 2.46,
+        "rank": 3
+      },
+      {
+        "topic": "finanzen",
+        "score": 2.46,
+        "rank": 4
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 1.23,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "grenze",
+          "count": 1
+        },
+        {
+          "word": "einwanderung",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "konzerne",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "miete",
+          "count": 1
+        },
+        {
+          "word": "rente",
+          "count": 1
+        },
+        {
+          "word": "kinder",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "angriff",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "krankenstand",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "entlastung",
+          "count": 1
+        },
+        {
+          "word": "inflation",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "gewerkschaften",
+          "count": 5
+        },
+        {
+          "word": "beschäftigte",
+          "count": 3
+        },
+        {
+          "word": "mindestlohn",
+          "count": 2
+        },
+        {
+          "word": "arbeitszeit",
+          "count": 1
+        },
+        {
+          "word": "arbeitnehmerinnen",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "fliegen",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

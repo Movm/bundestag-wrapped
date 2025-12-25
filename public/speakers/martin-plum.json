@@ -1,0 +1,442 @@
+{
+  "name": "Dr. Martin Plum",
+  "party": "CDU/CSU",
+  "slug": "martin-plum",
+  "academicTitle": "Dr",
+  "speeches": 8,
+  "wortbeitraege": 2,
+  "befragungResponses": 0,
+  "totalWords": 4710,
+  "avgWords": 471,
+  "minWords": 68,
+  "maxWords": 795,
+  "rankings": {
+    "speechRank": 197,
+    "wordsRank": 206,
+    "partySpeechRank": 44,
+    "partyWordsRank": 59,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 67.7,
+    "verbosityRank": 207,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 75,
+    "longestSpeechRank": 198
+  },
+  "drama": {
+    "interruptionsGiven": 25,
+    "interruptionsReceived": 14,
+    "interrupterRank": 80,
+    "interruptedRank": 195
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "justiz",
+        "count": 19
+      },
+      {
+        "word": "koalition",
+        "count": 18
+      },
+      {
+        "word": "rechtsstaat",
+        "count": 17
+      },
+      {
+        "word": "klar",
+        "count": 13
+      },
+      {
+        "word": "deutschland",
+        "count": 10
+      },
+      {
+        "word": "onlineverfahren",
+        "count": 10
+      },
+      {
+        "word": "opfer",
+        "count": 9
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "onlineverfahren",
+        "count": 10,
+        "ratioParty": 427.7,
+        "ratioBundestag": 243.7
+      },
+      {
+        "word": "blaupause",
+        "count": 5,
+        "ratioParty": 427.7,
+        "ratioBundestag": 297.8
+      },
+      {
+        "word": "sexuelle",
+        "count": 6,
+        "ratioParty": 73.3,
+        "ratioBundestag": 71.5
+      },
+      {
+        "word": "rechtsstaats",
+        "count": 7,
+        "ratioParty": 66.5,
+        "ratioBundestag": 73.6
+      },
+      {
+        "word": "bürokratierückbau",
+        "count": 5,
+        "ratioParty": 53.5,
+        "ratioBundestag": 141.1
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "rechts",
+        "count": 3,
+        "ratioParty": 5.7,
+        "ratioBundestag": 5.1
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 471,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.68,
+    "vsParliament": 0.77
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "8"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "4.710"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufe",
+      "value": "25"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Dr. Martin Plum häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Gesetz",
+        "isCorrect": false
+      },
+      {
+        "text": "Energie",
+        "isCorrect": false
+      },
+      {
+        "text": "Koalition",
+        "isCorrect": false
+      },
+      {
+        "text": "Onlineverfahren",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Onlineverfahren\" nutzt Dr. Martin Plum 427.7× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "243.7× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Dr. Martin Plum häufiger als der Rest der CDU/CSU-Fraktion?",
+    "options": [
+      {
+        "text": "Alt",
+        "isCorrect": false
+      },
+      {
+        "text": "Jung",
+        "isCorrect": false
+      },
+      {
+        "text": "Rechts",
+        "isCorrect": true
+      },
+      {
+        "text": "National",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Rechts\" nutzt Dr. Martin Plum 5.7× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "5.1× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐝",
+    "name": "Biene",
+    "title": "Fleißiger Abgeordneter",
+    "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+    "id": "biene",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüter",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.988
+      },
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Cleverer Stratege",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 0.933
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 92.3,
+      "aggression": 10.5,
+      "labeling": 21.1,
+      "solution_focus": 88.9,
+      "collaboration": 33.3,
+      "demand_intensity": 6.1,
+      "acknowledgment": 3.0,
+      "authority": 66.0,
+      "future_orientation": 100.0,
+      "emotional_intensity": 36.4,
+      "inclusivity": 58.3,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 10,
+      "words": 3105,
+      "adjectives": 19,
+      "verbs": 33
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.0,
+      "wirtschaft": 0.97,
+      "soziales": 1.93,
+      "sicherheit": 6.44,
+      "gesundheit": 0.97,
+      "europa": 0.64,
+      "digital": 3.22,
+      "bildung": 0.64,
+      "finanzen": 4.83,
+      "justiz": 10.95,
+      "arbeit": 0.64,
+      "mobilitaet": 1.29
+    },
+    "topTopics": [
+      {
+        "topic": "justiz",
+        "score": 10.95,
+        "rank": 1
+      },
+      {
+        "topic": "sicherheit",
+        "score": 6.44,
+        "rank": 2
+      },
+      {
+        "topic": "finanzen",
+        "score": 4.83,
+        "rank": 3
+      },
+      {
+        "topic": "digital",
+        "score": 3.22,
+        "rank": 4
+      },
+      {
+        "topic": "soziales",
+        "score": 1.93,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 2
+        },
+        {
+          "word": "betrieb",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 2
+        },
+        {
+          "word": "renten",
+          "count": 1
+        },
+        {
+          "word": "eltern",
+          "count": 1
+        },
+        {
+          "word": "familien",
+          "count": 1
+        },
+        {
+          "word": "familie",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "gewalt",
+          "count": 9
+        },
+        {
+          "word": "polizei",
+          "count": 3
+        },
+        {
+          "word": "angriff",
+          "count": 2
+        },
+        {
+          "word": "täter",
+          "count": 2
+        },
+        {
+          "word": "geldwäsche",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "prävention",
+          "count": 1
+        },
+        {
+          "word": "krankenkassen",
+          "count": 1
+        },
+        {
+          "word": "krankenhäuser",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "china",
+          "count": 1
+        },
+        {
+          "word": "putin",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 3
+        },
+        {
+          "word": "cloud",
+          "count": 2
+        },
+        {
+          "word": "online",
+          "count": 2
+        },
+        {
+          "word": "technologie",
+          "count": 1
+        },
+        {
+          "word": "daten",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "schulen",
+          "count": 1
+        },
+        {
+          "word": "weiterbildung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 7
+        },
+        {
+          "word": "bundeshaushalt",
+          "count": 3
+        },
+        {
+          "word": "sondervermögen",
+          "count": 2
+        },
+        {
+          "word": "investitionen",
+          "count": 1
+        },
+        {
+          "word": "fördermittel",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "rechtsstaat",
+          "count": 17
+        },
+        {
+          "word": "grundgesetz",
+          "count": 4
+        },
+        {
+          "word": "gerichte",
+          "count": 3
+        },
+        {
+          "word": "verbraucherschutz",
+          "count": 2
+        },
+        {
+          "word": "straftaten",
+          "count": 2
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "beschäftigte",
+          "count": 2
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 2
+        },
+        {
+          "word": "straßen",
+          "count": 1
+        },
+        {
+          "word": "auto",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

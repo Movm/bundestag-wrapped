@@ -1,0 +1,448 @@
+{
+  "name": "Jeanne Dillschneider",
+  "party": "GRÜNE",
+  "slug": "jeanne-dillschneider",
+  "academicTitle": null,
+  "speeches": 12,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 6049,
+  "avgWords": 465,
+  "minWords": 60,
+  "maxWords": 652,
+  "rankings": {
+    "speechRank": 87,
+    "wordsRank": 123,
+    "partySpeechRank": 15,
+    "partyWordsRank": 18,
+    "partySize": 85,
+    "totalSpeakers": 609,
+    "percentile": 85.7,
+    "verbosityRank": 215,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 24,
+    "longestSpeechRank": 357
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 15,
+    "interrupterRank": null,
+    "interruptedRank": 194
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "chatkontrolle",
+        "count": 16
+      },
+      {
+        "word": "schutz",
+        "count": 14
+      },
+      {
+        "word": "bundesregierung",
+        "count": 13
+      },
+      {
+        "word": "datenschutz",
+        "count": 12
+      },
+      {
+        "word": "digitalen",
+        "count": 12
+      },
+      {
+        "word": "menschen",
+        "count": 11
+      },
+      {
+        "word": "wirtschaft",
+        "count": 10
+      },
+      {
+        "word": "unternehmen",
+        "count": 10
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "chats",
+        "count": 6,
+        "ratioParty": 355.4,
+        "ratioBundestag": 250.2
+      },
+      {
+        "word": "datenschutz",
+        "count": 12,
+        "ratioParty": 177.7,
+        "ratioBundestag": 102.1
+      },
+      {
+        "word": "chatkontrolle",
+        "count": 16,
+        "ratioParty": 158.0,
+        "ratioBundestag": 76.7
+      },
+      {
+        "word": "kommunikation",
+        "count": 7,
+        "ratioParty": 103.7,
+        "ratioBundestag": 30.1
+      },
+      {
+        "word": "bürgerrechte",
+        "count": 6,
+        "ratioParty": 88.9,
+        "ratioBundestag": 312.7
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 465,
+    "partyAvgWords": 567,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.82,
+    "vsParliament": 0.76
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "12"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "6.049"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Jeanne Dillschneider häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Fraktion",
+        "isCorrect": false
+      },
+      {
+        "text": "Zukunft",
+        "isCorrect": false
+      },
+      {
+        "text": "Investitionen",
+        "isCorrect": false
+      },
+      {
+        "text": "Chats",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Chats\" nutzt Jeanne Dillschneider 355.4× häufiger als der GRÜNE-Durchschnitt.",
+    "explanationBundestag": "250.2× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🐿️",
+    "name": "Eichhörnchen",
+    "title": "Themenhüterin",
+    "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+    "id": "eichhoernchen",
+    "alternatives": [
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißige Abgeordnete",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      },
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Clevere Strategin",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 0.973
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 58.8,
+      "aggression": 0.0,
+      "labeling": 15.0,
+      "solution_focus": 77.8,
+      "collaboration": 71.4,
+      "demand_intensity": 4.2,
+      "acknowledgment": 6.2,
+      "authority": 67.5,
+      "future_orientation": 80.0,
+      "emotional_intensity": 38.5,
+      "inclusivity": 55.4,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 13,
+      "words": 3990,
+      "adjectives": 20,
+      "verbs": 48
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 3.51,
+      "klima": 0.0,
+      "wirtschaft": 4.01,
+      "soziales": 1.0,
+      "sicherheit": 4.01,
+      "gesundheit": 1.5,
+      "europa": 10.78,
+      "digital": 7.02,
+      "bildung": 1.0,
+      "finanzen": 4.51,
+      "justiz": 6.27,
+      "arbeit": 0.0,
+      "mobilitaet": 3.01
+    },
+    "topTopics": [
+      {
+        "topic": "europa",
+        "score": 10.78,
+        "rank": 1
+      },
+      {
+        "topic": "digital",
+        "score": 7.02,
+        "rank": 2
+      },
+      {
+        "topic": "justiz",
+        "score": 6.27,
+        "rank": 3
+      },
+      {
+        "topic": "finanzen",
+        "score": 4.51,
+        "rank": 4
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 4.01,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "grenzkontrollen",
+          "count": 4
+        },
+        {
+          "word": "mittelmeer",
+          "count": 4
+        },
+        {
+          "word": "asyl",
+          "count": 2
+        },
+        {
+          "word": "migranten",
+          "count": 2
+        },
+        {
+          "word": "schutzsuchende",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 10
+        },
+        {
+          "word": "mittelstand",
+          "count": 2
+        },
+        {
+          "word": "wettbewerbsfähigkeit",
+          "count": 1
+        },
+        {
+          "word": "standort",
+          "count": 1
+        },
+        {
+          "word": "betriebe",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 1
+        },
+        {
+          "word": "jugendliche",
+          "count": 1
+        },
+        {
+          "word": "familien",
+          "count": 1
+        },
+        {
+          "word": "behinderung",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "angriff",
+          "count": 3
+        },
+        {
+          "word": "bundeswehr",
+          "count": 3
+        },
+        {
+          "word": "polizei",
+          "count": 2
+        },
+        {
+          "word": "überwachung",
+          "count": 2
+        },
+        {
+          "word": "waffen",
+          "count": 2
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "krankenhäuser",
+          "count": 4
+        },
+        {
+          "word": "prävention",
+          "count": 2
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 9
+        },
+        {
+          "word": "russland",
+          "count": 8
+        },
+        {
+          "word": "putin",
+          "count": 6
+        },
+        {
+          "word": "ukraine",
+          "count": 5
+        },
+        {
+          "word": "nato",
+          "count": 4
+        }
+      ],
+      "digital": [
+        {
+          "word": "daten",
+          "count": 5
+        },
+        {
+          "word": "digitalisierung",
+          "count": 4
+        },
+        {
+          "word": "cybersicherheit",
+          "count": 4
+        },
+        {
+          "word": "netz",
+          "count": 4
+        },
+        {
+          "word": "software",
+          "count": 3
+        }
+      ],
+      "bildung": [
+        {
+          "word": "wissenschaft",
+          "count": 2
+        },
+        {
+          "word": "forschung",
+          "count": 1
+        },
+        {
+          "word": "wissenschaftler",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 6
+        },
+        {
+          "word": "kosten",
+          "count": 4
+        },
+        {
+          "word": "fördermittel",
+          "count": 2
+        },
+        {
+          "word": "finanzminister",
+          "count": 2
+        },
+        {
+          "word": "haushaltsentwurf",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "datenschutz",
+          "count": 12
+        },
+        {
+          "word": "grundrechte",
+          "count": 6
+        },
+        {
+          "word": "grundgesetz",
+          "count": 2
+        },
+        {
+          "word": "gesetzgebung",
+          "count": 1
+        },
+        {
+          "word": "verordnung",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 10
+        },
+        {
+          "word": "fliegen",
+          "count": 1
+        },
+        {
+          "word": "schifffahrt",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

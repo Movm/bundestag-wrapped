@@ -1,0 +1,328 @@
+{
+  "name": "Christian Reck",
+  "party": "AfD",
+  "slug": "christian-reck",
+  "academicTitle": null,
+  "speeches": 6,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 2063,
+  "avgWords": 344,
+  "minWords": 88,
+  "maxWords": 487,
+  "rankings": {
+    "speechRank": 343,
+    "wordsRank": 457,
+    "partySpeechRank": 82,
+    "partyWordsRank": 104,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 43.7,
+    "verbosityRank": 422,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 104,
+    "longestSpeechRank": 535
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 2,
+    "interrupterRank": null,
+    "interruptedRank": 506
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "regierung",
+        "count": 9
+      },
+      {
+        "word": "bauern",
+        "count": 9
+      },
+      {
+        "word": "landwirtschaft",
+        "count": 8
+      },
+      {
+        "word": "landwirte",
+        "count": 8
+      },
+      {
+        "word": "minister",
+        "count": 6
+      },
+      {
+        "word": "deutschland",
+        "count": 6
+      },
+      {
+        "word": "fischerei",
+        "count": 6
+      },
+      {
+        "word": "jahren",
+        "count": 5
+      },
+      {
+        "word": "planungssicherheit",
+        "count": 5
+      },
+      {
+        "word": "betriebe",
+        "count": 5
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "fischerei",
+        "count": 6,
+        "ratioParty": 542.0,
+        "ratioBundestag": 277.0
+      },
+      {
+        "word": "fischer",
+        "count": 5,
+        "ratioParty": 225.9,
+        "ratioBundestag": 500.2
+      },
+      {
+        "word": "planungssicherheit",
+        "count": 5,
+        "ratioParty": 54.2,
+        "ratioBundestag": 20.0
+      },
+      {
+        "word": "bauern",
+        "count": 9,
+        "ratioParty": 38.7,
+        "ratioBundestag": 91.6
+      },
+      {
+        "word": "ländlichen",
+        "count": 5,
+        "ratioParty": 33.1,
+        "ratioBundestag": 21.4
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 344,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.59,
+    "vsParliament": 0.56
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "6"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "2.063"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Christian Reck häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Fischerei",
+        "isCorrect": true
+      },
+      {
+        "text": "Opposition",
+        "isCorrect": false
+      },
+      {
+        "text": "Bundesregierung",
+        "isCorrect": false
+      },
+      {
+        "text": "Gesellschaft",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Fischerei\" nutzt Christian Reck 542.0× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "277.0× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 50.0,
+      "aggression": 0.0,
+      "labeling": 20.0,
+      "solution_focus": 83.3,
+      "collaboration": 50.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 0.0,
+      "authority": 85.0,
+      "future_orientation": 85.7,
+      "emotional_intensity": 36.4,
+      "inclusivity": 58.8,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 6,
+      "words": 1388,
+      "adjectives": 5,
+      "verbs": 6
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 1.44,
+      "wirtschaft": 8.65,
+      "soziales": 2.88,
+      "sicherheit": 0.0,
+      "gesundheit": 0.0,
+      "europa": 4.32,
+      "digital": 0.72,
+      "bildung": 0.0,
+      "finanzen": 6.48,
+      "justiz": 0.0,
+      "arbeit": 1.44,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "wirtschaft",
+        "score": 8.65,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 6.48,
+        "rank": 2
+      },
+      {
+        "topic": "europa",
+        "score": 4.32,
+        "rank": 3
+      },
+      {
+        "topic": "soziales",
+        "score": 2.88,
+        "rank": 4
+      },
+      {
+        "topic": "klima",
+        "score": 1.44,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "klimaanpassung",
+          "count": 1
+        },
+        {
+          "word": "umwelt",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "betriebe",
+          "count": 5
+        },
+        {
+          "word": "wettbewerbsfähigkeit",
+          "count": 2
+        },
+        {
+          "word": "wachstum",
+          "count": 2
+        },
+        {
+          "word": "betrieb",
+          "count": 1
+        },
+        {
+          "word": "werk",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "fürsorge",
+          "count": 1
+        },
+        {
+          "word": "renten",
+          "count": 1
+        },
+        {
+          "word": "kind",
+          "count": 1
+        },
+        {
+          "word": "eltern",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "brüssel",
+          "count": 2
+        },
+        {
+          "word": "ukraine",
+          "count": 2
+        },
+        {
+          "word": "frieden",
+          "count": 1
+        },
+        {
+          "word": "diplomatie",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushaltsentwurf",
+          "count": 2
+        },
+        {
+          "word": "haushalt",
+          "count": 1
+        },
+        {
+          "word": "bundeshaushalt",
+          "count": 1
+        },
+        {
+          "word": "investitionen",
+          "count": 1
+        },
+        {
+          "word": "finanzierung",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitsplätze",
+          "count": 1
+        },
+        {
+          "word": "einkommen",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

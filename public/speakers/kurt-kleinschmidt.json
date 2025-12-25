@@ -1,0 +1,353 @@
+{
+  "name": "Kurt Kleinschmidt",
+  "party": "AfD",
+  "slug": "kurt-kleinschmidt",
+  "academicTitle": null,
+  "speeches": 7,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 3836,
+  "avgWords": 480,
+  "minWords": 360,
+  "maxWords": 635,
+  "rankings": {
+    "speechRank": 262,
+    "wordsRank": 272,
+    "partySpeechRank": 64,
+    "partyWordsRank": 57,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 57.0,
+    "verbosityRank": 191,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 46,
+    "longestSpeechRank": 379
+  },
+  "drama": {
+    "interruptionsGiven": 5,
+    "interruptionsReceived": 27,
+    "interrupterRank": 207,
+    "interruptedRank": 67
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "kameraden",
+        "count": 21
+      },
+      {
+        "word": "kfor",
+        "count": 17
+      },
+      {
+        "word": "deutschland",
+        "count": 16
+      },
+      {
+        "word": "bundeswehr",
+        "count": 14
+      },
+      {
+        "word": "kosovo",
+        "count": 11
+      },
+      {
+        "word": "abgeordnete",
+        "count": 10
+      },
+      {
+        "word": "alternative",
+        "count": 10
+      },
+      {
+        "word": "soldaten",
+        "count": 10
+      },
+      {
+        "word": "fraktion",
+        "count": 9
+      },
+      {
+        "word": "operation",
+        "count": 8
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "kameraden",
+        "count": 21,
+        "ratioParty": 1582.3,
+        "ratioBundestag": 669.0
+      },
+      {
+        "word": "kosovo",
+        "count": 11,
+        "ratioParty": 127.5,
+        "ratioBundestag": 87.6
+      },
+      {
+        "word": "operation",
+        "count": 8,
+        "ratioParty": 120.6,
+        "ratioBundestag": 73.3
+      },
+      {
+        "word": "libyen",
+        "count": 7,
+        "ratioParty": 95.9,
+        "ratioBundestag": 73.2
+      },
+      {
+        "word": "guardian",
+        "count": 8,
+        "ratioParty": 92.7,
+        "ratioBundestag": 85.0
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "links",
+        "count": 3,
+        "ratioParty": 2.3,
+        "ratioBundestag": 6.6
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 480,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.82,
+    "vsParliament": 0.78
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "7"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "3.836"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Kurt Kleinschmidt häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Kameraden",
+        "isCorrect": true
+      },
+      {
+        "text": "Kanzler",
+        "isCorrect": false
+      },
+      {
+        "text": "Zukunft",
+        "isCorrect": false
+      },
+      {
+        "text": "Gesetz",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Kameraden\" nutzt Kurt Kleinschmidt 1582.3× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "669.0× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Kurt Kleinschmidt häufiger als der Rest der AfD-Fraktion?",
+    "options": [
+      {
+        "text": "Gut",
+        "isCorrect": false
+      },
+      {
+        "text": "Falsch",
+        "isCorrect": false
+      },
+      {
+        "text": "Sicher",
+        "isCorrect": false
+      },
+      {
+        "text": "Links",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Links\" nutzt Kurt Kleinschmidt 2.3× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "6.6× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 50.0,
+      "aggression": 0.0,
+      "labeling": 60.0,
+      "solution_focus": 85.7,
+      "collaboration": 83.3,
+      "demand_intensity": 8.3,
+      "acknowledgment": 8.3,
+      "authority": 75.6,
+      "future_orientation": 79.4,
+      "emotional_intensity": 22.2,
+      "inclusivity": 36.9,
+      "discriminatory": 0.4
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 8,
+      "words": 2489,
+      "adjectives": 5,
+      "verbs": 24
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 2.41,
+      "klima": 1.21,
+      "wirtschaft": 0.0,
+      "soziales": 0.0,
+      "sicherheit": 15.27,
+      "gesundheit": 3.21,
+      "europa": 5.22,
+      "digital": 0.0,
+      "bildung": 0.0,
+      "finanzen": 0.0,
+      "justiz": 2.01,
+      "arbeit": 0.0,
+      "mobilitaet": 1.21
+    },
+    "topTopics": [
+      {
+        "topic": "sicherheit",
+        "score": 15.27,
+        "rank": 1
+      },
+      {
+        "topic": "europa",
+        "score": 5.22,
+        "rank": 2
+      },
+      {
+        "topic": "gesundheit",
+        "score": 3.21,
+        "rank": 3
+      },
+      {
+        "topic": "migration",
+        "score": 2.41,
+        "rank": 4
+      },
+      {
+        "topic": "justiz",
+        "score": 2.01,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "mittelmeer",
+          "count": 4
+        },
+        {
+          "word": "migranten",
+          "count": 1
+        },
+        {
+          "word": "asyl",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "klimawandel",
+          "count": 2
+        },
+        {
+          "word": "energiewende",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "bundeswehr",
+          "count": 14
+        },
+        {
+          "word": "soldaten",
+          "count": 10
+        },
+        {
+          "word": "soldat",
+          "count": 5
+        },
+        {
+          "word": "verteidigungsfähigkeit",
+          "count": 2
+        },
+        {
+          "word": "terrorismus",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "operation",
+          "count": 8
+        }
+      ],
+      "europa": [
+        {
+          "word": "krieg",
+          "count": 2
+        },
+        {
+          "word": "russland",
+          "count": 2
+        },
+        {
+          "word": "nato",
+          "count": 2
+        },
+        {
+          "word": "europa",
+          "count": 1
+        },
+        {
+          "word": "putin",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "rechtsstaat",
+          "count": 2
+        },
+        {
+          "word": "grundgesetz",
+          "count": 1
+        },
+        {
+          "word": "gesetzesänderung",
+          "count": 1
+        },
+        {
+          "word": "grundrechte",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "schiffe",
+          "count": 2
+        },
+        {
+          "word": "straßen",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

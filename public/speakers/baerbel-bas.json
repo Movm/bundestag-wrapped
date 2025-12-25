@@ -1,0 +1,481 @@
+{
+  "name": "Bärbel Bas",
+  "party": "SPD",
+  "slug": "baerbel-bas",
+  "academicTitle": null,
+  "speeches": 10,
+  "wortbeitraege": 40,
+  "befragungResponses": 40,
+  "totalWords": 9695,
+  "avgWords": 194,
+  "minWords": 8,
+  "maxWords": 1158,
+  "rankings": {
+    "speechRank": 144,
+    "wordsRank": 37,
+    "partySpeechRank": 36,
+    "partyWordsRank": 8,
+    "partySize": 109,
+    "totalSpeakers": 609,
+    "percentile": 76.4,
+    "verbosityRank": 509,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 89,
+    "longestSpeechRank": 36
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 4,
+    "interrupterRank": null,
+    "interruptedRank": 432
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 64
+      },
+      {
+        "word": "rente",
+        "count": 38
+      },
+      {
+        "word": "arbeit",
+        "count": 34
+      },
+      {
+        "word": "wichtig",
+        "count": 30
+      },
+      {
+        "word": "arbeitsmarkt",
+        "count": 29
+      },
+      {
+        "word": "unternehmen",
+        "count": 26
+      },
+      {
+        "word": "land",
+        "count": 21
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "rechtskreiswechsel",
+        "count": 6,
+        "ratioParty": 319.3,
+        "ratioBundestag": 95.0
+      },
+      {
+        "word": "arbeitszeitgesetz",
+        "count": 8,
+        "ratioParty": 212.9,
+        "ratioBundestag": 119.6
+      },
+      {
+        "word": "sozialpartnerschaft",
+        "count": 5,
+        "ratioParty": 133.0,
+        "ratioBundestag": 84.1
+      },
+      {
+        "word": "grundsicherung",
+        "count": 17,
+        "ratioParty": 100.5,
+        "ratioBundestag": 41.2
+      },
+      {
+        "word": "mütterrente",
+        "count": 8,
+        "ratioParty": 71.0,
+        "ratioBundestag": 38.5
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "gerecht",
+        "count": 7,
+        "ratioParty": 3.2,
+        "ratioBundestag": 4.5
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 194,
+    "partyAvgWords": 637,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.3,
+    "vsParliament": 0.32
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "10"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "9.695"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Bärbel Bas häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Rechtskreiswechsel",
+        "isCorrect": true
+      },
+      {
+        "text": "Politik",
+        "isCorrect": false
+      },
+      {
+        "text": "Energie",
+        "isCorrect": false
+      },
+      {
+        "text": "Haushalt",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Rechtskreiswechsel\" nutzt Bärbel Bas 319.3× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "95.0× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Bärbel Bas häufiger als der Rest der SPD-Fraktion?",
+    "options": [
+      {
+        "text": "Alt",
+        "isCorrect": false
+      },
+      {
+        "text": "Gerecht",
+        "isCorrect": true
+      },
+      {
+        "text": "Problematisch",
+        "isCorrect": false
+      },
+      {
+        "text": "Notwendig",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Gerecht\" nutzt Bärbel Bas 3.2× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "4.5× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🦊",
+    "name": "Fuchs",
+    "title": "Clevere Strategin",
+    "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+    "id": "fuchs",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüterin",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 1.0
+      },
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißige Abgeordnete",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 80.0,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 93.3,
+      "collaboration": 72.2,
+      "demand_intensity": 2.0,
+      "acknowledgment": 5.0,
+      "authority": 77.8,
+      "future_orientation": 94.5,
+      "emotional_intensity": 40.0,
+      "inclusivity": 51.3,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 50,
+      "words": 6172,
+      "adjectives": 25,
+      "verbs": 100
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.32,
+      "klima": 0.32,
+      "wirtschaft": 9.88,
+      "soziales": 20.58,
+      "sicherheit": 0.16,
+      "gesundheit": 1.13,
+      "europa": 0.65,
+      "digital": 0.97,
+      "bildung": 1.13,
+      "finanzen": 3.73,
+      "justiz": 0.97,
+      "arbeit": 12.48,
+      "mobilitaet": 1.3
+    },
+    "topTopics": [
+      {
+        "topic": "soziales",
+        "score": 20.58,
+        "rank": 1
+      },
+      {
+        "topic": "arbeit",
+        "score": 12.48,
+        "rank": 2
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 9.88,
+        "rank": 3
+      },
+      {
+        "topic": "finanzen",
+        "score": 3.73,
+        "rank": 4
+      },
+      {
+        "topic": "mobilitaet",
+        "score": 1.3,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "integration",
+          "count": 2
+        }
+      ],
+      "klima": [
+        {
+          "word": "klimaschutz",
+          "count": 2
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 26
+        },
+        {
+          "word": "fachkräfte",
+          "count": 9
+        },
+        {
+          "word": "marktwirtschaft",
+          "count": 4
+        },
+        {
+          "word": "betrieb",
+          "count": 3
+        },
+        {
+          "word": "chemieindustrie",
+          "count": 2
+        }
+      ],
+      "soziales": [
+        {
+          "word": "rente",
+          "count": 38
+        },
+        {
+          "word": "grundsicherung",
+          "count": 17
+        },
+        {
+          "word": "sozialstaat",
+          "count": 14
+        },
+        {
+          "word": "rentenniveau",
+          "count": 10
+        },
+        {
+          "word": "altersvorsorge",
+          "count": 6
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "angriff",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "vorsorge",
+          "count": 2
+        },
+        {
+          "word": "krankenhäuser",
+          "count": 2
+        },
+        {
+          "word": "pflege",
+          "count": 1
+        },
+        {
+          "word": "psychisch",
+          "count": 1
+        },
+        {
+          "word": "pandemie",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "frieden",
+          "count": 2
+        },
+        {
+          "word": "ukrainer",
+          "count": 1
+        },
+        {
+          "word": "sanktionen",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "plattform",
+          "count": 2
+        },
+        {
+          "word": "digitalisierung",
+          "count": 2
+        },
+        {
+          "word": "digital",
+          "count": 1
+        },
+        {
+          "word": "daten",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "qualifizierung",
+          "count": 3
+        },
+        {
+          "word": "kita",
+          "count": 1
+        },
+        {
+          "word": "schulen",
+          "count": 1
+        },
+        {
+          "word": "forschung",
+          "count": 1
+        },
+        {
+          "word": "weiterbildung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 7
+        },
+        {
+          "word": "steuern",
+          "count": 4
+        },
+        {
+          "word": "investitionen",
+          "count": 3
+        },
+        {
+          "word": "sondervermögen",
+          "count": 2
+        },
+        {
+          "word": "haushaltsentwurf",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "urteile",
+          "count": 3
+        },
+        {
+          "word": "verfassungskonform",
+          "count": 1
+        },
+        {
+          "word": "gericht",
+          "count": 1
+        },
+        {
+          "word": "gleichberechtigung",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitsplätze",
+          "count": 15
+        },
+        {
+          "word": "tarifbindung",
+          "count": 8
+        },
+        {
+          "word": "mindestlohn",
+          "count": 8
+        },
+        {
+          "word": "löhne",
+          "count": 4
+        },
+        {
+          "word": "arbeitnehmer",
+          "count": 4
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 4
+        },
+        {
+          "word": "straße",
+          "count": 2
+        },
+        {
+          "word": "straßen",
+          "count": 1
+        },
+        {
+          "word": "schiene",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

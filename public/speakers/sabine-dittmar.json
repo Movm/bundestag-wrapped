@@ -1,0 +1,338 @@
+{
+  "name": "Sabine Dittmar",
+  "party": "SPD",
+  "slug": "sabine-dittmar",
+  "academicTitle": null,
+  "speeches": 3,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 1741,
+  "avgWords": 435,
+  "minWords": 368,
+  "maxWords": 532,
+  "rankings": {
+    "speechRank": 518,
+    "wordsRank": 481,
+    "partySpeechRank": 90,
+    "partyWordsRank": 90,
+    "partySize": 109,
+    "totalSpeakers": 609,
+    "percentile": 14.9,
+    "verbosityRank": 274,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 61,
+    "longestSpeechRank": 500
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 3,
+    "interrupterRank": null,
+    "interruptedRank": 493
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "ausbildung",
+        "count": 7
+      },
+      {
+        "word": "künftig",
+        "count": 6
+      },
+      {
+        "word": "pflege",
+        "count": 6
+      },
+      {
+        "word": "wehrpflicht",
+        "count": 6
+      },
+      {
+        "word": "endlich",
+        "count": 4
+      },
+      {
+        "word": "pflegefachkräfte",
+        "count": 4
+      },
+      {
+        "word": "seine",
+        "count": 4
+      },
+      {
+        "word": "pflegefachassistenz",
+        "count": 3
+      },
+      {
+        "word": "aller",
+        "count": 3
+      },
+      {
+        "word": "beitrag",
+        "count": 3
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "wehrpflicht",
+        "count": 6,
+        "ratioParty": 167.8,
+        "ratioBundestag": 71.0
+      },
+      {
+        "word": "ausbildung",
+        "count": 7,
+        "ratioParty": 52.4,
+        "ratioBundestag": 69.5
+      },
+      {
+        "word": "pflege",
+        "count": 6,
+        "ratioParty": 41.9,
+        "ratioBundestag": 31.2
+      },
+      {
+        "word": "künftig",
+        "count": 6,
+        "ratioParty": 27.4,
+        "ratioBundestag": 34.8
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 435,
+    "partyAvgWords": 637,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.68,
+    "vsParliament": 0.71
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "3"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "1.741"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Sabine Dittmar häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Ausschuss",
+        "isCorrect": false
+      },
+      {
+        "text": "Bürger",
+        "isCorrect": false
+      },
+      {
+        "text": "Antrag",
+        "isCorrect": false
+      },
+      {
+        "text": "Wehrpflicht",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Wehrpflicht\" nutzt Sabine Dittmar 167.8× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "71.0× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🦫",
+    "name": "Biber",
+    "title": "Konstruktive Brückenbauerin",
+    "reason": "Du baust Brücken zwischen Positionen – kooperativ und lösungsorientiert.",
+    "id": "biber",
+    "alternatives": [
+      {
+        "emoji": "🦦",
+        "name": "Otter",
+        "title": "Positive Teamplayerin",
+        "reason": "Du bringst gute Stimmung und konstruktive Beiträge ins Plenum.",
+        "id": "otter",
+        "score": 0.962
+      },
+      {
+        "emoji": "🐬",
+        "name": "Delfin",
+        "title": "Diplomatische Rednerin",
+        "reason": "Aktiv im Parlament, aber respektvoll ohne viele Zwischenrufe.",
+        "id": "delfin",
+        "score": 0.85
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 100.0,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 87.5,
+      "collaboration": 100.0,
+      "demand_intensity": 10.0,
+      "acknowledgment": 0.0,
+      "authority": 62.5,
+      "future_orientation": 96.2,
+      "emotional_intensity": 50.0,
+      "inclusivity": 77.8,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 4,
+      "words": 796,
+      "adjectives": 1,
+      "verbs": 10
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.0,
+      "wirtschaft": 1.26,
+      "soziales": 0.0,
+      "sicherheit": 7.54,
+      "gesundheit": 11.31,
+      "europa": 7.54,
+      "digital": 0.0,
+      "bildung": 18.84,
+      "finanzen": 0.0,
+      "justiz": 3.77,
+      "arbeit": 0.0,
+      "mobilitaet": 1.26
+    },
+    "topTopics": [
+      {
+        "topic": "bildung",
+        "score": 18.84,
+        "rank": 1
+      },
+      {
+        "topic": "gesundheit",
+        "score": 11.31,
+        "rank": 2
+      },
+      {
+        "topic": "sicherheit",
+        "score": 7.54,
+        "rank": 3
+      },
+      {
+        "topic": "europa",
+        "score": 7.54,
+        "rank": 4
+      },
+      {
+        "topic": "justiz",
+        "score": 3.77,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "wirtschaft": [
+        {
+          "word": "fachkräfte",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "bundeswehr",
+          "count": 3
+        },
+        {
+          "word": "bündnisfall",
+          "count": 1
+        },
+        {
+          "word": "abschreckung",
+          "count": 1
+        },
+        {
+          "word": "verteidigung",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "pflege",
+          "count": 6
+        },
+        {
+          "word": "kliniken",
+          "count": 1
+        },
+        {
+          "word": "pflegekräfte",
+          "count": 1
+        },
+        {
+          "word": "ärzte",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "ukraine",
+          "count": 2
+        },
+        {
+          "word": "russland",
+          "count": 1
+        },
+        {
+          "word": "angriffskrieg",
+          "count": 1
+        },
+        {
+          "word": "nato",
+          "count": 1
+        },
+        {
+          "word": "europa",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "ausbildung",
+          "count": 7
+        },
+        {
+          "word": "bachelor",
+          "count": 2
+        },
+        {
+          "word": "master",
+          "count": 2
+        },
+        {
+          "word": "studium",
+          "count": 2
+        },
+        {
+          "word": "schulabschluss",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "grundgesetz",
+          "count": 3
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "schiene",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

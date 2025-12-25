@@ -1,0 +1,369 @@
+{
+  "name": "Michael Donth",
+  "party": "CDU/CSU",
+  "slug": "michael-donth",
+  "academicTitle": null,
+  "speeches": 8,
+  "wortbeitraege": 3,
+  "befragungResponses": 0,
+  "totalWords": 3533,
+  "avgWords": 321,
+  "minWords": 39,
+  "maxWords": 540,
+  "rankings": {
+    "speechRank": 214,
+    "wordsRank": 307,
+    "partySpeechRank": 52,
+    "partyWordsRank": 95,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 64.9,
+    "verbosityRank": 444,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 144,
+    "longestSpeechRank": 490
+  },
+  "drama": {
+    "interruptionsGiven": 36,
+    "interruptionsReceived": 2,
+    "interrupterRank": 49,
+    "interruptedRank": 510
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "schiene",
+        "count": 11
+      },
+      {
+        "word": "trassenpreise",
+        "count": 10
+      },
+      {
+        "word": "bahn",
+        "count": 10
+      },
+      {
+        "word": "deutschlandticket",
+        "count": 9
+      },
+      {
+        "word": "grünen",
+        "count": 8
+      },
+      {
+        "word": "änderung",
+        "count": 7
+      },
+      {
+        "word": "geld",
+        "count": 7
+      },
+      {
+        "word": "infrago",
+        "count": 6
+      },
+      {
+        "word": "ampel",
+        "count": 6
+      },
+      {
+        "word": "schnieder",
+        "count": 6
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "infrago",
+        "count": 6,
+        "ratioParty": 239.1,
+        "ratioBundestag": 249.5
+      },
+      {
+        "word": "trassenpreise",
+        "count": 10,
+        "ratioParty": 239.1,
+        "ratioBundestag": 258.1
+      },
+      {
+        "word": "ticket",
+        "count": 6,
+        "ratioParty": 84.4,
+        "ratioBundestag": 47.8
+      },
+      {
+        "word": "schnieder",
+        "count": 6,
+        "ratioParty": 62.4,
+        "ratioBundestag": 49.4
+      },
+      {
+        "word": "deutschlandticket",
+        "count": 9,
+        "ratioParty": 47.8,
+        "ratioBundestag": 39.6
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 321,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.47,
+    "vsParliament": 0.52
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "8"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "3.533"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufe",
+      "value": "36"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Michael Donth häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Infrago",
+        "isCorrect": true
+      },
+      {
+        "text": "Kanzler",
+        "isCorrect": false
+      },
+      {
+        "text": "Gesetz",
+        "isCorrect": false
+      },
+      {
+        "text": "Debatte",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Infrago\" nutzt Michael Donth 239.1× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "249.5× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🦊",
+    "name": "Fuchs",
+    "title": "Cleverer Stratege",
+    "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+    "id": "fuchs",
+    "alternatives": [
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißiger Abgeordneter",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 0.942
+      },
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüter",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.941
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 57.1,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 78.6,
+      "collaboration": 80.0,
+      "demand_intensity": 4.8,
+      "acknowledgment": 4.8,
+      "authority": 83.3,
+      "future_orientation": 75.0,
+      "emotional_intensity": 50.0,
+      "inclusivity": 46.8,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 11,
+      "words": 2225,
+      "adjectives": 7,
+      "verbs": 21
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.45,
+      "wirtschaft": 2.25,
+      "soziales": 4.49,
+      "sicherheit": 0.45,
+      "gesundheit": 0.0,
+      "europa": 0.45,
+      "digital": 0.0,
+      "bildung": 0.9,
+      "finanzen": 8.09,
+      "justiz": 0.45,
+      "arbeit": 0.0,
+      "mobilitaet": 24.27
+    },
+    "topTopics": [
+      {
+        "topic": "mobilitaet",
+        "score": 24.27,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 8.09,
+        "rank": 2
+      },
+      {
+        "topic": "soziales",
+        "score": 4.49,
+        "rank": 3
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 2.25,
+        "rank": 4
+      },
+      {
+        "topic": "bildung",
+        "score": 0.9,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "energie",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 2
+        },
+        {
+          "word": "wirtschaftspolitik",
+          "count": 1
+        },
+        {
+          "word": "industrie",
+          "count": 1
+        },
+        {
+          "word": "stahlindustrie",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "wohnungen",
+          "count": 3
+        },
+        {
+          "word": "kinder",
+          "count": 3
+        },
+        {
+          "word": "sozialpolitik",
+          "count": 1
+        },
+        {
+          "word": "bürgergeld",
+          "count": 1
+        },
+        {
+          "word": "eltern",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "bundeswehr",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "auszubildende",
+          "count": 1
+        },
+        {
+          "word": "studenten",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "sondervermögen",
+          "count": 6
+        },
+        {
+          "word": "finanzierung",
+          "count": 4
+        },
+        {
+          "word": "kosten",
+          "count": 3
+        },
+        {
+          "word": "haushalt",
+          "count": 1
+        },
+        {
+          "word": "finanzminister",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "beschluss",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "schiene",
+          "count": 11
+        },
+        {
+          "word": "bahn",
+          "count": 10
+        },
+        {
+          "word": "deutschlandticket",
+          "count": 9
+        },
+        {
+          "word": "nahverkehr",
+          "count": 4
+        },
+        {
+          "word": "verkehrsminister",
+          "count": 3
+        }
+      ]
+    }
+  }
+}

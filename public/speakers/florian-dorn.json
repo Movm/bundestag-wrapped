@@ -1,0 +1,533 @@
+{
+  "name": "Dr. Florian Dorn",
+  "party": "CDU/CSU",
+  "slug": "florian-dorn",
+  "academicTitle": "Dr",
+  "speeches": 15,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 9716,
+  "avgWords": 607,
+  "minWords": 15,
+  "maxWords": 2039,
+  "rankings": {
+    "speechRank": 27,
+    "wordsRank": 36,
+    "partySpeechRank": 6,
+    "partyWordsRank": 12,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 95.6,
+    "verbosityRank": 63,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 28,
+    "longestSpeechRank": 10
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 22,
+    "interrupterRank": null,
+    "interruptedRank": 112
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "weiter",
+        "count": 35
+      },
+      {
+        "word": "jahren",
+        "count": 31
+      },
+      {
+        "word": "deutschland",
+        "count": 29
+      },
+      {
+        "word": "investitionen",
+        "count": 23
+      },
+      {
+        "word": "stärken",
+        "count": 21
+      },
+      {
+        "word": "lage",
+        "count": 21
+      },
+      {
+        "word": "beispielsweise",
+        "count": 20
+      },
+      {
+        "word": "unternehmen",
+        "count": 19
+      },
+      {
+        "word": "wirtschaft",
+        "count": 18
+      },
+      {
+        "word": "maßnahmen",
+        "count": 17
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "bündnispartner",
+        "count": 6,
+        "ratioParty": 62.1,
+        "ratioBundestag": 91.9
+      },
+      {
+        "word": "zielgenau",
+        "count": 8,
+        "ratioParty": 60.2,
+        "ratioBundestag": 109.6
+      },
+      {
+        "word": "schwarzarbeit",
+        "count": 10,
+        "ratioParty": 41.4,
+        "ratioBundestag": 27.1
+      },
+      {
+        "word": "brutto",
+        "count": 5,
+        "ratioParty": 37.6,
+        "ratioBundestag": 34.3
+      },
+      {
+        "word": "benötigte",
+        "count": 5,
+        "ratioParty": 27.6,
+        "ratioBundestag": 36.2
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "nachhaltig",
+        "count": 3,
+        "ratioParty": 4.8,
+        "ratioBundestag": 4.6
+      },
+      {
+        "word": "entscheidend",
+        "count": 4,
+        "ratioParty": 2.3,
+        "ratioBundestag": 3.9
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 607,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.88,
+    "vsParliament": 0.99
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "15"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "9.716"
+    },
+    {
+      "emoji": "📏",
+      "label": "Längste Rede",
+      "value": "#10 (2.039 Wörter)"
+    },
+    {
+      "emoji": "📊",
+      "label": "Top-Redner",
+      "value": "Top 5%"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Dr. Florian Dorn häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Arbeit",
+        "isCorrect": false
+      },
+      {
+        "text": "Bürger",
+        "isCorrect": false
+      },
+      {
+        "text": "Debatte",
+        "isCorrect": false
+      },
+      {
+        "text": "Bündnispartner",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Bündnispartner\" nutzt Dr. Florian Dorn 62.1× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "91.9× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Dr. Florian Dorn häufiger als der Rest der CDU/CSU-Fraktion?",
+    "options": [
+      {
+        "text": "Politisch",
+        "isCorrect": false
+      },
+      {
+        "text": "Stark",
+        "isCorrect": false
+      },
+      {
+        "text": "Nachhaltig",
+        "isCorrect": true
+      },
+      {
+        "text": "Jung",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Nachhaltig\" nutzt Dr. Florian Dorn 4.8× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "4.6× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐿️",
+    "name": "Eichhörnchen",
+    "title": "Themenhüter",
+    "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+    "id": "eichhoernchen",
+    "alternatives": [
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißiger Abgeordneter",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      },
+      {
+        "emoji": "🦔",
+        "name": "Igel",
+        "title": "Beharrlicher Redner",
+        "reason": "Auch wenn du oft unterbrochen wirst – du lässt dich nicht beirren.",
+        "id": "igel",
+        "score": 0.948
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 73.9,
+      "aggression": 0.0,
+      "labeling": 8.0,
+      "solution_focus": 85.5,
+      "collaboration": 75.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 4.4,
+      "authority": 72.0,
+      "future_orientation": 85.6,
+      "emotional_intensity": 60.9,
+      "inclusivity": 59.5,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 16,
+      "words": 6380,
+      "adjectives": 25,
+      "verbs": 91
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.63,
+      "klima": 2.35,
+      "wirtschaft": 12.23,
+      "soziales": 4.39,
+      "sicherheit": 4.08,
+      "gesundheit": 0.47,
+      "europa": 8.93,
+      "digital": 0.78,
+      "bildung": 0.78,
+      "finanzen": 16.3,
+      "justiz": 0.47,
+      "arbeit": 3.29,
+      "mobilitaet": 2.35
+    },
+    "topTopics": [
+      {
+        "topic": "finanzen",
+        "score": 16.3,
+        "rank": 1
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 12.23,
+        "rank": 2
+      },
+      {
+        "topic": "europa",
+        "score": 8.93,
+        "rank": 3
+      },
+      {
+        "topic": "soziales",
+        "score": 4.39,
+        "rank": 4
+      },
+      {
+        "topic": "sicherheit",
+        "score": 4.08,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "drittstaaten",
+          "count": 1
+        },
+        {
+          "word": "asyl",
+          "count": 1
+        },
+        {
+          "word": "flüchtlinge",
+          "count": 1
+        },
+        {
+          "word": "migration",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "nachhaltig",
+          "count": 3
+        },
+        {
+          "word": "energie",
+          "count": 3
+        },
+        {
+          "word": "energiewende",
+          "count": 2
+        },
+        {
+          "word": "biomasse",
+          "count": 2
+        },
+        {
+          "word": "klimaschutz",
+          "count": 2
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 19
+        },
+        {
+          "word": "wettbewerbsfähigkeit",
+          "count": 11
+        },
+        {
+          "word": "standort",
+          "count": 10
+        },
+        {
+          "word": "wachstum",
+          "count": 6
+        },
+        {
+          "word": "wettbewerb",
+          "count": 5
+        }
+      ],
+      "soziales": [
+        {
+          "word": "renten",
+          "count": 6
+        },
+        {
+          "word": "sozialstaat",
+          "count": 5
+        },
+        {
+          "word": "rente",
+          "count": 5
+        },
+        {
+          "word": "kinder",
+          "count": 4
+        },
+        {
+          "word": "sozialleistungen",
+          "count": 3
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "bundeswehr",
+          "count": 9
+        },
+        {
+          "word": "verteidigungsfähigkeit",
+          "count": 8
+        },
+        {
+          "word": "abschreckung",
+          "count": 3
+        },
+        {
+          "word": "kriminalität",
+          "count": 2
+        },
+        {
+          "word": "soldaten",
+          "count": 2
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "gesundheitswesen",
+          "count": 1
+        },
+        {
+          "word": "pflege",
+          "count": 1
+        },
+        {
+          "word": "pandemie",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "russland",
+          "count": 13
+        },
+        {
+          "word": "ukraine",
+          "count": 13
+        },
+        {
+          "word": "europa",
+          "count": 10
+        },
+        {
+          "word": "krieg",
+          "count": 5
+        },
+        {
+          "word": "nato",
+          "count": 4
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 4
+        },
+        {
+          "word": "software",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "forschung",
+          "count": 3
+        },
+        {
+          "word": "bildung",
+          "count": 1
+        },
+        {
+          "word": "wissenschaft",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "investitionen",
+          "count": 23
+        },
+        {
+          "word": "entlastung",
+          "count": 15
+        },
+        {
+          "word": "kosten",
+          "count": 10
+        },
+        {
+          "word": "haushalt",
+          "count": 7
+        },
+        {
+          "word": "steuern",
+          "count": 6
+        }
+      ],
+      "justiz": [
+        {
+          "word": "gleichstellung",
+          "count": 2
+        },
+        {
+          "word": "beschluss",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "einkommen",
+          "count": 9
+        },
+        {
+          "word": "löhne",
+          "count": 3
+        },
+        {
+          "word": "arbeitnehmer",
+          "count": 3
+        },
+        {
+          "word": "arbeitsplätze",
+          "count": 2
+        },
+        {
+          "word": "arbeitnehmerinnen",
+          "count": 2
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 9
+        },
+        {
+          "word": "bahn",
+          "count": 2
+        },
+        {
+          "word": "ladeinfrastruktur",
+          "count": 1
+        },
+        {
+          "word": "autos",
+          "count": 1
+        },
+        {
+          "word": "verkehrsinfrastruktur",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,469 @@
+{
+  "name": "René Springer",
+  "party": "AfD",
+  "slug": "rene-springer",
+  "academicTitle": null,
+  "speeches": 6,
+  "wortbeitraege": 2,
+  "befragungResponses": 0,
+  "totalWords": 3797,
+  "avgWords": 475,
+  "minWords": 14,
+  "maxWords": 884,
+  "rankings": {
+    "speechRank": 349,
+    "wordsRank": 275,
+    "partySpeechRank": 83,
+    "partyWordsRank": 58,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 42.7,
+    "verbosityRank": 204,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 50,
+    "longestSpeechRank": 116
+  },
+  "drama": {
+    "interruptionsGiven": 8,
+    "interruptionsReceived": 17,
+    "interrupterRank": 174,
+    "interruptedRank": 167
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "deutschland",
+        "count": 23
+      },
+      {
+        "word": "bürgergeld",
+        "count": 18
+      },
+      {
+        "word": "land",
+        "count": 15
+      },
+      {
+        "word": "ukrainer",
+        "count": 15
+      },
+      {
+        "word": "deutsche",
+        "count": 11
+      },
+      {
+        "word": "sozialstaat",
+        "count": 9
+      },
+      {
+        "word": "einfach",
+        "count": 8
+      },
+      {
+        "word": "deutschen",
+        "count": 8
+      },
+      {
+        "word": "ausländer",
+        "count": 8
+      },
+      {
+        "word": "darf",
+        "count": 8
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "bußgelder",
+        "count": 5,
+        "ratioParty": 764.9,
+        "ratioBundestag": 308.7
+      },
+      {
+        "word": "ukrainer",
+        "count": 15,
+        "ratioParty": 95.6,
+        "ratioBundestag": 130.6
+      },
+      {
+        "word": "gäste",
+        "count": 6,
+        "ratioParty": 39.9,
+        "ratioBundestag": 63.7
+      },
+      {
+        "word": "beziehen",
+        "count": 5,
+        "ratioParty": 36.4,
+        "ratioBundestag": 44.7
+      },
+      {
+        "word": "sozialstaat",
+        "count": 9,
+        "ratioParty": 36.2,
+        "ratioBundestag": 21.2
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "rechts",
+        "count": 3,
+        "ratioParty": 6.7,
+        "ratioBundestag": 6.4
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 475,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.81,
+    "vsParliament": 0.77
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "6"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "3.797"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt René Springer häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Bußgelder",
+        "isCorrect": true
+      },
+      {
+        "text": "Politik",
+        "isCorrect": false
+      },
+      {
+        "text": "Gesetzentwurf",
+        "isCorrect": false
+      },
+      {
+        "text": "Familie",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Bußgelder\" nutzt René Springer 764.9× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "308.7× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt René Springer häufiger als der Rest der AfD-Fraktion?",
+    "options": [
+      {
+        "text": "Rechts",
+        "isCorrect": true
+      },
+      {
+        "text": "Falsch",
+        "isCorrect": false
+      },
+      {
+        "text": "Klar",
+        "isCorrect": false
+      },
+      {
+        "text": "Alt",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Rechts\" nutzt René Springer 6.7× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "6.4× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 100.0,
+      "aggression": 18.2,
+      "labeling": 54.5,
+      "solution_focus": 61.5,
+      "collaboration": 20.0,
+      "demand_intensity": 25.0,
+      "acknowledgment": 0.0,
+      "authority": 83.3,
+      "future_orientation": 95.0,
+      "emotional_intensity": 66.7,
+      "inclusivity": 55.8,
+      "discriminatory": 3.67
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 8,
+      "words": 2452,
+      "adjectives": 11,
+      "verbs": 24
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 6.53,
+      "klima": 0.82,
+      "wirtschaft": 2.85,
+      "soziales": 27.32,
+      "sicherheit": 1.22,
+      "gesundheit": 2.04,
+      "europa": 9.38,
+      "digital": 0.41,
+      "bildung": 1.22,
+      "finanzen": 6.93,
+      "justiz": 2.04,
+      "arbeit": 6.12,
+      "mobilitaet": 0.41
+    },
+    "topTopics": [
+      {
+        "topic": "soziales",
+        "score": 27.32,
+        "rank": 1
+      },
+      {
+        "topic": "europa",
+        "score": 9.38,
+        "rank": 2
+      },
+      {
+        "topic": "finanzen",
+        "score": 6.93,
+        "rank": 3
+      },
+      {
+        "topic": "migration",
+        "score": 6.53,
+        "rank": 4
+      },
+      {
+        "topic": "arbeit",
+        "score": 6.12,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "einwanderung",
+          "count": 2
+        },
+        {
+          "word": "zuwanderung",
+          "count": 2
+        },
+        {
+          "word": "zuwanderer",
+          "count": 2
+        },
+        {
+          "word": "asylbewerber",
+          "count": 2
+        },
+        {
+          "word": "migration",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "energie",
+          "count": 1
+        },
+        {
+          "word": "umweltschutz",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "qualifikation",
+          "count": 3
+        },
+        {
+          "word": "mittelstand",
+          "count": 2
+        },
+        {
+          "word": "fachkräftemangel",
+          "count": 1
+        },
+        {
+          "word": "markt",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "bürgergeld",
+          "count": 18
+        },
+        {
+          "word": "sozialstaat",
+          "count": 9
+        },
+        {
+          "word": "grundsicherung",
+          "count": 4
+        },
+        {
+          "word": "sozialleistungen",
+          "count": 4
+        },
+        {
+          "word": "renten",
+          "count": 3
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "polizei",
+          "count": 1
+        },
+        {
+          "word": "straftäter",
+          "count": 1
+        },
+        {
+          "word": "angriff",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "krankenversicherung",
+          "count": 2
+        },
+        {
+          "word": "sucht",
+          "count": 1
+        },
+        {
+          "word": "pflegekräfte",
+          "count": 1
+        },
+        {
+          "word": "krankenkassen",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "ukrainer",
+          "count": 15
+        },
+        {
+          "word": "china",
+          "count": 2
+        },
+        {
+          "word": "sanktionen",
+          "count": 1
+        },
+        {
+          "word": "kiew",
+          "count": 1
+        },
+        {
+          "word": "gipfel",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "plattformen",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "berufsausbildung",
+          "count": 1
+        },
+        {
+          "word": "bildung",
+          "count": 1
+        },
+        {
+          "word": "schulen",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "kosten",
+          "count": 5
+        },
+        {
+          "word": "steuerzahler",
+          "count": 5
+        },
+        {
+          "word": "steuern",
+          "count": 4
+        },
+        {
+          "word": "entlastung",
+          "count": 1
+        },
+        {
+          "word": "inflation",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "gesetzgebung",
+          "count": 1
+        },
+        {
+          "word": "gefängnis",
+          "count": 1
+        },
+        {
+          "word": "straftaten",
+          "count": 1
+        },
+        {
+          "word": "haft",
+          "count": 1
+        },
+        {
+          "word": "verurteilung",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "jobcenter",
+          "count": 4
+        },
+        {
+          "word": "arbeiter",
+          "count": 3
+        },
+        {
+          "word": "arbeitslosigkeit",
+          "count": 2
+        },
+        {
+          "word": "arbeitnehmer",
+          "count": 2
+        },
+        {
+          "word": "einkommen",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "straßen",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,415 @@
+{
+  "name": "Franziska Hoppermann",
+  "party": "CDU/CSU",
+  "slug": "franziska-hoppermann",
+  "academicTitle": null,
+  "speeches": 6,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 4676,
+  "avgWords": 779,
+  "minWords": 577,
+  "maxWords": 918,
+  "rankings": {
+    "speechRank": 328,
+    "wordsRank": 208,
+    "partySpeechRank": 84,
+    "partyWordsRank": 60,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 46.1,
+    "verbosityRank": 12,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 4,
+    "longestSpeechRank": 99
+  },
+  "drama": {
+    "interruptionsGiven": 13,
+    "interruptionsReceived": 8,
+    "interrupterRank": 137,
+    "interruptedRank": 331
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "ministerium",
+        "count": 24
+      },
+      {
+        "word": "staatsmodernisierung",
+        "count": 18
+      },
+      {
+        "word": "einzelplan",
+        "count": 18
+      },
+      {
+        "word": "digitalisierung",
+        "count": 16
+      },
+      {
+        "word": "haushalt",
+        "count": 14
+      },
+      {
+        "word": "digitale",
+        "count": 11
+      },
+      {
+        "word": "staat",
+        "count": 10
+      },
+      {
+        "word": "minister",
+        "count": 10
+      },
+      {
+        "word": "jahr",
+        "count": 10
+      },
+      {
+        "word": "neuen",
+        "count": 9
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "bereinigungssitzung",
+        "count": 5,
+        "ratioParty": 73.8,
+        "ratioBundestag": 60.3
+      },
+      {
+        "word": "staatsmodernisierung",
+        "count": 18,
+        "ratioParty": 49.0,
+        "ratioBundestag": 76.2
+      },
+      {
+        "word": "digitales",
+        "count": 8,
+        "ratioParty": 44.3,
+        "ratioBundestag": 52.2
+      },
+      {
+        "word": "wildberger",
+        "count": 6,
+        "ratioParty": 37.9,
+        "ratioBundestag": 27.7
+      },
+      {
+        "word": "ministerium",
+        "count": 24,
+        "ratioParty": 32.4,
+        "ratioBundestag": 26.3
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "entscheidend",
+        "count": 3,
+        "ratioParty": 3.7,
+        "ratioBundestag": 6.1
+      },
+      {
+        "word": "sicher",
+        "count": 4,
+        "ratioParty": 2.6,
+        "ratioBundestag": 3.0
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 779,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 1.13,
+    "vsParliament": 1.27
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "6"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "4.676"
+    },
+    {
+      "emoji": "📚",
+      "label": "Wortreichster",
+      "value": "#12 von 521"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufe",
+      "value": "13"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Franziska Hoppermann häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Fraktion",
+        "isCorrect": false
+      },
+      {
+        "text": "Bereinigungssitzung",
+        "isCorrect": true
+      },
+      {
+        "text": "Energie",
+        "isCorrect": false
+      },
+      {
+        "text": "Ausschuss",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Bereinigungssitzung\" nutzt Franziska Hoppermann 73.8× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "60.3× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Franziska Hoppermann häufiger als der Rest der CDU/CSU-Fraktion?",
+    "options": [
+      {
+        "text": "Notwendig",
+        "isCorrect": false
+      },
+      {
+        "text": "Erfolgreich",
+        "isCorrect": false
+      },
+      {
+        "text": "Entscheidend",
+        "isCorrect": true
+      },
+      {
+        "text": "Jung",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Entscheidend\" nutzt Franziska Hoppermann 3.7× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "6.1× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🦦",
+    "name": "Otter",
+    "title": "Positive Teamplayerin",
+    "reason": "Du bringst gute Stimmung und konstruktive Beiträge ins Plenum.",
+    "id": "otter",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüterin",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.912
+      },
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißige Abgeordnete",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 0.875
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 95.2,
+      "aggression": 0.0,
+      "labeling": 4.5,
+      "solution_focus": 91.9,
+      "collaboration": 100.0,
+      "demand_intensity": 2.3,
+      "acknowledgment": 7.0,
+      "authority": 84.1,
+      "future_orientation": 84.6,
+      "emotional_intensity": 69.2,
+      "inclusivity": 50.0,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 6,
+      "words": 3000,
+      "adjectives": 22,
+      "verbs": 43
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.0,
+      "wirtschaft": 3.0,
+      "soziales": 0.33,
+      "sicherheit": 0.0,
+      "gesundheit": 0.33,
+      "europa": 0.67,
+      "digital": 8.67,
+      "bildung": 0.33,
+      "finanzen": 11.67,
+      "justiz": 2.33,
+      "arbeit": 0.33,
+      "mobilitaet": 1.67
+    },
+    "topTopics": [
+      {
+        "topic": "finanzen",
+        "score": 11.67,
+        "rank": 1
+      },
+      {
+        "topic": "digital",
+        "score": 8.67,
+        "rank": 2
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 3.0,
+        "rank": 3
+      },
+      {
+        "topic": "justiz",
+        "score": 2.33,
+        "rank": 4
+      },
+      {
+        "topic": "mobilitaet",
+        "score": 1.67,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 7
+        },
+        {
+          "word": "standort",
+          "count": 1
+        },
+        {
+          "word": "wirtschaftswachstum",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "familie",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "vorsorge",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "gipfel",
+          "count": 1
+        },
+        {
+          "word": "kooperation",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 16
+        },
+        {
+          "word": "digital",
+          "count": 3
+        },
+        {
+          "word": "daten",
+          "count": 2
+        },
+        {
+          "word": "breitband",
+          "count": 1
+        },
+        {
+          "word": "cybersicherheit",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "schulen",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 14
+        },
+        {
+          "word": "haushaltsausschuss",
+          "count": 5
+        },
+        {
+          "word": "sondervermögen",
+          "count": 2
+        },
+        {
+          "word": "steuern",
+          "count": 2
+        },
+        {
+          "word": "bundeshaushalt",
+          "count": 2
+        }
+      ],
+      "justiz": [
+        {
+          "word": "verbraucherschutz",
+          "count": 2
+        },
+        {
+          "word": "rechtsstaat",
+          "count": 2
+        },
+        {
+          "word": "beschluss",
+          "count": 1
+        },
+        {
+          "word": "verfassungskonform",
+          "count": 1
+        },
+        {
+          "word": "rechtsstaatlichkeit",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "beschäftigte",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 4
+        },
+        {
+          "word": "straßen",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

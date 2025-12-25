@@ -1,0 +1,368 @@
+{
+  "name": "Ulrich von Zons",
+  "party": "AfD",
+  "slug": "ulrich-von-zons",
+  "academicTitle": "von",
+  "speeches": 8,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 2426,
+  "avgWords": 303,
+  "minWords": 104,
+  "maxWords": 390,
+  "rankings": {
+    "speechRank": 212,
+    "wordsRank": 416,
+    "partySpeechRank": 48,
+    "partyWordsRank": 95,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 65.2,
+    "verbosityRank": 461,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 114,
+    "longestSpeechRank": 581
+  },
+  "drama": {
+    "interruptionsGiven": 4,
+    "interruptionsReceived": 11,
+    "interrupterRank": 233,
+    "interruptedRank": 246
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "deutschland",
+        "count": 14
+      },
+      {
+        "word": "grünen",
+        "count": 13
+      },
+      {
+        "word": "bahn",
+        "count": 13
+      },
+      {
+        "word": "fordern",
+        "count": 6
+      },
+      {
+        "word": "politik",
+        "count": 6
+      },
+      {
+        "word": "menschen",
+        "count": 6
+      },
+      {
+        "word": "gerechtigkeit",
+        "count": 5
+      },
+      {
+        "word": "schreien",
+        "count": 5
+      },
+      {
+        "word": "jahr",
+        "count": 5
+      },
+      {
+        "word": "bürger",
+        "count": 5
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "schreien",
+        "count": 5,
+        "ratioParty": 54.3,
+        "ratioBundestag": 135.7
+      },
+      {
+        "word": "gerechtigkeit",
+        "count": 5,
+        "ratioParty": 31.4,
+        "ratioBundestag": 14.2
+      },
+      {
+        "word": "fordern",
+        "count": 6,
+        "ratioParty": 6.1,
+        "ratioBundestag": 9.4
+      },
+      {
+        "word": "alternative",
+        "count": 5,
+        "ratioParty": 5.4,
+        "ratioBundestag": 17.7
+      },
+      {
+        "word": "grünen",
+        "count": 13,
+        "ratioParty": 5.3,
+        "ratioBundestag": 11.0
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 303,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.52,
+    "vsParliament": 0.49
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "8"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "2.426"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Ulrich von Zons häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Investitionen",
+        "isCorrect": false
+      },
+      {
+        "text": "Verantwortung",
+        "isCorrect": false
+      },
+      {
+        "text": "Bundesregierung",
+        "isCorrect": false
+      },
+      {
+        "text": "Schreien",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Schreien\" nutzt Ulrich von Zons 54.3× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "135.7× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 100.0,
+      "aggression": 10.0,
+      "labeling": 40.0,
+      "solution_focus": 61.5,
+      "collaboration": 50.0,
+      "demand_intensity": 31.6,
+      "acknowledgment": 0.0,
+      "authority": 66.7,
+      "future_orientation": 77.8,
+      "emotional_intensity": 50.0,
+      "inclusivity": 69.6,
+      "discriminatory": 1.27
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 8,
+      "words": 1574,
+      "adjectives": 10,
+      "verbs": 19
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 3.81,
+      "wirtschaft": 2.54,
+      "soziales": 2.54,
+      "sicherheit": 1.91,
+      "gesundheit": 0.0,
+      "europa": 0.64,
+      "digital": 0.0,
+      "bildung": 1.27,
+      "finanzen": 4.45,
+      "justiz": 10.17,
+      "arbeit": 0.0,
+      "mobilitaet": 19.06
+    },
+    "topTopics": [
+      {
+        "topic": "mobilitaet",
+        "score": 19.06,
+        "rank": 1
+      },
+      {
+        "topic": "justiz",
+        "score": 10.17,
+        "rank": 2
+      },
+      {
+        "topic": "finanzen",
+        "score": 4.45,
+        "rank": 3
+      },
+      {
+        "topic": "klima",
+        "score": 3.81,
+        "rank": 4
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 2.54,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "nachhaltigkeit",
+          "count": 2
+        },
+        {
+          "word": "umwelt",
+          "count": 1
+        },
+        {
+          "word": "nachhaltig",
+          "count": 1
+        },
+        {
+          "word": "umweltschutz",
+          "count": 1
+        },
+        {
+          "word": "energiewende",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 2
+        },
+        {
+          "word": "industrie",
+          "count": 1
+        },
+        {
+          "word": "firmen",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "bedürftige",
+          "count": 1
+        },
+        {
+          "word": "kind",
+          "count": 1
+        },
+        {
+          "word": "familie",
+          "count": 1
+        },
+        {
+          "word": "alleinerziehende",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "verfassungsschutz",
+          "count": 1
+        },
+        {
+          "word": "terroristen",
+          "count": 1
+        },
+        {
+          "word": "polizei",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "schulen",
+          "count": 2
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "steuerzahler",
+          "count": 2
+        },
+        {
+          "word": "kosten",
+          "count": 2
+        },
+        {
+          "word": "schulden",
+          "count": 1
+        },
+        {
+          "word": "finanzierung",
+          "count": 1
+        },
+        {
+          "word": "subvention",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "rechtsstaat",
+          "count": 3
+        },
+        {
+          "word": "verfassung",
+          "count": 3
+        },
+        {
+          "word": "grundgesetz",
+          "count": 2
+        },
+        {
+          "word": "rechtsanwalt",
+          "count": 1
+        },
+        {
+          "word": "zivilrecht",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "bahn",
+          "count": 13
+        },
+        {
+          "word": "deutschlandticket",
+          "count": 4
+        },
+        {
+          "word": "nahverkehr",
+          "count": 2
+        },
+        {
+          "word": "schiene",
+          "count": 2
+        },
+        {
+          "word": "infrastruktur",
+          "count": 2
+        }
+      ]
+    }
+  }
+}

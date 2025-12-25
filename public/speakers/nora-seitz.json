@@ -1,0 +1,421 @@
+{
+  "name": "Nora Seitz",
+  "party": "CDU/CSU",
+  "slug": "nora-seitz",
+  "academicTitle": null,
+  "speeches": 8,
+  "wortbeitraege": 2,
+  "befragungResponses": 0,
+  "totalWords": 4106,
+  "avgWords": 411,
+  "minWords": 49,
+  "maxWords": 651,
+  "rankings": {
+    "speechRank": 203,
+    "wordsRank": 246,
+    "partySpeechRank": 47,
+    "partyWordsRank": 73,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 66.7,
+    "verbosityRank": 319,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 115,
+    "longestSpeechRank": 359
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 3,
+    "interrupterRank": null,
+    "interruptedRank": 475
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "deutschland",
+        "count": 14
+      },
+      {
+        "word": "menschen",
+        "count": 13
+      },
+      {
+        "word": "dürfen",
+        "count": 10
+      },
+      {
+        "word": "unternehmen",
+        "count": 9
+      },
+      {
+        "word": "jahren",
+        "count": 8
+      },
+      {
+        "word": "land",
+        "count": 8
+      },
+      {
+        "word": "kleinen",
+        "count": 7
+      },
+      {
+        "word": "linke",
+        "count": 7
+      },
+      {
+        "word": "allein",
+        "count": 7
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "aufträge",
+        "count": 5,
+        "ratioParty": 87.7,
+        "ratioBundestag": 52.1
+      },
+      {
+        "word": "erkrankungen",
+        "count": 7,
+        "ratioParty": 79.4,
+        "ratioBundestag": 68.2
+      },
+      {
+        "word": "arbeitswelt",
+        "count": 5,
+        "ratioParty": 74.2,
+        "ratioBundestag": 116.2
+      },
+      {
+        "word": "ernährung",
+        "count": 5,
+        "ratioParty": 53.6,
+        "ratioBundestag": 31.8
+      },
+      {
+        "word": "kleinen",
+        "count": 7,
+        "ratioParty": 20.8,
+        "ratioBundestag": 13.5
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "entscheidend",
+        "count": 3,
+        "ratioParty": 4.1,
+        "ratioBundestag": 6.7
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 411,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.6,
+    "vsParliament": 0.67
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "8"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "4.106"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Nora Seitz häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Klima",
+        "isCorrect": false
+      },
+      {
+        "text": "Fraktion",
+        "isCorrect": false
+      },
+      {
+        "text": "Aufträge",
+        "isCorrect": true
+      },
+      {
+        "text": "Energie",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Aufträge\" nutzt Nora Seitz 87.7× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "52.1× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Nora Seitz häufiger als der Rest der CDU/CSU-Fraktion?",
+    "options": [
+      {
+        "text": "Neu",
+        "isCorrect": false
+      },
+      {
+        "text": "Wichtig",
+        "isCorrect": false
+      },
+      {
+        "text": "Entscheidend",
+        "isCorrect": true
+      },
+      {
+        "text": "Europäisch",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Entscheidend\" nutzt Nora Seitz 4.1× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "6.7× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐝",
+    "name": "Biene",
+    "title": "Fleißige Abgeordnete",
+    "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+    "id": "biene",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüterin",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.964
+      },
+      {
+        "emoji": "🐬",
+        "name": "Delfin",
+        "title": "Diplomatische Rednerin",
+        "reason": "Aktiv im Parlament, aber respektvoll ohne viele Zwischenrufe.",
+        "id": "delfin",
+        "score": 0.92
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 100.0,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 87.5,
+      "collaboration": 80.0,
+      "demand_intensity": 11.8,
+      "acknowledgment": 2.9,
+      "authority": 57.1,
+      "future_orientation": 83.3,
+      "emotional_intensity": 30.8,
+      "inclusivity": 61.8,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 10,
+      "words": 2755,
+      "adjectives": 13,
+      "verbs": 34
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.36,
+      "klima": 0.0,
+      "wirtschaft": 12.34,
+      "soziales": 5.81,
+      "sicherheit": 0.0,
+      "gesundheit": 5.44,
+      "europa": 0.0,
+      "digital": 0.73,
+      "bildung": 3.99,
+      "finanzen": 2.18,
+      "justiz": 0.0,
+      "arbeit": 7.62,
+      "mobilitaet": 0.36
+    },
+    "topTopics": [
+      {
+        "topic": "wirtschaft",
+        "score": 12.34,
+        "rank": 1
+      },
+      {
+        "topic": "arbeit",
+        "score": 7.62,
+        "rank": 2
+      },
+      {
+        "topic": "soziales",
+        "score": 5.81,
+        "rank": 3
+      },
+      {
+        "topic": "gesundheit",
+        "score": 5.44,
+        "rank": 4
+      },
+      {
+        "topic": "bildung",
+        "score": 3.99,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "grenze",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 9
+        },
+        {
+          "word": "betriebe",
+          "count": 5
+        },
+        {
+          "word": "handwerk",
+          "count": 4
+        },
+        {
+          "word": "industrie",
+          "count": 4
+        },
+        {
+          "word": "wettbewerbsfähigkeit",
+          "count": 3
+        }
+      ],
+      "soziales": [
+        {
+          "word": "familie",
+          "count": 4
+        },
+        {
+          "word": "bürgergeld",
+          "count": 3
+        },
+        {
+          "word": "rente",
+          "count": 2
+        },
+        {
+          "word": "sozialstaat",
+          "count": 2
+        },
+        {
+          "word": "sozialleistungen",
+          "count": 2
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "prävention",
+          "count": 4
+        },
+        {
+          "word": "covid",
+          "count": 4
+        },
+        {
+          "word": "gesundheitspolitik",
+          "count": 2
+        },
+        {
+          "word": "vorsorge",
+          "count": 1
+        },
+        {
+          "word": "krankenhaus",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 2
+        }
+      ],
+      "bildung": [
+        {
+          "word": "forschung",
+          "count": 5
+        },
+        {
+          "word": "ausbildung",
+          "count": 3
+        },
+        {
+          "word": "studium",
+          "count": 1
+        },
+        {
+          "word": "wissenschaft",
+          "count": 1
+        },
+        {
+          "word": "bildung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "kosten",
+          "count": 2
+        },
+        {
+          "word": "finanzierung",
+          "count": 1
+        },
+        {
+          "word": "haushalt",
+          "count": 1
+        },
+        {
+          "word": "währung",
+          "count": 1
+        },
+        {
+          "word": "bundeshaushalt",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitnehmer",
+          "count": 7
+        },
+        {
+          "word": "arbeitszeit",
+          "count": 4
+        },
+        {
+          "word": "lohn",
+          "count": 3
+        },
+        {
+          "word": "löhne",
+          "count": 2
+        },
+        {
+          "word": "beschäftigte",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "straßen",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

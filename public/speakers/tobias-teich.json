@@ -1,0 +1,222 @@
+{
+  "name": "Tobias Teich",
+  "party": "AfD",
+  "slug": "tobias-teich",
+  "academicTitle": null,
+  "speeches": 2,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 747,
+  "avgWords": 374,
+  "minWords": 366,
+  "maxWords": 381,
+  "rankings": {
+    "speechRank": 558,
+    "wordsRank": 577,
+    "partySpeechRank": 137,
+    "partyWordsRank": 137,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 8.4,
+    "verbosityRank": null,
+    "verbosityTotal": null,
+    "partyVerbosityRank": null,
+    "longestSpeechRank": 584
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 3,
+    "interrupterRank": null,
+    "interruptedRank": 495
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "jahre",
+        "count": 4
+      },
+      {
+        "word": "chatkontrolle",
+        "count": 4
+      },
+      {
+        "word": "bosnien",
+        "count": 3
+      },
+      {
+        "word": "morgen",
+        "count": 3
+      },
+      {
+        "word": "darf",
+        "count": 3
+      },
+      {
+        "word": "verordnung",
+        "count": 3
+      },
+      {
+        "word": "kindern",
+        "count": 3
+      },
+      {
+        "word": "nation",
+        "count": 2
+      },
+      {
+        "word": "identität",
+        "count": 2
+      },
+      {
+        "word": "srebrenica",
+        "count": 2
+      }
+    ],
+    "signatureWords": [],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 374,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.64,
+    "vsParliament": 0.61
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "2"
+    }
+  ],
+  "signatureQuiz": null,
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 100.0,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 50.0,
+      "collaboration": 0.0,
+      "demand_intensity": 12.5,
+      "acknowledgment": 0.0,
+      "authority": 75.0,
+      "future_orientation": 90.9,
+      "emotional_intensity": 100.0,
+      "inclusivity": 69.2,
+      "discriminatory": 1.93
+    },
+    "confidence": "low",
+    "sampleSize": {
+      "speeches": 2,
+      "words": 519,
+      "adjectives": 2,
+      "verbs": 8
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.0,
+      "wirtschaft": 0.0,
+      "soziales": 1.93,
+      "sicherheit": 1.93,
+      "gesundheit": 1.93,
+      "europa": 1.93,
+      "digital": 1.93,
+      "bildung": 1.93,
+      "finanzen": 1.93,
+      "justiz": 7.71,
+      "arbeit": 0.0,
+      "mobilitaet": 1.93
+    },
+    "topTopics": [
+      {
+        "topic": "justiz",
+        "score": 7.71,
+        "rank": 1
+      },
+      {
+        "topic": "soziales",
+        "score": 1.93,
+        "rank": 2
+      },
+      {
+        "topic": "sicherheit",
+        "score": 1.93,
+        "rank": 3
+      },
+      {
+        "topic": "gesundheit",
+        "score": 1.93,
+        "rank": 4
+      },
+      {
+        "topic": "europa",
+        "score": 1.93,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "überwachung",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "ärzte",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "botschafter",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "plattformen",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "lehrer",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "schuldenbremse",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "verordnung",
+          "count": 3
+        },
+        {
+          "word": "anwälte",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

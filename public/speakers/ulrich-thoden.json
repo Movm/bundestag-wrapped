@@ -1,0 +1,366 @@
+{
+  "name": "Ulrich Thoden",
+  "party": "DIE LINKE",
+  "slug": "ulrich-thoden",
+  "academicTitle": null,
+  "speeches": 7,
+  "wortbeitraege": 2,
+  "befragungResponses": 0,
+  "totalWords": 2990,
+  "avgWords": 332,
+  "minWords": 33,
+  "maxWords": 598,
+  "rankings": {
+    "speechRank": 278,
+    "wordsRank": 366,
+    "partySpeechRank": 34,
+    "partyWordsRank": 36,
+    "partySize": 63,
+    "totalSpeakers": 609,
+    "percentile": 54.4,
+    "verbosityRank": 435,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 45,
+    "longestSpeechRank": 426
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 5,
+    "interrupterRank": 294,
+    "interruptedRank": 394
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "bundesregierung",
+        "count": 14
+      },
+      {
+        "word": "linke",
+        "count": 10
+      },
+      {
+        "word": "bundeswehr",
+        "count": 8
+      },
+      {
+        "word": "angriffe",
+        "count": 7
+      },
+      {
+        "word": "verteidigung",
+        "count": 7
+      },
+      {
+        "word": "sicherheit",
+        "count": 6
+      },
+      {
+        "word": "minister",
+        "count": 6
+      },
+      {
+        "word": "deutschland",
+        "count": 6
+      },
+      {
+        "word": "haus",
+        "count": 6
+      },
+      {
+        "word": "unifil",
+        "count": 6
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "verteidigung",
+        "count": 7,
+        "ratioParty": 40.4,
+        "ratioBundestag": 24.1
+      },
+      {
+        "word": "unifil",
+        "count": 6,
+        "ratioParty": 30.1,
+        "ratioBundestag": 76.0
+      },
+      {
+        "word": "angriffe",
+        "count": 7,
+        "ratioParty": 24.2,
+        "ratioBundestag": 26.4
+      },
+      {
+        "word": "whatever",
+        "count": 5,
+        "ratioParty": 24.0,
+        "ratioBundestag": 174.1
+      },
+      {
+        "word": "takes",
+        "count": 5,
+        "ratioParty": 24.0,
+        "ratioBundestag": 167.1
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 332,
+    "partyAvgWords": 521,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.64,
+    "vsParliament": 0.54
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "7"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "2.990"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Ulrich Thoden häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Verteidigung",
+        "isCorrect": true
+      },
+      {
+        "text": "Gesetzentwurf",
+        "isCorrect": false
+      },
+      {
+        "text": "Arbeit",
+        "isCorrect": false
+      },
+      {
+        "text": "Haushalt",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Verteidigung\" nutzt Ulrich Thoden 40.4× häufiger als der DIE LINKE-Durchschnitt.",
+    "explanationBundestag": "24.1× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🐿️",
+    "name": "Eichhörnchen",
+    "title": "Themenhüter",
+    "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+    "id": "eichhoernchen",
+    "alternatives": [
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißiger Abgeordneter",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 0.874
+      },
+      {
+        "emoji": "🦀",
+        "name": "Krabbe",
+        "title": "Hartnäckiger Debattierer",
+        "reason": "Du hältst an deinen Positionen fest und lässt nicht locker.",
+        "id": "krabbe",
+        "score": 0.84
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 44.4,
+      "aggression": 10.0,
+      "labeling": 0.0,
+      "solution_focus": 50.0,
+      "collaboration": 50.0,
+      "demand_intensity": 21.4,
+      "acknowledgment": 7.1,
+      "authority": 70.8,
+      "future_orientation": 66.7,
+      "emotional_intensity": 50.0,
+      "inclusivity": 23.7,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 9,
+      "words": 1993,
+      "adjectives": 10,
+      "verbs": 14
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.5,
+      "klima": 0.0,
+      "wirtschaft": 0.0,
+      "soziales": 1.0,
+      "sicherheit": 16.06,
+      "gesundheit": 0.5,
+      "europa": 13.55,
+      "digital": 0.0,
+      "bildung": 1.51,
+      "finanzen": 3.51,
+      "justiz": 0.5,
+      "arbeit": 0.5,
+      "mobilitaet": 1.0
+    },
+    "topTopics": [
+      {
+        "topic": "sicherheit",
+        "score": 16.06,
+        "rank": 1
+      },
+      {
+        "topic": "europa",
+        "score": 13.55,
+        "rank": 2
+      },
+      {
+        "topic": "finanzen",
+        "score": 3.51,
+        "rank": 3
+      },
+      {
+        "topic": "bildung",
+        "score": 1.51,
+        "rank": 4
+      },
+      {
+        "topic": "soziales",
+        "score": 1.0,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "mittelmeer",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "sozialstaat",
+          "count": 1
+        },
+        {
+          "word": "familie",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "bundeswehr",
+          "count": 8
+        },
+        {
+          "word": "verteidigung",
+          "count": 7
+        },
+        {
+          "word": "rüstung",
+          "count": 3
+        },
+        {
+          "word": "verteidigungsfähigkeit",
+          "count": 3
+        },
+        {
+          "word": "soldaten",
+          "count": 3
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "operation",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "nato",
+          "count": 5
+        },
+        {
+          "word": "osze",
+          "count": 3
+        },
+        {
+          "word": "frieden",
+          "count": 3
+        },
+        {
+          "word": "iran",
+          "count": 2
+        },
+        {
+          "word": "angriffskrieg",
+          "count": 2
+        }
+      ],
+      "bildung": [
+        {
+          "word": "bildung",
+          "count": 2
+        },
+        {
+          "word": "lehrkräfte",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "kosten",
+          "count": 2
+        },
+        {
+          "word": "investitionen",
+          "count": 2
+        },
+        {
+          "word": "finanzierung",
+          "count": 1
+        },
+        {
+          "word": "steuerzahler",
+          "count": 1
+        },
+        {
+          "word": "sondervermögen",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "grundgesetz",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "vereinbarkeit",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "schiffe",
+          "count": 1
+        },
+        {
+          "word": "auto",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

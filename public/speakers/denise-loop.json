@@ -1,0 +1,291 @@
+{
+  "name": "Denise Loop",
+  "party": "GRÜNE",
+  "slug": "denise-loop",
+  "academicTitle": null,
+  "speeches": 2,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 799,
+  "avgWords": 400,
+  "minWords": 390,
+  "maxWords": 409,
+  "rankings": {
+    "speechRank": 548,
+    "wordsRank": 569,
+    "partySpeechRank": 81,
+    "partyWordsRank": 84,
+    "partySize": 85,
+    "totalSpeakers": 609,
+    "percentile": 10.0,
+    "verbosityRank": null,
+    "verbosityTotal": null,
+    "partyVerbosityRank": null,
+    "longestSpeechRank": 574
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 2,
+    "interrupterRank": null,
+    "interruptedRank": 515
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 8
+      },
+      {
+        "word": "kinder",
+        "count": 6
+      },
+      {
+        "word": "geld",
+        "count": 5
+      },
+      {
+        "word": "jugendhilfe",
+        "count": 4
+      },
+      {
+        "word": "weniger",
+        "count": 4
+      },
+      {
+        "word": "frauen",
+        "count": 4
+      },
+      {
+        "word": "land",
+        "count": 4
+      },
+      {
+        "word": "ministerin",
+        "count": 3
+      },
+      {
+        "word": "prien",
+        "count": 3
+      },
+      {
+        "word": "kindern",
+        "count": 3
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "kinder",
+        "count": 6,
+        "ratioParty": 15.4,
+        "ratioBundestag": 16.1
+      },
+      {
+        "word": "menschen",
+        "count": 8,
+        "ratioParty": 2.5,
+        "ratioBundestag": 3.6
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 400,
+    "partyAvgWords": 567,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.71,
+    "vsParliament": 0.65
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "2"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Denise Loop häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Europa",
+        "isCorrect": false
+      },
+      {
+        "text": "Kinder",
+        "isCorrect": true
+      },
+      {
+        "text": "Freiheit",
+        "isCorrect": false
+      },
+      {
+        "text": "Koalition",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Kinder\" nutzt Denise Loop 15.4× häufiger als der GRÜNE-Durchschnitt.",
+    "explanationBundestag": "16.1× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🦫",
+    "name": "Biber",
+    "title": "Konstruktive Brückenbauerin",
+    "reason": "Du baust Brücken zwischen Positionen – kooperativ und lösungsorientiert.",
+    "id": "biber",
+    "alternatives": [
+      {
+        "emoji": "🐢",
+        "name": "Schildkröte",
+        "title": "Gründliche Analystin",
+        "reason": "Wenige Reden, aber wenn, dann richtig ausführlich.",
+        "id": "schildkroete",
+        "score": 0.62
+      },
+      {
+        "emoji": "🐇",
+        "name": "Hase",
+        "title": "Wendige Optimistin",
+        "reason": "Mit positivem Blick reagierst du schnell auf neue Themen.",
+        "id": "hase",
+        "score": 0.603
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 33.3,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 80.0,
+      "collaboration": 50.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 16.7,
+      "authority": 90.9,
+      "future_orientation": 90.0,
+      "emotional_intensity": 100.0,
+      "inclusivity": 78.9,
+      "discriminatory": 0.0
+    },
+    "confidence": "low",
+    "sampleSize": {
+      "speeches": 2,
+      "words": 507,
+      "adjectives": 3,
+      "verbs": 6
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 1.97,
+      "wirtschaft": 0.0,
+      "soziales": 31.56,
+      "sicherheit": 3.94,
+      "gesundheit": 1.97,
+      "europa": 0.0,
+      "digital": 0.0,
+      "bildung": 3.94,
+      "finanzen": 7.89,
+      "justiz": 0.0,
+      "arbeit": 0.0,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "soziales",
+        "score": 31.56,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 7.89,
+        "rank": 2
+      },
+      {
+        "topic": "sicherheit",
+        "score": 3.94,
+        "rank": 3
+      },
+      {
+        "topic": "bildung",
+        "score": 3.94,
+        "rank": 4
+      },
+      {
+        "topic": "klima",
+        "score": 1.97,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "nachhaltig",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 6
+        },
+        {
+          "word": "jugendhilfe",
+          "count": 4
+        },
+        {
+          "word": "eltern",
+          "count": 2
+        },
+        {
+          "word": "familien",
+          "count": 2
+        },
+        {
+          "word": "jugendliche",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "gewalt",
+          "count": 2
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "pflegenotstand",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "bildung",
+          "count": 1
+        },
+        {
+          "word": "bildungssystem",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "subventionen",
+          "count": 1
+        },
+        {
+          "word": "finanzierung",
+          "count": 1
+        },
+        {
+          "word": "investitionen",
+          "count": 1
+        },
+        {
+          "word": "sondervermögen",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

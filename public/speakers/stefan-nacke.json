@@ -1,0 +1,348 @@
+{
+  "name": "Dr. Stefan Nacke",
+  "party": "CDU/CSU",
+  "slug": "stefan-nacke",
+  "academicTitle": "Dr",
+  "speeches": 6,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 2926,
+  "avgWords": 488,
+  "minWords": 370,
+  "maxWords": 620,
+  "rankings": {
+    "speechRank": 350,
+    "wordsRank": 373,
+    "partySpeechRank": 94,
+    "partyWordsRank": 114,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 42.5,
+    "verbosityRank": 176,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 63,
+    "longestSpeechRank": 395
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 8,
+    "interrupterRank": null,
+    "interruptedRank": 340
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 17
+      },
+      {
+        "word": "arbeit",
+        "count": 10
+      },
+      {
+        "word": "drei",
+        "count": 9
+      },
+      {
+        "word": "altersvorsorge",
+        "count": 8
+      },
+      {
+        "word": "vertrauen",
+        "count": 8
+      },
+      {
+        "word": "rente",
+        "count": 7
+      },
+      {
+        "word": "rentenversicherung",
+        "count": 7
+      },
+      {
+        "word": "rentenkommission",
+        "count": 7
+      },
+      {
+        "word": "deutschland",
+        "count": 6
+      },
+      {
+        "word": "sorgen",
+        "count": 6
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "rentenkommission",
+        "count": 7,
+        "ratioParty": 65.1,
+        "ratioBundestag": 101.8
+      },
+      {
+        "word": "säulen",
+        "count": 6,
+        "ratioParty": 64.7,
+        "ratioBundestag": 103.3
+      },
+      {
+        "word": "rentenversicherung",
+        "count": 7,
+        "ratioParty": 55.5,
+        "ratioBundestag": 40.2
+      },
+      {
+        "word": "altersvorsorge",
+        "count": 8,
+        "ratioParty": 46.9,
+        "ratioBundestag": 65.5
+      },
+      {
+        "word": "beschäftigung",
+        "count": 5,
+        "ratioParty": 40.8,
+        "ratioBundestag": 50.2
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 488,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.71,
+    "vsParliament": 0.8
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "6"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "2.926"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Dr. Stefan Nacke häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Demokratie",
+        "isCorrect": false
+      },
+      {
+        "text": "Abstimmung",
+        "isCorrect": false
+      },
+      {
+        "text": "Rentenkommission",
+        "isCorrect": true
+      },
+      {
+        "text": "Wirtschaft",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Rentenkommission\" nutzt Dr. Stefan Nacke 65.1× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "101.8× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🦫",
+    "name": "Biber",
+    "title": "Konstruktiver Brückenbauer",
+    "reason": "Du baust Brücken zwischen Positionen – kooperativ und lösungsorientiert.",
+    "id": "biber",
+    "alternatives": [
+      {
+        "emoji": "🐬",
+        "name": "Delfin",
+        "title": "Diplomatischer Redner",
+        "reason": "Aktiv im Parlament, aber respektvoll ohne viele Zwischenrufe.",
+        "id": "delfin",
+        "score": 0.9
+      },
+      {
+        "emoji": "🦦",
+        "name": "Otter",
+        "title": "Positiver Teamplayer",
+        "reason": "Du bringst gute Stimmung und konstruktive Beiträge ins Plenum.",
+        "id": "otter",
+        "score": 0.883
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 75.0,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 94.4,
+      "collaboration": 100.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 4.5,
+      "authority": 76.7,
+      "future_orientation": 88.9,
+      "emotional_intensity": 25.0,
+      "inclusivity": 54.4,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 6,
+      "words": 1975,
+      "adjectives": 8,
+      "verbs": 22
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.0,
+      "wirtschaft": 1.52,
+      "soziales": 15.19,
+      "sicherheit": 0.51,
+      "gesundheit": 1.01,
+      "europa": 1.01,
+      "digital": 0.51,
+      "bildung": 1.52,
+      "finanzen": 1.01,
+      "justiz": 0.0,
+      "arbeit": 7.09,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "soziales",
+        "score": 15.19,
+        "rank": 1
+      },
+      {
+        "topic": "arbeit",
+        "score": 7.09,
+        "rank": 2
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 1.52,
+        "rank": 3
+      },
+      {
+        "topic": "bildung",
+        "score": 1.52,
+        "rank": 4
+      },
+      {
+        "topic": "gesundheit",
+        "score": 1.01,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "wirtschaft": [
+        {
+          "word": "fachkräfte",
+          "count": 1
+        },
+        {
+          "word": "unternehmen",
+          "count": 1
+        },
+        {
+          "word": "qualifikation",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "altersvorsorge",
+          "count": 8
+        },
+        {
+          "word": "rente",
+          "count": 7
+        },
+        {
+          "word": "sozialstaat",
+          "count": 5
+        },
+        {
+          "word": "armut",
+          "count": 4
+        },
+        {
+          "word": "sozialpolitik",
+          "count": 2
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "polizisten",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "krankheit",
+          "count": 1
+        },
+        {
+          "word": "pandemie",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "wiederaufbau",
+          "count": 1
+        },
+        {
+          "word": "frieden",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "automatisierung",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "bildung",
+          "count": 3
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "finanzierung",
+          "count": 1
+        },
+        {
+          "word": "inflation",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "rentenversicherung",
+          "count": 7
+        },
+        {
+          "word": "beschäftigung",
+          "count": 5
+        },
+        {
+          "word": "angestellte",
+          "count": 1
+        },
+        {
+          "word": "beitragssatz",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

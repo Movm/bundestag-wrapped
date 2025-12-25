@@ -1,0 +1,388 @@
+@import "tailwindcss";
+
+/* === Local Fonts (GDPR compliant) === */
+
+/* Noto Sans - Headers (Variable Font) */
+@font-face {
+  font-family: 'Noto Sans';
+  src: url('/fonts/NotoSans-latin-ext.woff2') format('woff2');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'Noto Sans';
+  src: url('/fonts/NotoSans-latin.woff2') format('woff2');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* Roboto - Body (Variable Font) */
+@font-face {
+  font-family: 'Roboto';
+  src: url('/fonts/Roboto-latin-ext.woff2') format('woff2');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'Roboto';
+  src: url('/fonts/Roboto-latin.woff2') format('woff2');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@theme {
+  /* === Typography === */
+  --font-sans: 'Roboto', system-ui, sans-serif;
+  --font-heading: 'Noto Sans', system-ui, sans-serif;
+
+  /* === Brand / Accent Colors (Pink-based, no purple) === */
+  --color-brand-primary: #db2777;
+  --color-brand-secondary: #ec4899;
+  --color-brand-light: #f472b6;
+  --color-brand-gradient-start: #be185d;
+  --color-brand-gradient-mid: #db2777;
+  --color-brand-gradient-end: #f472b6;
+
+  /* Legacy accent aliases */
+  --color-accent: #db2777;
+  --color-accent-light: #ec4899;
+
+  /* === Schwarz-Rot-Gold (German Flag) === */
+  --color-flag-schwarz: #000000;
+  --color-flag-rot: #DD0000;
+  --color-flag-gold: #FFCC00;
+
+  /* === Backgrounds === */
+  --color-bg-primary: #0a0a0f;
+  --color-bg-secondary: #12121a;
+  --color-bg-card: #1a1a24;
+  --color-bg-elevated: #242430;
+
+  /* === Text === */
+  --color-text-primary: #ffffff;
+  --color-text-secondary: #a1a1aa;
+  --color-text-muted: #71717a;
+
+  /* === Party Colors === */
+  --color-spd: #E3000F;
+  --color-cdu: #000000;
+  --color-gruene: #1AA037;
+  --color-afd: #009EE0;
+  --color-linke: #BE3075;
+  --color-bsw: #FF6B35;
+  --color-fraktionslos: #6B7280;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  /* Background now handled by BackgroundSystem component for pillar effect */
+  background: var(--color-bg-primary);
+  min-height: 100vh;
+  font-family: var(--font-sans);
+  color: white;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--color-bg-secondary);
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(
+    180deg,
+    var(--color-flag-schwarz) 0%,
+    var(--color-flag-rot) 50%,
+    var(--color-flag-gold) 100%
+  );
+  border-radius: 3px;
+}
+
+/* Animated gradient text */
+.gradient-text {
+  background: linear-gradient(135deg, var(--color-brand-gradient-start) 0%, var(--color-brand-gradient-mid) 50%, var(--color-brand-gradient-end) 100%);
+  background-size: 200% 200%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  animation: gradient-shift 3s ease infinite;
+}
+
+@keyframes gradient-shift {
+  0%, 100% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+}
+
+/* Glass effect */
+.glass {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* Reusable page/slide backgrounds */
+.page-bg {
+  background: linear-gradient(180deg, var(--color-bg-primary) 0%, var(--color-bg-secondary) 100%);
+}
+
+.page-bg-sticky {
+  background: color-mix(in srgb, var(--color-bg-primary) 90%, transparent);
+  backdrop-filter: blur(12px);
+}
+
+.modal-bg {
+  background: linear-gradient(180deg, var(--color-bg-elevated) 0%, var(--color-bg-primary) 100%);
+}
+
+/* Schwarz-Rot-Gold accent utilities */
+.card-accent {
+  position: relative;
+}
+
+.card-accent::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  padding: 1px;
+  background: linear-gradient(135deg, var(--color-flag-schwarz), var(--color-flag-rot), var(--color-flag-gold));
+  mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  mask-composite: exclude;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  pointer-events: none;
+}
+
+.card-accent:hover::before {
+  opacity: 1;
+}
+
+/* Gold celebration glow */
+.celebration-glow {
+  box-shadow: 0 0 40px var(--color-flag-gold), 0 0 80px color-mix(in srgb, var(--color-flag-gold) 50%, transparent);
+  animation: pulse-gold 2s ease-in-out infinite;
+}
+
+@keyframes pulse-gold {
+  0%, 100% { box-shadow: 0 0 40px var(--color-flag-gold), 0 0 80px color-mix(in srgb, var(--color-flag-gold) 50%, transparent); }
+  50% { box-shadow: 0 0 60px var(--color-flag-gold), 0 0 100px color-mix(in srgb, var(--color-flag-gold) 60%, transparent); }
+}
+
+/* Header - light theme variant */
+.header-glass-light {
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+/* Menu backdrop overlay */
+.menu-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(4px);
+  z-index: 60;
+}
+
+/* Menu drawer - dark theme */
+.menu-drawer {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  width: 280px;
+  max-width: 80vw;
+  background: linear-gradient(180deg, var(--color-bg-elevated) 0%, var(--color-bg-primary) 100%);
+  border-left: 1px solid rgba(255, 255, 255, 0.1);
+  z-index: 70;
+}
+
+/* Menu drawer - light theme */
+.menu-drawer-light {
+  background: #ffffff;
+  border-left: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+/* ============================================
+   6-Säulen Background System
+   Inspired by Reichstag Corinthian columns
+   Modern 45° diagonal with organic movement
+   ============================================ */
+
+/* Diagonal floating - vertical drift while rotated */
+@keyframes pillar-float {
+  0%, 100% {
+    transform: rotate(45deg) translateY(0);
+  }
+  33% {
+    transform: rotate(45deg) translateY(-25px);
+  }
+  66% {
+    transform: rotate(45deg) translateY(15px);
+  }
+}
+
+/* Horizontal sway - side to side drift while rotated */
+@keyframes pillar-sway {
+  0%, 100% {
+    transform: rotate(45deg) translateX(0);
+  }
+  50% {
+    transform: rotate(45deg) translateX(20px);
+  }
+}
+
+/* Combined float + sway for organic movement */
+@keyframes pillar-move {
+  0% {
+    transform: rotate(45deg) translateY(0) translateX(0);
+  }
+  25% {
+    transform: rotate(45deg) translateY(-20px) translateX(12px);
+  }
+  50% {
+    transform: rotate(45deg) translateY(5px) translateX(20px);
+  }
+  75% {
+    transform: rotate(45deg) translateY(15px) translateX(8px);
+  }
+  100% {
+    transform: rotate(45deg) translateY(0) translateX(0);
+  }
+}
+
+/* Subtle breathing opacity pulse */
+@keyframes pillar-breathe {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.85;
+  }
+}
+
+/* Subtle vertical-only float for minimal distraction */
+@keyframes pillar-float-subtle {
+  0%, 100% {
+    transform: rotate(45deg) translateY(0);
+  }
+  50% {
+    transform: rotate(45deg) translateY(-8px);
+  }
+}
+
+/* ============================================
+   Scroll-Snap Wrapped Experience
+   Mobile-optimized vertical scroll
+   ============================================ */
+
+/* Main scroll container */
+.scroll-container {
+  scroll-snap-type: y mandatory;
+  overscroll-behavior: none;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none; /* Firefox */
+}
+
+.scroll-container::-webkit-scrollbar {
+  display: none;
+}
+
+/* Individual slide sections */
+.slide-section {
+  scroll-snap-align: start;
+  scroll-snap-stop: always;
+}
+
+/* Hide scrollbar utility */
+.scrollbar-hide {
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* IE/Edge */
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+/* Safe area handling for notched devices */
+.safe-area-bottom {
+  padding-bottom: env(safe-area-inset-bottom, 0);
+}
+
+.safe-area-top {
+  padding-top: env(safe-area-inset-top, 0);
+}
+
+/* Prevent overscroll/bounce on iOS */
+.no-overscroll {
+  overscroll-behavior: none;
+  -webkit-overflow-scrolling: touch;
+}
+
+/* Lock state - disable scrolling */
+.scroll-locked {
+  overflow: hidden !important;
+  touch-action: none;
+}
+
+/* Skeleton shimmer animation */
+@keyframes shimmer {
+  0% {
+    background-position: 200% 0;
+  }
+  100% {
+    background-position: -200% 0;
+  }
+}
+
+.animate-shimmer {
+  animation: shimmer 1.5s ease-in-out infinite;
+}
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+  .scroll-container {
+    scroll-behavior: auto;
+  }
+
+  .gradient-text {
+    animation: none;
+  }
+
+  .celebration-glow {
+    animation: none;
+  }
+
+  .animate-shimmer {
+    animation: none;
+  }
+
+  @keyframes pillar-float,
+  @keyframes pillar-sway,
+  @keyframes pillar-move,
+  @keyframes pillar-breathe,
+  @keyframes pillar-float-subtle {
+    from, to {
+      transform: rotate(45deg);
+    }
+  }
+}

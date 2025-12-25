@@ -1,0 +1,464 @@
+{
+  "name": "Tilman Kuban",
+  "party": "CDU/CSU",
+  "slug": "tilman-kuban",
+  "academicTitle": null,
+  "speeches": 9,
+  "wortbeitraege": 2,
+  "befragungResponses": 0,
+  "totalWords": 4484,
+  "avgWords": 408,
+  "minWords": 43,
+  "maxWords": 730,
+  "rankings": {
+    "speechRank": 149,
+    "wordsRank": 220,
+    "partySpeechRank": 33,
+    "partyWordsRank": 66,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 75.5,
+    "verbosityRank": 324,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 117,
+    "longestSpeechRank": 268
+  },
+  "drama": {
+    "interruptionsGiven": 14,
+    "interruptionsReceived": 10,
+    "interrupterRank": 126,
+    "interruptedRank": 269
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "europa",
+        "count": 40
+      },
+      {
+        "word": "deutschland",
+        "count": 21
+      },
+      {
+        "word": "land",
+        "count": 17
+      },
+      {
+        "word": "sorgen",
+        "count": 17
+      },
+      {
+        "word": "welt",
+        "count": 15
+      },
+      {
+        "word": "europäischen",
+        "count": 15
+      },
+      {
+        "word": "menschen",
+        "count": 12
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "versenkt",
+        "count": 5,
+        "ratioParty": 450.1,
+        "ratioBundestag": 141.0
+      },
+      {
+        "word": "habeck",
+        "count": 5,
+        "ratioParty": 25.0,
+        "ratioBundestag": 19.9
+      },
+      {
+        "word": "stolz",
+        "count": 7,
+        "ratioParty": 21.4,
+        "ratioBundestag": 22.1
+      },
+      {
+        "word": "kontinent",
+        "count": 5,
+        "ratioParty": 21.4,
+        "ratioBundestag": 37.1
+      },
+      {
+        "word": "europa",
+        "count": 40,
+        "ratioParty": 10.4,
+        "ratioBundestag": 15.3
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "rechts",
+        "count": 4,
+        "ratioParty": 8.1,
+        "ratioBundestag": 7.1
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 408,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.59,
+    "vsParliament": 0.67
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "9"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "4.484"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufe",
+      "value": "14"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Tilman Kuban häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Debatte",
+        "isCorrect": false
+      },
+      {
+        "text": "Abstimmung",
+        "isCorrect": false
+      },
+      {
+        "text": "Versenkt",
+        "isCorrect": true
+      },
+      {
+        "text": "Gesetzentwurf",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Versenkt\" nutzt Tilman Kuban 450.1× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "141.0× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Tilman Kuban häufiger als der Rest der CDU/CSU-Fraktion?",
+    "options": [
+      {
+        "text": "Falsch",
+        "isCorrect": false
+      },
+      {
+        "text": "Rechts",
+        "isCorrect": true
+      },
+      {
+        "text": "Europäisch",
+        "isCorrect": false
+      },
+      {
+        "text": "Stark",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Rechts\" nutzt Tilman Kuban 8.1× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "7.1× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐝",
+    "name": "Biene",
+    "title": "Fleißiger Abgeordneter",
+    "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+    "id": "biene",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüter",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.979
+      },
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Cleverer Stratege",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 0.947
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 77.8,
+      "aggression": 0.0,
+      "labeling": 35.7,
+      "solution_focus": 100.0,
+      "collaboration": 100.0,
+      "demand_intensity": 3.2,
+      "acknowledgment": 0.0,
+      "authority": 82.9,
+      "future_orientation": 92.6,
+      "emotional_intensity": 42.9,
+      "inclusivity": 71.3,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 11,
+      "words": 2951,
+      "adjectives": 14,
+      "verbs": 31
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.68,
+      "klima": 3.39,
+      "wirtschaft": 10.5,
+      "soziales": 0.68,
+      "sicherheit": 3.05,
+      "gesundheit": 0.34,
+      "europa": 25.42,
+      "digital": 2.03,
+      "bildung": 0.0,
+      "finanzen": 2.71,
+      "justiz": 2.37,
+      "arbeit": 2.71,
+      "mobilitaet": 1.69
+    },
+    "topTopics": [
+      {
+        "topic": "europa",
+        "score": 25.42,
+        "rank": 1
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 10.5,
+        "rank": 2
+      },
+      {
+        "topic": "klima",
+        "score": 3.39,
+        "rank": 3
+      },
+      {
+        "topic": "sicherheit",
+        "score": 3.05,
+        "rank": 4
+      },
+      {
+        "topic": "finanzen",
+        "score": 2.71,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "migration",
+          "count": 2
+        }
+      ],
+      "klima": [
+        {
+          "word": "energie",
+          "count": 3
+        },
+        {
+          "word": "klimaschutz",
+          "count": 3
+        },
+        {
+          "word": "wasserstoff",
+          "count": 2
+        },
+        {
+          "word": "klimapolitik",
+          "count": 1
+        },
+        {
+          "word": "umwelt",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 6
+        },
+        {
+          "word": "handelsabkommen",
+          "count": 4
+        },
+        {
+          "word": "wettbewerbsfähigkeit",
+          "count": 3
+        },
+        {
+          "word": "handel",
+          "count": 2
+        },
+        {
+          "word": "markt",
+          "count": 2
+        }
+      ],
+      "soziales": [
+        {
+          "word": "bürgergeld",
+          "count": 1
+        },
+        {
+          "word": "jugendliche",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "verteidigungsfähigkeit",
+          "count": 3
+        },
+        {
+          "word": "gewalt",
+          "count": 2
+        },
+        {
+          "word": "abschreckung",
+          "count": 1
+        },
+        {
+          "word": "soldaten",
+          "count": 1
+        },
+        {
+          "word": "soldat",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "sucht",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 40
+        },
+        {
+          "word": "russland",
+          "count": 8
+        },
+        {
+          "word": "nato",
+          "count": 6
+        },
+        {
+          "word": "binnenmarkt",
+          "count": 4
+        },
+        {
+          "word": "ukraine",
+          "count": 3
+        }
+      ],
+      "digital": [
+        {
+          "word": "netz",
+          "count": 4
+        },
+        {
+          "word": "technologie",
+          "count": 2
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "entlastung",
+          "count": 2
+        },
+        {
+          "word": "subventionen",
+          "count": 1
+        },
+        {
+          "word": "etat",
+          "count": 1
+        },
+        {
+          "word": "haushaltsplan",
+          "count": 1
+        },
+        {
+          "word": "haushaltsentwurf",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "datenschutz",
+          "count": 2
+        },
+        {
+          "word": "menschenrechte",
+          "count": 2
+        },
+        {
+          "word": "rechtsstaatlichkeit",
+          "count": 2
+        },
+        {
+          "word": "gericht",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitsplätze",
+          "count": 3
+        },
+        {
+          "word": "arbeitnehmer",
+          "count": 1
+        },
+        {
+          "word": "beschäftigte",
+          "count": 1
+        },
+        {
+          "word": "einkommen",
+          "count": 1
+        },
+        {
+          "word": "arbeitsplatz",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "autos",
+          "count": 3
+        },
+        {
+          "word": "hafen",
+          "count": 1
+        },
+        {
+          "word": "auto",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

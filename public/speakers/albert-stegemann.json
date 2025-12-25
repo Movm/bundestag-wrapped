@@ -1,0 +1,349 @@
+{
+  "name": "Albert Stegemann",
+  "party": "CDU/CSU",
+  "slug": "albert-stegemann",
+  "academicTitle": null,
+  "speeches": 6,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 3516,
+  "avgWords": 502,
+  "minWords": 68,
+  "maxWords": 1085,
+  "rankings": {
+    "speechRank": 347,
+    "wordsRank": 311,
+    "partySpeechRank": 92,
+    "partyWordsRank": 96,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 43.0,
+    "verbosityRank": 164,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 60,
+    "longestSpeechRank": 46
+  },
+  "drama": {
+    "interruptionsGiven": 32,
+    "interruptionsReceived": 3,
+    "interrupterRank": 58,
+    "interruptedRank": 490
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "landwirtschaft",
+        "count": 17
+      },
+      {
+        "word": "wirtschaft",
+        "count": 10
+      },
+      {
+        "word": "anschauen",
+        "count": 7
+      },
+      {
+        "word": "reden",
+        "count": 7
+      },
+      {
+        "word": "deutschland",
+        "count": 7
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "forstwirtschaft",
+        "count": 6,
+        "ratioParty": 57.1,
+        "ratioBundestag": 106.3
+      },
+      {
+        "word": "vernünftige",
+        "count": 5,
+        "ratioParty": 42.4,
+        "ratioBundestag": 44.3
+      },
+      {
+        "word": "anschauen",
+        "count": 7,
+        "ratioParty": 34.7,
+        "ratioBundestag": 43.4
+      },
+      {
+        "word": "landwirtschaft",
+        "count": 17,
+        "ratioParty": 31.6,
+        "ratioBundestag": 33.5
+      },
+      {
+        "word": "landwirte",
+        "count": 6,
+        "ratioParty": 23.4,
+        "ratioBundestag": 19.8
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 502,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.73,
+    "vsParliament": 0.82
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "6"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "3.516"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufe",
+      "value": "32"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Albert Stegemann häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Gesetzentwurf",
+        "isCorrect": false
+      },
+      {
+        "text": "Ausschuss",
+        "isCorrect": false
+      },
+      {
+        "text": "Forstwirtschaft",
+        "isCorrect": true
+      },
+      {
+        "text": "Bundesregierung",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Forstwirtschaft\" nutzt Albert Stegemann 57.1× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "106.3× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🐿️",
+    "name": "Eichhörnchen",
+    "title": "Themenhüter",
+    "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+    "id": "eichhoernchen",
+    "alternatives": [
+      {
+        "emoji": "🐺",
+        "name": "Wolf",
+        "title": "Mutiger Einwerfer",
+        "reason": "Mit 32 Zwischenrufen mischst du aktiv in Debatten mit.",
+        "id": "wolf",
+        "score": 0.884
+      },
+      {
+        "emoji": "🦦",
+        "name": "Otter",
+        "title": "Positiver Teamplayer",
+        "reason": "Du bringst gute Stimmung und konstruktive Beiträge ins Plenum.",
+        "id": "otter",
+        "score": 0.883
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 83.3,
+      "aggression": 14.3,
+      "labeling": 0.0,
+      "solution_focus": 100.0,
+      "collaboration": 83.3,
+      "demand_intensity": 0.0,
+      "acknowledgment": 23.8,
+      "authority": 88.4,
+      "future_orientation": 83.8,
+      "emotional_intensity": 8.3,
+      "inclusivity": 67.9,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 7,
+      "words": 2238,
+      "adjectives": 7,
+      "verbs": 21
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.89,
+      "wirtschaft": 9.38,
+      "soziales": 0.45,
+      "sicherheit": 0.45,
+      "gesundheit": 4.02,
+      "europa": 0.0,
+      "digital": 0.45,
+      "bildung": 0.89,
+      "finanzen": 4.92,
+      "justiz": 0.0,
+      "arbeit": 2.23,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "wirtschaft",
+        "score": 9.38,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 4.92,
+        "rank": 2
+      },
+      {
+        "topic": "gesundheit",
+        "score": 4.02,
+        "rank": 3
+      },
+      {
+        "topic": "arbeit",
+        "score": 2.23,
+        "rank": 4
+      },
+      {
+        "topic": "klima",
+        "score": 0.89,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "umweltpolitik",
+          "count": 1
+        },
+        {
+          "word": "wälder",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "wettbewerbsfähigkeit",
+          "count": 5
+        },
+        {
+          "word": "rezession",
+          "count": 3
+        },
+        {
+          "word": "produktion",
+          "count": 2
+        },
+        {
+          "word": "betrieb",
+          "count": 2
+        },
+        {
+          "word": "unternehmen",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "angriff",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "krankenversicherung",
+          "count": 3
+        },
+        {
+          "word": "gesundheitssystem",
+          "count": 2
+        },
+        {
+          "word": "krankenhaus",
+          "count": 2
+        },
+        {
+          "word": "pandemie",
+          "count": 1
+        },
+        {
+          "word": "krankenhausreform",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "wissenschaft",
+          "count": 2
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "bundeshaushalt",
+          "count": 2
+        },
+        {
+          "word": "haushalt",
+          "count": 2
+        },
+        {
+          "word": "mehrwertsteuer",
+          "count": 2
+        },
+        {
+          "word": "kosten",
+          "count": 1
+        },
+        {
+          "word": "inflation",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitnehmer",
+          "count": 2
+        },
+        {
+          "word": "gehalt",
+          "count": 1
+        },
+        {
+          "word": "sozialabgaben",
+          "count": 1
+        },
+        {
+          "word": "löhne",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

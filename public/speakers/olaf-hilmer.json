@@ -1,0 +1,288 @@
+{
+  "name": "Olaf Hilmer",
+  "party": "AfD",
+  "slug": "olaf-hilmer",
+  "academicTitle": null,
+  "speeches": 3,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 1670,
+  "avgWords": 418,
+  "minWords": 392,
+  "maxWords": 452,
+  "rankings": {
+    "speechRank": 520,
+    "wordsRank": 489,
+    "partySpeechRank": 125,
+    "partyWordsRank": 115,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 14.6,
+    "verbosityRank": 307,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 72,
+    "longestSpeechRank": 557
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 4,
+    "interrupterRank": null,
+    "interruptedRank": 442
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "bürger",
+        "count": 9
+      },
+      {
+        "word": "neue",
+        "count": 8
+      },
+      {
+        "word": "deutschland",
+        "count": 5
+      },
+      {
+        "word": "bauturbo",
+        "count": 5
+      },
+      {
+        "word": "arbeit",
+        "count": 4
+      },
+      {
+        "word": "standards",
+        "count": 4
+      },
+      {
+        "word": "baukosten",
+        "count": 4
+      },
+      {
+        "word": "wohnungen",
+        "count": 4
+      },
+      {
+        "word": "wohnraum",
+        "count": 4
+      },
+      {
+        "word": "echte",
+        "count": 4
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "bauturbo",
+        "count": 5,
+        "ratioParty": 58.0,
+        "ratioBundestag": 39.7
+      },
+      {
+        "word": "bürger",
+        "count": 9,
+        "ratioParty": 3.3,
+        "ratioBundestag": 7.9
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 418,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.71,
+    "vsParliament": 0.68
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "3"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "1.670"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Olaf Hilmer häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Bauturbo",
+        "isCorrect": true
+      },
+      {
+        "text": "Sicherheit",
+        "isCorrect": false
+      },
+      {
+        "text": "Europa",
+        "isCorrect": false
+      },
+      {
+        "text": "Klima",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Bauturbo\" nutzt Olaf Hilmer 58.0× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "39.7× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 66.7,
+      "aggression": 25.0,
+      "labeling": 0.0,
+      "solution_focus": 85.7,
+      "collaboration": 66.7,
+      "demand_intensity": 16.7,
+      "acknowledgment": 0.0,
+      "authority": 62.5,
+      "future_orientation": 85.7,
+      "emotional_intensity": 83.3,
+      "inclusivity": 56.5,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 4,
+      "words": 1082,
+      "adjectives": 4,
+      "verbs": 12
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 3.7,
+      "wirtschaft": 2.77,
+      "soziales": 16.64,
+      "sicherheit": 0.0,
+      "gesundheit": 0.0,
+      "europa": 0.0,
+      "digital": 0.92,
+      "bildung": 0.0,
+      "finanzen": 6.47,
+      "justiz": 1.85,
+      "arbeit": 0.0,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "soziales",
+        "score": 16.64,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 6.47,
+        "rank": 2
+      },
+      {
+        "topic": "klima",
+        "score": 3.7,
+        "rank": 3
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 2.77,
+        "rank": 4
+      },
+      {
+        "topic": "justiz",
+        "score": 1.85,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "umwelt",
+          "count": 1
+        },
+        {
+          "word": "wärmepumpe",
+          "count": 1
+        },
+        {
+          "word": "klimaschutz",
+          "count": 1
+        },
+        {
+          "word": "dämmung",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "markt",
+          "count": 3
+        }
+      ],
+      "soziales": [
+        {
+          "word": "wohnungen",
+          "count": 4
+        },
+        {
+          "word": "familien",
+          "count": 4
+        },
+        {
+          "word": "wohnungsmarkt",
+          "count": 2
+        },
+        {
+          "word": "mieten",
+          "count": 2
+        },
+        {
+          "word": "rentner",
+          "count": 2
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "steuern",
+          "count": 2
+        },
+        {
+          "word": "steuer",
+          "count": 2
+        },
+        {
+          "word": "kosten",
+          "count": 1
+        },
+        {
+          "word": "haushaltsplan",
+          "count": 1
+        },
+        {
+          "word": "entlastung",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "verordnung",
+          "count": 1
+        },
+        {
+          "word": "gesetzesänderung",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

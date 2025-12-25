@@ -1,0 +1,316 @@
+{
+  "name": "Martin Kröber",
+  "party": "SPD",
+  "slug": "martin-kroeber",
+  "academicTitle": null,
+  "speeches": 2,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 1523,
+  "avgWords": 508,
+  "minWords": 457,
+  "maxWords": 580,
+  "rankings": {
+    "speechRank": 530,
+    "wordsRank": 511,
+    "partySpeechRank": 94,
+    "partyWordsRank": 95,
+    "partySize": 109,
+    "totalSpeakers": 609,
+    "percentile": 13.0,
+    "verbosityRank": null,
+    "verbosityTotal": null,
+    "partyVerbosityRank": null,
+    "longestSpeechRank": 445
+  },
+  "drama": {
+    "interruptionsGiven": 3,
+    "interruptionsReceived": 2,
+    "interrupterRank": 249,
+    "interruptedRank": 500
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "gemeinsam",
+        "count": 7
+      },
+      {
+        "word": "beispiel",
+        "count": 6
+      },
+      {
+        "word": "bahn",
+        "count": 6
+      },
+      {
+        "word": "erklären",
+        "count": 5
+      },
+      {
+        "word": "wäre",
+        "count": 5
+      },
+      {
+        "word": "ziemlich",
+        "count": 5
+      },
+      {
+        "word": "paar",
+        "count": 4
+      },
+      {
+        "word": "habe",
+        "count": 4
+      },
+      {
+        "word": "fall",
+        "count": 4
+      },
+      {
+        "word": "miete",
+        "count": 4
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "ziemlich",
+        "count": 5,
+        "ratioParty": 60.7,
+        "ratioBundestag": 57.1
+      },
+      {
+        "word": "erklären",
+        "count": 5,
+        "ratioParty": 44.0,
+        "ratioBundestag": 34.1
+      },
+      {
+        "word": "beispiel",
+        "count": 6,
+        "ratioParty": 5.3,
+        "ratioBundestag": 6.2
+      },
+      {
+        "word": "gemeinsam",
+        "count": 7,
+        "ratioParty": 4.9,
+        "ratioBundestag": 8.2
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 508,
+    "partyAvgWords": 637,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.8,
+    "vsParliament": 0.83
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "2"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "1.523"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Martin Kröber häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Klima",
+        "isCorrect": false
+      },
+      {
+        "text": "Gesellschaft",
+        "isCorrect": false
+      },
+      {
+        "text": "Ziemlich",
+        "isCorrect": true
+      },
+      {
+        "text": "Freiheit",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Ziemlich\" nutzt Martin Kröber 60.7× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "57.1× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🦦",
+    "name": "Otter",
+    "title": "Positiver Teamplayer",
+    "reason": "Du bringst gute Stimmung und konstruktive Beiträge ins Plenum.",
+    "id": "otter",
+    "alternatives": [
+      {
+        "emoji": "🦫",
+        "name": "Biber",
+        "title": "Konstruktiver Brückenbauer",
+        "reason": "Du baust Brücken zwischen Positionen – kooperativ und lösungsorientiert.",
+        "id": "biber",
+        "score": 0.94
+      },
+      {
+        "emoji": "🐇",
+        "name": "Hase",
+        "title": "Wendiger Optimist",
+        "reason": "Mit positivem Blick reagierst du schnell auf neue Themen.",
+        "id": "hase",
+        "score": 0.925
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 100.0,
+      "aggression": 25.0,
+      "labeling": 0.0,
+      "solution_focus": 100.0,
+      "collaboration": 100.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 7.7,
+      "authority": 75.0,
+      "future_orientation": 58.8,
+      "emotional_intensity": 18.2,
+      "inclusivity": 100.0,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 3,
+      "words": 948,
+      "adjectives": 4,
+      "verbs": 13
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.0,
+      "wirtschaft": 3.16,
+      "soziales": 7.38,
+      "sicherheit": 0.0,
+      "gesundheit": 1.05,
+      "europa": 0.0,
+      "digital": 1.05,
+      "bildung": 0.0,
+      "finanzen": 3.16,
+      "justiz": 0.0,
+      "arbeit": 0.0,
+      "mobilitaet": 17.93
+    },
+    "topTopics": [
+      {
+        "topic": "mobilitaet",
+        "score": 17.93,
+        "rank": 1
+      },
+      {
+        "topic": "soziales",
+        "score": 7.38,
+        "rank": 2
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 3.16,
+        "rank": 3
+      },
+      {
+        "topic": "finanzen",
+        "score": 3.16,
+        "rank": 4
+      },
+      {
+        "topic": "gesundheit",
+        "score": 1.05,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "wirtschaft": [
+        {
+          "word": "konzern",
+          "count": 2
+        },
+        {
+          "word": "wirtschaftspolitik",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "miete",
+          "count": 4
+        },
+        {
+          "word": "kind",
+          "count": 1
+        },
+        {
+          "word": "tafel",
+          "count": 1
+        },
+        {
+          "word": "rente",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "krankenversicherung",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "netz",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "sondervermögen",
+          "count": 1
+        },
+        {
+          "word": "kosten",
+          "count": 1
+        },
+        {
+          "word": "zuschuss",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "bahn",
+          "count": 6
+        },
+        {
+          "word": "infrastruktur",
+          "count": 4
+        },
+        {
+          "word": "deutschlandticket",
+          "count": 3
+        },
+        {
+          "word": "schiene",
+          "count": 3
+        },
+        {
+          "word": "verkehr",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

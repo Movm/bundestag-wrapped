@@ -1,0 +1,377 @@
+{
+  "name": "Alexander Engelhard",
+  "party": "CDU/CSU",
+  "slug": "alexander-engelhard",
+  "academicTitle": null,
+  "speeches": 9,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 3209,
+  "avgWords": 357,
+  "minWords": 180,
+  "maxWords": 570,
+  "rankings": {
+    "speechRank": 171,
+    "wordsRank": 341,
+    "partySpeechRank": 37,
+    "partyWordsRank": 103,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 71.9,
+    "verbosityRank": 402,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 136,
+    "longestSpeechRank": 461
+  },
+  "drama": {
+    "interruptionsGiven": 1,
+    "interruptionsReceived": 13,
+    "interrupterRank": 299,
+    "interruptedRank": 224
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "landwirtschaft",
+        "count": 12
+      },
+      {
+        "word": "gleichzeitig",
+        "count": 9
+      },
+      {
+        "word": "zeit",
+        "count": 8
+      },
+      {
+        "word": "neuen",
+        "count": 8
+      },
+      {
+        "word": "grünen",
+        "count": 7
+      },
+      {
+        "word": "rainer",
+        "count": 7
+      },
+      {
+        "word": "zukunft",
+        "count": 6
+      },
+      {
+        "word": "weiter",
+        "count": 6
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "genomischen",
+        "count": 5,
+        "ratioParty": 174.7,
+        "ratioBundestag": 319.0
+      },
+      {
+        "word": "alois",
+        "count": 6,
+        "ratioParty": 63.8,
+        "ratioBundestag": 124.2
+      },
+      {
+        "word": "rainer",
+        "count": 7,
+        "ratioParty": 53.5,
+        "ratioBundestag": 39.7
+      },
+      {
+        "word": "landwirtschaft",
+        "count": 12,
+        "ratioParty": 22.1,
+        "ratioBundestag": 24.0
+      },
+      {
+        "word": "schließlich",
+        "count": 5,
+        "ratioParty": 20.4,
+        "ratioBundestag": 25.4
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "entscheidend",
+        "count": 3,
+        "ratioParty": 5.2,
+        "ratioBundestag": 8.5
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 357,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.52,
+    "vsParliament": 0.58
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "9"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "3.209"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Alexander Engelhard häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Kinder",
+        "isCorrect": false
+      },
+      {
+        "text": "Opposition",
+        "isCorrect": false
+      },
+      {
+        "text": "Genomischen",
+        "isCorrect": true
+      },
+      {
+        "text": "Koalition",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Genomischen\" nutzt Alexander Engelhard 174.7× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "319.0× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Alexander Engelhard häufiger als der Rest der CDU/CSU-Fraktion?",
+    "options": [
+      {
+        "text": "National",
+        "isCorrect": false
+      },
+      {
+        "text": "Neu",
+        "isCorrect": false
+      },
+      {
+        "text": "Entscheidend",
+        "isCorrect": true
+      },
+      {
+        "text": "Erfolgreich",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Entscheidend\" nutzt Alexander Engelhard 5.2× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "8.5× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐿️",
+    "name": "Eichhörnchen",
+    "title": "Themenhüter",
+    "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+    "id": "eichhoernchen",
+    "alternatives": [
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißiger Abgeordneter",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 0.901
+      },
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Cleverer Stratege",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 0.882
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 71.4,
+      "aggression": 5.6,
+      "labeling": 16.7,
+      "solution_focus": 80.0,
+      "collaboration": 50.0,
+      "demand_intensity": 4.8,
+      "acknowledgment": 4.8,
+      "authority": 73.3,
+      "future_orientation": 93.9,
+      "emotional_intensity": 40.0,
+      "inclusivity": 58.9,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 9,
+      "words": 2175,
+      "adjectives": 18,
+      "verbs": 21
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 12.87,
+      "wirtschaft": 5.98,
+      "soziales": 0.0,
+      "sicherheit": 0.0,
+      "gesundheit": 0.0,
+      "europa": 2.3,
+      "digital": 0.0,
+      "bildung": 0.46,
+      "finanzen": 4.6,
+      "justiz": 0.0,
+      "arbeit": 0.92,
+      "mobilitaet": 0.92
+    },
+    "topTopics": [
+      {
+        "topic": "klima",
+        "score": 12.87,
+        "rank": 1
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 5.98,
+        "rank": 2
+      },
+      {
+        "topic": "finanzen",
+        "score": 4.6,
+        "rank": 3
+      },
+      {
+        "topic": "europa",
+        "score": 2.3,
+        "rank": 4
+      },
+      {
+        "topic": "arbeit",
+        "score": 0.92,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "umwelt",
+          "count": 5
+        },
+        {
+          "word": "klimaschutz",
+          "count": 5
+        },
+        {
+          "word": "emissionshandel",
+          "count": 4
+        },
+        {
+          "word": "umweltschutz",
+          "count": 4
+        },
+        {
+          "word": "klimawandel",
+          "count": 3
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 6
+        },
+        {
+          "word": "betriebe",
+          "count": 4
+        },
+        {
+          "word": "betrieb",
+          "count": 1
+        },
+        {
+          "word": "markt",
+          "count": 1
+        },
+        {
+          "word": "produktion",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "brüssel",
+          "count": 2
+        },
+        {
+          "word": "binnenmarkt",
+          "count": 1
+        },
+        {
+          "word": "ukraine",
+          "count": 1
+        },
+        {
+          "word": "europa",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "forschung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "kosten",
+          "count": 3
+        },
+        {
+          "word": "haushalt",
+          "count": 3
+        },
+        {
+          "word": "investitionen",
+          "count": 2
+        },
+        {
+          "word": "haushaltsentwurf",
+          "count": 1
+        },
+        {
+          "word": "entlastung",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitskraft",
+          "count": 1
+        },
+        {
+          "word": "einkommen",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "verkehr",
+          "count": 1
+        },
+        {
+          "word": "fahrzeuge",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

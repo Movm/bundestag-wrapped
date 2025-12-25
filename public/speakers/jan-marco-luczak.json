@@ -1,0 +1,444 @@
+{
+  "name": "Dr. Jan-Marco Luczak",
+  "party": "CDU/CSU",
+  "slug": "jan-marco-luczak",
+  "academicTitle": "Dr",
+  "speeches": 11,
+  "wortbeitraege": 4,
+  "befragungResponses": 0,
+  "totalWords": 9342,
+  "avgWords": 623,
+  "minWords": 30,
+  "maxWords": 1030,
+  "rankings": {
+    "speechRank": 104,
+    "wordsRank": 44,
+    "partySpeechRank": 28,
+    "partyWordsRank": 14,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 82.9,
+    "verbosityRank": 50,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 20,
+    "longestSpeechRank": 62
+  },
+  "drama": {
+    "interruptionsGiven": 67,
+    "interruptionsReceived": 11,
+    "interrupterRank": 26,
+    "interruptedRank": 255
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "bauen",
+        "count": 46
+      },
+      {
+        "word": "menschen",
+        "count": 33
+      },
+      {
+        "word": "mietpreisbremse",
+        "count": 29
+      },
+      {
+        "word": "kommunen",
+        "count": 27
+      },
+      {
+        "word": "wohnungen",
+        "count": 27
+      },
+      {
+        "word": "koalition",
+        "count": 25
+      },
+      {
+        "word": "wichtig",
+        "count": 25
+      },
+      {
+        "word": "land",
+        "count": 24
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "schlange",
+        "count": 5,
+        "ratioParty": 453.7,
+        "ratioBundestag": 142.7
+      },
+      {
+        "word": "mietendeckel",
+        "count": 6,
+        "ratioParty": 272.2,
+        "ratioBundestag": 48.9
+      },
+      {
+        "word": "wände",
+        "count": 5,
+        "ratioParty": 226.8,
+        "ratioBundestag": 79.3
+      },
+      {
+        "word": "kostengünstiger",
+        "count": 7,
+        "ratioParty": 127.0,
+        "ratioBundestag": 142.7
+      },
+      {
+        "word": "turbo",
+        "count": 5,
+        "ratioParty": 113.4,
+        "ratioBundestag": 57.1
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "kontraproduktiv",
+        "count": 3,
+        "ratioParty": 272.2,
+        "ratioBundestag": 71.3
+      },
+      {
+        "word": "zentral",
+        "count": 5,
+        "ratioParty": 12.3,
+        "ratioBundestag": 11.9
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 623,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.91,
+    "vsParliament": 1.02
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "11"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "9.342"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufe",
+      "value": "67"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Dr. Jan-Marco Luczak häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Steuern",
+        "isCorrect": false
+      },
+      {
+        "text": "Zukunft",
+        "isCorrect": false
+      },
+      {
+        "text": "Minister",
+        "isCorrect": false
+      },
+      {
+        "text": "Schlange",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Schlange\" nutzt Dr. Jan-Marco Luczak 453.7× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "142.7× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Dr. Jan-Marco Luczak häufiger als der Rest der CDU/CSU-Fraktion?",
+    "options": [
+      {
+        "text": "Kontraproduktiv",
+        "isCorrect": true
+      },
+      {
+        "text": "Wirtschaftlich",
+        "isCorrect": false
+      },
+      {
+        "text": "Groß",
+        "isCorrect": false
+      },
+      {
+        "text": "Problematisch",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Kontraproduktiv\" nutzt Dr. Jan-Marco Luczak 272.2× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "71.3× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐴",
+    "name": "Pferd",
+    "title": "Fleißiger Debattierer",
+    "reason": "Mit 15 Reden gehörst du zu den aktivsten Abgeordneten.",
+    "id": "pferd",
+    "alternatives": [
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Cleverer Stratege",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 1.0
+      },
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüter",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 1.0
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 71.4,
+      "aggression": 5.3,
+      "labeling": 2.6,
+      "solution_focus": 90.9,
+      "collaboration": 75.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 5.5,
+      "authority": 80.7,
+      "future_orientation": 87.5,
+      "emotional_intensity": 48.0,
+      "inclusivity": 57.1,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 15,
+      "words": 5824,
+      "adjectives": 38,
+      "verbs": 55
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 1.37,
+      "wirtschaft": 2.23,
+      "soziales": 17.0,
+      "sicherheit": 0.69,
+      "gesundheit": 0.0,
+      "europa": 0.34,
+      "digital": 0.34,
+      "bildung": 0.17,
+      "finanzen": 2.06,
+      "justiz": 3.61,
+      "arbeit": 0.86,
+      "mobilitaet": 0.52
+    },
+    "topTopics": [
+      {
+        "topic": "soziales",
+        "score": 17.0,
+        "rank": 1
+      },
+      {
+        "topic": "justiz",
+        "score": 3.61,
+        "rank": 2
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 2.23,
+        "rank": 3
+      },
+      {
+        "topic": "finanzen",
+        "score": 2.06,
+        "rank": 4
+      },
+      {
+        "topic": "klima",
+        "score": 1.37,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "klimaschutz",
+          "count": 3
+        },
+        {
+          "word": "nachhaltig",
+          "count": 2
+        },
+        {
+          "word": "energie",
+          "count": 1
+        },
+        {
+          "word": "erneuerbare",
+          "count": 1
+        },
+        {
+          "word": "klimaneutral",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "märkte",
+          "count": 5
+        },
+        {
+          "word": "markt",
+          "count": 4
+        },
+        {
+          "word": "unternehmen",
+          "count": 2
+        },
+        {
+          "word": "marktwirtschaft",
+          "count": 1
+        },
+        {
+          "word": "kapital",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "mietpreisbremse",
+          "count": 29
+        },
+        {
+          "word": "wohnungen",
+          "count": 27
+        },
+        {
+          "word": "wohnung",
+          "count": 14
+        },
+        {
+          "word": "mieten",
+          "count": 10
+        },
+        {
+          "word": "wohnungsmarkt",
+          "count": 6
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "verteidigung",
+          "count": 2
+        },
+        {
+          "word": "einbruch",
+          "count": 1
+        },
+        {
+          "word": "betrug",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "russland",
+          "count": 1
+        },
+        {
+          "word": "europa",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "internet",
+          "count": 2
+        }
+      ],
+      "bildung": [
+        {
+          "word": "lehrer",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 5
+        },
+        {
+          "word": "investitionen",
+          "count": 4
+        },
+        {
+          "word": "kosten",
+          "count": 1
+        },
+        {
+          "word": "bank",
+          "count": 1
+        },
+        {
+          "word": "finanzierung",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "mietrecht",
+          "count": 7
+        },
+        {
+          "word": "bundesverfassungsgericht",
+          "count": 4
+        },
+        {
+          "word": "beschluss",
+          "count": 2
+        },
+        {
+          "word": "justizministerium",
+          "count": 1
+        },
+        {
+          "word": "rechtsprechung",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "befristung",
+          "count": 3
+        },
+        {
+          "word": "arbeitsplätze",
+          "count": 2
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "verkehr",
+          "count": 2
+        },
+        {
+          "word": "straße",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

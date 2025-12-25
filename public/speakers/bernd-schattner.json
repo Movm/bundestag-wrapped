@@ -1,0 +1,484 @@
+{
+  "name": "Bernd Schattner",
+  "party": "AfD",
+  "slug": "bernd-schattner",
+  "academicTitle": null,
+  "speeches": 10,
+  "wortbeitraege": 11,
+  "befragungResponses": 0,
+  "totalWords": 7564,
+  "avgWords": 360,
+  "minWords": 86,
+  "maxWords": 688,
+  "rankings": {
+    "speechRank": 119,
+    "wordsRank": 80,
+    "partySpeechRank": 20,
+    "partyWordsRank": 15,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 80.5,
+    "verbosityRank": 396,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 97,
+    "longestSpeechRank": 318
+  },
+  "drama": {
+    "interruptionsGiven": 36,
+    "interruptionsReceived": 25,
+    "interrupterRank": 48,
+    "interruptedRank": 81
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "deutschland",
+        "count": 43
+      },
+      {
+        "word": "bauern",
+        "count": 23
+      },
+      {
+        "word": "landwirtschaft",
+        "count": 20
+      },
+      {
+        "word": "deutschen",
+        "count": 19
+      },
+      {
+        "word": "mittlerweile",
+        "count": 15
+      },
+      {
+        "word": "jahr",
+        "count": 14
+      },
+      {
+        "word": "rund",
+        "count": 13
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "agrardieselrückvergütung",
+        "count": 9,
+        "ratioParty": 224.8,
+        "ratioBundestag": 120.4
+      },
+      {
+        "word": "bauern",
+        "count": 23,
+        "ratioParty": 35.2,
+        "ratioBundestag": 73.9
+      },
+      {
+        "word": "landwirtschaft",
+        "count": 20,
+        "ratioParty": 26.8,
+        "ratioBundestag": 17.8
+      },
+      {
+        "word": "landwirten",
+        "count": 7,
+        "ratioParty": 25.0,
+        "ratioBundestag": 36.0
+      },
+      {
+        "word": "eingeführt",
+        "count": 6,
+        "ratioParty": 14.5,
+        "ratioBundestag": 12.5
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "wirtschaftlich",
+        "count": 3,
+        "ratioParty": 4.7,
+        "ratioBundestag": 4.4
+      },
+      {
+        "word": "teuer",
+        "count": 3,
+        "ratioParty": 2.9,
+        "ratioBundestag": 4.6
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 360,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.61,
+    "vsParliament": 0.59
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "10"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "7.564"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufe",
+      "value": "36"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Bernd Schattner häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Zukunft",
+        "isCorrect": false
+      },
+      {
+        "text": "Agrardieselrückvergütung",
+        "isCorrect": true
+      },
+      {
+        "text": "Demokratie",
+        "isCorrect": false
+      },
+      {
+        "text": "Haushalt",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Agrardieselrückvergütung\" nutzt Bernd Schattner 224.8× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "120.4× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Bernd Schattner häufiger als der Rest der AfD-Fraktion?",
+    "options": [
+      {
+        "text": "Europäisch",
+        "isCorrect": false
+      },
+      {
+        "text": "Erfolgreich",
+        "isCorrect": false
+      },
+      {
+        "text": "Wirtschaftlich",
+        "isCorrect": true
+      },
+      {
+        "text": "Problematisch",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Wirtschaftlich\" nutzt Bernd Schattner 4.7× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "4.4× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 58.3,
+      "aggression": 9.1,
+      "labeling": 36.4,
+      "solution_focus": 64.5,
+      "collaboration": 66.7,
+      "demand_intensity": 10.3,
+      "acknowledgment": 2.6,
+      "authority": 78.8,
+      "future_orientation": 89.0,
+      "emotional_intensity": 56.5,
+      "inclusivity": 58.7,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 21,
+      "words": 4973,
+      "adjectives": 22,
+      "verbs": 39
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 1.41,
+      "klima": 5.43,
+      "wirtschaft": 10.86,
+      "soziales": 2.21,
+      "sicherheit": 1.01,
+      "gesundheit": 0.4,
+      "europa": 5.03,
+      "digital": 1.01,
+      "bildung": 3.42,
+      "finanzen": 7.64,
+      "justiz": 0.2,
+      "arbeit": 4.02,
+      "mobilitaet": 1.01
+    },
+    "topTopics": [
+      {
+        "topic": "wirtschaft",
+        "score": 10.86,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 7.64,
+        "rank": 2
+      },
+      {
+        "topic": "klima",
+        "score": 5.43,
+        "rank": 3
+      },
+      {
+        "topic": "europa",
+        "score": 5.03,
+        "rank": 4
+      },
+      {
+        "topic": "arbeit",
+        "score": 4.02,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "grenzkontrollen",
+          "count": 2
+        },
+        {
+          "word": "einwanderer",
+          "count": 1
+        },
+        {
+          "word": "asylbewerber",
+          "count": 1
+        },
+        {
+          "word": "schleuser",
+          "count": 1
+        },
+        {
+          "word": "grenze",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "energie",
+          "count": 4
+        },
+        {
+          "word": "geothermie",
+          "count": 3
+        },
+        {
+          "word": "energiewende",
+          "count": 2
+        },
+        {
+          "word": "kernenergie",
+          "count": 2
+        },
+        {
+          "word": "nachhaltigkeit",
+          "count": 2
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "industrie",
+          "count": 6
+        },
+        {
+          "word": "unternehmen",
+          "count": 5
+        },
+        {
+          "word": "wettbewerbsfähigkeit",
+          "count": 4
+        },
+        {
+          "word": "betriebe",
+          "count": 4
+        },
+        {
+          "word": "fachkräfte",
+          "count": 4
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 5
+        },
+        {
+          "word": "familien",
+          "count": 2
+        },
+        {
+          "word": "sozialsystem",
+          "count": 1
+        },
+        {
+          "word": "familie",
+          "count": 1
+        },
+        {
+          "word": "jugend",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "bundespolizei",
+          "count": 2
+        },
+        {
+          "word": "bundeswehr",
+          "count": 1
+        },
+        {
+          "word": "polizei",
+          "count": 1
+        },
+        {
+          "word": "betrug",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "krankenhäuser",
+          "count": 1
+        },
+        {
+          "word": "ärzte",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "china",
+          "count": 5
+        },
+        {
+          "word": "ukraine",
+          "count": 3
+        },
+        {
+          "word": "abkommen",
+          "count": 3
+        },
+        {
+          "word": "nato",
+          "count": 2
+        },
+        {
+          "word": "außenminister",
+          "count": 2
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 3
+        },
+        {
+          "word": "rechenzentrum",
+          "count": 1
+        },
+        {
+          "word": "netz",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "bildung",
+          "count": 4
+        },
+        {
+          "word": "schulen",
+          "count": 2
+        },
+        {
+          "word": "schüler",
+          "count": 2
+        },
+        {
+          "word": "schule",
+          "count": 2
+        },
+        {
+          "word": "schülerinnen",
+          "count": 2
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "kosten",
+          "count": 10
+        },
+        {
+          "word": "haushalt",
+          "count": 8
+        },
+        {
+          "word": "schulden",
+          "count": 4
+        },
+        {
+          "word": "sondervermögen",
+          "count": 3
+        },
+        {
+          "word": "entlastung",
+          "count": 2
+        }
+      ],
+      "justiz": [
+        {
+          "word": "anwalt",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitsplätze",
+          "count": 11
+        },
+        {
+          "word": "arbeiter",
+          "count": 3
+        },
+        {
+          "word": "arbeitslose",
+          "count": 3
+        },
+        {
+          "word": "beschäftigte",
+          "count": 1
+        },
+        {
+          "word": "streik",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "bahn",
+          "count": 4
+        },
+        {
+          "word": "infrastruktur",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

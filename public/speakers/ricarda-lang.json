@@ -1,0 +1,510 @@
+{
+  "name": "Ricarda Lang",
+  "party": "GRÜNE",
+  "slug": "ricarda-lang",
+  "academicTitle": null,
+  "speeches": 13,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 9349,
+  "avgWords": 668,
+  "minWords": 63,
+  "maxWords": 1167,
+  "rankings": {
+    "speechRank": 55,
+    "wordsRank": 43,
+    "partySpeechRank": 10,
+    "partyWordsRank": 6,
+    "partySize": 85,
+    "totalSpeakers": 609,
+    "percentile": 91.0,
+    "verbosityRank": 37,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 5,
+    "longestSpeechRank": 34
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 25,
+    "interrupterRank": null,
+    "interruptedRank": 78
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 39
+      },
+      {
+        "word": "land",
+        "count": 28
+      },
+      {
+        "word": "deutschland",
+        "count": 24
+      },
+      {
+        "word": "klar",
+        "count": 22
+      },
+      {
+        "word": "arbeiten",
+        "count": 20
+      },
+      {
+        "word": "einfach",
+        "count": 20
+      },
+      {
+        "word": "regierung",
+        "count": 20
+      },
+      {
+        "word": "freiheit",
+        "count": 20
+      },
+      {
+        "word": "weniger",
+        "count": 19
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "tariftreuegesetz",
+        "count": 6,
+        "ratioParty": 233.2,
+        "ratioBundestag": 45.9
+      },
+      {
+        "word": "tarif",
+        "count": 9,
+        "ratioParty": 174.9,
+        "ratioBundestag": 137.8
+      },
+      {
+        "word": "mindestlohn",
+        "count": 16,
+        "ratioParty": 77.7,
+        "ratioBundestag": 31.5
+      },
+      {
+        "word": "vollzeit",
+        "count": 6,
+        "ratioParty": 58.3,
+        "ratioBundestag": 97.3
+      },
+      {
+        "word": "staatsmodernisierung",
+        "count": 6,
+        "ratioParty": 58.3,
+        "ratioBundestag": 11.6
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "gerecht",
+        "count": 4,
+        "ratioParty": 2.1,
+        "ratioBundestag": 2.6
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 668,
+    "partyAvgWords": 567,
+    "parliamentAvgWords": 613,
+    "vsParty": 1.18,
+    "vsParliament": 1.09
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "13"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "9.349"
+    },
+    {
+      "emoji": "📊",
+      "label": "Top-Redner",
+      "value": "Top 9%"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Ricarda Lang häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Rente",
+        "isCorrect": false
+      },
+      {
+        "text": "Arbeit",
+        "isCorrect": false
+      },
+      {
+        "text": "Tariftreuegesetz",
+        "isCorrect": true
+      },
+      {
+        "text": "Freiheit",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Tariftreuegesetz\" nutzt Ricarda Lang 233.2× häufiger als der GRÜNE-Durchschnitt.",
+    "explanationBundestag": "45.9× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Ricarda Lang häufiger als der Rest der GRÜNE-Fraktion?",
+    "options": [
+      {
+        "text": "Sicher",
+        "isCorrect": false
+      },
+      {
+        "text": "Neu",
+        "isCorrect": false
+      },
+      {
+        "text": "Klar",
+        "isCorrect": false
+      },
+      {
+        "text": "Gerecht",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Gerecht\" nutzt Ricarda Lang 2.1× häufiger als der GRÜNE-Durchschnitt.",
+    "explanationBundestag": "2.6× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐬",
+    "name": "Delfin",
+    "title": "Diplomatische Rednerin",
+    "reason": "Aktiv im Parlament, aber respektvoll ohne viele Zwischenrufe.",
+    "id": "delfin",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüterin",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 1.0
+      },
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißige Abgeordnete",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 76.2,
+      "aggression": 8.0,
+      "labeling": 8.0,
+      "solution_focus": 96.7,
+      "collaboration": 100.0,
+      "demand_intensity": 6.8,
+      "acknowledgment": 9.1,
+      "authority": 72.7,
+      "future_orientation": 91.1,
+      "emotional_intensity": 30.8,
+      "inclusivity": 53.6,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 14,
+      "words": 6030,
+      "adjectives": 25,
+      "verbs": 44
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.66,
+      "klima": 1.49,
+      "wirtschaft": 2.32,
+      "soziales": 5.31,
+      "sicherheit": 0.66,
+      "gesundheit": 0.33,
+      "europa": 1.49,
+      "digital": 3.81,
+      "bildung": 1.0,
+      "finanzen": 4.15,
+      "justiz": 1.33,
+      "arbeit": 12.11,
+      "mobilitaet": 1.33
+    },
+    "topTopics": [
+      {
+        "topic": "arbeit",
+        "score": 12.11,
+        "rank": 1
+      },
+      {
+        "topic": "soziales",
+        "score": 5.31,
+        "rank": 2
+      },
+      {
+        "topic": "finanzen",
+        "score": 4.15,
+        "rank": 3
+      },
+      {
+        "topic": "digital",
+        "score": 3.81,
+        "rank": 4
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 2.32,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "grenze",
+          "count": 4
+        }
+      ],
+      "klima": [
+        {
+          "word": "klimaschutz",
+          "count": 3
+        },
+        {
+          "word": "nachhaltigkeit",
+          "count": 2
+        },
+        {
+          "word": "ökologie",
+          "count": 2
+        },
+        {
+          "word": "klimakrise",
+          "count": 1
+        },
+        {
+          "word": "naturschutz",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 7
+        },
+        {
+          "word": "betrieb",
+          "count": 2
+        },
+        {
+          "word": "fachkräftemangel",
+          "count": 1
+        },
+        {
+          "word": "marktwirtschaft",
+          "count": 1
+        },
+        {
+          "word": "firmen",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kind",
+          "count": 4
+        },
+        {
+          "word": "sozialstaat",
+          "count": 4
+        },
+        {
+          "word": "rente",
+          "count": 4
+        },
+        {
+          "word": "rentner",
+          "count": 2
+        },
+        {
+          "word": "armut",
+          "count": 2
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "bundeswehr",
+          "count": 2
+        },
+        {
+          "word": "gewalt",
+          "count": 1
+        },
+        {
+          "word": "verteidigung",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "pflegegeld",
+          "count": 1
+        },
+        {
+          "word": "sucht",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 7
+        },
+        {
+          "word": "china",
+          "count": 1
+        },
+        {
+          "word": "russland",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 12
+        },
+        {
+          "word": "algorithmen",
+          "count": 3
+        },
+        {
+          "word": "digital",
+          "count": 3
+        },
+        {
+          "word": "software",
+          "count": 2
+        },
+        {
+          "word": "netz",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "bafög",
+          "count": 2
+        },
+        {
+          "word": "kita",
+          "count": 1
+        },
+        {
+          "word": "universitäten",
+          "count": 1
+        },
+        {
+          "word": "wissenschaftsfreiheit",
+          "count": 1
+        },
+        {
+          "word": "bildung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 9
+        },
+        {
+          "word": "sondervermögen",
+          "count": 5
+        },
+        {
+          "word": "schulden",
+          "count": 3
+        },
+        {
+          "word": "steuern",
+          "count": 2
+        },
+        {
+          "word": "schuldenbremse",
+          "count": 2
+        }
+      ],
+      "justiz": [
+        {
+          "word": "grundgesetz",
+          "count": 2
+        },
+        {
+          "word": "verbraucherschutz",
+          "count": 2
+        },
+        {
+          "word": "rechtsstaat",
+          "count": 1
+        },
+        {
+          "word": "verordnung",
+          "count": 1
+        },
+        {
+          "word": "staatsanwalt",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "mindestlohn",
+          "count": 16
+        },
+        {
+          "word": "tarifbindung",
+          "count": 11
+        },
+        {
+          "word": "arbeitnehmer",
+          "count": 6
+        },
+        {
+          "word": "vollzeit",
+          "count": 6
+        },
+        {
+          "word": "überstunden",
+          "count": 5
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 6
+        },
+        {
+          "word": "bahn",
+          "count": 1
+        },
+        {
+          "word": "führerschein",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

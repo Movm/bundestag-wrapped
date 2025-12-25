@@ -1,0 +1,372 @@
+{
+  "name": "Harald Orthey",
+  "party": "CDU/CSU",
+  "slug": "harald-orthey",
+  "academicTitle": null,
+  "speeches": 4,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 1193,
+  "avgWords": 298,
+  "minWords": 43,
+  "maxWords": 426,
+  "rankings": {
+    "speechRank": 445,
+    "wordsRank": 539,
+    "partySpeechRank": 133,
+    "partyWordsRank": 175,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 26.9,
+    "verbosityRank": 466,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 149,
+    "longestSpeechRank": 565
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 2,
+    "interrupterRank": null,
+    "interruptedRank": 507
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "bildung",
+        "count": 11
+      },
+      {
+        "word": "menschen",
+        "count": 7
+      },
+      {
+        "word": "infrastruktur",
+        "count": 6
+      },
+      {
+        "word": "brücke",
+        "count": 6
+      },
+      {
+        "word": "rund",
+        "count": 5
+      },
+      {
+        "word": "zeigt",
+        "count": 5
+      },
+      {
+        "word": "investieren",
+        "count": 5
+      },
+      {
+        "word": "jahr",
+        "count": 5
+      },
+      {
+        "word": "zurück",
+        "count": 5
+      },
+      {
+        "word": "schulen",
+        "count": 4
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "brücke",
+        "count": 6,
+        "ratioParty": 232.2,
+        "ratioBundestag": 251.1
+      },
+      {
+        "word": "bildung",
+        "count": 11,
+        "ratioParty": 44.3,
+        "ratioBundestag": 40.5
+      },
+      {
+        "word": "zurück",
+        "count": 5,
+        "ratioParty": 16.2,
+        "ratioBundestag": 17.1
+      },
+      {
+        "word": "infrastruktur",
+        "count": 6,
+        "ratioParty": 11.1,
+        "ratioBundestag": 11.3
+      },
+      {
+        "word": "investieren",
+        "count": 5,
+        "ratioParty": 9.4,
+        "ratioBundestag": 9.9
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 298,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.43,
+    "vsParliament": 0.49
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "4"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "1.193"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Harald Orthey häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Koalition",
+        "isCorrect": false
+      },
+      {
+        "text": "Europa",
+        "isCorrect": false
+      },
+      {
+        "text": "Brücke",
+        "isCorrect": true
+      },
+      {
+        "text": "Bundesregierung",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Brücke\" nutzt Harald Orthey 232.2× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "251.1× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🦊",
+    "name": "Fuchs",
+    "title": "Cleverer Stratege",
+    "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+    "id": "fuchs",
+    "alternatives": [
+      {
+        "emoji": "🐇",
+        "name": "Hase",
+        "title": "Wendiger Optimist",
+        "reason": "Mit positivem Blick reagierst du schnell auf neue Themen.",
+        "id": "hase",
+        "score": 0.8
+      },
+      {
+        "emoji": "🦦",
+        "name": "Otter",
+        "title": "Positiver Teamplayer",
+        "reason": "Du bringst gute Stimmung und konstruktive Beiträge ins Plenum.",
+        "id": "otter",
+        "score": 0.775
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 100.0,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 75.0,
+      "collaboration": 50.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 0.0,
+      "authority": 88.2,
+      "future_orientation": 91.7,
+      "emotional_intensity": 75.0,
+      "inclusivity": 72.2,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 4,
+      "words": 766,
+      "adjectives": 1,
+      "verbs": 12
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 1.31,
+      "wirtschaft": 15.67,
+      "soziales": 5.22,
+      "sicherheit": 0.0,
+      "gesundheit": 1.31,
+      "europa": 2.61,
+      "digital": 0.0,
+      "bildung": 35.25,
+      "finanzen": 7.83,
+      "justiz": 0.0,
+      "arbeit": 1.31,
+      "mobilitaet": 16.97
+    },
+    "topTopics": [
+      {
+        "topic": "bildung",
+        "score": 35.25,
+        "rank": 1
+      },
+      {
+        "topic": "mobilitaet",
+        "score": 16.97,
+        "rank": 2
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 15.67,
+        "rank": 3
+      },
+      {
+        "topic": "finanzen",
+        "score": 7.83,
+        "rank": 4
+      },
+      {
+        "topic": "soziales",
+        "score": 5.22,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "klimaschutz",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 4
+        },
+        {
+          "word": "wettbewerbsfähigkeit",
+          "count": 2
+        },
+        {
+          "word": "kapital",
+          "count": 2
+        },
+        {
+          "word": "handwerk",
+          "count": 1
+        },
+        {
+          "word": "fachkräfte",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 2
+        },
+        {
+          "word": "eltern",
+          "count": 1
+        },
+        {
+          "word": "jugendliche",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "pandemie",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "partnerschaft",
+          "count": 1
+        },
+        {
+          "word": "europa",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "bildung",
+          "count": 11
+        },
+        {
+          "word": "schulen",
+          "count": 4
+        },
+        {
+          "word": "bafög",
+          "count": 2
+        },
+        {
+          "word": "qualifizierung",
+          "count": 1
+        },
+        {
+          "word": "unterricht",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 3
+        },
+        {
+          "word": "investitionen",
+          "count": 1
+        },
+        {
+          "word": "sondervermögen",
+          "count": 1
+        },
+        {
+          "word": "bundeshaushalt",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "einkommen",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 6
+        },
+        {
+          "word": "schiene",
+          "count": 3
+        },
+        {
+          "word": "stau",
+          "count": 1
+        },
+        {
+          "word": "straße",
+          "count": 1
+        },
+        {
+          "word": "schienenverkehr",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

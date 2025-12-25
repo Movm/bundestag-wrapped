@@ -1,0 +1,430 @@
+{
+  "name": "Ferat Koçak",
+  "party": "DIE LINKE",
+  "slug": "ferat-kocak",
+  "academicTitle": null,
+  "speeches": 6,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 2790,
+  "avgWords": 399,
+  "minWords": 50,
+  "maxWords": 605,
+  "rankings": {
+    "speechRank": 299,
+    "wordsRank": 387,
+    "partySpeechRank": 38,
+    "partyWordsRank": 40,
+    "partySize": 63,
+    "totalSpeakers": 609,
+    "percentile": 50.9,
+    "verbosityRank": 343,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 26,
+    "longestSpeechRank": 418
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 9,
+    "interrupterRank": 339,
+    "interruptedRank": 291
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 28
+      },
+      {
+        "word": "leben",
+        "count": 15
+      },
+      {
+        "word": "jahre",
+        "count": 9
+      },
+      {
+        "word": "neukölln",
+        "count": 9
+      },
+      {
+        "word": "land",
+        "count": 9
+      },
+      {
+        "word": "politik",
+        "count": 8
+      },
+      {
+        "word": "leyla",
+        "count": 8
+      },
+      {
+        "word": "neun",
+        "count": 7
+      },
+      {
+        "word": "leute",
+        "count": 7
+      },
+      {
+        "word": "deutsche",
+        "count": 6
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "hanau",
+        "count": 6,
+        "ratioParty": 586.9,
+        "ratioBundestag": 1132.6
+      },
+      {
+        "word": "einbürgerung",
+        "count": 6,
+        "ratioParty": 195.6,
+        "ratioBundestag": 67.4
+      },
+      {
+        "word": "verfehlten",
+        "count": 5,
+        "ratioParty": 163.0,
+        "ratioBundestag": 236.0
+      },
+      {
+        "word": "antifaschismus",
+        "count": 5,
+        "ratioParty": 97.8,
+        "ratioBundestag": 277.6
+      },
+      {
+        "word": "neukölln",
+        "count": 9,
+        "ratioParty": 51.0,
+        "ratioBundestag": 606.7
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 399,
+    "partyAvgWords": 521,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.77,
+    "vsParliament": 0.65
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "6"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "2.790"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Ferat Koçak häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Politik",
+        "isCorrect": false
+      },
+      {
+        "text": "Investitionen",
+        "isCorrect": false
+      },
+      {
+        "text": "Hanau",
+        "isCorrect": true
+      },
+      {
+        "text": "Klima",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Hanau\" nutzt Ferat Koçak 586.9× häufiger als der DIE LINKE-Durchschnitt.",
+    "explanationBundestag": "1132.6× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🦊",
+    "name": "Fuchs",
+    "title": "Cleverer Stratege",
+    "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+    "id": "fuchs",
+    "alternatives": [
+      {
+        "emoji": "🦀",
+        "name": "Krabbe",
+        "title": "Hartnäckiger Debattierer",
+        "reason": "Du hältst an deinen Positionen fest und lässt nicht locker.",
+        "id": "krabbe",
+        "score": 0.888
+      },
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüter",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.874
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 50.0,
+      "aggression": 0.0,
+      "labeling": 50.0,
+      "solution_focus": 66.7,
+      "collaboration": 0.0,
+      "demand_intensity": 41.7,
+      "acknowledgment": 0.0,
+      "authority": 88.9,
+      "future_orientation": 66.7,
+      "emotional_intensity": 16.7,
+      "inclusivity": 59.2,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 7,
+      "words": 1765,
+      "adjectives": 8,
+      "verbs": 12
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 11.9,
+      "klima": 0.57,
+      "wirtschaft": 0.0,
+      "soziales": 13.6,
+      "sicherheit": 6.8,
+      "gesundheit": 2.83,
+      "europa": 1.13,
+      "digital": 3.4,
+      "bildung": 2.83,
+      "finanzen": 1.7,
+      "justiz": 3.97,
+      "arbeit": 1.13,
+      "mobilitaet": 2.83
+    },
+    "topTopics": [
+      {
+        "topic": "soziales",
+        "score": 13.6,
+        "rank": 1
+      },
+      {
+        "topic": "migration",
+        "score": 11.9,
+        "rank": 2
+      },
+      {
+        "topic": "sicherheit",
+        "score": 6.8,
+        "rank": 3
+      },
+      {
+        "topic": "justiz",
+        "score": 3.97,
+        "rank": 4
+      },
+      {
+        "topic": "digital",
+        "score": 3.4,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "einbürgerung",
+          "count": 6
+        },
+        {
+          "word": "abschiebehaft",
+          "count": 3
+        },
+        {
+          "word": "aufenthaltsstatus",
+          "count": 2
+        },
+        {
+          "word": "mittelmeer",
+          "count": 2
+        },
+        {
+          "word": "grenze",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "kohle",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "eltern",
+          "count": 5
+        },
+        {
+          "word": "kinder",
+          "count": 4
+        },
+        {
+          "word": "familien",
+          "count": 3
+        },
+        {
+          "word": "kind",
+          "count": 2
+        },
+        {
+          "word": "familie",
+          "count": 2
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "polizei",
+          "count": 4
+        },
+        {
+          "word": "waffen",
+          "count": 2
+        },
+        {
+          "word": "verbrechen",
+          "count": 2
+        },
+        {
+          "word": "polizisten",
+          "count": 1
+        },
+        {
+          "word": "bundeswehr",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "krankenhäuser",
+          "count": 1
+        },
+        {
+          "word": "pflegekräfte",
+          "count": 1
+        },
+        {
+          "word": "kranke",
+          "count": 1
+        },
+        {
+          "word": "krankenhaus",
+          "count": 1
+        },
+        {
+          "word": "gesundheitssystem",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "krieg",
+          "count": 2
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 3
+        },
+        {
+          "word": "netz",
+          "count": 2
+        },
+        {
+          "word": "internet",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "schulen",
+          "count": 3
+        },
+        {
+          "word": "lehrer",
+          "count": 1
+        },
+        {
+          "word": "schulklasse",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "steuerzahler",
+          "count": 1
+        },
+        {
+          "word": "steuern",
+          "count": 1
+        },
+        {
+          "word": "vermögensteuer",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "anwalt",
+          "count": 2
+        },
+        {
+          "word": "gerichte",
+          "count": 1
+        },
+        {
+          "word": "grundgesetz",
+          "count": 1
+        },
+        {
+          "word": "straftaten",
+          "count": 1
+        },
+        {
+          "word": "strafe",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "gehälter",
+          "count": 1
+        },
+        {
+          "word": "mitbestimmung",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "straßen",
+          "count": 4
+        },
+        {
+          "word": "verkehrsminister",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

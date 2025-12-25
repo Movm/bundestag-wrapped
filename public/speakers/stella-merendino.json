@@ -1,0 +1,275 @@
+{
+  "name": "Stella Merendino",
+  "party": "DIE LINKE",
+  "slug": "stella-merendino",
+  "academicTitle": null,
+  "speeches": 1,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 753,
+  "avgWords": 376,
+  "minWords": 338,
+  "maxWords": 415,
+  "rankings": {
+    "speechRank": 579,
+    "wordsRank": 575,
+    "partySpeechRank": 62,
+    "partyWordsRank": 61,
+    "partySize": 63,
+    "totalSpeakers": 609,
+    "percentile": 4.9,
+    "verbosityRank": null,
+    "verbosityTotal": null,
+    "partyVerbosityRank": null,
+    "longestSpeechRank": 570
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 0,
+    "interrupterRank": 279,
+    "interruptedRank": null
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "ministerin",
+        "count": 5
+      },
+      {
+        "word": "habe",
+        "count": 4
+      },
+      {
+        "word": "patientinnen",
+        "count": 4
+      },
+      {
+        "word": "system",
+        "count": 4
+      },
+      {
+        "word": "notaufnahme",
+        "count": 3
+      },
+      {
+        "word": "notfallversorgung",
+        "count": 3
+      },
+      {
+        "word": "bedeutet",
+        "count": 3
+      },
+      {
+        "word": "kliniken",
+        "count": 3
+      },
+      {
+        "word": "erwartet",
+        "count": 2
+      },
+      {
+        "word": "menschen",
+        "count": 2
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "ministerin",
+        "count": 5,
+        "ratioParty": 13.3,
+        "ratioBundestag": 14.4
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 376,
+    "partyAvgWords": 521,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.72,
+    "vsParliament": 0.61
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "1"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Stella Merendino häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Wirtschaft",
+        "isCorrect": false
+      },
+      {
+        "text": "Ministerin",
+        "isCorrect": true
+      },
+      {
+        "text": "Debatte",
+        "isCorrect": false
+      },
+      {
+        "text": "Rente",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Ministerin\" nutzt Stella Merendino 13.3× häufiger als der DIE LINKE-Durchschnitt.",
+    "explanationBundestag": "14.4× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🐇",
+    "name": "Hase",
+    "title": "Wendige Optimistin",
+    "reason": "Mit positivem Blick reagierst du schnell auf neue Themen.",
+    "id": "hase",
+    "alternatives": [
+      {
+        "emoji": "🦦",
+        "name": "Otter",
+        "title": "Positive Teamplayerin",
+        "reason": "Du bringst gute Stimmung und konstruktive Beiträge ins Plenum.",
+        "id": "otter",
+        "score": 0.85
+      },
+      {
+        "emoji": "🦫",
+        "name": "Biber",
+        "title": "Konstruktive Brückenbauerin",
+        "reason": "Du baust Brücken zwischen Positionen – kooperativ und lösungsorientiert.",
+        "id": "biber",
+        "score": 0.8
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 100.0,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 100.0,
+      "collaboration": 50.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 0.0,
+      "authority": 70.0,
+      "future_orientation": 100.0,
+      "emotional_intensity": 0.0,
+      "inclusivity": 40.0,
+      "discriminatory": 0.0
+    },
+    "confidence": "low",
+    "sampleSize": {
+      "speeches": 2,
+      "words": 508,
+      "adjectives": 1,
+      "verbs": 1
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.0,
+      "wirtschaft": 3.94,
+      "soziales": 3.94,
+      "sicherheit": 0.0,
+      "gesundheit": 31.5,
+      "europa": 0.0,
+      "digital": 0.0,
+      "bildung": 0.0,
+      "finanzen": 3.94,
+      "justiz": 0.0,
+      "arbeit": 0.0,
+      "mobilitaet": 1.97
+    },
+    "topTopics": [
+      {
+        "topic": "gesundheit",
+        "score": 31.5,
+        "rank": 1
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 3.94,
+        "rank": 2
+      },
+      {
+        "topic": "soziales",
+        "score": 3.94,
+        "rank": 3
+      },
+      {
+        "topic": "finanzen",
+        "score": 3.94,
+        "rank": 4
+      },
+      {
+        "topic": "mobilitaet",
+        "score": 1.97,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "wirtschaft": [
+        {
+          "word": "konzerne",
+          "count": 1
+        },
+        {
+          "word": "unternehmen",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 1
+        },
+        {
+          "word": "eltern",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "notaufnahme",
+          "count": 3
+        },
+        {
+          "word": "kliniken",
+          "count": 3
+        },
+        {
+          "word": "krankenhaus",
+          "count": 2
+        },
+        {
+          "word": "pflege",
+          "count": 2
+        },
+        {
+          "word": "gesundheitssystem",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "entlastung",
+          "count": 1
+        },
+        {
+          "word": "kosten",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "auto",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

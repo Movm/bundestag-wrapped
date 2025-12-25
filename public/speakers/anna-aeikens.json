@@ -1,0 +1,404 @@
+{
+  "name": "Anna Aeikens",
+  "party": "CDU/CSU",
+  "slug": "anna-aeikens",
+  "academicTitle": null,
+  "speeches": 9,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 5107,
+  "avgWords": 511,
+  "minWords": 54,
+  "maxWords": 780,
+  "rankings": {
+    "speechRank": 178,
+    "wordsRank": 175,
+    "partySpeechRank": 39,
+    "partyWordsRank": 50,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 70.8,
+    "verbosityRank": 149,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 54,
+    "longestSpeechRank": 213
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 9,
+    "interrupterRank": null,
+    "interruptedRank": 315
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 17
+      },
+      {
+        "word": "klimaschutz",
+        "count": 16
+      },
+      {
+        "word": "deutschland",
+        "count": 14
+      },
+      {
+        "word": "gemeinsam",
+        "count": 13
+      },
+      {
+        "word": "wichtig",
+        "count": 13
+      },
+      {
+        "word": "politik",
+        "count": 11
+      },
+      {
+        "word": "einfach",
+        "count": 11
+      },
+      {
+        "word": "bundesregierung",
+        "count": 10
+      },
+      {
+        "word": "europa",
+        "count": 10
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "ahaus",
+        "count": 10,
+        "ratioParty": 535.8,
+        "ratioBundestag": 239.9
+      },
+      {
+        "word": "zwischenlager",
+        "count": 5,
+        "ratioParty": 401.9,
+        "ratioBundestag": 168.0
+      },
+      {
+        "word": "korallenriffe",
+        "count": 5,
+        "ratioParty": 401.9,
+        "ratioBundestag": 193.8
+      },
+      {
+        "word": "geeint",
+        "count": 5,
+        "ratioParty": 134.0,
+        "ratioBundestag": 180.0
+      },
+      {
+        "word": "jülich",
+        "count": 8,
+        "ratioParty": 91.9,
+        "ratioBundestag": 85.8
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 511,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.74,
+    "vsParliament": 0.83
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "9"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "5.107"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Anna Aeikens häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Antrag",
+        "isCorrect": false
+      },
+      {
+        "text": "Bundesregierung",
+        "isCorrect": false
+      },
+      {
+        "text": "Wirtschaft",
+        "isCorrect": false
+      },
+      {
+        "text": "Ahaus",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Ahaus\" nutzt Anna Aeikens 535.8× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "239.9× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🐿️",
+    "name": "Eichhörnchen",
+    "title": "Themenhüterin",
+    "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+    "id": "eichhoernchen",
+    "alternatives": [
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißige Abgeordnete",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      },
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Clevere Strategin",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 0.933
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 84.6,
+      "aggression": 3.6,
+      "labeling": 3.6,
+      "solution_focus": 92.6,
+      "collaboration": 81.2,
+      "demand_intensity": 6.5,
+      "acknowledgment": 0.0,
+      "authority": 72.6,
+      "future_orientation": 82.2,
+      "emotional_intensity": 42.9,
+      "inclusivity": 63.0,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 10,
+      "words": 3303,
+      "adjectives": 28,
+      "verbs": 46
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.3,
+      "klima": 15.14,
+      "wirtschaft": 2.72,
+      "soziales": 0.3,
+      "sicherheit": 0.91,
+      "gesundheit": 0.3,
+      "europa": 3.94,
+      "digital": 0.3,
+      "bildung": 0.3,
+      "finanzen": 3.63,
+      "justiz": 1.82,
+      "arbeit": 0.61,
+      "mobilitaet": 0.61
+    },
+    "topTopics": [
+      {
+        "topic": "klima",
+        "score": 15.14,
+        "rank": 1
+      },
+      {
+        "topic": "europa",
+        "score": 3.94,
+        "rank": 2
+      },
+      {
+        "topic": "finanzen",
+        "score": 3.63,
+        "rank": 3
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 2.72,
+        "rank": 4
+      },
+      {
+        "topic": "justiz",
+        "score": 1.82,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "einwanderung",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "klimaschutz",
+          "count": 16
+        },
+        {
+          "word": "klimapolitik",
+          "count": 9
+        },
+        {
+          "word": "klimawandel",
+          "count": 3
+        },
+        {
+          "word": "klimaneutralität",
+          "count": 2
+        },
+        {
+          "word": "energiewende",
+          "count": 2
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 4
+        },
+        {
+          "word": "betriebe",
+          "count": 2
+        },
+        {
+          "word": "standort",
+          "count": 1
+        },
+        {
+          "word": "betrieb",
+          "count": 1
+        },
+        {
+          "word": "wettbewerbsfähigkeit",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "kriminalität",
+          "count": 1
+        },
+        {
+          "word": "gewalt",
+          "count": 1
+        },
+        {
+          "word": "videoüberwachung",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "medizin",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 10
+        },
+        {
+          "word": "abkommen",
+          "count": 2
+        },
+        {
+          "word": "brüssel",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "netzausbau",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "wissenschaft",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "kosten",
+          "count": 3
+        },
+        {
+          "word": "bundeshaushalt",
+          "count": 1
+        },
+        {
+          "word": "haushalt",
+          "count": 1
+        },
+        {
+          "word": "investitionen",
+          "count": 1
+        },
+        {
+          "word": "steuerzahler",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "verwaltungsgericht",
+          "count": 2
+        },
+        {
+          "word": "klage",
+          "count": 1
+        },
+        {
+          "word": "rechtsstaat",
+          "count": 1
+        },
+        {
+          "word": "grundgesetz",
+          "count": 1
+        },
+        {
+          "word": "rechtsprechung",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "einkommen",
+          "count": 1
+        },
+        {
+          "word": "arbeitsplätze",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "verkehr",
+          "count": 2
+        }
+      ]
+    }
+  }
+}

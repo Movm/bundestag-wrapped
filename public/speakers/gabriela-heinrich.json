@@ -1,0 +1,382 @@
+{
+  "name": "Gabriela Heinrich",
+  "party": "SPD",
+  "slug": "gabriela-heinrich",
+  "academicTitle": null,
+  "speeches": 7,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 2919,
+  "avgWords": 417,
+  "minWords": 312,
+  "maxWords": 555,
+  "rankings": {
+    "speechRank": 281,
+    "wordsRank": 374,
+    "partySpeechRank": 64,
+    "partyWordsRank": 76,
+    "partySize": 109,
+    "totalSpeakers": 609,
+    "percentile": 53.9,
+    "verbosityRank": 310,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 71,
+    "longestSpeechRank": 478
+  },
+  "drama": {
+    "interruptionsGiven": 1,
+    "interruptionsReceived": 1,
+    "interrupterRank": 301,
+    "interruptedRank": 544
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "hilfe",
+        "count": 19
+      },
+      {
+        "word": "humanitäre",
+        "count": 14
+      },
+      {
+        "word": "frauen",
+        "count": 12
+      },
+      {
+        "word": "vereinten",
+        "count": 11
+      },
+      {
+        "word": "nationen",
+        "count": 11
+      },
+      {
+        "word": "menschen",
+        "count": 10
+      },
+      {
+        "word": "gewalt",
+        "count": 10
+      },
+      {
+        "word": "menschenrechte",
+        "count": 8
+      },
+      {
+        "word": "frieden",
+        "count": 8
+      },
+      {
+        "word": "welt",
+        "count": 7
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "resolution",
+        "count": 7,
+        "ratioParty": 291.1,
+        "ratioBundestag": 132.5
+      },
+      {
+        "word": "europarat",
+        "count": 5,
+        "ratioParty": 83.2,
+        "ratioBundestag": 51.4
+      },
+      {
+        "word": "verbrechen",
+        "count": 5,
+        "ratioParty": 46.2,
+        "ratioBundestag": 30.6
+      },
+      {
+        "word": "vereinten",
+        "count": 11,
+        "ratioParty": 39.8,
+        "ratioBundestag": 44.9
+      },
+      {
+        "word": "nationen",
+        "count": 11,
+        "ratioParty": 37.3,
+        "ratioBundestag": 38.7
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 417,
+    "partyAvgWords": 637,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.65,
+    "vsParliament": 0.68
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "7"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "2.919"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Gabriela Heinrich häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Sicherheit",
+        "isCorrect": false
+      },
+      {
+        "text": "Debatte",
+        "isCorrect": false
+      },
+      {
+        "text": "Resolution",
+        "isCorrect": true
+      },
+      {
+        "text": "Minister",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Resolution\" nutzt Gabriela Heinrich 291.1× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "132.5× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🦫",
+    "name": "Biber",
+    "title": "Konstruktive Brückenbauerin",
+    "reason": "Du baust Brücken zwischen Positionen – kooperativ und lösungsorientiert.",
+    "id": "biber",
+    "alternatives": [
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Clevere Strategin",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 0.893
+      },
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüterin",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.879
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 50.0,
+      "aggression": 20.0,
+      "labeling": 0.0,
+      "solution_focus": 89.5,
+      "collaboration": 100.0,
+      "demand_intensity": 4.3,
+      "acknowledgment": 8.7,
+      "authority": 78.4,
+      "future_orientation": 97.4,
+      "emotional_intensity": 30.8,
+      "inclusivity": 68.2,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 7,
+      "words": 2000,
+      "adjectives": 5,
+      "verbs": 23
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.0,
+      "wirtschaft": 3.5,
+      "soziales": 1.5,
+      "sicherheit": 12.5,
+      "gesundheit": 1.5,
+      "europa": 16.5,
+      "digital": 1.0,
+      "bildung": 0.0,
+      "finanzen": 2.5,
+      "justiz": 7.5,
+      "arbeit": 0.0,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "europa",
+        "score": 16.5,
+        "rank": 1
+      },
+      {
+        "topic": "sicherheit",
+        "score": 12.5,
+        "rank": 2
+      },
+      {
+        "topic": "justiz",
+        "score": 7.5,
+        "rank": 3
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 3.5,
+        "rank": 4
+      },
+      {
+        "topic": "finanzen",
+        "score": 2.5,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 4
+        },
+        {
+          "word": "firma",
+          "count": 1
+        },
+        {
+          "word": "betrieb",
+          "count": 1
+        },
+        {
+          "word": "wirtschaftskrise",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 1
+        },
+        {
+          "word": "kind",
+          "count": 1
+        },
+        {
+          "word": "familie",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "gewalt",
+          "count": 10
+        },
+        {
+          "word": "verbrechen",
+          "count": 5
+        },
+        {
+          "word": "täter",
+          "count": 3
+        },
+        {
+          "word": "korruption",
+          "count": 3
+        },
+        {
+          "word": "soldaten",
+          "count": 2
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "ärzte",
+          "count": 1
+        },
+        {
+          "word": "kranke",
+          "count": 1
+        },
+        {
+          "word": "prävention",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "frieden",
+          "count": 8
+        },
+        {
+          "word": "europarat",
+          "count": 5
+        },
+        {
+          "word": "außenminister",
+          "count": 3
+        },
+        {
+          "word": "ukraine",
+          "count": 3
+        },
+        {
+          "word": "krieg",
+          "count": 3
+        }
+      ],
+      "digital": [
+        {
+          "word": "netz",
+          "count": 1
+        },
+        {
+          "word": "pressefreiheit",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "finanzierung",
+          "count": 3
+        },
+        {
+          "word": "haushalt",
+          "count": 1
+        },
+        {
+          "word": "haushaltsentwurf",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "menschenrechte",
+          "count": 8
+        },
+        {
+          "word": "rechtsstaatlichkeit",
+          "count": 4
+        },
+        {
+          "word": "gericht",
+          "count": 1
+        },
+        {
+          "word": "urteile",
+          "count": 1
+        },
+        {
+          "word": "verteidiger",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

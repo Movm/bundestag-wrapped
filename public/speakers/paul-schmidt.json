@@ -1,0 +1,384 @@
+{
+  "name": "Dr. Paul Schmidt",
+  "party": "AfD",
+  "slug": "paul-schmidt",
+  "academicTitle": "Dr",
+  "speeches": 7,
+  "wortbeitraege": 4,
+  "befragungResponses": 0,
+  "totalWords": 3152,
+  "avgWords": 287,
+  "minWords": 64,
+  "maxWords": 499,
+  "rankings": {
+    "speechRank": 271,
+    "wordsRank": 350,
+    "partySpeechRank": 65,
+    "partyWordsRank": 83,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 55.5,
+    "verbosityRank": 473,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 118,
+    "longestSpeechRank": 525
+  },
+  "drama": {
+    "interruptionsGiven": 13,
+    "interruptionsReceived": 8,
+    "interrupterRank": 136,
+    "interruptedRank": 323
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "deutschland",
+        "count": 20
+      },
+      {
+        "word": "strom",
+        "count": 12
+      },
+      {
+        "word": "kernkraft",
+        "count": 11
+      },
+      {
+        "word": "kernkraftwerke",
+        "count": 10
+      },
+      {
+        "word": "mitarbeiter",
+        "count": 10
+      },
+      {
+        "word": "kernenergie",
+        "count": 8
+      },
+      {
+        "word": "gigawatt",
+        "count": 7
+      },
+      {
+        "word": "jahre",
+        "count": 6
+      },
+      {
+        "word": "strompreise",
+        "count": 6
+      },
+      {
+        "word": "energiewende",
+        "count": 6
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "konvoi",
+        "count": 5,
+        "ratioParty": 971.6,
+        "ratioBundestag": 2154.3
+      },
+      {
+        "word": "gramm",
+        "count": 5,
+        "ratioParty": 971.6,
+        "ratioBundestag": 718.1
+      },
+      {
+        "word": "jülich",
+        "count": 6,
+        "ratioParty": 291.5,
+        "ratioBundestag": 105.5
+      },
+      {
+        "word": "endlagersuche",
+        "count": 5,
+        "ratioParty": 194.3,
+        "ratioBundestag": 307.8
+      },
+      {
+        "word": "gigawatt",
+        "count": 7,
+        "ratioParty": 151.1,
+        "ratioBundestag": 150.8
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "falsch",
+        "count": 4,
+        "ratioParty": 10.6,
+        "ratioBundestag": 10.6
+      },
+      {
+        "word": "sicher",
+        "count": 5,
+        "ratioParty": 7.9,
+        "ratioBundestag": 5.8
+      },
+      {
+        "word": "teuer",
+        "count": 3,
+        "ratioParty": 7.5,
+        "ratioBundestag": 11.8
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 287,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.49,
+    "vsParliament": 0.47
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "7"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "3.152"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufe",
+      "value": "13"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Dr. Paul Schmidt häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Fraktion",
+        "isCorrect": false
+      },
+      {
+        "text": "Konvoi",
+        "isCorrect": true
+      },
+      {
+        "text": "Kinder",
+        "isCorrect": false
+      },
+      {
+        "text": "Sicherheit",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Konvoi\" nutzt Dr. Paul Schmidt 971.6× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "2154.3× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Dr. Paul Schmidt häufiger als der Rest der AfD-Fraktion?",
+    "options": [
+      {
+        "text": "Gefährlich",
+        "isCorrect": false
+      },
+      {
+        "text": "Notwendig",
+        "isCorrect": false
+      },
+      {
+        "text": "Falsch",
+        "isCorrect": true
+      },
+      {
+        "text": "Sozial",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Falsch\" nutzt Dr. Paul Schmidt 10.6× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "10.6× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 54.5,
+      "aggression": 8.3,
+      "labeling": 0.0,
+      "solution_focus": 100.0,
+      "collaboration": 100.0,
+      "demand_intensity": 54.5,
+      "acknowledgment": 0.0,
+      "authority": 81.8,
+      "future_orientation": 60.5,
+      "emotional_intensity": 62.5,
+      "inclusivity": 62.3,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 11,
+      "words": 1933,
+      "adjectives": 24,
+      "verbs": 11
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 15.0,
+      "wirtschaft": 3.1,
+      "soziales": 0.52,
+      "sicherheit": 0.0,
+      "gesundheit": 0.0,
+      "europa": 2.07,
+      "digital": 2.59,
+      "bildung": 1.03,
+      "finanzen": 4.66,
+      "justiz": 0.0,
+      "arbeit": 3.1,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "klima",
+        "score": 15.0,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 4.66,
+        "rank": 2
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 3.1,
+        "rank": 3
+      },
+      {
+        "topic": "arbeit",
+        "score": 3.1,
+        "rank": 4
+      },
+      {
+        "topic": "digital",
+        "score": 2.59,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "kernenergie",
+          "count": 8
+        },
+        {
+          "word": "energiewende",
+          "count": 6
+        },
+        {
+          "word": "umwelt",
+          "count": 3
+        },
+        {
+          "word": "naturschutz",
+          "count": 3
+        },
+        {
+          "word": "atomausstieg",
+          "count": 2
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "betrieb",
+          "count": 3
+        },
+        {
+          "word": "betriebe",
+          "count": 1
+        },
+        {
+          "word": "produktion",
+          "count": 1
+        },
+        {
+          "word": "stahlindustrie",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "familien",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 4
+        }
+      ],
+      "digital": [
+        {
+          "word": "netzausbau",
+          "count": 2
+        },
+        {
+          "word": "technologie",
+          "count": 1
+        },
+        {
+          "word": "netz",
+          "count": 1
+        },
+        {
+          "word": "internet",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "promotion",
+          "count": 1
+        },
+        {
+          "word": "meister",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "kosten",
+          "count": 2
+        },
+        {
+          "word": "investitionen",
+          "count": 2
+        },
+        {
+          "word": "tilgung",
+          "count": 1
+        },
+        {
+          "word": "bundeshaushalt",
+          "count": 1
+        },
+        {
+          "word": "schulden",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitnehmer",
+          "count": 3
+        },
+        {
+          "word": "arbeitsplätze",
+          "count": 2
+        },
+        {
+          "word": "betriebsrat",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

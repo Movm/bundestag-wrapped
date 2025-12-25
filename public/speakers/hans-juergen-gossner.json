@@ -1,0 +1,433 @@
+{
+  "name": "Hans-Jürgen Goßner",
+  "party": "AfD",
+  "slug": "hans-juergen-gossner",
+  "academicTitle": null,
+  "speeches": 8,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 3669,
+  "avgWords": 408,
+  "minWords": 114,
+  "maxWords": 827,
+  "rankings": {
+    "speechRank": 204,
+    "wordsRank": 292,
+    "partySpeechRank": 45,
+    "partyWordsRank": 65,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 66.5,
+    "verbosityRank": 325,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 77,
+    "longestSpeechRank": 164
+  },
+  "drama": {
+    "interruptionsGiven": 4,
+    "interruptionsReceived": 20,
+    "interrupterRank": 228,
+    "interruptedRank": 125
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 9
+      },
+      {
+        "word": "soll",
+        "count": 9
+      },
+      {
+        "word": "schluss",
+        "count": 9
+      },
+      {
+        "word": "arbeit",
+        "count": 8
+      },
+      {
+        "word": "bürokratie",
+        "count": 8
+      },
+      {
+        "word": "linken",
+        "count": 8
+      },
+      {
+        "word": "land",
+        "count": 7
+      },
+      {
+        "word": "weniger",
+        "count": 7
+      },
+      {
+        "word": "kontrolle",
+        "count": 7
+      },
+      {
+        "word": "betriebe",
+        "count": 7
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "schwarzarbeit",
+        "count": 5,
+        "ratioParty": 66.2,
+        "ratioBundestag": 34.9
+      },
+      {
+        "word": "eigenverantwortung",
+        "count": 5,
+        "ratioParty": 46.8,
+        "ratioBundestag": 64.1
+      },
+      {
+        "word": "betriebe",
+        "count": 7,
+        "ratioParty": 15.7,
+        "ratioBundestag": 17.4
+      },
+      {
+        "word": "kontrolle",
+        "count": 7,
+        "ratioParty": 12.9,
+        "ratioBundestag": 17.9
+      },
+      {
+        "word": "genug",
+        "count": 7,
+        "ratioParty": 8.8,
+        "ratioBundestag": 10.7
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "ideologisch",
+        "count": 3,
+        "ratioParty": 8.8,
+        "ratioBundestag": 23.5
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 408,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.7,
+    "vsParliament": 0.67
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "8"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "3.669"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Hans-Jürgen Goßner häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Gesetzentwurf",
+        "isCorrect": false
+      },
+      {
+        "text": "Antrag",
+        "isCorrect": false
+      },
+      {
+        "text": "Schwarzarbeit",
+        "isCorrect": true
+      },
+      {
+        "text": "Haushalt",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Schwarzarbeit\" nutzt Hans-Jürgen Goßner 66.2× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "34.9× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Hans-Jürgen Goßner häufiger als der Rest der AfD-Fraktion?",
+    "options": [
+      {
+        "text": "Wirtschaftlich",
+        "isCorrect": false
+      },
+      {
+        "text": "Ideologisch",
+        "isCorrect": true
+      },
+      {
+        "text": "Gefährlich",
+        "isCorrect": false
+      },
+      {
+        "text": "Europäisch",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Ideologisch\" nutzt Hans-Jürgen Goßner 8.8× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "23.5× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 37.5,
+      "aggression": 21.4,
+      "labeling": 21.4,
+      "solution_focus": 66.7,
+      "collaboration": 0.0,
+      "demand_intensity": 15.4,
+      "acknowledgment": 0.0,
+      "authority": 84.0,
+      "future_orientation": 91.3,
+      "emotional_intensity": 37.5,
+      "inclusivity": 40.4,
+      "discriminatory": 0.42
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 9,
+      "words": 2360,
+      "adjectives": 14,
+      "verbs": 13
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 1.69,
+      "klima": 1.27,
+      "wirtschaft": 8.9,
+      "soziales": 1.69,
+      "sicherheit": 2.54,
+      "gesundheit": 1.27,
+      "europa": 0.42,
+      "digital": 0.42,
+      "bildung": 0.42,
+      "finanzen": 4.24,
+      "justiz": 1.27,
+      "arbeit": 5.51,
+      "mobilitaet": 1.27
+    },
+    "topTopics": [
+      {
+        "topic": "wirtschaft",
+        "score": 8.9,
+        "rank": 1
+      },
+      {
+        "topic": "arbeit",
+        "score": 5.51,
+        "rank": 2
+      },
+      {
+        "topic": "finanzen",
+        "score": 4.24,
+        "rank": 3
+      },
+      {
+        "topic": "sicherheit",
+        "score": 2.54,
+        "rank": 4
+      },
+      {
+        "topic": "migration",
+        "score": 1.69,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "migration",
+          "count": 1
+        },
+        {
+          "word": "rückführung",
+          "count": 1
+        },
+        {
+          "word": "grenze",
+          "count": 1
+        },
+        {
+          "word": "zuwanderung",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "energie",
+          "count": 3
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "betriebe",
+          "count": 7
+        },
+        {
+          "word": "unternehmen",
+          "count": 3
+        },
+        {
+          "word": "fachkräftemangel",
+          "count": 2
+        },
+        {
+          "word": "mittelstand",
+          "count": 2
+        },
+        {
+          "word": "konzerne",
+          "count": 2
+        }
+      ],
+      "soziales": [
+        {
+          "word": "familie",
+          "count": 1
+        },
+        {
+          "word": "rente",
+          "count": 1
+        },
+        {
+          "word": "mieten",
+          "count": 1
+        },
+        {
+          "word": "armut",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "angriff",
+          "count": 3
+        },
+        {
+          "word": "anschlag",
+          "count": 2
+        },
+        {
+          "word": "überwachung",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "rezept",
+          "count": 1
+        },
+        {
+          "word": "krankheit",
+          "count": 1
+        },
+        {
+          "word": "pflegegrad",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "china",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "daten",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "bildungssystem",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "steuer",
+          "count": 2
+        },
+        {
+          "word": "fördermittel",
+          "count": 2
+        },
+        {
+          "word": "inflation",
+          "count": 1
+        },
+        {
+          "word": "entlastung",
+          "count": 1
+        },
+        {
+          "word": "sondervermögen",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "strafverfolgung",
+          "count": 1
+        },
+        {
+          "word": "grundgesetz",
+          "count": 1
+        },
+        {
+          "word": "verfassungsrecht",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "gewerkschaft",
+          "count": 2
+        },
+        {
+          "word": "gewerkschaften",
+          "count": 2
+        },
+        {
+          "word": "mindestlohn",
+          "count": 2
+        },
+        {
+          "word": "einkommen",
+          "count": 1
+        },
+        {
+          "word": "vereinbarkeit",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 1
+        },
+        {
+          "word": "straßen",
+          "count": 1
+        },
+        {
+          "word": "straße",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

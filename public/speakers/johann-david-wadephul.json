@@ -1,0 +1,474 @@
+{
+  "name": "Dr. Johann David Wadephul",
+  "party": "CDU/CSU",
+  "slug": "johann-david-wadephul",
+  "academicTitle": "Dr",
+  "speeches": 13,
+  "wortbeitraege": 54,
+  "befragungResponses": 54,
+  "totalWords": 15089,
+  "avgWords": 225,
+  "minWords": 9,
+  "maxWords": 1137,
+  "rankings": {
+    "speechRank": 49,
+    "wordsRank": 6,
+    "partySpeechRank": 13,
+    "partyWordsRank": 4,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 92.0,
+    "verbosityRank": 499,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 157,
+    "longestSpeechRank": 38
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 27,
+    "interrupterRank": null,
+    "interruptedRank": 64
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "deutschland",
+        "count": 50
+      },
+      {
+        "word": "welt",
+        "count": 44
+      },
+      {
+        "word": "habe",
+        "count": 43
+      },
+      {
+        "word": "bundesregierung",
+        "count": 38
+      },
+      {
+        "word": "verantwortung",
+        "count": 37
+      },
+      {
+        "word": "israel",
+        "count": 35
+      },
+      {
+        "word": "nationen",
+        "count": 34
+      },
+      {
+        "word": "vereinten",
+        "count": 33
+      },
+      {
+        "word": "staaten",
+        "count": 32
+      },
+      {
+        "word": "menschen",
+        "count": 31
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "ungarn",
+        "count": 8,
+        "ratioParty": 109.5,
+        "ratioBundestag": 28.3
+      },
+      {
+        "word": "fluchtbewegungen",
+        "count": 6,
+        "ratioParty": 82.1,
+        "ratioBundestag": 79.9
+      },
+      {
+        "word": "südsudan",
+        "count": 14,
+        "ratioParty": 69.7,
+        "ratioBundestag": 39.1
+      },
+      {
+        "word": "auslandsvertretungen",
+        "count": 6,
+        "ratioParty": 54.8,
+        "ratioBundestag": 129.8
+      },
+      {
+        "word": "weltgemeinschaft",
+        "count": 5,
+        "ratioParty": 54.8,
+        "ratioBundestag": 43.3
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "grundlegend",
+        "count": 3,
+        "ratioParty": 7.1,
+        "ratioBundestag": 7.5
+      },
+      {
+        "word": "erfolgreich",
+        "count": 4,
+        "ratioParty": 2.0,
+        "ratioBundestag": 3.1
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 225,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.33,
+    "vsParliament": 0.37
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "13"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "15.089"
+    },
+    {
+      "emoji": "📊",
+      "label": "Top-Redner",
+      "value": "Top 8%"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Dr. Johann David Wadephul häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Kanzler",
+        "isCorrect": false
+      },
+      {
+        "text": "Ungarn",
+        "isCorrect": true
+      },
+      {
+        "text": "Energie",
+        "isCorrect": false
+      },
+      {
+        "text": "Wirtschaft",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Ungarn\" nutzt Dr. Johann David Wadephul 109.5× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "28.3× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Dr. Johann David Wadephul häufiger als der Rest der CDU/CSU-Fraktion?",
+    "options": [
+      {
+        "text": "Grundlegend",
+        "isCorrect": true
+      },
+      {
+        "text": "Europäisch",
+        "isCorrect": false
+      },
+      {
+        "text": "Klar",
+        "isCorrect": false
+      },
+      {
+        "text": "Notwendig",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Grundlegend\" nutzt Dr. Johann David Wadephul 7.1× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "7.5× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐘",
+    "name": "Elefant",
+    "title": "Wortgewaltiger Redner",
+    "reason": "Mit 15.089 Wörtern gehörst du zu den wortreichsten Abgeordneten.",
+    "id": "elefant",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüter",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 1.0
+      },
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißiger Abgeordneter",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 90.0,
+      "aggression": 5.9,
+      "labeling": 5.9,
+      "solution_focus": 76.3,
+      "collaboration": 78.3,
+      "demand_intensity": 7.0,
+      "acknowledgment": 11.0,
+      "authority": 81.5,
+      "future_orientation": 82.6,
+      "emotional_intensity": 23.8,
+      "inclusivity": 53.9,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 67,
+      "words": 9581,
+      "adjectives": 34,
+      "verbs": 100
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.73,
+      "klima": 0.31,
+      "wirtschaft": 0.31,
+      "soziales": 0.52,
+      "sicherheit": 4.7,
+      "gesundheit": 0.83,
+      "europa": 23.9,
+      "digital": 0.21,
+      "bildung": 0.0,
+      "finanzen": 2.61,
+      "justiz": 1.36,
+      "arbeit": 0.1,
+      "mobilitaet": 1.15
+    },
+    "topTopics": [
+      {
+        "topic": "europa",
+        "score": 23.9,
+        "rank": 1
+      },
+      {
+        "topic": "sicherheit",
+        "score": 4.7,
+        "rank": 2
+      },
+      {
+        "topic": "finanzen",
+        "score": 2.61,
+        "rank": 3
+      },
+      {
+        "topic": "justiz",
+        "score": 1.36,
+        "rank": 4
+      },
+      {
+        "topic": "mobilitaet",
+        "score": 1.15,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "mittelmeer",
+          "count": 3
+        },
+        {
+          "word": "grenze",
+          "count": 2
+        },
+        {
+          "word": "asylverfahren",
+          "count": 1
+        },
+        {
+          "word": "obergrenze",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "nachhaltig",
+          "count": 2
+        },
+        {
+          "word": "erdöl",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "produktion",
+          "count": 1
+        },
+        {
+          "word": "kapital",
+          "count": 1
+        },
+        {
+          "word": "wirtschaftskrise",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 2
+        },
+        {
+          "word": "familie",
+          "count": 2
+        },
+        {
+          "word": "wohnungen",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "soldaten",
+          "count": 12
+        },
+        {
+          "word": "waffen",
+          "count": 6
+        },
+        {
+          "word": "bundeswehr",
+          "count": 5
+        },
+        {
+          "word": "gewalt",
+          "count": 4
+        },
+        {
+          "word": "polizisten",
+          "count": 3
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "operation",
+          "count": 8
+        }
+      ],
+      "europa": [
+        {
+          "word": "israel",
+          "count": 35
+        },
+        {
+          "word": "europa",
+          "count": 28
+        },
+        {
+          "word": "ukraine",
+          "count": 28
+        },
+        {
+          "word": "iran",
+          "count": 26
+        },
+        {
+          "word": "nato",
+          "count": 16
+        }
+      ],
+      "digital": [
+        {
+          "word": "rundfunk",
+          "count": 1
+        },
+        {
+          "word": "pressefreiheit",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 7
+        },
+        {
+          "word": "investition",
+          "count": 7
+        },
+        {
+          "word": "schulden",
+          "count": 5
+        },
+        {
+          "word": "haushaltsausschuss",
+          "count": 3
+        },
+        {
+          "word": "zinsen",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "menschenrechte",
+          "count": 4
+        },
+        {
+          "word": "urteil",
+          "count": 3
+        },
+        {
+          "word": "haft",
+          "count": 2
+        },
+        {
+          "word": "beschluss",
+          "count": 2
+        },
+        {
+          "word": "rechtsstaat",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "beschäftigte",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "schiffe",
+          "count": 4
+        },
+        {
+          "word": "infrastruktur",
+          "count": 2
+        },
+        {
+          "word": "hafen",
+          "count": 2
+        },
+        {
+          "word": "straße",
+          "count": 1
+        },
+        {
+          "word": "straßen",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

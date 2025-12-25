@@ -1,0 +1,401 @@
+{
+  "name": "Sascha van Beek",
+  "party": "CDU/CSU",
+  "slug": "sascha-van-beek",
+  "academicTitle": "van",
+  "speeches": 4,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 2667,
+  "avgWords": 667,
+  "minWords": 510,
+  "maxWords": 823,
+  "rankings": {
+    "speechRank": 449,
+    "wordsRank": 394,
+    "partySpeechRank": 135,
+    "partyWordsRank": 122,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 26.3,
+    "verbosityRank": 38,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 13,
+    "longestSpeechRank": 172
+  },
+  "drama": {
+    "interruptionsGiven": 5,
+    "interruptionsReceived": 12,
+    "interrupterRank": 213,
+    "interruptedRank": 239
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "gehört",
+        "count": 7
+      },
+      {
+        "word": "warum",
+        "count": 6
+      },
+      {
+        "word": "masken",
+        "count": 6
+      },
+      {
+        "word": "sage",
+        "count": 5
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "masken",
+        "count": 6,
+        "ratioParty": 84.1,
+        "ratioBundestag": 118.6
+      },
+      {
+        "word": "warum",
+        "count": 6,
+        "ratioParty": 7.5,
+        "ratioBundestag": 5.4
+      },
+      {
+        "word": "gehört",
+        "count": 7,
+        "ratioParty": 4.3,
+        "ratioBundestag": 4.9
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "entscheidend",
+        "count": 4,
+        "ratioParty": 9.1,
+        "ratioBundestag": 14.9
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 667,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.97,
+    "vsParliament": 1.09
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "4"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "2.667"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Sascha van Beek häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Masken",
+        "isCorrect": true
+      },
+      {
+        "text": "Demokratie",
+        "isCorrect": false
+      },
+      {
+        "text": "Steuern",
+        "isCorrect": false
+      },
+      {
+        "text": "Arbeit",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Masken\" nutzt Sascha van Beek 84.1× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "118.6× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Sascha van Beek häufiger als der Rest der CDU/CSU-Fraktion?",
+    "options": [
+      {
+        "text": "National",
+        "isCorrect": false
+      },
+      {
+        "text": "Groß",
+        "isCorrect": false
+      },
+      {
+        "text": "Entscheidend",
+        "isCorrect": true
+      },
+      {
+        "text": "Politisch",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Entscheidend\" nutzt Sascha van Beek 9.1× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "14.9× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐇",
+    "name": "Hase",
+    "title": "Wendiger Optimist",
+    "reason": "Mit positivem Blick reagierst du schnell auf neue Themen.",
+    "id": "hase",
+    "alternatives": [
+      {
+        "emoji": "🦦",
+        "name": "Otter",
+        "title": "Positiver Teamplayer",
+        "reason": "Du bringst gute Stimmung und konstruktive Beiträge ins Plenum.",
+        "id": "otter",
+        "score": 0.81
+      },
+      {
+        "emoji": "🦫",
+        "name": "Biber",
+        "title": "Konstruktiver Brückenbauer",
+        "reason": "Du baust Brücken zwischen Positionen – kooperativ und lösungsorientiert.",
+        "id": "biber",
+        "score": 0.7
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 90.0,
+      "aggression": 0.0,
+      "labeling": 9.1,
+      "solution_focus": 100.0,
+      "collaboration": 50.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 0.0,
+      "authority": 81.6,
+      "future_orientation": 80.0,
+      "emotional_intensity": 0.0,
+      "inclusivity": 60.0,
+      "discriminatory": 0.6
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 4,
+      "words": 1653,
+      "adjectives": 11,
+      "verbs": 14
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 3.63,
+      "klima": 7.26,
+      "wirtschaft": 2.42,
+      "soziales": 0.6,
+      "sicherheit": 0.0,
+      "gesundheit": 9.68,
+      "europa": 1.81,
+      "digital": 0.6,
+      "bildung": 1.21,
+      "finanzen": 2.42,
+      "justiz": 3.02,
+      "arbeit": 0.6,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "gesundheit",
+        "score": 9.68,
+        "rank": 1
+      },
+      {
+        "topic": "klima",
+        "score": 7.26,
+        "rank": 2
+      },
+      {
+        "topic": "migration",
+        "score": 3.63,
+        "rank": 3
+      },
+      {
+        "topic": "justiz",
+        "score": 3.02,
+        "rank": 4
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 2.42,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "migration",
+          "count": 2
+        },
+        {
+          "word": "asylbewerber",
+          "count": 1
+        },
+        {
+          "word": "integration",
+          "count": 1
+        },
+        {
+          "word": "rückführung",
+          "count": 1
+        },
+        {
+          "word": "asyl",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "artenschutz",
+          "count": 2
+        },
+        {
+          "word": "klimapolitik",
+          "count": 2
+        },
+        {
+          "word": "wärmepumpe",
+          "count": 2
+        },
+        {
+          "word": "windkraft",
+          "count": 1
+        },
+        {
+          "word": "klimaneutral",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "markt",
+          "count": 2
+        },
+        {
+          "word": "marktwirtschaft",
+          "count": 1
+        },
+        {
+          "word": "mittelstand",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "pandemie",
+          "count": 4
+        },
+        {
+          "word": "gesundheitssystem",
+          "count": 3
+        },
+        {
+          "word": "krankenhaus",
+          "count": 3
+        },
+        {
+          "word": "gesundheitspolitik",
+          "count": 1
+        },
+        {
+          "word": "rettungsdienst",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "krieg",
+          "count": 1
+        },
+        {
+          "word": "ukraine",
+          "count": 1
+        },
+        {
+          "word": "völkerrecht",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "daten",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "hauptschule",
+          "count": 1
+        },
+        {
+          "word": "wissenschaft",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "steuern",
+          "count": 1
+        },
+        {
+          "word": "entlastung",
+          "count": 1
+        },
+        {
+          "word": "investition",
+          "count": 1
+        },
+        {
+          "word": "investitionen",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "gericht",
+          "count": 1
+        },
+        {
+          "word": "verfassung",
+          "count": 1
+        },
+        {
+          "word": "rechtsstaatlichkeit",
+          "count": 1
+        },
+        {
+          "word": "richter",
+          "count": 1
+        },
+        {
+          "word": "grundgesetz",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "einkommen",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "name": "Carina Schießl",
+  "party": "AfD",
+  "slug": "carina-schiessl",
+  "academicTitle": null,
+  "speeches": 1,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 328,
+  "avgWords": 328,
+  "minWords": 328,
+  "maxWords": 328,
+  "rankings": {
+    "speechRank": 583,
+    "wordsRank": 603,
+    "partySpeechRank": 146,
+    "partyWordsRank": 148,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 4.3,
+    "verbosityRank": null,
+    "verbosityTotal": null,
+    "partyVerbosityRank": null,
+    "longestSpeechRank": 597
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 0,
+    "interrupterRank": null,
+    "interruptedRank": null
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "kliniken",
+        "count": 3
+      },
+      {
+        "word": "circa",
+        "count": 3
+      },
+      {
+        "word": "menschen",
+        "count": 3
+      },
+      {
+        "word": "heißt",
+        "count": 2
+      },
+      {
+        "word": "rund",
+        "count": 2
+      },
+      {
+        "word": "psychotherapie",
+        "count": 2
+      },
+      {
+        "word": "kinder",
+        "count": 2
+      },
+      {
+        "word": "kassensitze",
+        "count": 2
+      },
+      {
+        "word": "hingegen",
+        "count": 2
+      },
+      {
+        "word": "geld",
+        "count": 2
+      }
+    ],
+    "signatureWords": [],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 328,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.56,
+    "vsParliament": 0.54
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "1"
+    }
+  ],
+  "signatureQuiz": null,
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 50.0,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 100.0,
+      "collaboration": 50.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 0.0,
+      "authority": 100.0,
+      "future_orientation": 75.0,
+      "emotional_intensity": 100.0,
+      "inclusivity": 55.6,
+      "discriminatory": 4.65
+    },
+    "confidence": "low",
+    "sampleSize": {
+      "speeches": 1,
+      "words": 215,
+      "adjectives": 0,
+      "verbs": 2
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 9.3,
+      "klima": 0.0,
+      "wirtschaft": 0.0,
+      "soziales": 13.95,
+      "sicherheit": 0.0,
+      "gesundheit": 37.21,
+      "europa": 0.0,
+      "digital": 4.65,
+      "bildung": 4.65,
+      "finanzen": 4.65,
+      "justiz": 0.0,
+      "arbeit": 0.0,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "gesundheit",
+        "score": 37.21,
+        "rank": 1
+      },
+      {
+        "topic": "soziales",
+        "score": 13.95,
+        "rank": 2
+      },
+      {
+        "topic": "migration",
+        "score": 9.3,
+        "rank": 3
+      },
+      {
+        "topic": "digital",
+        "score": 4.65,
+        "rank": 4
+      },
+      {
+        "topic": "bildung",
+        "score": 4.65,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "flüchtlinge",
+          "count": 1
+        },
+        {
+          "word": "migranten",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 2
+        },
+        {
+          "word": "jugendliche",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "kliniken",
+          "count": 3
+        },
+        {
+          "word": "psychotherapie",
+          "count": 2
+        },
+        {
+          "word": "psychiatrie",
+          "count": 1
+        },
+        {
+          "word": "medizin",
+          "count": 1
+        },
+        {
+          "word": "krankenkasse",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "daten",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "universitäten",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "kosten",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

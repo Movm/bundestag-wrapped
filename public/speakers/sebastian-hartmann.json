@@ -1,0 +1,293 @@
+{
+  "name": "Sebastian Hartmann",
+  "party": "SPD",
+  "slug": "sebastian-hartmann",
+  "academicTitle": null,
+  "speeches": 1,
+  "wortbeitraege": 1,
+  "befragungResponses": 1,
+  "totalWords": 918,
+  "avgWords": 459,
+  "minWords": 458,
+  "maxWords": 460,
+  "rankings": {
+    "speechRank": 591,
+    "wordsRank": 563,
+    "partySpeechRank": 104,
+    "partyWordsRank": 103,
+    "partySize": 109,
+    "totalSpeakers": 609,
+    "percentile": 3.0,
+    "verbosityRank": null,
+    "verbosityTotal": null,
+    "partyVerbosityRank": null,
+    "longestSpeechRank": 553
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 0,
+    "interrupterRank": null,
+    "interruptedRank": null
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "einsatz",
+        "count": 7
+      },
+      {
+        "word": "soldatinnen",
+        "count": 5
+      },
+      {
+        "word": "soldaten",
+        "count": 5
+      },
+      {
+        "word": "beitrag",
+        "count": 4
+      },
+      {
+        "word": "region",
+        "count": 4
+      },
+      {
+        "word": "weiterhin",
+        "count": 4
+      },
+      {
+        "word": "operation",
+        "count": 4
+      },
+      {
+        "word": "kosovo",
+        "count": 3
+      },
+      {
+        "word": "konnten",
+        "count": 3
+      },
+      {
+        "word": "kfor",
+        "count": 3
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "einsatz",
+        "count": 7,
+        "ratioParty": 35.4,
+        "ratioBundestag": 36.4
+      },
+      {
+        "word": "soldatinnen",
+        "count": 5,
+        "ratioParty": 19.3,
+        "ratioBundestag": 39.1
+      },
+      {
+        "word": "soldaten",
+        "count": 5,
+        "ratioParty": 16.9,
+        "ratioBundestag": 23.1
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 459,
+    "partyAvgWords": 637,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.72,
+    "vsParliament": 0.75
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "1"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Sebastian Hartmann häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Minister",
+        "isCorrect": false
+      },
+      {
+        "text": "Migration",
+        "isCorrect": false
+      },
+      {
+        "text": "Steuern",
+        "isCorrect": false
+      },
+      {
+        "text": "Einsatz",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Einsatz\" nutzt Sebastian Hartmann 35.4× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "36.4× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🦦",
+    "name": "Otter",
+    "title": "Positiver Teamplayer",
+    "reason": "Du bringst gute Stimmung und konstruktive Beiträge ins Plenum.",
+    "id": "otter",
+    "alternatives": [
+      {
+        "emoji": "🦫",
+        "name": "Biber",
+        "title": "Konstruktiver Brückenbauer",
+        "reason": "Du baust Brücken zwischen Positionen – kooperativ und lösungsorientiert.",
+        "id": "biber",
+        "score": 1.0
+      },
+      {
+        "emoji": "🐇",
+        "name": "Hase",
+        "title": "Wendiger Optimist",
+        "reason": "Mit positivem Blick reagierst du schnell auf neue Themen.",
+        "id": "hase",
+        "score": 0.95
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 100.0,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 100.0,
+      "collaboration": 100.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 33.3,
+      "authority": 55.6,
+      "future_orientation": 100.0,
+      "emotional_intensity": 50.0,
+      "inclusivity": 55.2,
+      "discriminatory": 0.0
+    },
+    "confidence": "low",
+    "sampleSize": {
+      "speeches": 2,
+      "words": 601,
+      "adjectives": 3,
+      "verbs": 12
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 1.66,
+      "klima": 1.66,
+      "wirtschaft": 1.66,
+      "soziales": 1.66,
+      "sicherheit": 13.31,
+      "gesundheit": 6.66,
+      "europa": 4.99,
+      "digital": 0.0,
+      "bildung": 0.0,
+      "finanzen": 0.0,
+      "justiz": 0.0,
+      "arbeit": 0.0,
+      "mobilitaet": 3.33
+    },
+    "topTopics": [
+      {
+        "topic": "sicherheit",
+        "score": 13.31,
+        "rank": 1
+      },
+      {
+        "topic": "gesundheit",
+        "score": 6.66,
+        "rank": 2
+      },
+      {
+        "topic": "europa",
+        "score": 4.99,
+        "rank": 3
+      },
+      {
+        "topic": "mobilitaet",
+        "score": 3.33,
+        "rank": 4
+      },
+      {
+        "topic": "migration",
+        "score": 1.66,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "mittelmeer",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "erdöl",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "handel",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "familien",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "soldaten",
+          "count": 5
+        },
+        {
+          "word": "streitkräfte",
+          "count": 2
+        },
+        {
+          "word": "bundeswehr",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "operation",
+          "count": 4
+        }
+      ],
+      "europa": [
+        {
+          "word": "frieden",
+          "count": 2
+        },
+        {
+          "word": "nato",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "schiffe",
+          "count": 1
+        },
+        {
+          "word": "infrastruktur",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

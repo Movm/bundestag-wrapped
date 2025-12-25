@@ -1,0 +1,520 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Speaker Share Canvas Test</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 20px;
+      background: #1a1a2e;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 20px;
+      font-family: system-ui, sans-serif;
+      color: white;
+    }
+    h1 {
+      margin: 0;
+    }
+    .controls {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      justify-content: center;
+      max-width: 800px;
+    }
+    input, select {
+      padding: 8px 12px;
+      border-radius: 8px;
+      border: 1px solid #444;
+      background: #2a2a3e;
+      color: white;
+    }
+    button {
+      padding: 8px 16px;
+      border-radius: 8px;
+      border: none;
+      background: #db2777;
+      color: white;
+      cursor: pointer;
+      font-weight: bold;
+    }
+    button:hover {
+      background: #be185d;
+    }
+    canvas {
+      max-width: 540px;
+      width: 100%;
+      border-radius: 16px;
+      box-shadow: 0 10px 40px rgba(0,0,0,0.5);
+    }
+    .presets {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    .preset-btn {
+      background: #3a3a4e;
+      font-size: 12px;
+      padding: 6px 12px;
+    }
+    .preset-btn:hover {
+      background: #4a4a5e;
+    }
+  </style>
+</head>
+<body>
+  <h1>🏛️ Speaker Sharepic Test</h1>
+
+  <div class="presets">
+    <button class="preset-btn" onclick="loadPreset('klingbeil')">Lars Klingbeil (SPD)</button>
+    <button class="preset-btn" onclick="loadPreset('merz')">Friedrich Merz (CDU)</button>
+    <button class="preset-btn" onclick="loadPreset('baerbock')">Annalena Baerbock (GRÜNE)</button>
+    <button class="preset-btn" onclick="loadPreset('weidel')">Alice Weidel (AfD)</button>
+    <button class="preset-btn" onclick="loadPreset('noAnimal')">No Spirit Animal</button>
+  </div>
+
+  <div class="controls">
+    <input type="text" id="name" placeholder="Name" value="Lars Klingbeil" style="width: 180px;">
+    <select id="party">
+      <option value="SPD">SPD</option>
+      <option value="CDU/CSU">CDU/CSU</option>
+      <option value="GRÜNE">GRÜNE</option>
+      <option value="AfD">AfD</option>
+      <option value="DIE LINKE">DIE LINKE</option>
+      <option value="FDP">FDP</option>
+      <option value="BSW">BSW</option>
+    </select>
+    <input type="text" id="emoji" placeholder="Emoji" value="🐘" style="width: 60px;">
+    <input type="text" id="animalName" placeholder="Tier" value="Elefant" style="width: 100px;">
+    <input type="text" id="animalTitle" placeholder="Titel" value="Wortgewaltiger Redner" style="width: 180px;">
+    <input type="text" id="animalReason" placeholder="Begründung" value="Mit 45.000 Wörtern einer der redefreudigsten Abgeordneten." style="width: 300px;">
+    <input type="text" id="signatureWord" placeholder="Signaturwort" value="Standortfördergesetz" style="width: 180px;">
+  </div>
+
+  <div class="controls">
+    <button onclick="render()">Render</button>
+    <button onclick="download()">Download</button>
+    <label style="display: flex; align-items: center; gap: 6px;">
+      <input type="checkbox" id="noAnimal" onchange="toggleAnimal()">
+      Kein Spirit Animal
+    </label>
+  </div>
+
+  <canvas id="canvas"></canvas>
+
+  <script type="module">
+    import { BG_COLORS, BRAND_COLORS } from '/src/lib/design-tokens.ts';
+    import { getPartyColor } from '/src/lib/party-colors.ts';
+
+    // Logo preloading
+    let logoImage = null;
+
+    async function preloadLogo() {
+      if (logoImage) return logoImage;
+      return new Promise((resolve, reject) => {
+        const img = new Image();
+        img.onload = () => {
+          logoImage = img;
+          resolve(img);
+        };
+        img.onerror = reject;
+        img.src = '/logo.png';
+      });
+    }
+
+    function getResponsiveFontSize(ctx, text, maxWidth, startSize, minSize) {
+      let fontSize = startSize;
+      while (fontSize > minSize) {
+        ctx.font = `bold ${fontSize}px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif`;
+        if (ctx.measureText(text).width <= maxWidth) break;
+        fontSize -= 4;
+      }
+      return fontSize;
+    }
+
+    function drawDecorativeOrbs(ctx, size, partyColor) {
+      const gradient1 = ctx.createRadialGradient(
+        size * 0.82, size * 0.15, 0,
+        size * 0.82, size * 0.15, 280
+      );
+      gradient1.addColorStop(0, `${partyColor}30`);
+      gradient1.addColorStop(0.5, `${BRAND_COLORS.secondary}0a`);
+      gradient1.addColorStop(1, 'transparent');
+      ctx.fillStyle = gradient1;
+      ctx.beginPath();
+      ctx.arc(size * 0.82, size * 0.15, 280, 0, Math.PI * 2);
+      ctx.fill();
+
+      const gradient2 = ctx.createRadialGradient(
+        size * 0.15, size * 0.78, 0,
+        size * 0.15, size * 0.78, 220
+      );
+      gradient2.addColorStop(0, `${partyColor}20`);
+      gradient2.addColorStop(0.6, `${BRAND_COLORS.primary}08`);
+      gradient2.addColorStop(1, 'transparent');
+      ctx.fillStyle = gradient2;
+      ctx.beginPath();
+      ctx.arc(size * 0.15, size * 0.78, 220, 0, Math.PI * 2);
+      ctx.fill();
+    }
+
+    // German articles for spirit animals
+    const ANIMAL_ARTICLES = {
+      'Elefant': 'der', 'Adler': 'der', 'Löwe': 'der', 'Pfau': 'der',
+      'Wolf': 'der', 'Bär': 'der', 'Papagei': 'der', 'Kolibri': 'der',
+      'Delfin': 'der', 'Schwan': 'der', 'Fuchs': 'der', 'Igel': 'der',
+      'Biber': 'der', 'Hase': 'der', 'Otter': 'der', 'Tiger': 'der',
+      'Eule': 'die', 'Schildkröte': 'die', 'Biene': 'die', 'Krabbe': 'die',
+      'Pferd': 'das', 'Eichhörnchen': 'das',
+    };
+
+    function getAnimalArticle(name) {
+      return ANIMAL_ARTICLES[name] || 'der';
+    }
+
+    function wrapText(ctx, text, maxWidth) {
+      const words = text.split(' ');
+      const lines = [];
+      let currentLine = '';
+
+      for (const word of words) {
+        const testLine = currentLine ? `${currentLine} ${word}` : word;
+        if (ctx.measureText(testLine).width <= maxWidth) {
+          currentLine = testLine;
+        } else {
+          if (currentLine) lines.push(currentLine);
+          currentLine = word;
+        }
+      }
+      if (currentLine) lines.push(currentLine);
+
+      return lines;
+    }
+
+    function renderSpeakerShareImage(canvas, data) {
+      const { name, party, spiritAnimal, signatureWord } = data;
+      const partyColor = getPartyColor(party);
+
+      const SIZE = 1080;
+      canvas.width = SIZE;
+      canvas.height = SIZE;
+
+      const ctx = canvas.getContext('2d');
+      if (!ctx) return;
+
+      // Background gradient
+      const bgGradient = ctx.createLinearGradient(0, 0, 0, SIZE);
+      bgGradient.addColorStop(0, BG_COLORS.primary);
+      bgGradient.addColorStop(1, BG_COLORS.elevated);
+      ctx.fillStyle = bgGradient;
+      ctx.fillRect(0, 0, SIZE, SIZE);
+
+      drawDecorativeOrbs(ctx, SIZE, partyColor);
+
+      const centerX = SIZE / 2;
+      const hasAnimal = !!spiritAnimal;
+
+      // Header
+      const headerY = 80;
+      const headerX = 70;
+      const logoSize = 40;
+
+      if (logoImage) {
+        const logoHeight = (logoImage.height / logoImage.width) * logoSize;
+        ctx.shadowColor = BRAND_COLORS.primary;
+        ctx.shadowBlur = 10;
+        ctx.drawImage(logoImage, headerX, headerY - logoHeight / 2 - 4, logoSize, logoHeight);
+        ctx.shadowBlur = 0;
+      }
+
+      ctx.font = '600 25px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif';
+      ctx.textAlign = 'left';
+      ctx.fillStyle = 'rgba(255, 255, 255, 0.5)';
+      ctx.fillText('BUNDESTAG WRAPPED 2025', headerX + logoSize + 12, headerY);
+
+      // Layout constants
+      const leftX = 70;
+      const maxWidth = SIZE - leftX * 2;
+
+      // Pink gradient for highlighted words
+      const pinkGradient = ctx.createLinearGradient(leftX, 0, SIZE - leftX, 0);
+      pinkGradient.addColorStop(0, BRAND_COLORS.gradientStart);
+      pinkGradient.addColorStop(0.5, BRAND_COLORS.primary);
+      pinkGradient.addColorStop(1, BRAND_COLORS.light);
+
+      // Calculate unified font size for both spirit and signature sections
+      let mainFontSize = 55;
+      if (hasAnimal) {
+        const animal = spiritAnimal;
+        const article = getAnimalArticle(animal.name);
+        const testLine1 = `${name}, dein Spirit Animal`;
+        const testLine2 = `ist ${article} ${animal.name}`;
+        const line1Size = getResponsiveFontSize(ctx, testLine1, maxWidth, 55, 38);
+        const line2Size = getResponsiveFontSize(ctx, testLine2, maxWidth, 55, 38);
+        mainFontSize = Math.min(line1Size, line2Size);
+      }
+
+      // Track vertical position for dynamic layout
+      let y = 210;
+
+      // Spirit Animal section
+      if (hasAnimal) {
+        const animal = spiritAnimal;
+        const article = getAnimalArticle(animal.name);
+
+        ctx.textAlign = 'left';
+        ctx.font = `bold ${mainFontSize}px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif`;
+
+        // Line 1: "Name, dein" (white) + "Spirit" (pink)
+        const nameDein = `${name}, dein `;
+        ctx.fillStyle = '#ffffff';
+        ctx.fillText(nameDein, leftX, y);
+        const nameDeinWidth = ctx.measureText(nameDein).width;
+        ctx.fillStyle = pinkGradient;
+        ctx.shadowColor = `${BRAND_COLORS.primary}40`;
+        ctx.shadowBlur = 14;
+        ctx.fillText('Spirit Animal', leftX + nameDeinWidth, y);
+        ctx.shadowBlur = 0;
+
+        // Line 2: "ist der/die/das" (white) + "Animal" (pink)
+        y += mainFontSize + 7;
+        const istArticle = `ist ${article} `;
+        ctx.fillStyle = '#ffffff';
+        ctx.fillText(istArticle, leftX, y);
+        const istArticleWidth = ctx.measureText(istArticle).width;
+        ctx.fillStyle = pinkGradient;
+        ctx.shadowColor = `${BRAND_COLORS.primary}40`;
+        ctx.shadowBlur = 14;
+        ctx.fillText(animal.name + '.', leftX + istArticleWidth, y);
+        ctx.shadowBlur = 0;
+
+        // Subtitle with animal title and reason (auto-wrap)
+        y += 57;
+        ctx.font = '30px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif';
+        ctx.fillStyle = '#ffffff';
+        const subtitleText = `${animal.title}: ${animal.reason}`;
+        const subtitleLines = wrapText(ctx, subtitleText, maxWidth);
+        for (const line of subtitleLines) {
+          ctx.fillText(line, leftX, y);
+          y += 36;
+        }
+
+        // Large emoji below (centered)
+        const emojiY = y + 228;
+        ctx.font = '266px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif';
+        ctx.textAlign = 'center';
+        ctx.shadowColor = `${partyColor}50`;
+        ctx.shadowBlur = 57;
+        ctx.fillText(animal.emoji, centerX, emojiY);
+        ctx.shadowBlur = 0;
+        y = emojiY + 120; // Update y to after emoji for signature word
+      } else {
+        // No animal: just show the name in pink (left-aligned)
+        ctx.font = 'bold 61px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif';
+        ctx.textAlign = 'left';
+        ctx.fillStyle = pinkGradient;
+        ctx.shadowColor = `${BRAND_COLORS.primary}40`;
+        ctx.shadowBlur = 19;
+        ctx.fillText(name, leftX, 250);
+        ctx.shadowBlur = 0;
+        y = 400; // Position for signature word without animal
+      }
+
+      // Signature word section (same style & size as spirit text)
+      if (signatureWord) {
+        const signatureY = y;
+        const word = signatureWord.word;
+
+        ctx.textAlign = 'left';
+        ctx.font = `bold ${mainFontSize}px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif`;
+
+        // Check if it fits on one line
+        const prefix = 'Dein Signaturwort ist ';
+        const prefixWidth = ctx.measureText(prefix).width;
+        const wordWidth = ctx.measureText(word).width;
+        const fitsOnOneLine = prefixWidth + wordWidth <= maxWidth;
+
+        let subtitleY;
+        if (fitsOnOneLine) {
+          // Single line: "Dein Signaturwort ist " (white) + word. (pink)
+          ctx.fillStyle = '#ffffff';
+          ctx.fillText(prefix, leftX, signatureY);
+
+          ctx.fillStyle = pinkGradient;
+          ctx.shadowColor = `${BRAND_COLORS.primary}40`;
+          ctx.shadowBlur = 14;
+          ctx.fillText(word + '.', leftX + prefixWidth, signatureY);
+          ctx.shadowBlur = 0;
+          subtitleY = signatureY + 57;
+        } else {
+          // Two lines: "Dein Signaturwort ist" (white) on line 1, word. (pink) on line 2
+          ctx.fillStyle = '#ffffff';
+          ctx.fillText('Dein Signaturwort ist', leftX, signatureY);
+
+          ctx.fillStyle = pinkGradient;
+          ctx.shadowColor = `${BRAND_COLORS.primary}40`;
+          ctx.shadowBlur = 14;
+          ctx.fillText(word + '.', leftX, signatureY + mainFontSize + 7);
+          ctx.shadowBlur = 0;
+          subtitleY = signatureY + mainFontSize + 7 + 57;
+        }
+
+        // Subtitle with ratio stats (same style as animal subtitle)
+        ctx.font = '30px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif';
+        ctx.fillStyle = '#ffffff';
+        const ratioText = `${signatureWord.ratioParty}× häufiger als deine Fraktion`;
+        const ratioLines = wrapText(ctx, ratioText, maxWidth);
+        for (const line of ratioLines) {
+          ctx.fillText(line, leftX, subtitleY);
+          subtitleY += 36;
+        }
+      }
+
+      // Footer CTA - fixed at center bottom, question-answer format
+      ctx.font = '26px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif';
+      ctx.textAlign = 'center';
+
+      // Line 1: Question
+      const questionY = SIZE - 95;
+      ctx.fillStyle = '#ffffff';
+      ctx.fillText('Du willst auch dein Spirit Animal und Signaturwort kennen?', centerX, questionY);
+
+      // Line 2: Answer with mixed colors
+      const answerY = SIZE - 55;
+      const answerWhite = 'Finde dein eigenes Wrapped auf ';
+      const answerPink = 'bundestag-wrapped.de';
+      const answerWhiteWidth = ctx.measureText(answerWhite).width;
+      const answerPinkWidth = ctx.measureText(answerPink).width;
+      const answerTotalWidth = answerWhiteWidth + answerPinkWidth;
+      const answerStartX = centerX - answerTotalWidth / 2;
+
+      // Create pink gradient for URL
+      const urlGradient = ctx.createLinearGradient(centerX - 200, 0, centerX + 200, 0);
+      urlGradient.addColorStop(0, BRAND_COLORS.gradientStart);
+      urlGradient.addColorStop(1, BRAND_COLORS.light);
+
+      ctx.textAlign = 'left';
+      ctx.fillStyle = '#ffffff';
+      ctx.fillText(answerWhite, answerStartX, answerY);
+      ctx.fillStyle = urlGradient;
+      ctx.shadowColor = `${BRAND_COLORS.primary}40`;
+      ctx.shadowBlur = 10;
+      ctx.fillText(answerPink, answerStartX + answerWhiteWidth, answerY);
+      ctx.shadowBlur = 0;
+    }
+
+    const presets = {
+      klingbeil: {
+        name: 'Lars Klingbeil',
+        party: 'SPD',
+        emoji: '🐘',
+        animalName: 'Elefant',
+        animalTitle: 'Wortgewaltiger Redner',
+        animalReason: 'Mit 45.000 Wörtern einer der redefreudigsten Abgeordneten.',
+        signatureWord: 'Standortfördergesetz',
+        ratio: 5
+      },
+      merz: {
+        name: 'Friedrich Merz',
+        party: 'CDU/CSU',
+        emoji: '🦁',
+        animalName: 'Löwe',
+        animalTitle: 'Meinungsführer',
+        animalReason: 'Platz 3 innerhalb der Fraktion bei Redezeit.',
+        signatureWord: 'Binnenmarktes',
+        ratio: 8
+      },
+      baerbock: {
+        name: 'Annalena Baerbock',
+        party: 'GRÜNE',
+        emoji: '🦉',
+        animalName: 'Eule',
+        animalTitle: 'Themenexpertin',
+        animalReason: 'Fokussiert auf wenige Kernthemen mit großer Expertise.',
+        signatureWord: 'Klimaaußenpolitik',
+        ratio: 12
+      },
+      weidel: {
+        name: 'Alice Weidel',
+        party: 'AfD',
+        emoji: '🦊',
+        animalName: 'Fuchs',
+        animalTitle: 'Clevere Strategin',
+        animalReason: 'Setzt gezielt provokante Begriffe ein.',
+        signatureWord: 'Altparteien',
+        ratio: 6
+      },
+      noAnimal: {
+        name: 'Max Mustermann',
+        party: 'FDP',
+        emoji: '',
+        animalName: '',
+        animalTitle: '',
+        animalReason: '',
+        signatureWord: 'Eigenverantwortung',
+        ratio: 4
+      }
+    };
+
+    window.loadPreset = function(key) {
+      const p = presets[key];
+      document.getElementById('name').value = p.name;
+      document.getElementById('party').value = p.party;
+      document.getElementById('emoji').value = p.emoji;
+      document.getElementById('animalName').value = p.animalName;
+      document.getElementById('animalTitle').value = p.animalTitle;
+      document.getElementById('animalReason').value = p.animalReason;
+      document.getElementById('signatureWord').value = p.signatureWord;
+      document.getElementById('noAnimal').checked = !p.emoji;
+      toggleAnimal();
+      render();
+    };
+
+    window.toggleAnimal = function() {
+      const disabled = document.getElementById('noAnimal').checked;
+      document.getElementById('emoji').disabled = disabled;
+      document.getElementById('animalName').disabled = disabled;
+      document.getElementById('animalTitle').disabled = disabled;
+      document.getElementById('animalReason').disabled = disabled;
+    };
+
+    window.render = async function() {
+      await preloadLogo();
+      const canvas = document.getElementById('canvas');
+      const noAnimal = document.getElementById('noAnimal').checked;
+      const sigWord = document.getElementById('signatureWord').value;
+
+      renderSpeakerShareImage(canvas, {
+        name: document.getElementById('name').value || 'Max Mustermann',
+        party: document.getElementById('party').value,
+        spiritAnimal: noAnimal ? null : {
+          emoji: document.getElementById('emoji').value || '🐘',
+          name: document.getElementById('animalName').value || 'Elefant',
+          title: document.getElementById('animalTitle').value || 'Redner',
+          reason: document.getElementById('animalReason').value || 'Mit 45.000 Wörtern einer der redefreudigsten Abgeordneten.',
+        },
+        signatureWord: sigWord ? { word: sigWord, ratioParty: 5, ratioBundestag: 8 } : null
+      });
+    };
+
+    window.download = function() {
+      const canvas = document.getElementById('canvas');
+      const name = document.getElementById('name').value || 'speaker';
+      const slug = name.toLowerCase().replace(/\s+/g, '-');
+      const link = document.createElement('a');
+      link.download = `bundestag-wrapped-${slug}.png`;
+      link.href = canvas.toDataURL('image/png');
+      link.click();
+    };
+
+    // Auto-render on load
+    render();
+  </script>
+</body>
+</html>

@@ -1,0 +1,398 @@
+{
+  "name": "Stephan Protschka",
+  "party": "AfD",
+  "slug": "stephan-protschka",
+  "academicTitle": null,
+  "speeches": 10,
+  "wortbeitraege": 2,
+  "befragungResponses": 0,
+  "totalWords": 5235,
+  "avgWords": 436,
+  "minWords": 59,
+  "maxWords": 937,
+  "rankings": {
+    "speechRank": 132,
+    "wordsRank": 164,
+    "partySpeechRank": 27,
+    "partyWordsRank": 37,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 78.3,
+    "verbosityRank": 272,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 62,
+    "longestSpeechRank": 89
+  },
+  "drama": {
+    "interruptionsGiven": 14,
+    "interruptionsReceived": 16,
+    "interrupterRank": 128,
+    "interruptedRank": 179
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "landwirte",
+        "count": 22
+      },
+      {
+        "word": "vertrauen",
+        "count": 20
+      },
+      {
+        "word": "landwirtschaft",
+        "count": 19
+      },
+      {
+        "word": "grünen",
+        "count": 14
+      },
+      {
+        "word": "bauern",
+        "count": 14
+      },
+      {
+        "word": "minister",
+        "count": 13
+      },
+      {
+        "word": "deutschland",
+        "count": 12
+      },
+      {
+        "word": "union",
+        "count": 11
+      },
+      {
+        "word": "menschen",
+        "count": 10
+      },
+      {
+        "word": "politik",
+        "count": 10
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "schnitzel",
+        "count": 5,
+        "ratioParty": 539.5,
+        "ratioBundestag": 85.7
+      },
+      {
+        "word": "wurst",
+        "count": 6,
+        "ratioParty": 323.7,
+        "ratioBundestag": 125.2
+      },
+      {
+        "word": "agrarpolitik",
+        "count": 5,
+        "ratioParty": 89.9,
+        "ratioBundestag": 57.1
+      },
+      {
+        "word": "fleisch",
+        "count": 6,
+        "ratioParty": 58.9,
+        "ratioBundestag": 73.8
+      },
+      {
+        "word": "landwirte",
+        "count": 22,
+        "ratioParty": 39.6,
+        "ratioBundestag": 50.3
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "verlässlich",
+        "count": 3,
+        "ratioParty": 46.2,
+        "ratioBundestag": 12.2
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 436,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.74,
+    "vsParliament": 0.71
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "10"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "5.235"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufe",
+      "value": "14"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Stephan Protschka häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Wirtschaft",
+        "isCorrect": false
+      },
+      {
+        "text": "Fraktion",
+        "isCorrect": false
+      },
+      {
+        "text": "Schnitzel",
+        "isCorrect": true
+      },
+      {
+        "text": "Minister",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Schnitzel\" nutzt Stephan Protschka 539.5× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "85.7× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Stephan Protschka häufiger als der Rest der AfD-Fraktion?",
+    "options": [
+      {
+        "text": "Wichtig",
+        "isCorrect": false
+      },
+      {
+        "text": "Notwendig",
+        "isCorrect": false
+      },
+      {
+        "text": "Verlässlich",
+        "isCorrect": true
+      },
+      {
+        "text": "Sozial",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Verlässlich\" nutzt Stephan Protschka 46.2× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "12.2× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 78.6,
+      "aggression": 19.0,
+      "labeling": 14.3,
+      "solution_focus": 82.4,
+      "collaboration": 60.0,
+      "demand_intensity": 27.3,
+      "acknowledgment": 6.1,
+      "authority": 84.4,
+      "future_orientation": 84.2,
+      "emotional_intensity": 55.6,
+      "inclusivity": 58.2,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 12,
+      "words": 3467,
+      "adjectives": 21,
+      "verbs": 33
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 1.15,
+      "wirtschaft": 5.48,
+      "soziales": 0.29,
+      "sicherheit": 0.0,
+      "gesundheit": 0.29,
+      "europa": 1.73,
+      "digital": 1.73,
+      "bildung": 0.29,
+      "finanzen": 8.08,
+      "justiz": 0.58,
+      "arbeit": 0.87,
+      "mobilitaet": 0.58
+    },
+    "topTopics": [
+      {
+        "topic": "finanzen",
+        "score": 8.08,
+        "rank": 1
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 5.48,
+        "rank": 2
+      },
+      {
+        "topic": "europa",
+        "score": 1.73,
+        "rank": 3
+      },
+      {
+        "topic": "digital",
+        "score": 1.73,
+        "rank": 4
+      },
+      {
+        "topic": "klima",
+        "score": 1.15,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "umweltschutz",
+          "count": 3
+        },
+        {
+          "word": "umwelt",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "betriebe",
+          "count": 8
+        },
+        {
+          "word": "wettbewerb",
+          "count": 2
+        },
+        {
+          "word": "markt",
+          "count": 2
+        },
+        {
+          "word": "wettbewerbsfähigkeit",
+          "count": 2
+        },
+        {
+          "word": "märkte",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "familien",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "sucht",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "brüssel",
+          "count": 3
+        },
+        {
+          "word": "abkommen",
+          "count": 2
+        },
+        {
+          "word": "gipfel",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 2
+        },
+        {
+          "word": "technologie",
+          "count": 1
+        },
+        {
+          "word": "daten",
+          "count": 1
+        },
+        {
+          "word": "internet",
+          "count": 1
+        },
+        {
+          "word": "netzwerk",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "forschung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 8
+        },
+        {
+          "word": "subventionen",
+          "count": 8
+        },
+        {
+          "word": "kosten",
+          "count": 4
+        },
+        {
+          "word": "zuschuss",
+          "count": 2
+        },
+        {
+          "word": "steuer",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "verbraucherschutz",
+          "count": 1
+        },
+        {
+          "word": "menschenrechte",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "einkommen",
+          "count": 1
+        },
+        {
+          "word": "arbeitszeit",
+          "count": 1
+        },
+        {
+          "word": "unfallversicherung",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "straße",
+          "count": 1
+        },
+        {
+          "word": "autos",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

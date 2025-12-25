@@ -1,0 +1,569 @@
+{
+  "name": "Lars Klingbeil",
+  "party": "SPD",
+  "slug": "lars-klingbeil",
+  "academicTitle": null,
+  "speeches": 14,
+  "wortbeitraege": 79,
+  "befragungResponses": 79,
+  "totalWords": 33810,
+  "avgWords": 364,
+  "minWords": 7,
+  "maxWords": 5977,
+  "rankings": {
+    "speechRank": 34,
+    "wordsRank": 2,
+    "partySpeechRank": 8,
+    "partyWordsRank": 1,
+    "partySize": 109,
+    "totalSpeakers": 609,
+    "percentile": 94.4,
+    "verbosityRank": 390,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 79,
+    "longestSpeechRank": 1
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 93,
+    "interrupterRank": null,
+    "interruptedRank": 5
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "land",
+        "count": 280
+      },
+      {
+        "word": "deutschland",
+        "count": 149
+      },
+      {
+        "word": "menschen",
+        "count": 100
+      },
+      {
+        "word": "investitionen",
+        "count": 100
+      },
+      {
+        "word": "investieren",
+        "count": 85
+      },
+      {
+        "word": "regierung",
+        "count": 75
+      },
+      {
+        "word": "habe",
+        "count": 72
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "standortfördergesetz",
+        "count": 7,
+        "ratioParty": 52.0,
+        "ratioBundestag": 24.8
+      },
+      {
+        "word": "wachstumskurs",
+        "count": 6,
+        "ratioParty": 44.6,
+        "ratioBundestag": 36.0
+      },
+      {
+        "word": "feste",
+        "count": 14,
+        "ratioParty": 41.6,
+        "ratioBundestag": 33.1
+      },
+      {
+        "word": "schlechtreden",
+        "count": 5,
+        "ratioParty": 37.2,
+        "ratioBundestag": 13.9
+      },
+      {
+        "word": "errichtung",
+        "count": 5,
+        "ratioParty": 37.2,
+        "ratioBundestag": 17.7
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "wettbewerbsfähig",
+        "count": 5,
+        "ratioParty": 12.4,
+        "ratioBundestag": 4.9
+      },
+      {
+        "word": "vernünftig",
+        "count": 3,
+        "ratioParty": 3.7,
+        "ratioBundestag": 3.0
+      },
+      {
+        "word": "konstruktiv",
+        "count": 5,
+        "ratioParty": 3.1,
+        "ratioBundestag": 5.2
+      },
+      {
+        "word": "fair",
+        "count": 3,
+        "ratioParty": 2.1,
+        "ratioBundestag": 2.9
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 364,
+    "partyAvgWords": 637,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.57,
+    "vsParliament": 0.59
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "14"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "33.810"
+    },
+    {
+      "emoji": "📏",
+      "label": "Längste Rede",
+      "value": "#1 (5.977 Wörter)"
+    },
+    {
+      "emoji": "📊",
+      "label": "Top-Redner",
+      "value": "Top 6%"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Lars Klingbeil häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Demokratie",
+        "isCorrect": false
+      },
+      {
+        "text": "Wirtschaft",
+        "isCorrect": false
+      },
+      {
+        "text": "Kinder",
+        "isCorrect": false
+      },
+      {
+        "text": "Standortfördergesetz",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Standortfördergesetz\" nutzt Lars Klingbeil 52.0× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "24.8× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Lars Klingbeil häufiger als der Rest der SPD-Fraktion?",
+    "options": [
+      {
+        "text": "Wettbewerbsfähig",
+        "isCorrect": true
+      },
+      {
+        "text": "Jung",
+        "isCorrect": false
+      },
+      {
+        "text": "Gut",
+        "isCorrect": false
+      },
+      {
+        "text": "Schlecht",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Wettbewerbsfähig\" nutzt Lars Klingbeil 12.4× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "4.9× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐘",
+    "name": "Elefant",
+    "title": "Wortgewaltiger Redner",
+    "reason": "Mit 33.810 Wörtern gehörst du zu den wortreichsten Abgeordneten.",
+    "id": "elefant",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüter",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 1.0
+      },
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißiger Abgeordneter",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 94.4,
+      "aggression": 1.1,
+      "labeling": 1.1,
+      "solution_focus": 92.5,
+      "collaboration": 73.3,
+      "demand_intensity": 4.1,
+      "acknowledgment": 9.1,
+      "authority": 77.7,
+      "future_orientation": 95.2,
+      "emotional_intensity": 47.9,
+      "inclusivity": 69.9,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 93,
+      "words": 21098,
+      "adjectives": 92,
+      "verbs": 296
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.38,
+      "klima": 1.52,
+      "wirtschaft": 9.76,
+      "soziales": 4.6,
+      "sicherheit": 1.8,
+      "gesundheit": 0.71,
+      "europa": 6.54,
+      "digital": 1.42,
+      "bildung": 3.03,
+      "finanzen": 12.37,
+      "justiz": 0.71,
+      "arbeit": 5.02,
+      "mobilitaet": 3.51
+    },
+    "topTopics": [
+      {
+        "topic": "finanzen",
+        "score": 12.37,
+        "rank": 1
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 9.76,
+        "rank": 2
+      },
+      {
+        "topic": "europa",
+        "score": 6.54,
+        "rank": 3
+      },
+      {
+        "topic": "arbeit",
+        "score": 5.02,
+        "rank": 4
+      },
+      {
+        "topic": "soziales",
+        "score": 4.6,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "grenzkontrollen",
+          "count": 3
+        },
+        {
+          "word": "zuwanderung",
+          "count": 2
+        },
+        {
+          "word": "migration",
+          "count": 2
+        },
+        {
+          "word": "integration",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "klimaschutz",
+          "count": 18
+        },
+        {
+          "word": "energie",
+          "count": 6
+        },
+        {
+          "word": "nachhaltig",
+          "count": 2
+        },
+        {
+          "word": "erneuerbare",
+          "count": 2
+        },
+        {
+          "word": "umwelt",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 44
+        },
+        {
+          "word": "wachstum",
+          "count": 30
+        },
+        {
+          "word": "industrie",
+          "count": 29
+        },
+        {
+          "word": "zoll",
+          "count": 14
+        },
+        {
+          "word": "wettbewerbsfähigkeit",
+          "count": 13
+        }
+      ],
+      "soziales": [
+        {
+          "word": "rente",
+          "count": 22
+        },
+        {
+          "word": "sozialstaat",
+          "count": 13
+        },
+        {
+          "word": "kinder",
+          "count": 12
+        },
+        {
+          "word": "familien",
+          "count": 10
+        },
+        {
+          "word": "eltern",
+          "count": 8
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "bundeswehr",
+          "count": 14
+        },
+        {
+          "word": "verteidigungsfähigkeit",
+          "count": 5
+        },
+        {
+          "word": "soldaten",
+          "count": 4
+        },
+        {
+          "word": "spionage",
+          "count": 2
+        },
+        {
+          "word": "verteidigung",
+          "count": 2
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "pflege",
+          "count": 4
+        },
+        {
+          "word": "krankenhäuser",
+          "count": 3
+        },
+        {
+          "word": "krankenversicherung",
+          "count": 3
+        },
+        {
+          "word": "pandemie",
+          "count": 2
+        },
+        {
+          "word": "gesundheitssystem",
+          "count": 2
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 49
+        },
+        {
+          "word": "ukraine",
+          "count": 24
+        },
+        {
+          "word": "krieg",
+          "count": 18
+        },
+        {
+          "word": "putin",
+          "count": 8
+        },
+        {
+          "word": "russland",
+          "count": 7
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 16
+        },
+        {
+          "word": "daten",
+          "count": 6
+        },
+        {
+          "word": "internet",
+          "count": 6
+        },
+        {
+          "word": "digital",
+          "count": 2
+        }
+      ],
+      "bildung": [
+        {
+          "word": "schulen",
+          "count": 21
+        },
+        {
+          "word": "bildung",
+          "count": 14
+        },
+        {
+          "word": "forschung",
+          "count": 8
+        },
+        {
+          "word": "kinderbetreuung",
+          "count": 3
+        },
+        {
+          "word": "ausbildung",
+          "count": 3
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "investitionen",
+          "count": 100
+        },
+        {
+          "word": "haushalt",
+          "count": 56
+        },
+        {
+          "word": "sondervermögen",
+          "count": 30
+        },
+        {
+          "word": "finanzminister",
+          "count": 10
+        },
+        {
+          "word": "kosten",
+          "count": 9
+        }
+      ],
+      "justiz": [
+        {
+          "word": "rechtsstaat",
+          "count": 7
+        },
+        {
+          "word": "bundesverfassungsgericht",
+          "count": 2
+        },
+        {
+          "word": "beschluss",
+          "count": 1
+        },
+        {
+          "word": "grundrechte",
+          "count": 1
+        },
+        {
+          "word": "urteil",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitsplätze",
+          "count": 60
+        },
+        {
+          "word": "arbeitsplatz",
+          "count": 10
+        },
+        {
+          "word": "beschäftigung",
+          "count": 5
+        },
+        {
+          "word": "vereinbarkeit",
+          "count": 4
+        },
+        {
+          "word": "arbeitnehmer",
+          "count": 4
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 25
+        },
+        {
+          "word": "straßen",
+          "count": 11
+        },
+        {
+          "word": "bahn",
+          "count": 9
+        },
+        {
+          "word": "elektromobilität",
+          "count": 9
+        },
+        {
+          "word": "verkehrsinfrastruktur",
+          "count": 4
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,443 @@
+{
+  "name": "Stefan Schmidt",
+  "party": "GRÜNE",
+  "slug": "stefan-schmidt",
+  "academicTitle": null,
+  "speeches": 10,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 3878,
+  "avgWords": 388,
+  "minWords": 180,
+  "maxWords": 562,
+  "rankings": {
+    "speechRank": 130,
+    "wordsRank": 264,
+    "partySpeechRank": 22,
+    "partyWordsRank": 42,
+    "partySize": 85,
+    "totalSpeakers": 609,
+    "percentile": 78.7,
+    "verbosityRank": 357,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 40,
+    "longestSpeechRank": 472
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 18,
+    "interrupterRank": null,
+    "interruptedRank": 146
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 41
+      },
+      {
+        "word": "geld",
+        "count": 15
+      },
+      {
+        "word": "koalition",
+        "count": 12
+      },
+      {
+        "word": "bundesregierung",
+        "count": 12
+      },
+      {
+        "word": "altersvorsorge",
+        "count": 10
+      },
+      {
+        "word": "tourismus",
+        "count": 10
+      },
+      {
+        "word": "beispiel",
+        "count": 9
+      },
+      {
+        "word": "schuldnerberatungen",
+        "count": 8
+      },
+      {
+        "word": "grüne",
+        "count": 8
+      },
+      {
+        "word": "steuersenkung",
+        "count": 8
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "umsatzsteuer",
+        "count": 6,
+        "ratioParty": 562.4,
+        "ratioBundestag": 106.4
+      },
+      {
+        "word": "steuersenkung",
+        "count": 8,
+        "ratioParty": 374.9,
+        "ratioBundestag": 328.2
+      },
+      {
+        "word": "bürgerfonds",
+        "count": 6,
+        "ratioParty": 187.5,
+        "ratioBundestag": 1312.6
+      },
+      {
+        "word": "pendlerpauschale",
+        "count": 5,
+        "ratioParty": 93.7,
+        "ratioBundestag": 56.6
+      },
+      {
+        "word": "altersvorsorge",
+        "count": 10,
+        "ratioParty": 46.9,
+        "ratioBundestag": 65.0
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "sozial",
+        "count": 3,
+        "ratioParty": 11.2,
+        "ratioBundestag": 9.8
+      },
+      {
+        "word": "sicher",
+        "count": 4,
+        "ratioParty": 4.6,
+        "ratioBundestag": 3.5
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 388,
+    "partyAvgWords": 567,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.68,
+    "vsParliament": 0.63
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "10"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "3.878"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Stefan Schmidt häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Familie",
+        "isCorrect": false
+      },
+      {
+        "text": "Umsatzsteuer",
+        "isCorrect": true
+      },
+      {
+        "text": "Bildung",
+        "isCorrect": false
+      },
+      {
+        "text": "Kinder",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Umsatzsteuer\" nutzt Stefan Schmidt 562.4× häufiger als der GRÜNE-Durchschnitt.",
+    "explanationBundestag": "106.4× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Stefan Schmidt häufiger als der Rest der GRÜNE-Fraktion?",
+    "options": [
+      {
+        "text": "Wichtig",
+        "isCorrect": false
+      },
+      {
+        "text": "Sozial",
+        "isCorrect": true
+      },
+      {
+        "text": "Gut",
+        "isCorrect": false
+      },
+      {
+        "text": "Alt",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Sozial\" nutzt Stefan Schmidt 11.2× häufiger als der GRÜNE-Durchschnitt.",
+    "explanationBundestag": "9.8× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐝",
+    "name": "Biene",
+    "title": "Fleißiger Abgeordneter",
+    "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+    "id": "biene",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüter",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.955
+      },
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Cleverer Stratege",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 0.933
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 81.8,
+      "aggression": 8.3,
+      "labeling": 0.0,
+      "solution_focus": 81.5,
+      "collaboration": 50.0,
+      "demand_intensity": 10.8,
+      "acknowledgment": 5.4,
+      "authority": 75.5,
+      "future_orientation": 93.9,
+      "emotional_intensity": 50.0,
+      "inclusivity": 41.8,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 10,
+      "words": 2537,
+      "adjectives": 24,
+      "verbs": 37
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.79,
+      "klima": 3.55,
+      "wirtschaft": 3.94,
+      "soziales": 9.07,
+      "sicherheit": 0.39,
+      "gesundheit": 0.39,
+      "europa": 0.79,
+      "digital": 0.0,
+      "bildung": 0.0,
+      "finanzen": 13.01,
+      "justiz": 1.18,
+      "arbeit": 3.15,
+      "mobilitaet": 4.34
+    },
+    "topTopics": [
+      {
+        "topic": "finanzen",
+        "score": 13.01,
+        "rank": 1
+      },
+      {
+        "topic": "soziales",
+        "score": 9.07,
+        "rank": 2
+      },
+      {
+        "topic": "mobilitaet",
+        "score": 4.34,
+        "rank": 3
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 3.94,
+        "rank": 4
+      },
+      {
+        "topic": "klima",
+        "score": 3.55,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "mittelmeer",
+          "count": 2
+        }
+      ],
+      "klima": [
+        {
+          "word": "klimaschutz",
+          "count": 3
+        },
+        {
+          "word": "klimaneutralität",
+          "count": 2
+        },
+        {
+          "word": "klimakrise",
+          "count": 2
+        },
+        {
+          "word": "nachhaltigkeit",
+          "count": 1
+        },
+        {
+          "word": "klimaziel",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "kredit",
+          "count": 4
+        },
+        {
+          "word": "unternehmen",
+          "count": 3
+        },
+        {
+          "word": "kredite",
+          "count": 3
+        }
+      ],
+      "soziales": [
+        {
+          "word": "altersvorsorge",
+          "count": 10
+        },
+        {
+          "word": "rente",
+          "count": 3
+        },
+        {
+          "word": "kinder",
+          "count": 2
+        },
+        {
+          "word": "riester",
+          "count": 2
+        },
+        {
+          "word": "armut",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "betrug",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "sucht",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "angriffskrieg",
+          "count": 1
+        },
+        {
+          "word": "europa",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "steuersenkung",
+          "count": 8
+        },
+        {
+          "word": "banken",
+          "count": 3
+        },
+        {
+          "word": "bank",
+          "count": 3
+        },
+        {
+          "word": "finanzierung",
+          "count": 3
+        },
+        {
+          "word": "mehrwertsteuer",
+          "count": 3
+        }
+      ],
+      "justiz": [
+        {
+          "word": "rechtsstaat",
+          "count": 1
+        },
+        {
+          "word": "bundesverfassungsgericht",
+          "count": 1
+        },
+        {
+          "word": "verbraucherschutz",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "einkommen",
+          "count": 5
+        },
+        {
+          "word": "mindestlohn",
+          "count": 1
+        },
+        {
+          "word": "vollzeit",
+          "count": 1
+        },
+        {
+          "word": "arbeitslosigkeit",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "bahn",
+          "count": 2
+        },
+        {
+          "word": "infrastruktur",
+          "count": 2
+        },
+        {
+          "word": "auto",
+          "count": 2
+        },
+        {
+          "word": "luftverkehr",
+          "count": 2
+        },
+        {
+          "word": "radweg",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

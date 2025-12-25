@@ -1,0 +1,393 @@
+{
+  "name": "Julian Schmidt",
+  "party": "AfD",
+  "slug": "julian-schmidt",
+  "academicTitle": null,
+  "speeches": 9,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 5170,
+  "avgWords": 574,
+  "minWords": 257,
+  "maxWords": 867,
+  "rankings": {
+    "speechRank": 183,
+    "wordsRank": 169,
+    "partySpeechRank": 40,
+    "partyWordsRank": 39,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 70.0,
+    "verbosityRank": 89,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 23,
+    "longestSpeechRank": 128
+  },
+  "drama": {
+    "interruptionsGiven": 1,
+    "interruptionsReceived": 10,
+    "interrupterRank": 330,
+    "interruptedRank": 283
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "land",
+        "count": 19
+      },
+      {
+        "word": "bundesregierung",
+        "count": 19
+      },
+      {
+        "word": "landwirte",
+        "count": 16
+      },
+      {
+        "word": "minister",
+        "count": 15
+      },
+      {
+        "word": "haushalt",
+        "count": 14
+      },
+      {
+        "word": "deutschland",
+        "count": 13
+      },
+      {
+        "word": "rainer",
+        "count": 13
+      },
+      {
+        "word": "klar",
+        "count": 12
+      },
+      {
+        "word": "zukunft",
+        "count": 10
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "tierwohl",
+        "count": 7,
+        "ratioParty": 385.3,
+        "ratioBundestag": 83.6
+      },
+      {
+        "word": "tierhaltung",
+        "count": 10,
+        "ratioParty": 366.9,
+        "ratioBundestag": 85.9
+      },
+      {
+        "word": "rainer",
+        "count": 13,
+        "ratioParty": 110.1,
+        "ratioBundestag": 49.3
+      },
+      {
+        "word": "umbau",
+        "count": 8,
+        "ratioParty": 80.1,
+        "ratioBundestag": 37.7
+      },
+      {
+        "word": "landwirten",
+        "count": 9,
+        "ratioParty": 52.1,
+        "ratioBundestag": 69.9
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "schlecht",
+        "count": 4,
+        "ratioParty": 7.1,
+        "ratioBundestag": 9.4
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 574,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.98,
+    "vsParliament": 0.94
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "9"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "5.170"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Julian Schmidt häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Energie",
+        "isCorrect": false
+      },
+      {
+        "text": "Abstimmung",
+        "isCorrect": false
+      },
+      {
+        "text": "Opposition",
+        "isCorrect": false
+      },
+      {
+        "text": "Tierwohl",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Tierwohl\" nutzt Julian Schmidt 385.3× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "83.6× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Julian Schmidt häufiger als der Rest der AfD-Fraktion?",
+    "options": [
+      {
+        "text": "Neu",
+        "isCorrect": false
+      },
+      {
+        "text": "Politisch",
+        "isCorrect": false
+      },
+      {
+        "text": "Schlecht",
+        "isCorrect": true
+      },
+      {
+        "text": "Wichtig",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Schlecht\" nutzt Julian Schmidt 7.1× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "9.4× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 52.9,
+      "aggression": 9.1,
+      "labeling": 13.6,
+      "solution_focus": 70.0,
+      "collaboration": 66.7,
+      "demand_intensity": 12.9,
+      "acknowledgment": 12.9,
+      "authority": 80.5,
+      "future_orientation": 81.8,
+      "emotional_intensity": 66.7,
+      "inclusivity": 52.9,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 9,
+      "words": 3399,
+      "adjectives": 22,
+      "verbs": 31
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.29,
+      "klima": 2.65,
+      "wirtschaft": 7.94,
+      "soziales": 2.06,
+      "sicherheit": 0.29,
+      "gesundheit": 2.06,
+      "europa": 0.59,
+      "digital": 0.0,
+      "bildung": 0.59,
+      "finanzen": 12.94,
+      "justiz": 0.29,
+      "arbeit": 0.88,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "finanzen",
+        "score": 12.94,
+        "rank": 1
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 7.94,
+        "rank": 2
+      },
+      {
+        "topic": "klima",
+        "score": 2.65,
+        "rank": 3
+      },
+      {
+        "topic": "soziales",
+        "score": 2.06,
+        "rank": 4
+      },
+      {
+        "topic": "gesundheit",
+        "score": 2.06,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "abschiebung",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "umwelt",
+          "count": 3
+        },
+        {
+          "word": "photovoltaik",
+          "count": 2
+        },
+        {
+          "word": "biodiversität",
+          "count": 1
+        },
+        {
+          "word": "klimaschutz",
+          "count": 1
+        },
+        {
+          "word": "nachhaltig",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "markt",
+          "count": 7
+        },
+        {
+          "word": "betriebe",
+          "count": 7
+        },
+        {
+          "word": "konzerne",
+          "count": 2
+        },
+        {
+          "word": "industrie",
+          "count": 2
+        },
+        {
+          "word": "wettbewerbsfähigkeit",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "familien",
+          "count": 2
+        },
+        {
+          "word": "familie",
+          "count": 2
+        },
+        {
+          "word": "sozialstaat",
+          "count": 1
+        },
+        {
+          "word": "sozialsystem",
+          "count": 1
+        },
+        {
+          "word": "sozialpolitik",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "verbrechen",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "krankenhaus",
+          "count": 5
+        },
+        {
+          "word": "krankenversicherung",
+          "count": 2
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 1
+        },
+        {
+          "word": "vertrag",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "lehrer",
+          "count": 1
+        },
+        {
+          "word": "wissenschaft",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 14
+        },
+        {
+          "word": "kosten",
+          "count": 5
+        },
+        {
+          "word": "entlastung",
+          "count": 4
+        },
+        {
+          "word": "haushaltsentwurf",
+          "count": 3
+        },
+        {
+          "word": "investitionen",
+          "count": 3
+        }
+      ],
+      "justiz": [
+        {
+          "word": "beschluss",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "unfallversicherung",
+          "count": 2
+        },
+        {
+          "word": "sozialabgaben",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

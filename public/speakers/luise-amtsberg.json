@@ -1,0 +1,475 @@
+{
+  "name": "Luise Amtsberg",
+  "party": "GRÜNE",
+  "slug": "luise-amtsberg",
+  "academicTitle": null,
+  "speeches": 15,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 8958,
+  "avgWords": 597,
+  "minWords": 45,
+  "maxWords": 1339,
+  "rankings": {
+    "speechRank": 28,
+    "wordsRank": 48,
+    "partySpeechRank": 5,
+    "partyWordsRank": 7,
+    "partySize": 85,
+    "totalSpeakers": 609,
+    "percentile": 95.4,
+    "verbosityRank": 72,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 7,
+    "longestSpeechRank": 22
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 11,
+    "interrupterRank": null,
+    "interruptedRank": 245
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 67
+      },
+      {
+        "word": "unterstützung",
+        "count": 18
+      },
+      {
+        "word": "sudan",
+        "count": 18
+      },
+      {
+        "word": "humanitäre",
+        "count": 17
+      },
+      {
+        "word": "verantwortung",
+        "count": 16
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "palästinensische",
+        "count": 7,
+        "ratioParty": 139.4,
+        "ratioBundestag": 89.8
+      },
+      {
+        "word": "blockade",
+        "count": 6,
+        "ratioParty": 119.5,
+        "ratioBundestag": 49.8
+      },
+      {
+        "word": "assad",
+        "count": 6,
+        "ratioParty": 119.5,
+        "ratioBundestag": 73.6
+      },
+      {
+        "word": "faschir",
+        "count": 5,
+        "ratioParty": 99.6,
+        "ratioBundestag": 41.5
+      },
+      {
+        "word": "zivilisten",
+        "count": 5,
+        "ratioParty": 99.6,
+        "ratioBundestag": 20.8
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "geschützt",
+        "count": 3,
+        "ratioParty": 6.6,
+        "ratioBundestag": 6.1
+      },
+      {
+        "word": "sicher",
+        "count": 5,
+        "ratioParty": 2.5,
+        "ratioBundestag": 1.9
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 597,
+    "partyAvgWords": 567,
+    "parliamentAvgWords": 613,
+    "vsParty": 1.05,
+    "vsParliament": 0.97
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "15"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "8.958"
+    },
+    {
+      "emoji": "🥇",
+      "label": "Rang in GRÜNE",
+      "value": "#5 von 85"
+    },
+    {
+      "emoji": "📊",
+      "label": "Top-Redner",
+      "value": "Top 5%"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Luise Amtsberg häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Bürger",
+        "isCorrect": false
+      },
+      {
+        "text": "Koalition",
+        "isCorrect": false
+      },
+      {
+        "text": "Palästinensische",
+        "isCorrect": true
+      },
+      {
+        "text": "Rente",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Palästinensische\" nutzt Luise Amtsberg 139.4× häufiger als der GRÜNE-Durchschnitt.",
+    "explanationBundestag": "89.8× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Luise Amtsberg häufiger als der Rest der GRÜNE-Fraktion?",
+    "options": [
+      {
+        "text": "Groß",
+        "isCorrect": false
+      },
+      {
+        "text": "Gefährlich",
+        "isCorrect": false
+      },
+      {
+        "text": "Erfolgreich",
+        "isCorrect": false
+      },
+      {
+        "text": "Geschützt",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Geschützt\" nutzt Luise Amtsberg 6.6× häufiger als der GRÜNE-Durchschnitt.",
+    "explanationBundestag": "6.1× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐿️",
+    "name": "Eichhörnchen",
+    "title": "Themenhüterin",
+    "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+    "id": "eichhoernchen",
+    "alternatives": [
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißige Abgeordnete",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      },
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Clevere Strategin",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 0.909
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 69.2,
+      "aggression": 7.1,
+      "labeling": 0.0,
+      "solution_focus": 82.9,
+      "collaboration": 42.9,
+      "demand_intensity": 10.3,
+      "acknowledgment": 5.2,
+      "authority": 75.2,
+      "future_orientation": 84.3,
+      "emotional_intensity": 52.4,
+      "inclusivity": 45.1,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 15,
+      "words": 5887,
+      "adjectives": 28,
+      "verbs": 58
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 1.02,
+      "klima": 0.51,
+      "wirtschaft": 1.02,
+      "soziales": 0.68,
+      "sicherheit": 7.64,
+      "gesundheit": 0.85,
+      "europa": 14.95,
+      "digital": 0.17,
+      "bildung": 0.68,
+      "finanzen": 1.36,
+      "justiz": 1.02,
+      "arbeit": 0.0,
+      "mobilitaet": 0.85
+    },
+    "topTopics": [
+      {
+        "topic": "europa",
+        "score": 14.95,
+        "rank": 1
+      },
+      {
+        "topic": "sicherheit",
+        "score": 7.64,
+        "rank": 2
+      },
+      {
+        "topic": "finanzen",
+        "score": 1.36,
+        "rank": 3
+      },
+      {
+        "topic": "migration",
+        "score": 1.02,
+        "rank": 4
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 1.02,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "mittelmeer",
+          "count": 4
+        },
+        {
+          "word": "integration",
+          "count": 1
+        },
+        {
+          "word": "grenze",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "klimakrise",
+          "count": 1
+        },
+        {
+          "word": "klimaschutz",
+          "count": 1
+        },
+        {
+          "word": "nachhaltig",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "handel",
+          "count": 2
+        },
+        {
+          "word": "unternehmen",
+          "count": 2
+        },
+        {
+          "word": "zoll",
+          "count": 2
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 2
+        },
+        {
+          "word": "armut",
+          "count": 1
+        },
+        {
+          "word": "eltern",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "gewalt",
+          "count": 14
+        },
+        {
+          "word": "soldaten",
+          "count": 7
+        },
+        {
+          "word": "waffen",
+          "count": 5
+        },
+        {
+          "word": "armee",
+          "count": 4
+        },
+        {
+          "word": "verbrechen",
+          "count": 3
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "krankenhäuser",
+          "count": 1
+        },
+        {
+          "word": "gesundheitssystem",
+          "count": 1
+        },
+        {
+          "word": "krankenhaus",
+          "count": 1
+        },
+        {
+          "word": "ärzte",
+          "count": 1
+        },
+        {
+          "word": "pflegekräfte",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "israel",
+          "count": 16
+        },
+        {
+          "word": "krieg",
+          "count": 15
+        },
+        {
+          "word": "frieden",
+          "count": 10
+        },
+        {
+          "word": "außenpolitik",
+          "count": 8
+        },
+        {
+          "word": "iran",
+          "count": 7
+        }
+      ],
+      "digital": [
+        {
+          "word": "internet",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "ausbildung",
+          "count": 1
+        },
+        {
+          "word": "bildung",
+          "count": 1
+        },
+        {
+          "word": "lehrkräfte",
+          "count": 1
+        },
+        {
+          "word": "universität",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 2
+        },
+        {
+          "word": "schuldenbremse",
+          "count": 1
+        },
+        {
+          "word": "sondervermögen",
+          "count": 1
+        },
+        {
+          "word": "bundeshaushalt",
+          "count": 1
+        },
+        {
+          "word": "haushaltsausschuss",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "menschenrechte",
+          "count": 3
+        },
+        {
+          "word": "rechtsstaatlichkeit",
+          "count": 1
+        },
+        {
+          "word": "gerichte",
+          "count": 1
+        },
+        {
+          "word": "gefängnis",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 2
+        },
+        {
+          "word": "straße",
+          "count": 1
+        },
+        {
+          "word": "schiffe",
+          "count": 1
+        },
+        {
+          "word": "hafen",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

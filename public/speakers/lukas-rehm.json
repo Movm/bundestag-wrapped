@@ -1,0 +1,176 @@
+{
+  "name": "Lukas Rehm",
+  "party": "AfD",
+  "slug": "lukas-rehm",
+  "academicTitle": null,
+  "speeches": 1,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 554,
+  "avgWords": 554,
+  "minWords": 554,
+  "maxWords": 554,
+  "rankings": {
+    "speechRank": 565,
+    "wordsRank": 589,
+    "partySpeechRank": 140,
+    "partyWordsRank": 143,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 7.2,
+    "verbosityRank": null,
+    "verbosityTotal": null,
+    "partyVerbosityRank": null,
+    "longestSpeechRank": 479
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 2,
+    "interrupterRank": null,
+    "interruptedRank": 502
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "politik",
+        "count": 3
+      },
+      {
+        "word": "rente",
+        "count": 3
+      },
+      {
+        "word": "lösen",
+        "count": 3
+      },
+      {
+        "word": "deutschland",
+        "count": 2
+      },
+      {
+        "word": "soziale",
+        "count": 2
+      },
+      {
+        "word": "wähler",
+        "count": 2
+      },
+      {
+        "word": "wählen",
+        "count": 2
+      },
+      {
+        "word": "setzen",
+        "count": 2
+      },
+      {
+        "word": "circa",
+        "count": 2
+      },
+      {
+        "word": "soll",
+        "count": 2
+      }
+    ],
+    "signatureWords": [],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 554,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.94,
+    "vsParliament": 0.9
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "1"
+    }
+  ],
+  "signatureQuiz": null,
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 100.0,
+      "aggression": 0.0,
+      "labeling": 33.3,
+      "solution_focus": 100.0,
+      "collaboration": 50.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 0.0,
+      "authority": 75.0,
+      "future_orientation": 80.0,
+      "emotional_intensity": 50.0,
+      "inclusivity": 66.7,
+      "discriminatory": 2.86
+    },
+    "confidence": "low",
+    "sampleSize": {
+      "speeches": 1,
+      "words": 350,
+      "adjectives": 6,
+      "verbs": 4
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.0,
+      "wirtschaft": 0.0,
+      "soziales": 11.43,
+      "sicherheit": 0.0,
+      "gesundheit": 0.0,
+      "europa": 0.0,
+      "digital": 0.0,
+      "bildung": 0.0,
+      "finanzen": 2.86,
+      "justiz": 0.0,
+      "arbeit": 5.71,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "soziales",
+        "score": 11.43,
+        "rank": 1
+      },
+      {
+        "topic": "arbeit",
+        "score": 5.71,
+        "rank": 2
+      },
+      {
+        "topic": "finanzen",
+        "score": 2.86,
+        "rank": 3
+      }
+    ],
+    "topicWords": {
+      "soziales": [
+        {
+          "word": "rente",
+          "count": 3
+        },
+        {
+          "word": "familien",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "einkommensteuer",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "rentenversicherung",
+          "count": 2
+        }
+      ]
+    }
+  }
+}

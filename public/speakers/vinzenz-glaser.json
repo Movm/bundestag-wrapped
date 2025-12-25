@@ -1,0 +1,416 @@
+{
+  "name": "Vinzenz Glaser",
+  "party": "DIE LINKE",
+  "slug": "vinzenz-glaser",
+  "academicTitle": null,
+  "speeches": 6,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 2450,
+  "avgWords": 408,
+  "minWords": 292,
+  "maxWords": 621,
+  "rankings": {
+    "speechRank": 331,
+    "wordsRank": 414,
+    "partySpeechRank": 43,
+    "partyWordsRank": 44,
+    "partySize": 63,
+    "totalSpeakers": 609,
+    "percentile": 45.6,
+    "verbosityRank": 327,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 24,
+    "longestSpeechRank": 392
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 3,
+    "interrupterRank": 93,
+    "interruptedRank": 492
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 13
+      },
+      {
+        "word": "verantwortung",
+        "count": 9
+      },
+      {
+        "word": "hilfe",
+        "count": 9
+      },
+      {
+        "word": "politische",
+        "count": 7
+      },
+      {
+        "word": "deutschland",
+        "count": 7
+      },
+      {
+        "word": "lage",
+        "count": 6
+      },
+      {
+        "word": "menschenrechte",
+        "count": 6
+      },
+      {
+        "word": "handeln",
+        "count": 5
+      },
+      {
+        "word": "humanitären",
+        "count": 5
+      },
+      {
+        "word": "fast",
+        "count": 5
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "europarat",
+        "count": 5,
+        "ratioParty": 261.9,
+        "ratioBundestag": 62.4
+      },
+      {
+        "word": "südsudan",
+        "count": 5,
+        "ratioParty": 174.6,
+        "ratioBundestag": 71.1
+      },
+      {
+        "word": "emirate",
+        "count": 5,
+        "ratioParty": 87.3,
+        "ratioBundestag": 210.5
+      },
+      {
+        "word": "humanitären",
+        "count": 5,
+        "ratioParty": 32.7,
+        "ratioBundestag": 30.2
+      },
+      {
+        "word": "sudan",
+        "count": 5,
+        "ratioParty": 18.7,
+        "ratioBundestag": 26.6
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 408,
+    "partyAvgWords": 521,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.78,
+    "vsParliament": 0.67
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "6"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "2.450"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Vinzenz Glaser häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Europarat",
+        "isCorrect": true
+      },
+      {
+        "text": "Antrag",
+        "isCorrect": false
+      },
+      {
+        "text": "Bundesregierung",
+        "isCorrect": false
+      },
+      {
+        "text": "Politik",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Europarat\" nutzt Vinzenz Glaser 261.9× häufiger als der DIE LINKE-Durchschnitt.",
+    "explanationBundestag": "62.4× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🦊",
+    "name": "Fuchs",
+    "title": "Cleverer Stratege",
+    "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+    "id": "fuchs",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüter",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.823
+      },
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißiger Abgeordneter",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 0.681
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 100.0,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 50.0,
+      "collaboration": 0.0,
+      "demand_intensity": 16.0,
+      "acknowledgment": 4.0,
+      "authority": 67.7,
+      "future_orientation": 68.0,
+      "emotional_intensity": 66.7,
+      "inclusivity": 56.4,
+      "discriminatory": 0.61
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 6,
+      "words": 1649,
+      "adjectives": 3,
+      "verbs": 25
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 3.03,
+      "klima": 1.21,
+      "wirtschaft": 0.61,
+      "soziales": 7.28,
+      "sicherheit": 6.67,
+      "gesundheit": 1.82,
+      "europa": 12.73,
+      "digital": 0.61,
+      "bildung": 0.0,
+      "finanzen": 3.03,
+      "justiz": 4.85,
+      "arbeit": 0.0,
+      "mobilitaet": 2.43
+    },
+    "topTopics": [
+      {
+        "topic": "europa",
+        "score": 12.73,
+        "rank": 1
+      },
+      {
+        "topic": "soziales",
+        "score": 7.28,
+        "rank": 2
+      },
+      {
+        "topic": "sicherheit",
+        "score": 6.67,
+        "rank": 3
+      },
+      {
+        "topic": "justiz",
+        "score": 4.85,
+        "rank": 4
+      },
+      {
+        "topic": "migration",
+        "score": 3.03,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "obergrenze",
+          "count": 1
+        },
+        {
+          "word": "geflüchtete",
+          "count": 1
+        },
+        {
+          "word": "migranten",
+          "count": 1
+        },
+        {
+          "word": "frontex",
+          "count": 1
+        },
+        {
+          "word": "mittelmeer",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "klimaschutz",
+          "count": 1
+        },
+        {
+          "word": "klimawandel",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "konzerne",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "armut",
+          "count": 3
+        },
+        {
+          "word": "kinder",
+          "count": 2
+        },
+        {
+          "word": "tafel",
+          "count": 2
+        },
+        {
+          "word": "kind",
+          "count": 1
+        },
+        {
+          "word": "mieten",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "gewalt",
+          "count": 5
+        },
+        {
+          "word": "waffen",
+          "count": 2
+        },
+        {
+          "word": "militär",
+          "count": 1
+        },
+        {
+          "word": "verteidigung",
+          "count": 1
+        },
+        {
+          "word": "verbrechen",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "epidemie",
+          "count": 1
+        },
+        {
+          "word": "ärzte",
+          "count": 1
+        },
+        {
+          "word": "krankenhaus",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "europarat",
+          "count": 5
+        },
+        {
+          "word": "frieden",
+          "count": 3
+        },
+        {
+          "word": "krieg",
+          "count": 3
+        },
+        {
+          "word": "türkei",
+          "count": 2
+        },
+        {
+          "word": "waffenlieferungen",
+          "count": 2
+        }
+      ],
+      "digital": [
+        {
+          "word": "pressefreiheit",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushaltsentwurf",
+          "count": 1
+        },
+        {
+          "word": "haushalt",
+          "count": 1
+        },
+        {
+          "word": "mehrwertsteuer",
+          "count": 1
+        },
+        {
+          "word": "steuer",
+          "count": 1
+        },
+        {
+          "word": "finanzierung",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "menschenrechte",
+          "count": 6
+        },
+        {
+          "word": "urteile",
+          "count": 1
+        },
+        {
+          "word": "gleichberechtigung",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "schiff",
+          "count": 3
+        },
+        {
+          "word": "bahn",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

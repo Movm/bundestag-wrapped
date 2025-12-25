@@ -1,0 +1,385 @@
+{
+  "name": "Dr. Christos Pantazis",
+  "party": "SPD",
+  "slug": "christos-pantazis",
+  "academicTitle": "Dr",
+  "speeches": 8,
+  "wortbeitraege": 3,
+  "befragungResponses": 0,
+  "totalWords": 4285,
+  "avgWords": 390,
+  "minWords": 49,
+  "maxWords": 670,
+  "rankings": {
+    "speechRank": 245,
+    "wordsRank": 232,
+    "partySpeechRank": 55,
+    "partyWordsRank": 55,
+    "partySize": 109,
+    "totalSpeakers": 609,
+    "percentile": 59.8,
+    "verbosityRank": 355,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 75,
+    "longestSpeechRank": 335
+  },
+  "drama": {
+    "interruptionsGiven": 7,
+    "interruptionsReceived": 7,
+    "interrupterRank": 189,
+    "interruptedRank": 359
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "klar",
+        "count": 14
+      },
+      {
+        "word": "versorgung",
+        "count": 13
+      },
+      {
+        "word": "menschen",
+        "count": 11
+      },
+      {
+        "word": "vertrauen",
+        "count": 10
+      },
+      {
+        "word": "reform",
+        "count": 9
+      },
+      {
+        "word": "qualität",
+        "count": 9
+      },
+      {
+        "word": "darf",
+        "count": 8
+      },
+      {
+        "word": "herzlichen",
+        "count": 8
+      },
+      {
+        "word": "sichern",
+        "count": 8
+      },
+      {
+        "word": "beitragszahlerinnen",
+        "count": 8
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "beitragszahlerinnen",
+        "count": 8,
+        "ratioParty": 934.7,
+        "ratioBundestag": 1563.2
+      },
+      {
+        "word": "zahler",
+        "count": 7,
+        "ratioParty": 817.8,
+        "ratioBundestag": 4103.3
+      },
+      {
+        "word": "defizit",
+        "count": 5,
+        "ratioParty": 584.2,
+        "ratioBundestag": 69.8
+      },
+      {
+        "word": "notfallversorgung",
+        "count": 5,
+        "ratioParty": 194.7,
+        "ratioBundestag": 61.1
+      },
+      {
+        "word": "krankenhausreform",
+        "count": 6,
+        "ratioParty": 140.2,
+        "ratioBundestag": 106.6
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "gerecht",
+        "count": 3,
+        "ratioParty": 2.9,
+        "ratioBundestag": 4.2
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 390,
+    "partyAvgWords": 637,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.61,
+    "vsParliament": 0.64
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "8"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "4.285"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Dr. Christos Pantazis häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Beitragszahlerinnen",
+        "isCorrect": true
+      },
+      {
+        "text": "Kanzler",
+        "isCorrect": false
+      },
+      {
+        "text": "Abstimmung",
+        "isCorrect": false
+      },
+      {
+        "text": "Europa",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Beitragszahlerinnen\" nutzt Dr. Christos Pantazis 934.7× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "1563.2× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Dr. Christos Pantazis häufiger als der Rest der SPD-Fraktion?",
+    "options": [
+      {
+        "text": "Gerecht",
+        "isCorrect": true
+      },
+      {
+        "text": "Gut",
+        "isCorrect": false
+      },
+      {
+        "text": "Neu",
+        "isCorrect": false
+      },
+      {
+        "text": "Schlecht",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Gerecht\" nutzt Dr. Christos Pantazis 2.9× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "4.2× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐝",
+    "name": "Biene",
+    "title": "Fleißiger Abgeordneter",
+    "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+    "id": "biene",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüter",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.971
+      },
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Cleverer Stratege",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 0.947
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 78.9,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 87.1,
+      "collaboration": 60.0,
+      "demand_intensity": 5.3,
+      "acknowledgment": 0.0,
+      "authority": 76.6,
+      "future_orientation": 80.4,
+      "emotional_intensity": 77.8,
+      "inclusivity": 56.4,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 11,
+      "words": 2840,
+      "adjectives": 19,
+      "verbs": 38
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.35,
+      "wirtschaft": 1.06,
+      "soziales": 1.06,
+      "sicherheit": 0.0,
+      "gesundheit": 20.77,
+      "europa": 0.0,
+      "digital": 0.7,
+      "bildung": 0.0,
+      "finanzen": 9.86,
+      "justiz": 0.35,
+      "arbeit": 1.41,
+      "mobilitaet": 0.35
+    },
+    "topTopics": [
+      {
+        "topic": "gesundheit",
+        "score": 20.77,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 9.86,
+        "rank": 2
+      },
+      {
+        "topic": "arbeit",
+        "score": 1.41,
+        "rank": 3
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 1.06,
+        "rank": 4
+      },
+      {
+        "topic": "soziales",
+        "score": 1.06,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "klimaschutz",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "wachstum",
+          "count": 1
+        },
+        {
+          "word": "standort",
+          "count": 1
+        },
+        {
+          "word": "industrie",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 1
+        },
+        {
+          "word": "jugendliche",
+          "count": 1
+        },
+        {
+          "word": "familien",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "krankenhausreform",
+          "count": 6
+        },
+        {
+          "word": "pflegeversicherung",
+          "count": 5
+        },
+        {
+          "word": "gesundheitssystem",
+          "count": 5
+        },
+        {
+          "word": "pflegekräfte",
+          "count": 5
+        },
+        {
+          "word": "krankenversicherung",
+          "count": 4
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 2
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "kosten",
+          "count": 5
+        },
+        {
+          "word": "defizit",
+          "count": 5
+        },
+        {
+          "word": "finanzierung",
+          "count": 4
+        },
+        {
+          "word": "bundeshaushalt",
+          "count": 3
+        },
+        {
+          "word": "sondervermögen",
+          "count": 3
+        }
+      ],
+      "justiz": [
+        {
+          "word": "gesetzgebung",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "einkommen",
+          "count": 2
+        },
+        {
+          "word": "arbeitnehmerinnen",
+          "count": 1
+        },
+        {
+          "word": "arbeitnehmer",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,356 @@
+{
+  "name": "Serdar Yüksel",
+  "party": "SPD",
+  "slug": "serdar-yueksel",
+  "academicTitle": null,
+  "speeches": 6,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 2962,
+  "avgWords": 423,
+  "minWords": 94,
+  "maxWords": 682,
+  "rankings": {
+    "speechRank": 307,
+    "wordsRank": 369,
+    "partySpeechRank": 66,
+    "partyWordsRank": 75,
+    "partySize": 109,
+    "totalSpeakers": 609,
+    "percentile": 49.6,
+    "verbosityRank": 298,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 67,
+    "longestSpeechRank": 323
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 3,
+    "interrupterRank": null,
+    "interruptedRank": 472
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 16
+      },
+      {
+        "word": "gesundheit",
+        "count": 14
+      },
+      {
+        "word": "verantwortung",
+        "count": 9
+      },
+      {
+        "word": "demokratie",
+        "count": 8
+      },
+      {
+        "word": "globale",
+        "count": 7
+      },
+      {
+        "word": "welt",
+        "count": 7
+      },
+      {
+        "word": "grundgesetzes",
+        "count": 6
+      },
+      {
+        "word": "gemeinsam",
+        "count": 6
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "petitionsrecht",
+        "count": 5,
+        "ratioParty": 901.9,
+        "ratioBundestag": 564.3
+      },
+      {
+        "word": "grundgesetzes",
+        "count": 6,
+        "ratioParty": 63.7,
+        "ratioBundestag": 39.3
+      },
+      {
+        "word": "gesundheit",
+        "count": 14,
+        "ratioParty": 43.5,
+        "ratioBundestag": 45.8
+      },
+      {
+        "word": "globale",
+        "count": 7,
+        "ratioParty": 38.3,
+        "ratioBundestag": 41.9
+      },
+      {
+        "word": "bundestag",
+        "count": 5,
+        "ratioParty": 4.5,
+        "ratioBundestag": 5.0
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 423,
+    "partyAvgWords": 637,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.66,
+    "vsParliament": 0.69
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "6"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "2.962"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Serdar Yüksel häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Petitionsrecht",
+        "isCorrect": true
+      },
+      {
+        "text": "Antrag",
+        "isCorrect": false
+      },
+      {
+        "text": "Ausschuss",
+        "isCorrect": false
+      },
+      {
+        "text": "Koalition",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Petitionsrecht\" nutzt Serdar Yüksel 901.9× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "564.3× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🐿️",
+    "name": "Eichhörnchen",
+    "title": "Themenhüter",
+    "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+    "id": "eichhoernchen",
+    "alternatives": [
+      {
+        "emoji": "🦀",
+        "name": "Krabbe",
+        "title": "Hartnäckiger Debattierer",
+        "reason": "Du hältst an deinen Positionen fest und lässt nicht locker.",
+        "id": "krabbe",
+        "score": 0.859
+      },
+      {
+        "emoji": "🦉",
+        "name": "Eule",
+        "title": "Themenexperte",
+        "reason": "Dein Fachwort \"Petitionsrecht\" nutzt du 901.9× häufiger als deine Fraktion.",
+        "id": "eule",
+        "score": 0.81
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 50.0,
+      "aggression": 14.3,
+      "labeling": 0.0,
+      "solution_focus": 100.0,
+      "collaboration": 50.0,
+      "demand_intensity": 33.3,
+      "acknowledgment": 0.0,
+      "authority": 74.5,
+      "future_orientation": 83.3,
+      "emotional_intensity": 16.7,
+      "inclusivity": 57.6,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 7,
+      "words": 1845,
+      "adjectives": 7,
+      "verbs": 3
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 2.17,
+      "klima": 0.0,
+      "wirtschaft": 1.08,
+      "soziales": 3.25,
+      "sicherheit": 0.0,
+      "gesundheit": 10.84,
+      "europa": 0.0,
+      "digital": 0.0,
+      "bildung": 1.08,
+      "finanzen": 1.63,
+      "justiz": 4.34,
+      "arbeit": 0.0,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "gesundheit",
+        "score": 10.84,
+        "rank": 1
+      },
+      {
+        "topic": "justiz",
+        "score": 4.34,
+        "rank": 2
+      },
+      {
+        "topic": "soziales",
+        "score": 3.25,
+        "rank": 3
+      },
+      {
+        "topic": "migration",
+        "score": 2.17,
+        "rank": 4
+      },
+      {
+        "topic": "finanzen",
+        "score": 1.63,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "geflüchtete",
+          "count": 1
+        },
+        {
+          "word": "asylbewerber",
+          "count": 1
+        },
+        {
+          "word": "flüchtlinge",
+          "count": 1
+        },
+        {
+          "word": "migration",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "fachkräftemangel",
+          "count": 1
+        },
+        {
+          "word": "unternehmen",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "existenzminimum",
+          "count": 2
+        },
+        {
+          "word": "alleinerziehende",
+          "count": 1
+        },
+        {
+          "word": "familie",
+          "count": 1
+        },
+        {
+          "word": "eltern",
+          "count": 1
+        },
+        {
+          "word": "familien",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "gesundheitssystem",
+          "count": 4
+        },
+        {
+          "word": "behandlung",
+          "count": 2
+        },
+        {
+          "word": "medikamente",
+          "count": 2
+        },
+        {
+          "word": "ärzte",
+          "count": 2
+        },
+        {
+          "word": "psychiatrie",
+          "count": 2
+        }
+      ],
+      "bildung": [
+        {
+          "word": "erzieherin",
+          "count": 1
+        },
+        {
+          "word": "kita",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 1
+        },
+        {
+          "word": "kosten",
+          "count": 1
+        },
+        {
+          "word": "entlastung",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "verfassungsrecht",
+          "count": 2
+        },
+        {
+          "word": "verfassung",
+          "count": 2
+        },
+        {
+          "word": "urteil",
+          "count": 2
+        },
+        {
+          "word": "verfassungswidrig",
+          "count": 1
+        },
+        {
+          "word": "bundesverfassungsgericht",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

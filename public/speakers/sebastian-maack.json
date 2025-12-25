@@ -1,0 +1,421 @@
+{
+  "name": "Sebastian Maack",
+  "party": "AfD",
+  "slug": "sebastian-maack",
+  "academicTitle": null,
+  "speeches": 9,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 5480,
+  "avgWords": 548,
+  "minWords": 270,
+  "maxWords": 1056,
+  "rankings": {
+    "speechRank": 186,
+    "wordsRank": 151,
+    "partySpeechRank": 41,
+    "partyWordsRank": 30,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 69.5,
+    "verbosityRank": 112,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 29,
+    "longestSpeechRank": 54
+  },
+  "drama": {
+    "interruptionsGiven": 4,
+    "interruptionsReceived": 18,
+    "interrupterRank": 241,
+    "interruptedRank": 149
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "demokratie",
+        "count": 14
+      },
+      {
+        "word": "habe",
+        "count": 13
+      },
+      {
+        "word": "regierung",
+        "count": 12
+      },
+      {
+        "word": "familie",
+        "count": 12
+      },
+      {
+        "word": "gesellschaft",
+        "count": 12
+      },
+      {
+        "word": "jahre",
+        "count": 11
+      },
+      {
+        "word": "deutschland",
+        "count": 10
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "optimieren",
+        "count": 5,
+        "ratioParty": 269.2,
+        "ratioBundestag": 239.5
+      },
+      {
+        "word": "noots",
+        "count": 5,
+        "ratioParty": 269.2,
+        "ratioBundestag": 72.6
+      },
+      {
+        "word": "digitalisieren",
+        "count": 5,
+        "ratioParty": 134.6,
+        "ratioBundestag": 57.0
+      },
+      {
+        "word": "familienpolitik",
+        "count": 7,
+        "ratioParty": 47.1,
+        "ratioBundestag": 64.5
+      },
+      {
+        "word": "identität",
+        "count": 9,
+        "ratioParty": 20.6,
+        "ratioBundestag": 29.9
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "demokratisch",
+        "count": 4,
+        "ratioParty": 15.4,
+        "ratioBundestag": 24.6
+      },
+      {
+        "word": "gescheitert",
+        "count": 3,
+        "ratioParty": 7.0,
+        "ratioBundestag": 13.4
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 548,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.93,
+    "vsParliament": 0.89
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "9"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "5.480"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Sebastian Maack häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Rente",
+        "isCorrect": false
+      },
+      {
+        "text": "Optimieren",
+        "isCorrect": true
+      },
+      {
+        "text": "Demokratie",
+        "isCorrect": false
+      },
+      {
+        "text": "Ausschuss",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Optimieren\" nutzt Sebastian Maack 269.2× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "239.5× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Sebastian Maack häufiger als der Rest der AfD-Fraktion?",
+    "options": [
+      {
+        "text": "Gefährlich",
+        "isCorrect": false
+      },
+      {
+        "text": "Demokratisch",
+        "isCorrect": true
+      },
+      {
+        "text": "Alt",
+        "isCorrect": false
+      },
+      {
+        "text": "Klar",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Demokratisch\" nutzt Sebastian Maack 15.4× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "24.6× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 73.7,
+      "aggression": 4.3,
+      "labeling": 13.0,
+      "solution_focus": 76.2,
+      "collaboration": 50.0,
+      "demand_intensity": 7.7,
+      "acknowledgment": 3.8,
+      "authority": 81.8,
+      "future_orientation": 81.2,
+      "emotional_intensity": 24.0,
+      "inclusivity": 52.2,
+      "discriminatory": 1.73
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 10,
+      "words": 3474,
+      "adjectives": 23,
+      "verbs": 26
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.0,
+      "wirtschaft": 1.15,
+      "soziales": 12.38,
+      "sicherheit": 1.44,
+      "gesundheit": 0.86,
+      "europa": 0.58,
+      "digital": 1.73,
+      "bildung": 1.15,
+      "finanzen": 3.17,
+      "justiz": 3.17,
+      "arbeit": 1.44,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "soziales",
+        "score": 12.38,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 3.17,
+        "rank": 2
+      },
+      {
+        "topic": "justiz",
+        "score": 3.17,
+        "rank": 3
+      },
+      {
+        "topic": "digital",
+        "score": 1.73,
+        "rank": 4
+      },
+      {
+        "topic": "sicherheit",
+        "score": 1.44,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 2
+        },
+        {
+          "word": "produktion",
+          "count": 1
+        },
+        {
+          "word": "fachkräftemangel",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "familie",
+          "count": 12
+        },
+        {
+          "word": "familien",
+          "count": 9
+        },
+        {
+          "word": "kinder",
+          "count": 7
+        },
+        {
+          "word": "rente",
+          "count": 5
+        },
+        {
+          "word": "kindergeld",
+          "count": 3
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "angriff",
+          "count": 2
+        },
+        {
+          "word": "islamismus",
+          "count": 1
+        },
+        {
+          "word": "extremismus",
+          "count": 1
+        },
+        {
+          "word": "überwachung",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "pflegeversicherung",
+          "count": 1
+        },
+        {
+          "word": "krankenhaus",
+          "count": 1
+        },
+        {
+          "word": "sucht",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "kooperation",
+          "count": 1
+        },
+        {
+          "word": "gipfel",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "daten",
+          "count": 2
+        },
+        {
+          "word": "datensicherheit",
+          "count": 2
+        },
+        {
+          "word": "onlinezugangsgesetz",
+          "count": 1
+        },
+        {
+          "word": "digitalisierung",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "kindergarten",
+          "count": 2
+        },
+        {
+          "word": "bildung",
+          "count": 1
+        },
+        {
+          "word": "professor",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 5
+        },
+        {
+          "word": "kosten",
+          "count": 2
+        },
+        {
+          "word": "zinsen",
+          "count": 1
+        },
+        {
+          "word": "schulden",
+          "count": 1
+        },
+        {
+          "word": "sondervermögen",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "grundgesetz",
+          "count": 7
+        },
+        {
+          "word": "verfassung",
+          "count": 1
+        },
+        {
+          "word": "rechtsstaat",
+          "count": 1
+        },
+        {
+          "word": "verfassungswidrig",
+          "count": 1
+        },
+        {
+          "word": "gleichstellung",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "beitragssatz",
+          "count": 1
+        },
+        {
+          "word": "arbeitnehmer",
+          "count": 1
+        },
+        {
+          "word": "teilzeit",
+          "count": 1
+        },
+        {
+          "word": "vollzeit",
+          "count": 1
+        },
+        {
+          "word": "rentenversicherung",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

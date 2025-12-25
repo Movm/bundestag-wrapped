@@ -1,0 +1,466 @@
+{
+  "name": "Dr. Sebastian Schäfer",
+  "party": "GRÜNE",
+  "slug": "sebastian-schaefer",
+  "academicTitle": "Dr",
+  "speeches": 13,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 6434,
+  "avgWords": 460,
+  "minWords": 77,
+  "maxWords": 680,
+  "rankings": {
+    "speechRank": 48,
+    "wordsRank": 106,
+    "partySpeechRank": 8,
+    "partyWordsRank": 15,
+    "partySize": 85,
+    "totalSpeakers": 609,
+    "percentile": 92.1,
+    "verbosityRank": 221,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 26,
+    "longestSpeechRank": 326
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 18,
+    "interrupterRank": null,
+    "interruptedRank": 144
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "haushalt",
+        "count": 21
+      },
+      {
+        "word": "land",
+        "count": 17
+      },
+      {
+        "word": "geld",
+        "count": 16
+      },
+      {
+        "word": "beim",
+        "count": 15
+      },
+      {
+        "word": "sicherheit",
+        "count": 15
+      },
+      {
+        "word": "infrastruktur",
+        "count": 14
+      },
+      {
+        "word": "sondervermögen",
+        "count": 14
+      },
+      {
+        "word": "kommunen",
+        "count": 14
+      },
+      {
+        "word": "koalition",
+        "count": 13
+      },
+      {
+        "word": "jahr",
+        "count": 13
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "verschuldung",
+        "count": 7,
+        "ratioParty": 198.1,
+        "ratioBundestag": 64.9
+      },
+      {
+        "word": "bundesbank",
+        "count": 5,
+        "ratioParty": 94.3,
+        "ratioBundestag": 153.3
+      },
+      {
+        "word": "bundesrechnungshof",
+        "count": 10,
+        "ratioParty": 70.7,
+        "ratioBundestag": 28.5
+      },
+      {
+        "word": "bereichsausnahme",
+        "count": 12,
+        "ratioParty": 40.0,
+        "ratioBundestag": 81.1
+      },
+      {
+        "word": "wachstum",
+        "count": 12,
+        "ratioParty": 27.2,
+        "ratioBundestag": 11.1
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "wesentlich",
+        "count": 3,
+        "ratioParty": 18.9,
+        "ratioBundestag": 16.4
+      },
+      {
+        "word": "entscheidend",
+        "count": 3,
+        "ratioParty": 6.3,
+        "ratioBundestag": 4.4
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 460,
+    "partyAvgWords": 567,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.81,
+    "vsParliament": 0.75
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "13"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "6.434"
+    },
+    {
+      "emoji": "📊",
+      "label": "Top-Redner",
+      "value": "Top 8%"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Dr. Sebastian Schäfer häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Familie",
+        "isCorrect": false
+      },
+      {
+        "text": "Gesetz",
+        "isCorrect": false
+      },
+      {
+        "text": "Bundesregierung",
+        "isCorrect": false
+      },
+      {
+        "text": "Verschuldung",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Verschuldung\" nutzt Dr. Sebastian Schäfer 198.1× häufiger als der GRÜNE-Durchschnitt.",
+    "explanationBundestag": "64.9× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Dr. Sebastian Schäfer häufiger als der Rest der GRÜNE-Fraktion?",
+    "options": [
+      {
+        "text": "Erfolgreich",
+        "isCorrect": false
+      },
+      {
+        "text": "Notwendig",
+        "isCorrect": false
+      },
+      {
+        "text": "Sicher",
+        "isCorrect": false
+      },
+      {
+        "text": "Wesentlich",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Wesentlich\" nutzt Dr. Sebastian Schäfer 18.9× häufiger als der GRÜNE-Durchschnitt.",
+    "explanationBundestag": "16.4× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐿️",
+    "name": "Eichhörnchen",
+    "title": "Themenhüter",
+    "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+    "id": "eichhoernchen",
+    "alternatives": [
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißiger Abgeordneter",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      },
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Cleverer Stratege",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 0.984
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 76.9,
+      "aggression": 3.7,
+      "labeling": 0.0,
+      "solution_focus": 76.0,
+      "collaboration": 50.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 7.4,
+      "authority": 76.8,
+      "future_orientation": 79.7,
+      "emotional_intensity": 66.7,
+      "inclusivity": 66.2,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 14,
+      "words": 4173,
+      "adjectives": 27,
+      "verbs": 27
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 3.12,
+      "wirtschaft": 8.39,
+      "soziales": 0.72,
+      "sicherheit": 5.03,
+      "gesundheit": 0.0,
+      "europa": 7.43,
+      "digital": 0.24,
+      "bildung": 2.64,
+      "finanzen": 26.36,
+      "justiz": 0.0,
+      "arbeit": 0.72,
+      "mobilitaet": 5.75
+    },
+    "topTopics": [
+      {
+        "topic": "finanzen",
+        "score": 26.36,
+        "rank": 1
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 8.39,
+        "rank": 2
+      },
+      {
+        "topic": "europa",
+        "score": 7.43,
+        "rank": 3
+      },
+      {
+        "topic": "mobilitaet",
+        "score": 5.75,
+        "rank": 4
+      },
+      {
+        "topic": "sicherheit",
+        "score": 5.03,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "klimaneutralität",
+          "count": 5
+        },
+        {
+          "word": "klimaschutz",
+          "count": 5
+        },
+        {
+          "word": "umwelt",
+          "count": 2
+        },
+        {
+          "word": "nachhaltig",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "wachstum",
+          "count": 12
+        },
+        {
+          "word": "industrie",
+          "count": 4
+        },
+        {
+          "word": "unternehmen",
+          "count": 3
+        },
+        {
+          "word": "export",
+          "count": 3
+        },
+        {
+          "word": "bruttoinlandsprodukt",
+          "count": 2
+        }
+      ],
+      "soziales": [
+        {
+          "word": "bürgergeld",
+          "count": 1
+        },
+        {
+          "word": "sozialstaat",
+          "count": 1
+        },
+        {
+          "word": "kinder",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "bundeswehr",
+          "count": 9
+        },
+        {
+          "word": "soldaten",
+          "count": 4
+        },
+        {
+          "word": "verteidigung",
+          "count": 3
+        },
+        {
+          "word": "verteidigungsfähigkeit",
+          "count": 2
+        },
+        {
+          "word": "bundespolizei",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "ukraine",
+          "count": 11
+        },
+        {
+          "word": "europa",
+          "count": 5
+        },
+        {
+          "word": "nato",
+          "count": 4
+        },
+        {
+          "word": "china",
+          "count": 3
+        },
+        {
+          "word": "frieden",
+          "count": 2
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "schulen",
+          "count": 3
+        },
+        {
+          "word": "forschung",
+          "count": 2
+        },
+        {
+          "word": "bildung",
+          "count": 2
+        },
+        {
+          "word": "professorin",
+          "count": 1
+        },
+        {
+          "word": "universität",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 21
+        },
+        {
+          "word": "sondervermögen",
+          "count": 14
+        },
+        {
+          "word": "investitionen",
+          "count": 12
+        },
+        {
+          "word": "bundesrechnungshof",
+          "count": 10
+        },
+        {
+          "word": "bundeshaushalt",
+          "count": 8
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitsplätze",
+          "count": 2
+        },
+        {
+          "word": "arbeitslosigkeit",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 14
+        },
+        {
+          "word": "straßen",
+          "count": 3
+        },
+        {
+          "word": "verkehrsinfrastruktur",
+          "count": 1
+        },
+        {
+          "word": "schiffe",
+          "count": 1
+        },
+        {
+          "word": "flugzeug",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

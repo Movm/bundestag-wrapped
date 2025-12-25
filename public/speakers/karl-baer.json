@@ -1,0 +1,400 @@
+{
+  "name": "Karl Bär",
+  "party": "GRÜNE",
+  "slug": "karl-baer",
+  "academicTitle": null,
+  "speeches": 6,
+  "wortbeitraege": 5,
+  "befragungResponses": 0,
+  "totalWords": 3138,
+  "avgWords": 285,
+  "minWords": 37,
+  "maxWords": 693,
+  "rankings": {
+    "speechRank": 319,
+    "wordsRank": 353,
+    "partySpeechRank": 56,
+    "partyWordsRank": 54,
+    "partySize": 85,
+    "totalSpeakers": 609,
+    "percentile": 47.6,
+    "verbosityRank": 474,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 69,
+    "longestSpeechRank": 314
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 11,
+    "interrupterRank": null,
+    "interruptedRank": 247
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 16
+      },
+      {
+        "word": "landwirtschaft",
+        "count": 12
+      },
+      {
+        "word": "kennzeichnungspflicht",
+        "count": 9
+      },
+      {
+        "word": "rainer",
+        "count": 9
+      },
+      {
+        "word": "zukunft",
+        "count": 9
+      },
+      {
+        "word": "gentechnik",
+        "count": 8
+      },
+      {
+        "word": "soll",
+        "count": 8
+      },
+      {
+        "word": "deutschland",
+        "count": 8
+      },
+      {
+        "word": "geld",
+        "count": 7
+      },
+      {
+        "word": "kommt",
+        "count": 7
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "kennzeichnungspflicht",
+        "count": 9,
+        "ratioParty": 546.5,
+        "ratioBundestag": 401.9
+      },
+      {
+        "word": "gentechnik",
+        "count": 8,
+        "ratioParty": 485.8,
+        "ratioBundestag": 452.5
+      },
+      {
+        "word": "landwirtschaftsminister",
+        "count": 5,
+        "ratioParty": 121.4,
+        "ratioBundestag": 184.5
+      },
+      {
+        "word": "ansicht",
+        "count": 6,
+        "ratioParty": 121.4,
+        "ratioBundestag": 212.1
+      },
+      {
+        "word": "lebensmittel",
+        "count": 5,
+        "ratioParty": 75.9,
+        "ratioBundestag": 48.2
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 285,
+    "partyAvgWords": 567,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.5,
+    "vsParliament": 0.46
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "6"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "3.138"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Karl Bär häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Bundesregierung",
+        "isCorrect": false
+      },
+      {
+        "text": "Kennzeichnungspflicht",
+        "isCorrect": true
+      },
+      {
+        "text": "Gesetzentwurf",
+        "isCorrect": false
+      },
+      {
+        "text": "Verantwortung",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Kennzeichnungspflicht\" nutzt Karl Bär 546.5× häufiger als der GRÜNE-Durchschnitt.",
+    "explanationBundestag": "401.9× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🐬",
+    "name": "Delfin",
+    "title": "Diplomatischer Redner",
+    "reason": "Aktiv im Parlament, aber respektvoll ohne viele Zwischenrufe.",
+    "id": "delfin",
+    "alternatives": [
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Cleverer Stratege",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 0.947
+      },
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüter",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.926
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 40.0,
+      "aggression": 16.7,
+      "labeling": 0.0,
+      "solution_focus": 62.5,
+      "collaboration": 100.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 9.1,
+      "authority": 70.7,
+      "future_orientation": 90.3,
+      "emotional_intensity": 66.7,
+      "inclusivity": 32.6,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 11,
+      "words": 1963,
+      "adjectives": 6,
+      "verbs": 11
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 1.02,
+      "klima": 5.6,
+      "wirtschaft": 7.13,
+      "soziales": 0.0,
+      "sicherheit": 0.51,
+      "gesundheit": 1.02,
+      "europa": 5.09,
+      "digital": 0.51,
+      "bildung": 2.04,
+      "finanzen": 8.15,
+      "justiz": 2.04,
+      "arbeit": 1.02,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "finanzen",
+        "score": 8.15,
+        "rank": 1
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 7.13,
+        "rank": 2
+      },
+      {
+        "topic": "klima",
+        "score": 5.6,
+        "rank": 3
+      },
+      {
+        "topic": "europa",
+        "score": 5.09,
+        "rank": 4
+      },
+      {
+        "topic": "bildung",
+        "score": 2.04,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "grenzkontrollen",
+          "count": 2
+        }
+      ],
+      "klima": [
+        {
+          "word": "pestizide",
+          "count": 4
+        },
+        {
+          "word": "umweltschutz",
+          "count": 3
+        },
+        {
+          "word": "klimaanpassung",
+          "count": 1
+        },
+        {
+          "word": "energie",
+          "count": 1
+        },
+        {
+          "word": "erneuerbare",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "industrie",
+          "count": 4
+        },
+        {
+          "word": "markt",
+          "count": 3
+        },
+        {
+          "word": "konzerne",
+          "count": 1
+        },
+        {
+          "word": "chemieindustrie",
+          "count": 1
+        },
+        {
+          "word": "importe",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "täter",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "sucht",
+          "count": 1
+        },
+        {
+          "word": "pharmaindustrie",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "brüssel",
+          "count": 5
+        },
+        {
+          "word": "europa",
+          "count": 1
+        },
+        {
+          "word": "abkommen",
+          "count": 1
+        },
+        {
+          "word": "ukraine",
+          "count": 1
+        },
+        {
+          "word": "kooperation",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "student",
+          "count": 1
+        },
+        {
+          "word": "wissenschaft",
+          "count": 1
+        },
+        {
+          "word": "forschung",
+          "count": 1
+        },
+        {
+          "word": "studenten",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 7
+        },
+        {
+          "word": "kosten",
+          "count": 4
+        },
+        {
+          "word": "fördermittel",
+          "count": 2
+        },
+        {
+          "word": "haushaltsausschuss",
+          "count": 1
+        },
+        {
+          "word": "investitionen",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "strafrecht",
+          "count": 2
+        },
+        {
+          "word": "gericht",
+          "count": 1
+        },
+        {
+          "word": "urteil",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "sozialversicherung",
+          "count": 2
+        }
+      ]
+    }
+  }
+}

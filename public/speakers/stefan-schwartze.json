@@ -1,0 +1,200 @@
+{
+  "name": "Stefan Schwartze",
+  "party": "SPD",
+  "slug": "stefan-schwartze",
+  "academicTitle": null,
+  "speeches": 1,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 270,
+  "avgWords": 270,
+  "minWords": 270,
+  "maxWords": 270,
+  "rankings": {
+    "speechRank": 587,
+    "wordsRank": 604,
+    "partySpeechRank": 103,
+    "partyWordsRank": 109,
+    "partySize": 109,
+    "totalSpeakers": 609,
+    "percentile": 3.6,
+    "verbosityRank": null,
+    "verbosityTotal": null,
+    "partyVerbosityRank": null,
+    "longestSpeechRank": 601
+  },
+  "drama": {
+    "interruptionsGiven": 2,
+    "interruptionsReceived": 0,
+    "interrupterRank": 280,
+    "interruptedRank": null
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "worden",
+        "count": 4
+      },
+      {
+        "word": "gesetz",
+        "count": 3
+      },
+      {
+        "word": "ausbildung",
+        "count": 3
+      },
+      {
+        "word": "hätte",
+        "count": 2
+      },
+      {
+        "word": "jährlich",
+        "count": 2
+      },
+      {
+        "word": "reform",
+        "count": 2
+      },
+      {
+        "word": "staatssekretär",
+        "count": 1
+      },
+      {
+        "word": "kippels",
+        "count": 1
+      },
+      {
+        "word": "morgen",
+        "count": 1
+      },
+      {
+        "word": "manchem",
+        "count": 1
+      }
+    ],
+    "signatureWords": [],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 270,
+    "partyAvgWords": 637,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.42,
+    "vsParliament": 0.44
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "1"
+    }
+  ],
+  "signatureQuiz": null,
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🦫",
+    "name": "Biber",
+    "title": "Konstruktiver Brückenbauer",
+    "reason": "Du baust Brücken zwischen Positionen – kooperativ und lösungsorientiert.",
+    "id": "biber",
+    "alternatives": [
+      {
+        "emoji": "🐇",
+        "name": "Hase",
+        "title": "Wendiger Optimist",
+        "reason": "Mit positivem Blick reagierst du schnell auf neue Themen.",
+        "id": "hase",
+        "score": 0.575
+      },
+      {
+        "emoji": "🐢",
+        "name": "Schildkröte",
+        "title": "Gründlicher Analyst",
+        "reason": "Wenige Reden, aber wenn, dann richtig ausführlich.",
+        "id": "schildkroete",
+        "score": 0.525
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 50.0,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 50.0,
+      "collaboration": 50.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 0.0,
+      "authority": 0.0,
+      "future_orientation": 66.7,
+      "emotional_intensity": 50.0,
+      "inclusivity": 100.0,
+      "discriminatory": 0.0
+    },
+    "confidence": "low",
+    "sampleSize": {
+      "speeches": 1,
+      "words": 166,
+      "adjectives": 0,
+      "verbs": 0
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.0,
+      "wirtschaft": 0.0,
+      "soziales": 0.0,
+      "sicherheit": 0.0,
+      "gesundheit": 6.02,
+      "europa": 0.0,
+      "digital": 0.0,
+      "bildung": 24.1,
+      "finanzen": 6.02,
+      "justiz": 0.0,
+      "arbeit": 0.0,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "bildung",
+        "score": 24.1,
+        "rank": 1
+      },
+      {
+        "topic": "gesundheit",
+        "score": 6.02,
+        "rank": 2
+      },
+      {
+        "topic": "finanzen",
+        "score": 6.02,
+        "rank": 3
+      }
+    ],
+    "topicWords": {
+      "gesundheit": [
+        {
+          "word": "psychotherapie",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "ausbildung",
+          "count": 3
+        },
+        {
+          "word": "weiterbildung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "finanzierung",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

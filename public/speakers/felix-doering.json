@@ -1,0 +1,477 @@
+{
+  "name": "Felix Döring",
+  "party": "SPD",
+  "slug": "felix-doering",
+  "academicTitle": null,
+  "speeches": 13,
+  "wortbeitraege": 5,
+  "befragungResponses": 0,
+  "totalWords": 8664,
+  "avgWords": 481,
+  "minWords": 89,
+  "maxWords": 867,
+  "rankings": {
+    "speechRank": 57,
+    "wordsRank": 52,
+    "partySpeechRank": 15,
+    "partyWordsRank": 11,
+    "partySize": 109,
+    "totalSpeakers": 609,
+    "percentile": 90.6,
+    "verbosityRank": 190,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 40,
+    "longestSpeechRank": 129
+  },
+  "drama": {
+    "interruptionsGiven": 22,
+    "interruptionsReceived": 48,
+    "interrupterRank": 96,
+    "interruptedRank": 22
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "demokratie",
+        "count": 32
+      },
+      {
+        "word": "menschen",
+        "count": 26
+      },
+      {
+        "word": "arbeit",
+        "count": 18
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "gruppenbezogene",
+        "count": 12,
+        "ratioParty": 351.4,
+        "ratioBundestag": 887.5
+      },
+      {
+        "word": "menschenfeindlichkeit",
+        "count": 12,
+        "ratioParty": 175.7,
+        "ratioBundestag": 208.8
+      },
+      {
+        "word": "schmerzhaft",
+        "count": 6,
+        "ratioParty": 175.7,
+        "ratioBundestag": 118.3
+      },
+      {
+        "word": "jugendplan",
+        "count": 7,
+        "ratioParty": 136.7,
+        "ratioBundestag": 159.3
+      },
+      {
+        "word": "elterngeld",
+        "count": 14,
+        "ratioParty": 117.1,
+        "ratioBundestag": 56.7
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "links",
+        "count": 4,
+        "ratioParty": 33.5,
+        "ratioBundestag": 3.9
+      },
+      {
+        "word": "rechts",
+        "count": 12,
+        "ratioParty": 14.6,
+        "ratioBundestag": 11.5
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 481,
+    "partyAvgWords": 637,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.76,
+    "vsParliament": 0.78
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "13"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "8.664"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufe",
+      "value": "22"
+    },
+    {
+      "emoji": "📊",
+      "label": "Top-Redner",
+      "value": "Top 10%"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Felix Döring häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Wirtschaft",
+        "isCorrect": false
+      },
+      {
+        "text": "Gruppenbezogene",
+        "isCorrect": true
+      },
+      {
+        "text": "Bürger",
+        "isCorrect": false
+      },
+      {
+        "text": "Sicherheit",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Gruppenbezogene\" nutzt Felix Döring 351.4× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "887.5× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Felix Döring häufiger als der Rest der SPD-Fraktion?",
+    "options": [
+      {
+        "text": "Alt",
+        "isCorrect": false
+      },
+      {
+        "text": "Wirtschaftlich",
+        "isCorrect": false
+      },
+      {
+        "text": "Links",
+        "isCorrect": true
+      },
+      {
+        "text": "Gut",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Links\" nutzt Felix Döring 33.5× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "3.9× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐴",
+    "name": "Pferd",
+    "title": "Fleißiger Debattierer",
+    "reason": "Mit 18 Reden gehörst du zu den aktivsten Abgeordneten.",
+    "id": "pferd",
+    "alternatives": [
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Cleverer Stratege",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 1.0
+      },
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüter",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 1.0
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 70.0,
+      "aggression": 0.0,
+      "labeling": 64.3,
+      "solution_focus": 93.9,
+      "collaboration": 42.9,
+      "demand_intensity": 1.7,
+      "acknowledgment": 8.3,
+      "authority": 74.8,
+      "future_orientation": 72.2,
+      "emotional_intensity": 36.1,
+      "inclusivity": 42.5,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 18,
+      "words": 5618,
+      "adjectives": 28,
+      "verbs": 60
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.36,
+      "klima": 0.36,
+      "wirtschaft": 0.36,
+      "soziales": 7.48,
+      "sicherheit": 1.78,
+      "gesundheit": 0.36,
+      "europa": 2.31,
+      "digital": 0.89,
+      "bildung": 4.27,
+      "finanzen": 5.87,
+      "justiz": 1.07,
+      "arbeit": 0.53,
+      "mobilitaet": 1.07
+    },
+    "topTopics": [
+      {
+        "topic": "soziales",
+        "score": 7.48,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 5.87,
+        "rank": 2
+      },
+      {
+        "topic": "bildung",
+        "score": 4.27,
+        "rank": 3
+      },
+      {
+        "topic": "europa",
+        "score": 2.31,
+        "rank": 4
+      },
+      {
+        "topic": "sicherheit",
+        "score": 1.78,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "geflüchtete",
+          "count": 1
+        },
+        {
+          "word": "mittelmeer",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "klimawandel",
+          "count": 2
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "bruttoinlandsprodukt",
+          "count": 1
+        },
+        {
+          "word": "betrieb",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 15
+        },
+        {
+          "word": "elterngeld",
+          "count": 14
+        },
+        {
+          "word": "familien",
+          "count": 3
+        },
+        {
+          "word": "eltern",
+          "count": 3
+        },
+        {
+          "word": "jugendhilfe",
+          "count": 2
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "gewalt",
+          "count": 4
+        },
+        {
+          "word": "verteidigung",
+          "count": 1
+        },
+        {
+          "word": "angriff",
+          "count": 1
+        },
+        {
+          "word": "verfassungsschutz",
+          "count": 1
+        },
+        {
+          "word": "extremismus",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "impfung",
+          "count": 1
+        },
+        {
+          "word": "sucht",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "außenminister",
+          "count": 2
+        },
+        {
+          "word": "europa",
+          "count": 2
+        },
+        {
+          "word": "china",
+          "count": 2
+        },
+        {
+          "word": "ukraine",
+          "count": 2
+        },
+        {
+          "word": "wiederaufbau",
+          "count": 2
+        }
+      ],
+      "digital": [
+        {
+          "word": "plattform",
+          "count": 2
+        },
+        {
+          "word": "medienkompetenz",
+          "count": 1
+        },
+        {
+          "word": "plattformen",
+          "count": 1
+        },
+        {
+          "word": "algorithmen",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "bildung",
+          "count": 10
+        },
+        {
+          "word": "schülerinnen",
+          "count": 3
+        },
+        {
+          "word": "schüler",
+          "count": 3
+        },
+        {
+          "word": "hochschulen",
+          "count": 2
+        },
+        {
+          "word": "studierende",
+          "count": 2
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 10
+        },
+        {
+          "word": "etat",
+          "count": 9
+        },
+        {
+          "word": "haushaltsausschuss",
+          "count": 3
+        },
+        {
+          "word": "investition",
+          "count": 2
+        },
+        {
+          "word": "schuldenbremse",
+          "count": 2
+        }
+      ],
+      "justiz": [
+        {
+          "word": "verfassung",
+          "count": 2
+        },
+        {
+          "word": "straftaten",
+          "count": 1
+        },
+        {
+          "word": "bundesverfassungsgericht",
+          "count": 1
+        },
+        {
+          "word": "grundgesetz",
+          "count": 1
+        },
+        {
+          "word": "rechtsstaatlichkeit",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "löhne",
+          "count": 1
+        },
+        {
+          "word": "teilzeit",
+          "count": 1
+        },
+        {
+          "word": "einkommen",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "straße",
+          "count": 3
+        },
+        {
+          "word": "infrastruktur",
+          "count": 2
+        },
+        {
+          "word": "führerschein",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

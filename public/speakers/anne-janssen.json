@@ -1,0 +1,287 @@
+{
+  "name": "Anne Janssen",
+  "party": "CDU/CSU",
+  "slug": "anne-janssen",
+  "academicTitle": null,
+  "speeches": 4,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 1598,
+  "avgWords": 400,
+  "minWords": 316,
+  "maxWords": 464,
+  "rankings": {
+    "speechRank": 450,
+    "wordsRank": 496,
+    "partySpeechRank": 136,
+    "partyWordsRank": 162,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 26.1,
+    "verbosityRank": 341,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 122,
+    "longestSpeechRank": 549
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 0,
+    "interrupterRank": null,
+    "interruptedRank": null
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "pflege",
+        "count": 11
+      },
+      {
+        "word": "versorgung",
+        "count": 7
+      },
+      {
+        "word": "verfahren",
+        "count": 5
+      },
+      {
+        "word": "pflegekräfte",
+        "count": 5
+      },
+      {
+        "word": "schnell",
+        "count": 4
+      },
+      {
+        "word": "gemeinsam",
+        "count": 4
+      },
+      {
+        "word": "knoten",
+        "count": 4
+      },
+      {
+        "word": "menschen",
+        "count": 4
+      },
+      {
+        "word": "endlich",
+        "count": 4
+      },
+      {
+        "word": "klaren",
+        "count": 4
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "pflegekräfte",
+        "count": 5,
+        "ratioParty": 103.5,
+        "ratioBundestag": 96.3
+      },
+      {
+        "word": "pflege",
+        "count": 11,
+        "ratioParty": 38.2,
+        "ratioBundestag": 44.7
+      },
+      {
+        "word": "versorgung",
+        "count": 7,
+        "ratioParty": 29.7,
+        "ratioBundestag": 35.3
+      },
+      {
+        "word": "verfahren",
+        "count": 5,
+        "ratioParty": 8.9,
+        "ratioBundestag": 11.8
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 400,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.58,
+    "vsParliament": 0.65
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "4"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "1.598"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Anne Janssen häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Migration",
+        "isCorrect": false
+      },
+      {
+        "text": "Abstimmung",
+        "isCorrect": false
+      },
+      {
+        "text": "Klima",
+        "isCorrect": false
+      },
+      {
+        "text": "Pflegekräfte",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Pflegekräfte\" nutzt Anne Janssen 103.5× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "96.3× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🦦",
+    "name": "Otter",
+    "title": "Positive Teamplayerin",
+    "reason": "Du bringst gute Stimmung und konstruktive Beiträge ins Plenum.",
+    "id": "otter",
+    "alternatives": [
+      {
+        "emoji": "🦫",
+        "name": "Biber",
+        "title": "Konstruktive Brückenbauerin",
+        "reason": "Du baust Brücken zwischen Positionen – kooperativ und lösungsorientiert.",
+        "id": "biber",
+        "score": 1.0
+      },
+      {
+        "emoji": "🐇",
+        "name": "Hase",
+        "title": "Wendige Optimistin",
+        "reason": "Mit positivem Blick reagierst du schnell auf neue Themen.",
+        "id": "hase",
+        "score": 0.9
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 100.0,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 100.0,
+      "collaboration": 100.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 23.1,
+      "authority": 65.4,
+      "future_orientation": 100.0,
+      "emotional_intensity": 50.0,
+      "inclusivity": 48.0,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 4,
+      "words": 1030,
+      "adjectives": 8,
+      "verbs": 13
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.0,
+      "wirtschaft": 1.94,
+      "soziales": 0.0,
+      "sicherheit": 0.0,
+      "gesundheit": 21.36,
+      "europa": 0.0,
+      "digital": 0.0,
+      "bildung": 4.85,
+      "finanzen": 1.94,
+      "justiz": 0.0,
+      "arbeit": 0.0,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "gesundheit",
+        "score": 21.36,
+        "rank": 1
+      },
+      {
+        "topic": "bildung",
+        "score": 4.85,
+        "rank": 2
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 1.94,
+        "rank": 3
+      },
+      {
+        "topic": "finanzen",
+        "score": 1.94,
+        "rank": 4
+      }
+    ],
+    "topicWords": {
+      "wirtschaft": [
+        {
+          "word": "insolvenzen",
+          "count": 1
+        },
+        {
+          "word": "fachkräfte",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "pflege",
+          "count": 11
+        },
+        {
+          "word": "pflegekräfte",
+          "count": 5
+        },
+        {
+          "word": "pflegekraft",
+          "count": 2
+        },
+        {
+          "word": "arzt",
+          "count": 2
+        },
+        {
+          "word": "kliniken",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "ausbildung",
+          "count": 4
+        },
+        {
+          "word": "studium",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "kosten",
+          "count": 1
+        },
+        {
+          "word": "entlastung",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

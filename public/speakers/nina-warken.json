@@ -1,0 +1,420 @@
+{
+  "name": "Nina Warken",
+  "party": "CDU/CSU",
+  "slug": "nina-warken",
+  "academicTitle": null,
+  "speeches": 13,
+  "wortbeitraege": 45,
+  "befragungResponses": 45,
+  "totalWords": 11534,
+  "avgWords": 199,
+  "minWords": 9,
+  "maxWords": 1322,
+  "rankings": {
+    "speechRank": 62,
+    "wordsRank": 19,
+    "partySpeechRank": 16,
+    "partyWordsRank": 8,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 89.8,
+    "verbosityRank": 506,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 159,
+    "longestSpeechRank": 23
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 6,
+    "interrupterRank": null,
+    "interruptedRank": 378
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 32
+      },
+      {
+        "word": "versorgung",
+        "count": 32
+      },
+      {
+        "word": "pflege",
+        "count": 29
+      },
+      {
+        "word": "habe",
+        "count": 24
+      },
+      {
+        "word": "maßnahmen",
+        "count": 24
+      },
+      {
+        "word": "gute",
+        "count": 23
+      },
+      {
+        "word": "reform",
+        "count": 23
+      },
+      {
+        "word": "kollege",
+        "count": 23
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "leistungsgruppen",
+        "count": 6,
+        "ratioParty": 428.8,
+        "ratioBundestag": 122.8
+      },
+      {
+        "word": "sensibilisieren",
+        "count": 5,
+        "ratioParty": 178.7,
+        "ratioBundestag": 187.7
+      },
+      {
+        "word": "tiefgreifenden",
+        "count": 6,
+        "ratioParty": 142.9,
+        "ratioBundestag": 112.6
+      },
+      {
+        "word": "spezialisierung",
+        "count": 5,
+        "ratioParty": 119.1,
+        "ratioBundestag": 187.7
+      },
+      {
+        "word": "apotheken",
+        "count": 5,
+        "ratioParty": 89.3,
+        "ratioBundestag": 80.4
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 199,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.29,
+    "vsParliament": 0.32
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "13"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "11.534"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Nina Warken häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Leistungsgruppen",
+        "isCorrect": true
+      },
+      {
+        "text": "Freiheit",
+        "isCorrect": false
+      },
+      {
+        "text": "Kinder",
+        "isCorrect": false
+      },
+      {
+        "text": "Klima",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Leistungsgruppen\" nutzt Nina Warken 428.8× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "122.8× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🦊",
+    "name": "Fuchs",
+    "title": "Clevere Strategin",
+    "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+    "id": "fuchs",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüterin",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 1.0
+      },
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißige Abgeordnete",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 88.2,
+      "aggression": 5.6,
+      "labeling": 0.0,
+      "solution_focus": 91.0,
+      "collaboration": 75.0,
+      "demand_intensity": 6.3,
+      "acknowledgment": 2.7,
+      "authority": 81.8,
+      "future_orientation": 92.9,
+      "emotional_intensity": 26.3,
+      "inclusivity": 57.3,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 58,
+      "words": 7372,
+      "adjectives": 18,
+      "verbs": 111
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.14,
+      "klima": 0.54,
+      "wirtschaft": 0.68,
+      "soziales": 1.36,
+      "sicherheit": 0.14,
+      "gesundheit": 19.26,
+      "europa": 0.14,
+      "digital": 0.95,
+      "bildung": 1.76,
+      "finanzen": 4.07,
+      "justiz": 0.27,
+      "arbeit": 0.41,
+      "mobilitaet": 0.68
+    },
+    "topTopics": [
+      {
+        "topic": "gesundheit",
+        "score": 19.26,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 4.07,
+        "rank": 2
+      },
+      {
+        "topic": "bildung",
+        "score": 1.76,
+        "rank": 3
+      },
+      {
+        "topic": "soziales",
+        "score": 1.36,
+        "rank": 4
+      },
+      {
+        "topic": "digital",
+        "score": 0.95,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "grenze",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "klimaneutralität",
+          "count": 2
+        },
+        {
+          "word": "nachhaltig",
+          "count": 1
+        },
+        {
+          "word": "nachhaltigkeit",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "qualifikation",
+          "count": 1
+        },
+        {
+          "word": "wachstum",
+          "count": 1
+        },
+        {
+          "word": "fachkräftemangel",
+          "count": 1
+        },
+        {
+          "word": "standort",
+          "count": 1
+        },
+        {
+          "word": "unternehmen",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 4
+        },
+        {
+          "word": "eltern",
+          "count": 2
+        },
+        {
+          "word": "jugendliche",
+          "count": 2
+        },
+        {
+          "word": "sozialstaat",
+          "count": 1
+        },
+        {
+          "word": "sozialleistungen",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "angriff",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "pflege",
+          "count": 29
+        },
+        {
+          "word": "krankenhäuser",
+          "count": 14
+        },
+        {
+          "word": "krankenhausreform",
+          "count": 12
+        },
+        {
+          "word": "pflegeversicherung",
+          "count": 12
+        },
+        {
+          "word": "krankenversicherung",
+          "count": 9
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 3
+        },
+        {
+          "word": "cybersicherheit",
+          "count": 2
+        },
+        {
+          "word": "digital",
+          "count": 2
+        }
+      ],
+      "bildung": [
+        {
+          "word": "ausbildung",
+          "count": 10
+        },
+        {
+          "word": "forschung",
+          "count": 1
+        },
+        {
+          "word": "weiterbildung",
+          "count": 1
+        },
+        {
+          "word": "schulen",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 7
+        },
+        {
+          "word": "finanzierung",
+          "count": 6
+        },
+        {
+          "word": "sondervermögen",
+          "count": 6
+        },
+        {
+          "word": "kosten",
+          "count": 4
+        },
+        {
+          "word": "investition",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "gesetzgebung",
+          "count": 1
+        },
+        {
+          "word": "verordnung",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "löhne",
+          "count": 1
+        },
+        {
+          "word": "arbeitnehmerin",
+          "count": 1
+        },
+        {
+          "word": "arbeitsplatz",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 5
+        }
+      ]
+    }
+  }
+}

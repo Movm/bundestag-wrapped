@@ -1,0 +1,314 @@
+{
+  "name": "Gunther Krichbaum",
+  "party": "CDU/CSU",
+  "slug": "gunther-krichbaum",
+  "academicTitle": null,
+  "speeches": 4,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 1372,
+  "avgWords": 343,
+  "minWords": 36,
+  "maxWords": 475,
+  "rankings": {
+    "speechRank": 464,
+    "wordsRank": 517,
+    "partySpeechRank": 142,
+    "partyWordsRank": 168,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 23.8,
+    "verbosityRank": 427,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 141,
+    "longestSpeechRank": 543
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 0,
+    "interrupterRank": null,
+    "interruptedRank": null
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "eines",
+        "count": 6
+      },
+      {
+        "word": "bosnien",
+        "count": 5
+      },
+      {
+        "word": "herzegowina",
+        "count": 5
+      },
+      {
+        "word": "augen",
+        "count": 5
+      },
+      {
+        "word": "dayton",
+        "count": 4
+      },
+      {
+        "word": "richtig",
+        "count": 4
+      },
+      {
+        "word": "menschen",
+        "count": 4
+      },
+      {
+        "word": "union",
+        "count": 4
+      },
+      {
+        "word": "mission",
+        "count": 4
+      },
+      {
+        "word": "region",
+        "count": 4
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "herzegowina",
+        "count": 5,
+        "ratioParty": 80.6,
+        "ratioBundestag": 87.1
+      },
+      {
+        "word": "bosnien",
+        "count": 5,
+        "ratioParty": 72.8,
+        "ratioBundestag": 72.8
+      },
+      {
+        "word": "augen",
+        "count": 5,
+        "ratioParty": 31.4,
+        "ratioBundestag": 34.7
+      },
+      {
+        "word": "eines",
+        "count": 6,
+        "ratioParty": 5.6,
+        "ratioBundestag": 6.7
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 343,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.5,
+    "vsParliament": 0.56
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "4"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "1.372"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Gunther Krichbaum häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Kanzler",
+        "isCorrect": false
+      },
+      {
+        "text": "Herzegowina",
+        "isCorrect": true
+      },
+      {
+        "text": "Europa",
+        "isCorrect": false
+      },
+      {
+        "text": "Bildung",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Herzegowina\" nutzt Gunther Krichbaum 80.6× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "87.1× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🦫",
+    "name": "Biber",
+    "title": "Konstruktiver Brückenbauer",
+    "reason": "Du baust Brücken zwischen Positionen – kooperativ und lösungsorientiert.",
+    "id": "biber",
+    "alternatives": [
+      {
+        "emoji": "🐬",
+        "name": "Delfin",
+        "title": "Diplomatischer Redner",
+        "reason": "Aktiv im Parlament, aber respektvoll ohne viele Zwischenrufe.",
+        "id": "delfin",
+        "score": 0.85
+      },
+      {
+        "emoji": "🦦",
+        "name": "Otter",
+        "title": "Positiver Teamplayer",
+        "reason": "Du bringst gute Stimmung und konstruktive Beiträge ins Plenum.",
+        "id": "otter",
+        "score": 0.84
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 60.0,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 100.0,
+      "collaboration": 100.0,
+      "demand_intensity": 14.3,
+      "acknowledgment": 0.0,
+      "authority": 71.4,
+      "future_orientation": 73.3,
+      "emotional_intensity": 0.0,
+      "inclusivity": 52.6,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 4,
+      "words": 894,
+      "adjectives": 5,
+      "verbs": 7
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 1.12,
+      "klima": 0.0,
+      "wirtschaft": 0.0,
+      "soziales": 0.0,
+      "sicherheit": 6.71,
+      "gesundheit": 1.12,
+      "europa": 8.95,
+      "digital": 0.0,
+      "bildung": 2.24,
+      "finanzen": 0.0,
+      "justiz": 1.12,
+      "arbeit": 0.0,
+      "mobilitaet": 2.24
+    },
+    "topTopics": [
+      {
+        "topic": "europa",
+        "score": 8.95,
+        "rank": 1
+      },
+      {
+        "topic": "sicherheit",
+        "score": 6.71,
+        "rank": 2
+      },
+      {
+        "topic": "bildung",
+        "score": 2.24,
+        "rank": 3
+      },
+      {
+        "topic": "mobilitaet",
+        "score": 2.24,
+        "rank": 4
+      },
+      {
+        "topic": "migration",
+        "score": 1.12,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "mittelmeer",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "soldaten",
+          "count": 4
+        },
+        {
+          "word": "gewalt",
+          "count": 1
+        },
+        {
+          "word": "bundeswehr",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "operation",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 3
+        },
+        {
+          "word": "frieden",
+          "count": 2
+        },
+        {
+          "word": "sanktionen",
+          "count": 1
+        },
+        {
+          "word": "brüssel",
+          "count": 1
+        },
+        {
+          "word": "außenminister",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "schulen",
+          "count": 1
+        },
+        {
+          "word": "schüler",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "rechtsstaatlichkeit",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "schiffe",
+          "count": 1
+        },
+        {
+          "word": "schiff",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

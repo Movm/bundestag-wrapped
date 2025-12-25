@@ -1,0 +1,425 @@
+{
+  "name": "Dr. Katja Strauss-Köster",
+  "party": "CDU/CSU",
+  "slug": "katja-strauss-koester",
+  "academicTitle": "Dr",
+  "speeches": 5,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 2587,
+  "avgWords": 517,
+  "minWords": 363,
+  "maxWords": 601,
+  "rankings": {
+    "speechRank": 401,
+    "wordsRank": 401,
+    "partySpeechRank": 117,
+    "partyWordsRank": 124,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 34.2,
+    "verbosityRank": 142,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 53,
+    "longestSpeechRank": 423
+  },
+  "drama": {
+    "interruptionsGiven": 4,
+    "interruptionsReceived": 14,
+    "interrupterRank": 238,
+    "interruptedRank": 208
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "kinder",
+        "count": 10
+      },
+      {
+        "word": "maßnahmen",
+        "count": 8
+      },
+      {
+        "word": "deutschland",
+        "count": 6
+      },
+      {
+        "word": "schutz",
+        "count": 6
+      },
+      {
+        "word": "bundesregierung",
+        "count": 6
+      },
+      {
+        "word": "täter",
+        "count": 6
+      },
+      {
+        "word": "digitale",
+        "count": 6
+      },
+      {
+        "word": "kommunikation",
+        "count": 6
+      },
+      {
+        "word": "freiwillige",
+        "count": 6
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "kommunikation",
+        "count": 6,
+        "ratioParty": 66.9,
+        "ratioBundestag": 57.7
+      },
+      {
+        "word": "freiwillige",
+        "count": 6,
+        "ratioParty": 56.4,
+        "ratioBundestag": 102.7
+      },
+      {
+        "word": "städte",
+        "count": 5,
+        "ratioParty": 31.4,
+        "ratioBundestag": 23.7
+      },
+      {
+        "word": "täter",
+        "count": 6,
+        "ratioParty": 27.4,
+        "ratioBundestag": 31.7
+      },
+      {
+        "word": "opfer",
+        "count": 5,
+        "ratioParty": 13.9,
+        "ratioBundestag": 15.7
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "sicher",
+        "count": 3,
+        "ratioParty": 3.3,
+        "ratioBundestag": 3.8
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 517,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.75,
+    "vsParliament": 0.84
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "5"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "2.587"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Dr. Katja Strauss-Köster häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Migration",
+        "isCorrect": false
+      },
+      {
+        "text": "Minister",
+        "isCorrect": false
+      },
+      {
+        "text": "Abstimmung",
+        "isCorrect": false
+      },
+      {
+        "text": "Kommunikation",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Kommunikation\" nutzt Dr. Katja Strauss-Köster 66.9× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "57.7× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Dr. Katja Strauss-Köster häufiger als der Rest der CDU/CSU-Fraktion?",
+    "options": [
+      {
+        "text": "Klar",
+        "isCorrect": false
+      },
+      {
+        "text": "Problematisch",
+        "isCorrect": false
+      },
+      {
+        "text": "Richtig",
+        "isCorrect": false
+      },
+      {
+        "text": "Sicher",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Sicher\" nutzt Dr. Katja Strauss-Köster 3.3× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "3.8× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🦫",
+    "name": "Biber",
+    "title": "Konstruktive Brückenbauerin",
+    "reason": "Du baust Brücken zwischen Positionen – kooperativ und lösungsorientiert.",
+    "id": "biber",
+    "alternatives": [
+      {
+        "emoji": "🦦",
+        "name": "Otter",
+        "title": "Positive Teamplayerin",
+        "reason": "Du bringst gute Stimmung und konstruktive Beiträge ins Plenum.",
+        "id": "otter",
+        "score": 0.877
+      },
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüterin",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.791
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 78.6,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 87.5,
+      "collaboration": 100.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 6.9,
+      "authority": 66.7,
+      "future_orientation": 88.0,
+      "emotional_intensity": 80.0,
+      "inclusivity": 79.1,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 5,
+      "words": 1769,
+      "adjectives": 14,
+      "verbs": 29
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.57,
+      "klima": 0.57,
+      "wirtschaft": 1.13,
+      "soziales": 7.91,
+      "sicherheit": 6.78,
+      "gesundheit": 2.83,
+      "europa": 1.7,
+      "digital": 4.52,
+      "bildung": 0.0,
+      "finanzen": 3.39,
+      "justiz": 7.35,
+      "arbeit": 0.0,
+      "mobilitaet": 0.57
+    },
+    "topTopics": [
+      {
+        "topic": "soziales",
+        "score": 7.91,
+        "rank": 1
+      },
+      {
+        "topic": "justiz",
+        "score": 7.35,
+        "rank": 2
+      },
+      {
+        "topic": "sicherheit",
+        "score": 6.78,
+        "rank": 3
+      },
+      {
+        "topic": "digital",
+        "score": 4.52,
+        "rank": 4
+      },
+      {
+        "topic": "finanzen",
+        "score": 3.39,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "integration",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "nachhaltig",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 1
+        },
+        {
+          "word": "kapital",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 10
+        },
+        {
+          "word": "kind",
+          "count": 3
+        },
+        {
+          "word": "jugendliche",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "täter",
+          "count": 6
+        },
+        {
+          "word": "angriff",
+          "count": 2
+        },
+        {
+          "word": "gewalt",
+          "count": 2
+        },
+        {
+          "word": "verbrechen",
+          "count": 1
+        },
+        {
+          "word": "straftäter",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "prävention",
+          "count": 2
+        },
+        {
+          "word": "krankenhäuser",
+          "count": 1
+        },
+        {
+          "word": "krankenhaus",
+          "count": 1
+        },
+        {
+          "word": "sucht",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 3
+        }
+      ],
+      "digital": [
+        {
+          "word": "netz",
+          "count": 3
+        },
+        {
+          "word": "rechenzentrum",
+          "count": 2
+        },
+        {
+          "word": "plattformen",
+          "count": 1
+        },
+        {
+          "word": "online",
+          "count": 1
+        },
+        {
+          "word": "verschlüsselung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 2
+        },
+        {
+          "word": "bundeshaushalt",
+          "count": 1
+        },
+        {
+          "word": "steuern",
+          "count": 1
+        },
+        {
+          "word": "investition",
+          "count": 1
+        },
+        {
+          "word": "haushaltsentwurf",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "grundrechte",
+          "count": 4
+        },
+        {
+          "word": "verordnung",
+          "count": 3
+        },
+        {
+          "word": "straftaten",
+          "count": 2
+        },
+        {
+          "word": "gericht",
+          "count": 1
+        },
+        {
+          "word": "strafverfolgung",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "straßen",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,511 @@
+{
+  "name": "Christian Moser",
+  "party": "CDU/CSU",
+  "slug": "christian-moser",
+  "academicTitle": null,
+  "speeches": 18,
+  "wortbeitraege": 5,
+  "befragungResponses": 0,
+  "totalWords": 11621,
+  "avgWords": 505,
+  "minWords": 52,
+  "maxWords": 871,
+  "rankings": {
+    "speechRank": 13,
+    "wordsRank": 18,
+    "partySpeechRank": 2,
+    "partyWordsRank": 7,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 97.9,
+    "verbosityRank": 158,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 59,
+    "longestSpeechRank": 124
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 27,
+    "interrupterRank": null,
+    "interruptedRank": 66
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "klimaschutz",
+        "count": 31
+      },
+      {
+        "word": "deutschland",
+        "count": 29
+      },
+      {
+        "word": "menschen",
+        "count": 27
+      },
+      {
+        "word": "beispiel",
+        "count": 23
+      },
+      {
+        "word": "gesetzentwurf",
+        "count": 22
+      },
+      {
+        "word": "preis",
+        "count": 20
+      },
+      {
+        "word": "wirtschaft",
+        "count": 20
+      },
+      {
+        "word": "jahr",
+        "count": 18
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "hochwasserschutz",
+        "count": 11,
+        "ratioParty": 260.2,
+        "ratioBundestag": 144.7
+      },
+      {
+        "word": "umweltminister",
+        "count": 7,
+        "ratioParty": 82.8,
+        "ratioBundestag": 46.0
+      },
+      {
+        "word": "klimaanpassung",
+        "count": 7,
+        "ratioParty": 82.8,
+        "ratioBundestag": 34.0
+      },
+      {
+        "word": "chemischen",
+        "count": 8,
+        "ratioParty": 56.8,
+        "ratioBundestag": 94.2
+      },
+      {
+        "word": "klimaschutzpolitik",
+        "count": 5,
+        "ratioParty": 50.7,
+        "ratioBundestag": 39.9
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "schlecht",
+        "count": 3,
+        "ratioParty": 5.3,
+        "ratioBundestag": 3.2
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 505,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.73,
+    "vsParliament": 0.82
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "18"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "11.621"
+    },
+    {
+      "emoji": "🏆",
+      "label": "Rang (Reden)",
+      "value": "#13 von 609"
+    },
+    {
+      "emoji": "🥇",
+      "label": "Rang in CDU/CSU",
+      "value": "#2 von 203"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Christian Moser häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Hochwasserschutz",
+        "isCorrect": true
+      },
+      {
+        "text": "Gesetz",
+        "isCorrect": false
+      },
+      {
+        "text": "Sicherheit",
+        "isCorrect": false
+      },
+      {
+        "text": "Bürger",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Hochwasserschutz\" nutzt Christian Moser 260.2× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "144.7× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Christian Moser häufiger als der Rest der CDU/CSU-Fraktion?",
+    "options": [
+      {
+        "text": "Schlecht",
+        "isCorrect": true
+      },
+      {
+        "text": "Neu",
+        "isCorrect": false
+      },
+      {
+        "text": "Notwendig",
+        "isCorrect": false
+      },
+      {
+        "text": "Erfolgreich",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Schlecht\" nutzt Christian Moser 5.3× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "3.2× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🦁",
+    "name": "Löwe",
+    "title": "Fraktionsstimme",
+    "reason": "Als #2 in der CDU/CSU-Fraktion bist du eine führende Stimme.",
+    "id": "loewe",
+    "alternatives": [
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Cleverer Stratege",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 1.0
+      },
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüter",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 1.0
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 69.7,
+      "aggression": 0.0,
+      "labeling": 2.9,
+      "solution_focus": 70.3,
+      "collaboration": 33.3,
+      "demand_intensity": 10.1,
+      "acknowledgment": 1.1,
+      "authority": 86.0,
+      "future_orientation": 86.9,
+      "emotional_intensity": 45.0,
+      "inclusivity": 49.7,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 23,
+      "words": 7423,
+      "adjectives": 34,
+      "verbs": 89
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.13,
+      "klima": 12.53,
+      "wirtschaft": 5.79,
+      "soziales": 4.31,
+      "sicherheit": 1.62,
+      "gesundheit": 0.4,
+      "europa": 0.94,
+      "digital": 2.42,
+      "bildung": 0.81,
+      "finanzen": 4.58,
+      "justiz": 6.74,
+      "arbeit": 0.27,
+      "mobilitaet": 1.35
+    },
+    "topTopics": [
+      {
+        "topic": "klima",
+        "score": 12.53,
+        "rank": 1
+      },
+      {
+        "topic": "justiz",
+        "score": 6.74,
+        "rank": 2
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 5.79,
+        "rank": 3
+      },
+      {
+        "topic": "finanzen",
+        "score": 4.58,
+        "rank": 4
+      },
+      {
+        "topic": "soziales",
+        "score": 4.31,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "migration",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "klimaschutz",
+          "count": 31
+        },
+        {
+          "word": "klimaanpassung",
+          "count": 7
+        },
+        {
+          "word": "emissionshandel",
+          "count": 6
+        },
+        {
+          "word": "energiewende",
+          "count": 5
+        },
+        {
+          "word": "erneuerbare",
+          "count": 3
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "industrie",
+          "count": 17
+        },
+        {
+          "word": "unternehmen",
+          "count": 6
+        },
+        {
+          "word": "wettbewerbsfähigkeit",
+          "count": 5
+        },
+        {
+          "word": "marktwirtschaft",
+          "count": 3
+        },
+        {
+          "word": "markt",
+          "count": 3
+        }
+      ],
+      "soziales": [
+        {
+          "word": "mieten",
+          "count": 7
+        },
+        {
+          "word": "kinder",
+          "count": 6
+        },
+        {
+          "word": "rente",
+          "count": 3
+        },
+        {
+          "word": "familien",
+          "count": 2
+        },
+        {
+          "word": "wohnung",
+          "count": 2
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "täter",
+          "count": 6
+        },
+        {
+          "word": "kriminalität",
+          "count": 5
+        },
+        {
+          "word": "einbruch",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "pflege",
+          "count": 2
+        },
+        {
+          "word": "psychisch",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 3
+        },
+        {
+          "word": "angriffskrieg",
+          "count": 1
+        },
+        {
+          "word": "ukraine",
+          "count": 1
+        },
+        {
+          "word": "china",
+          "count": 1
+        },
+        {
+          "word": "bündnis",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "netz",
+          "count": 5
+        },
+        {
+          "word": "digitalisierung",
+          "count": 3
+        },
+        {
+          "word": "internet",
+          "count": 3
+        },
+        {
+          "word": "software",
+          "count": 2
+        },
+        {
+          "word": "netzwerk",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "forschung",
+          "count": 3
+        },
+        {
+          "word": "schulen",
+          "count": 1
+        },
+        {
+          "word": "schule",
+          "count": 1
+        },
+        {
+          "word": "professor",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 12
+        },
+        {
+          "word": "kosten",
+          "count": 6
+        },
+        {
+          "word": "bundeshaushalt",
+          "count": 4
+        },
+        {
+          "word": "finanzierung",
+          "count": 4
+        },
+        {
+          "word": "investitionen",
+          "count": 3
+        }
+      ],
+      "justiz": [
+        {
+          "word": "strafverfolgung",
+          "count": 6
+        },
+        {
+          "word": "rechtsstaat",
+          "count": 6
+        },
+        {
+          "word": "bundesverfassungsgericht",
+          "count": 5
+        },
+        {
+          "word": "mietrecht",
+          "count": 5
+        },
+        {
+          "word": "straftaten",
+          "count": 2
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitsplätze",
+          "count": 1
+        },
+        {
+          "word": "rentenversicherung",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 3
+        },
+        {
+          "word": "autos",
+          "count": 2
+        },
+        {
+          "word": "ladeinfrastruktur",
+          "count": 1
+        },
+        {
+          "word": "straße",
+          "count": 1
+        },
+        {
+          "word": "auto",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

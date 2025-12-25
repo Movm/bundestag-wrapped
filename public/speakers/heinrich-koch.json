@@ -1,0 +1,324 @@
+{
+  "name": "Heinrich Koch",
+  "party": "AfD",
+  "slug": "heinrich-koch",
+  "academicTitle": null,
+  "speeches": 6,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 2076,
+  "avgWords": 346,
+  "minWords": 221,
+  "maxWords": 504,
+  "rankings": {
+    "speechRank": 337,
+    "wordsRank": 455,
+    "partySpeechRank": 79,
+    "partyWordsRank": 103,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 44.7,
+    "verbosityRank": 420,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 103,
+    "longestSpeechRank": 521
+  },
+  "drama": {
+    "interruptionsGiven": 1,
+    "interruptionsReceived": 4,
+    "interrupterRank": 321,
+    "interruptedRank": 424
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "bürger",
+        "count": 12
+      },
+      {
+        "word": "soldaten",
+        "count": 12
+      },
+      {
+        "word": "bundeswehr",
+        "count": 11
+      },
+      {
+        "word": "vertrauen",
+        "count": 7
+      },
+      {
+        "word": "einsatz",
+        "count": 7
+      },
+      {
+        "word": "endlich",
+        "count": 7
+      },
+      {
+        "word": "regierung",
+        "count": 6
+      },
+      {
+        "word": "jahr",
+        "count": 6
+      },
+      {
+        "word": "klare",
+        "count": 5
+      },
+      {
+        "word": "nato",
+        "count": 5
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "mandat",
+        "count": 5,
+        "ratioParty": 31.8,
+        "ratioBundestag": 33.7
+      },
+      {
+        "word": "wehrpflicht",
+        "count": 5,
+        "ratioParty": 22.1,
+        "ratioBundestag": 32.4
+      },
+      {
+        "word": "soldaten",
+        "count": 12,
+        "ratioParty": 21.1,
+        "ratioBundestag": 23.3
+      },
+      {
+        "word": "einsatz",
+        "count": 7,
+        "ratioParty": 20.7,
+        "ratioBundestag": 15.2
+      },
+      {
+        "word": "entwurf",
+        "count": 5,
+        "ratioParty": 16.3,
+        "ratioBundestag": 17.5
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 346,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.59,
+    "vsParliament": 0.56
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "6"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "2.076"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Heinrich Koch häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Mandat",
+        "isCorrect": true
+      },
+      {
+        "text": "Europa",
+        "isCorrect": false
+      },
+      {
+        "text": "Klima",
+        "isCorrect": false
+      },
+      {
+        "text": "Investitionen",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Mandat\" nutzt Heinrich Koch 31.8× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "33.7× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 50.0,
+      "aggression": 0.0,
+      "labeling": 20.0,
+      "solution_focus": 58.3,
+      "collaboration": 100.0,
+      "demand_intensity": 27.8,
+      "acknowledgment": 0.0,
+      "authority": 91.7,
+      "future_orientation": 76.2,
+      "emotional_intensity": 33.3,
+      "inclusivity": 66.0,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 6,
+      "words": 1444,
+      "adjectives": 5,
+      "verbs": 18
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.0,
+      "wirtschaft": 0.0,
+      "soziales": 4.85,
+      "sicherheit": 20.78,
+      "gesundheit": 1.39,
+      "europa": 13.16,
+      "digital": 0.0,
+      "bildung": 0.69,
+      "finanzen": 1.39,
+      "justiz": 0.0,
+      "arbeit": 0.0,
+      "mobilitaet": 3.46
+    },
+    "topTopics": [
+      {
+        "topic": "sicherheit",
+        "score": 20.78,
+        "rank": 1
+      },
+      {
+        "topic": "europa",
+        "score": 13.16,
+        "rank": 2
+      },
+      {
+        "topic": "soziales",
+        "score": 4.85,
+        "rank": 3
+      },
+      {
+        "topic": "mobilitaet",
+        "score": 3.46,
+        "rank": 4
+      },
+      {
+        "topic": "gesundheit",
+        "score": 1.39,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 4
+        },
+        {
+          "word": "eltern",
+          "count": 1
+        },
+        {
+          "word": "jugend",
+          "count": 1
+        },
+        {
+          "word": "rente",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "soldaten",
+          "count": 12
+        },
+        {
+          "word": "bundeswehr",
+          "count": 11
+        },
+        {
+          "word": "verteidigungsfähigkeit",
+          "count": 2
+        },
+        {
+          "word": "panzer",
+          "count": 1
+        },
+        {
+          "word": "verteidigung",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "operation",
+          "count": 2
+        }
+      ],
+      "europa": [
+        {
+          "word": "nato",
+          "count": 5
+        },
+        {
+          "word": "ukraine",
+          "count": 3
+        },
+        {
+          "word": "frieden",
+          "count": 3
+        },
+        {
+          "word": "krieg",
+          "count": 3
+        },
+        {
+          "word": "völkerrecht",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "ausbildung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "investitionen",
+          "count": 1
+        },
+        {
+          "word": "bundesrechnungshof",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 2
+        },
+        {
+          "word": "fliegen",
+          "count": 1
+        },
+        {
+          "word": "schiffe",
+          "count": 1
+        },
+        {
+          "word": "straßen",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

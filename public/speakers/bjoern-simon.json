@@ -1,0 +1,328 @@
+{
+  "name": "Björn Simon",
+  "party": "CDU/CSU",
+  "slug": "bjoern-simon",
+  "academicTitle": null,
+  "speeches": 6,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 2300,
+  "avgWords": 329,
+  "minWords": 15,
+  "maxWords": 682,
+  "rankings": {
+    "speechRank": 348,
+    "wordsRank": 428,
+    "partySpeechRank": 93,
+    "partyWordsRank": 133,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 42.9,
+    "verbosityRank": 439,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 143,
+    "longestSpeechRank": 325
+  },
+  "drama": {
+    "interruptionsGiven": 8,
+    "interruptionsReceived": 3,
+    "interrupterRank": 169,
+    "interruptedRank": 494
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "deutschland",
+        "count": 16
+      },
+      {
+        "word": "deutschlandticket",
+        "count": 9
+      },
+      {
+        "word": "mobilität",
+        "count": 8
+      },
+      {
+        "word": "gehört",
+        "count": 7
+      },
+      {
+        "word": "verkehrsminister",
+        "count": 6
+      },
+      {
+        "word": "arbeit",
+        "count": 6
+      },
+      {
+        "word": "menschen",
+        "count": 6
+      },
+      {
+        "word": "bürgerinnen",
+        "count": 6
+      },
+      {
+        "word": "bürger",
+        "count": 6
+      },
+      {
+        "word": "schnieder",
+        "count": 5
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "deutschlandtickets",
+        "count": 5,
+        "ratioParty": 211.8,
+        "ratioBundestag": 229.2
+      },
+      {
+        "word": "verkehrsminister",
+        "count": 6,
+        "ratioParty": 175.9,
+        "ratioBundestag": 152.2
+      },
+      {
+        "word": "schnieder",
+        "count": 5,
+        "ratioParty": 79.4,
+        "ratioBundestag": 64.8
+      },
+      {
+        "word": "deutschlandticket",
+        "count": 9,
+        "ratioParty": 76.2,
+        "ratioBundestag": 63.1
+      },
+      {
+        "word": "attraktivität",
+        "count": 5,
+        "ratioParty": 76.2,
+        "ratioBundestag": 121.6
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 329,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.48,
+    "vsParliament": 0.54
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "6"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "2.300"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Björn Simon häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Investitionen",
+        "isCorrect": false
+      },
+      {
+        "text": "Deutschlandtickets",
+        "isCorrect": true
+      },
+      {
+        "text": "Gesetz",
+        "isCorrect": false
+      },
+      {
+        "text": "Europa",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Deutschlandtickets\" nutzt Björn Simon 211.8× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "229.2× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🦊",
+    "name": "Fuchs",
+    "title": "Cleverer Stratege",
+    "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+    "id": "fuchs",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüter",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.854
+      },
+      {
+        "emoji": "🦦",
+        "name": "Otter",
+        "title": "Positiver Teamplayer",
+        "reason": "Du bringst gute Stimmung und konstruktive Beiträge ins Plenum.",
+        "id": "otter",
+        "score": 0.846
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 71.4,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 86.7,
+      "collaboration": 100.0,
+      "demand_intensity": 4.8,
+      "acknowledgment": 14.3,
+      "authority": 78.4,
+      "future_orientation": 91.7,
+      "emotional_intensity": 75.0,
+      "inclusivity": 76.5,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 7,
+      "words": 1398,
+      "adjectives": 7,
+      "verbs": 21
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.72,
+      "wirtschaft": 2.86,
+      "soziales": 0.0,
+      "sicherheit": 0.0,
+      "gesundheit": 0.0,
+      "europa": 0.72,
+      "digital": 1.43,
+      "bildung": 0.0,
+      "finanzen": 10.73,
+      "justiz": 0.72,
+      "arbeit": 0.0,
+      "mobilitaet": 32.9
+    },
+    "topTopics": [
+      {
+        "topic": "mobilitaet",
+        "score": 32.9,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 10.73,
+        "rank": 2
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 2.86,
+        "rank": 3
+      },
+      {
+        "topic": "digital",
+        "score": 1.43,
+        "rank": 4
+      },
+      {
+        "topic": "klima",
+        "score": 0.72,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "umwelt",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 2
+        },
+        {
+          "word": "automobilindustrie",
+          "count": 1
+        },
+        {
+          "word": "wettbewerb",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "europäisch",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 2
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "investitionen",
+          "count": 3
+        },
+        {
+          "word": "finanzierung",
+          "count": 3
+        },
+        {
+          "word": "haushalt",
+          "count": 3
+        },
+        {
+          "word": "sondervermögen",
+          "count": 2
+        },
+        {
+          "word": "kosten",
+          "count": 2
+        }
+      ],
+      "justiz": [
+        {
+          "word": "gesetzesänderung",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "deutschlandticket",
+          "count": 9
+        },
+        {
+          "word": "verkehrsminister",
+          "count": 6
+        },
+        {
+          "word": "öpnv",
+          "count": 5
+        },
+        {
+          "word": "schiene",
+          "count": 5
+        },
+        {
+          "word": "bahn",
+          "count": 4
+        }
+      ]
+    }
+  }
+}

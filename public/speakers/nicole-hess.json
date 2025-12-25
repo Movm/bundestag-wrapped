@@ -1,0 +1,409 @@
+{
+  "name": "Nicole Hess",
+  "party": "AfD",
+  "slug": "nicole-hess",
+  "academicTitle": null,
+  "speeches": 8,
+  "wortbeitraege": 2,
+  "befragungResponses": 0,
+  "totalWords": 4383,
+  "avgWords": 438,
+  "minWords": 23,
+  "maxWords": 758,
+  "rankings": {
+    "speechRank": 243,
+    "wordsRank": 223,
+    "partySpeechRank": 59,
+    "partyWordsRank": 47,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 60.1,
+    "verbosityRank": 267,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 60,
+    "longestSpeechRank": 241
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 5,
+    "interrupterRank": null,
+    "interruptedRank": 400
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "zeit",
+        "count": 13
+      },
+      {
+        "word": "einheit",
+        "count": 11
+      },
+      {
+        "word": "herzlichen",
+        "count": 9
+      },
+      {
+        "word": "pflege",
+        "count": 8
+      },
+      {
+        "word": "endlich",
+        "count": 8
+      },
+      {
+        "word": "menschen",
+        "count": 8
+      },
+      {
+        "word": "politik",
+        "count": 8
+      },
+      {
+        "word": "deutschland",
+        "count": 8
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "rettungsassistenten",
+        "count": 7,
+        "ratioParty": 897.8,
+        "ratioBundestag": 3989.3
+      },
+      {
+        "word": "einheit",
+        "count": 11,
+        "ratioParty": 56.4,
+        "ratioBundestag": 43.8
+      },
+      {
+        "word": "minuten",
+        "count": 7,
+        "ratioParty": 26.4,
+        "ratioBundestag": 32.4
+      },
+      {
+        "word": "pflege",
+        "count": 8,
+        "ratioParty": 19.7,
+        "ratioBundestag": 11.4
+      },
+      {
+        "word": "herzlichen",
+        "count": 9,
+        "ratioParty": 14.1,
+        "ratioBundestag": 5.5
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "wirksam",
+        "count": 3,
+        "ratioParty": 20.3,
+        "ratioBundestag": 12.3
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 438,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.75,
+    "vsParliament": 0.71
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "8"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "4.383"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Nicole Hess häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Gesellschaft",
+        "isCorrect": false
+      },
+      {
+        "text": "Migration",
+        "isCorrect": false
+      },
+      {
+        "text": "Rettungsassistenten",
+        "isCorrect": true
+      },
+      {
+        "text": "Opposition",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Rettungsassistenten\" nutzt Nicole Hess 897.8× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "3989.3× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Nicole Hess häufiger als der Rest der AfD-Fraktion?",
+    "options": [
+      {
+        "text": "Europäisch",
+        "isCorrect": false
+      },
+      {
+        "text": "Klar",
+        "isCorrect": false
+      },
+      {
+        "text": "Wirksam",
+        "isCorrect": true
+      },
+      {
+        "text": "Groß",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Wirksam\" nutzt Nicole Hess 20.3× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "12.3× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 60.0,
+      "aggression": 7.7,
+      "labeling": 15.4,
+      "solution_focus": 76.5,
+      "collaboration": 33.3,
+      "demand_intensity": 25.0,
+      "acknowledgment": 3.6,
+      "authority": 76.3,
+      "future_orientation": 84.2,
+      "emotional_intensity": 46.2,
+      "inclusivity": 38.7,
+      "discriminatory": 0.34
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 10,
+      "words": 2921,
+      "adjectives": 13,
+      "verbs": 28
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.68,
+      "klima": 0.0,
+      "wirtschaft": 1.37,
+      "soziales": 2.4,
+      "sicherheit": 0.68,
+      "gesundheit": 12.32,
+      "europa": 0.34,
+      "digital": 2.74,
+      "bildung": 0.34,
+      "finanzen": 6.5,
+      "justiz": 1.03,
+      "arbeit": 0.0,
+      "mobilitaet": 1.71
+    },
+    "topTopics": [
+      {
+        "topic": "gesundheit",
+        "score": 12.32,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 6.5,
+        "rank": 2
+      },
+      {
+        "topic": "digital",
+        "score": 2.74,
+        "rank": 3
+      },
+      {
+        "topic": "soziales",
+        "score": 2.4,
+        "rank": 4
+      },
+      {
+        "topic": "mobilitaet",
+        "score": 1.71,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "obergrenze",
+          "count": 1
+        },
+        {
+          "word": "zuwanderer",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "insolvenzen",
+          "count": 1
+        },
+        {
+          "word": "fachkräftemangel",
+          "count": 1
+        },
+        {
+          "word": "qualifikation",
+          "count": 1
+        },
+        {
+          "word": "produktion",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "familien",
+          "count": 2
+        },
+        {
+          "word": "renten",
+          "count": 1
+        },
+        {
+          "word": "kind",
+          "count": 1
+        },
+        {
+          "word": "eltern",
+          "count": 1
+        },
+        {
+          "word": "kinder",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "verbrechen",
+          "count": 1
+        },
+        {
+          "word": "angriff",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "pflege",
+          "count": 8
+        },
+        {
+          "word": "pflegeversicherung",
+          "count": 4
+        },
+        {
+          "word": "medizin",
+          "count": 3
+        },
+        {
+          "word": "rettungsdienst",
+          "count": 3
+        },
+        {
+          "word": "krankenhäuser",
+          "count": 3
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "medienkompetenz",
+          "count": 2
+        },
+        {
+          "word": "digitalisierung",
+          "count": 2
+        },
+        {
+          "word": "daten",
+          "count": 2
+        },
+        {
+          "word": "internet",
+          "count": 1
+        },
+        {
+          "word": "digital",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "studium",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "bundeshaushalt",
+          "count": 3
+        },
+        {
+          "word": "entlastung",
+          "count": 3
+        },
+        {
+          "word": "sondervermögen",
+          "count": 3
+        },
+        {
+          "word": "finanzierung",
+          "count": 2
+        },
+        {
+          "word": "bundesrechnungshof",
+          "count": 2
+        }
+      ],
+      "justiz": [
+        {
+          "word": "haftung",
+          "count": 1
+        },
+        {
+          "word": "rechtsstaatlichkeit",
+          "count": 1
+        },
+        {
+          "word": "haft",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "straße",
+          "count": 3
+        },
+        {
+          "word": "infrastruktur",
+          "count": 1
+        },
+        {
+          "word": "auto",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

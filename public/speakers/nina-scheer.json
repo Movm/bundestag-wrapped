@@ -1,0 +1,391 @@
+{
+  "name": "Dr. Nina Scheer",
+  "party": "SPD",
+  "slug": "nina-scheer",
+  "academicTitle": "Dr",
+  "speeches": 11,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 5743,
+  "avgWords": 479,
+  "minWords": 237,
+  "maxWords": 789,
+  "rankings": {
+    "speechRank": 97,
+    "wordsRank": 138,
+    "partySpeechRank": 25,
+    "partyWordsRank": 35,
+    "partySize": 109,
+    "totalSpeakers": 609,
+    "percentile": 84.1,
+    "verbosityRank": 195,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 42,
+    "longestSpeechRank": 207
+  },
+  "drama": {
+    "interruptionsGiven": 3,
+    "interruptionsReceived": 48,
+    "interrupterRank": 248,
+    "interruptedRank": 21
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "energien",
+        "count": 28
+      },
+      {
+        "word": "erneuerbaren",
+        "count": 22
+      },
+      {
+        "word": "koalitionsvertrag",
+        "count": 15
+      },
+      {
+        "word": "wärmewende",
+        "count": 12
+      },
+      {
+        "word": "menschen",
+        "count": 12
+      },
+      {
+        "word": "erneuerbare",
+        "count": 12
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "flexibilitäten",
+        "count": 5,
+        "ratioParty": 455.1,
+        "ratioBundestag": 457.5
+      },
+      {
+        "word": "heizungen",
+        "count": 6,
+        "ratioParty": 273.0,
+        "ratioBundestag": 119.4
+      },
+      {
+        "word": "wärmewende",
+        "count": 12,
+        "ratioParty": 109.2,
+        "ratioBundestag": 148.4
+      },
+      {
+        "word": "atomenergie",
+        "count": 8,
+        "ratioParty": 66.2,
+        "ratioBundestag": 146.4
+      },
+      {
+        "word": "erneuerbaren",
+        "count": 22,
+        "ratioParty": 45.5,
+        "ratioBundestag": 47.0
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "stark",
+        "count": 3,
+        "ratioParty": 2.4,
+        "ratioBundestag": 3.4
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 479,
+    "partyAvgWords": 637,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.75,
+    "vsParliament": 0.78
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "11"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "5.743"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Dr. Nina Scheer häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Politik",
+        "isCorrect": false
+      },
+      {
+        "text": "Gesetzentwurf",
+        "isCorrect": false
+      },
+      {
+        "text": "Freiheit",
+        "isCorrect": false
+      },
+      {
+        "text": "Flexibilitäten",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Flexibilitäten\" nutzt Dr. Nina Scheer 455.1× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "457.5× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Dr. Nina Scheer häufiger als der Rest der SPD-Fraktion?",
+    "options": [
+      {
+        "text": "Gut",
+        "isCorrect": false
+      },
+      {
+        "text": "Stark",
+        "isCorrect": true
+      },
+      {
+        "text": "Wirtschaftlich",
+        "isCorrect": false
+      },
+      {
+        "text": "Richtig",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Stark\" nutzt Dr. Nina Scheer 2.4× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "3.4× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐿️",
+    "name": "Eichhörnchen",
+    "title": "Themenhüterin",
+    "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+    "id": "eichhoernchen",
+    "alternatives": [
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißige Abgeordnete",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      },
+      {
+        "emoji": "🐻",
+        "name": "Bär",
+        "title": "Standhafte Debattiererin",
+        "reason": "Trotz 48× unterbrochen zu werden, bleibst du standhaft.",
+        "id": "baer",
+        "score": 0.98
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 71.4,
+      "aggression": 12.5,
+      "labeling": 0.0,
+      "solution_focus": 82.5,
+      "collaboration": 25.0,
+      "demand_intensity": 9.6,
+      "acknowledgment": 5.8,
+      "authority": 80.5,
+      "future_orientation": 94.3,
+      "emotional_intensity": 38.9,
+      "inclusivity": 39.2,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 12,
+      "words": 3637,
+      "adjectives": 16,
+      "verbs": 52
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 6.6,
+      "wirtschaft": 5.22,
+      "soziales": 0.0,
+      "sicherheit": 0.27,
+      "gesundheit": 0.0,
+      "europa": 4.67,
+      "digital": 0.0,
+      "bildung": 0.0,
+      "finanzen": 3.3,
+      "justiz": 2.47,
+      "arbeit": 0.27,
+      "mobilitaet": 0.55
+    },
+    "topTopics": [
+      {
+        "topic": "klima",
+        "score": 6.6,
+        "rank": 1
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 5.22,
+        "rank": 2
+      },
+      {
+        "topic": "europa",
+        "score": 4.67,
+        "rank": 3
+      },
+      {
+        "topic": "finanzen",
+        "score": 3.3,
+        "rank": 4
+      },
+      {
+        "topic": "justiz",
+        "score": 2.47,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "erneuerbare",
+          "count": 12
+        },
+        {
+          "word": "klimaschutz",
+          "count": 3
+        },
+        {
+          "word": "energie",
+          "count": 3
+        },
+        {
+          "word": "wasserstoff",
+          "count": 1
+        },
+        {
+          "word": "emissionen",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "wachstum",
+          "count": 5
+        },
+        {
+          "word": "wirtschaftswachstum",
+          "count": 4
+        },
+        {
+          "word": "unternehmen",
+          "count": 3
+        },
+        {
+          "word": "wettbewerb",
+          "count": 2
+        },
+        {
+          "word": "markt",
+          "count": 2
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "angriff",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "china",
+          "count": 8
+        },
+        {
+          "word": "europa",
+          "count": 2
+        },
+        {
+          "word": "europäisch",
+          "count": 1
+        },
+        {
+          "word": "brüssel",
+          "count": 1
+        },
+        {
+          "word": "amerika",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "investitionen",
+          "count": 6
+        },
+        {
+          "word": "sondervermögen",
+          "count": 2
+        },
+        {
+          "word": "steuern",
+          "count": 1
+        },
+        {
+          "word": "fördermittel",
+          "count": 1
+        },
+        {
+          "word": "währung",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "rechtsprechung",
+          "count": 4
+        },
+        {
+          "word": "novelle",
+          "count": 2
+        },
+        {
+          "word": "verfassung",
+          "count": 1
+        },
+        {
+          "word": "bundesverfassungsgericht",
+          "count": 1
+        },
+        {
+          "word": "rechtsstaat",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitskräfte",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 1
+        },
+        {
+          "word": "verkehr",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

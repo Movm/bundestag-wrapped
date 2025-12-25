@@ -1,0 +1,249 @@
+{
+  "name": "Stefan Zierke",
+  "party": "SPD",
+  "slug": "stefan-zierke",
+  "academicTitle": null,
+  "speeches": 1,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 461,
+  "avgWords": 461,
+  "minWords": 461,
+  "maxWords": 461,
+  "rankings": {
+    "speechRank": 596,
+    "wordsRank": 597,
+    "partySpeechRank": 105,
+    "partyWordsRank": 107,
+    "partySize": 109,
+    "totalSpeakers": 609,
+    "percentile": 2.1,
+    "verbosityRank": null,
+    "verbosityTotal": null,
+    "partyVerbosityRank": null,
+    "longestSpeechRank": 552
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 0,
+    "interrupterRank": null,
+    "interruptedRank": null
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "radverkehr",
+        "count": 5
+      },
+      {
+        "word": "froh",
+        "count": 3
+      },
+      {
+        "word": "fußverkehrsstrategie",
+        "count": 3
+      },
+      {
+        "word": "eingestellt",
+        "count": 3
+      },
+      {
+        "word": "minister",
+        "count": 2
+      },
+      {
+        "word": "verkehrsträger",
+        "count": 2
+      },
+      {
+        "word": "gehört",
+        "count": 2
+      },
+      {
+        "word": "habe",
+        "count": 2
+      },
+      {
+        "word": "stadt",
+        "count": 2
+      },
+      {
+        "word": "investieren",
+        "count": 2
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "radverkehr",
+        "count": 5,
+        "ratioParty": 187.3,
+        "ratioBundestag": 5203.9
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 461,
+    "partyAvgWords": 637,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.72,
+    "vsParliament": 0.75
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "1"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Stefan Zierke häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Freiheit",
+        "isCorrect": false
+      },
+      {
+        "text": "Radverkehr",
+        "isCorrect": true
+      },
+      {
+        "text": "Gesetzentwurf",
+        "isCorrect": false
+      },
+      {
+        "text": "Politik",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Radverkehr\" nutzt Stefan Zierke 187.3× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "5203.9× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🦫",
+    "name": "Biber",
+    "title": "Konstruktiver Brückenbauer",
+    "reason": "Du baust Brücken zwischen Positionen – kooperativ und lösungsorientiert.",
+    "id": "biber",
+    "alternatives": [
+      {
+        "emoji": "🦦",
+        "name": "Otter",
+        "title": "Positiver Teamplayer",
+        "reason": "Du bringst gute Stimmung und konstruktive Beiträge ins Plenum.",
+        "id": "otter",
+        "score": 0.8
+      },
+      {
+        "emoji": "🐇",
+        "name": "Hase",
+        "title": "Wendiger Optimist",
+        "reason": "Mit positivem Blick reagierst du schnell auf neue Themen.",
+        "id": "hase",
+        "score": 0.775
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 50.0,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 100.0,
+      "collaboration": 100.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 0.0,
+      "authority": 92.9,
+      "future_orientation": 60.0,
+      "emotional_intensity": 0.0,
+      "inclusivity": 83.3,
+      "discriminatory": 0.0
+    },
+    "confidence": "low",
+    "sampleSize": {
+      "speeches": 1,
+      "words": 267,
+      "adjectives": 0,
+      "verbs": 3
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.0,
+      "wirtschaft": 0.0,
+      "soziales": 0.0,
+      "sicherheit": 0.0,
+      "gesundheit": 0.0,
+      "europa": 0.0,
+      "digital": 0.0,
+      "bildung": 7.49,
+      "finanzen": 7.49,
+      "justiz": 0.0,
+      "arbeit": 0.0,
+      "mobilitaet": 52.43
+    },
+    "topTopics": [
+      {
+        "topic": "mobilitaet",
+        "score": 52.43,
+        "rank": 1
+      },
+      {
+        "topic": "bildung",
+        "score": 7.49,
+        "rank": 2
+      },
+      {
+        "topic": "finanzen",
+        "score": 7.49,
+        "rank": 3
+      }
+    ],
+    "topicWords": {
+      "bildung": [
+        {
+          "word": "schülerinnen",
+          "count": 1
+        },
+        {
+          "word": "schüler",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushaltsentwurf",
+          "count": 1
+        },
+        {
+          "word": "haushaltsplan",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "radverkehr",
+          "count": 5
+        },
+        {
+          "word": "fußgänger",
+          "count": 2
+        },
+        {
+          "word": "hafen",
+          "count": 1
+        },
+        {
+          "word": "flughafen",
+          "count": 1
+        },
+        {
+          "word": "bahnhof",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

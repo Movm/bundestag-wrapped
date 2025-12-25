@@ -1,0 +1,470 @@
+{
+  "name": "Alexander Hoffmann",
+  "party": "CDU/CSU",
+  "slug": "alexander-hoffmann",
+  "academicTitle": null,
+  "speeches": 11,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 8659,
+  "avgWords": 722,
+  "minWords": 138,
+  "maxWords": 1317,
+  "rankings": {
+    "speechRank": 95,
+    "wordsRank": 53,
+    "partySpeechRank": 25,
+    "partyWordsRank": 19,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 84.4,
+    "verbosityRank": 24,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 7,
+    "longestSpeechRank": 24
+  },
+  "drama": {
+    "interruptionsGiven": 70,
+    "interruptionsReceived": 70,
+    "interrupterRank": 22,
+    "interruptedRank": 8
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "deutschland",
+        "count": 46
+      },
+      {
+        "word": "land",
+        "count": 45
+      },
+      {
+        "word": "menschen",
+        "count": 37
+      },
+      {
+        "word": "europa",
+        "count": 32
+      },
+      {
+        "word": "diesen",
+        "count": 24
+      },
+      {
+        "word": "ukraine",
+        "count": 20
+      },
+      {
+        "word": "sage",
+        "count": 18
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "chrupalla",
+        "count": 6,
+        "ratioParty": 64.6,
+        "ratioBundestag": 59.0
+      },
+      {
+        "word": "geschäftsordnung",
+        "count": 5,
+        "ratioParty": 48.5,
+        "ratioBundestag": 20.6
+      },
+      {
+        "word": "weidel",
+        "count": 10,
+        "ratioParty": 46.2,
+        "ratioBundestag": 49.2
+      },
+      {
+        "word": "kreml",
+        "count": 5,
+        "ratioParty": 44.1,
+        "ratioBundestag": 50.8
+      },
+      {
+        "word": "handschrift",
+        "count": 5,
+        "ratioParty": 44.1,
+        "ratioBundestag": 63.5
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "beschämend",
+        "count": 4,
+        "ratioParty": 129.3,
+        "ratioBundestag": 33.0
+      },
+      {
+        "word": "links",
+        "count": 4,
+        "ratioParty": 6.4,
+        "ratioBundestag": 4.0
+      },
+      {
+        "word": "wirtschaftlich",
+        "count": 4,
+        "ratioParty": 4.5,
+        "ratioBundestag": 5.4
+      },
+      {
+        "word": "rechts",
+        "count": 4,
+        "ratioParty": 4.4,
+        "ratioBundestag": 3.8
+      },
+      {
+        "word": "erfolgreich",
+        "count": 3,
+        "ratioParty": 2.7,
+        "ratioBundestag": 4.1
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 722,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 1.05,
+    "vsParliament": 1.18
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "11"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "8.659"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufe",
+      "value": "70"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Alexander Hoffmann häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Gesellschaft",
+        "isCorrect": false
+      },
+      {
+        "text": "Chrupalla",
+        "isCorrect": true
+      },
+      {
+        "text": "Migration",
+        "isCorrect": false
+      },
+      {
+        "text": "Opposition",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Chrupalla\" nutzt Alexander Hoffmann 64.6× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "59.0× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Alexander Hoffmann häufiger als der Rest der CDU/CSU-Fraktion?",
+    "options": [
+      {
+        "text": "Beschämend",
+        "isCorrect": true
+      },
+      {
+        "text": "Europäisch",
+        "isCorrect": false
+      },
+      {
+        "text": "National",
+        "isCorrect": false
+      },
+      {
+        "text": "Notwendig",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Beschämend\" nutzt Alexander Hoffmann 129.3× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "33.0× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐺",
+    "name": "Wolf",
+    "title": "Mutiger Einwerfer",
+    "reason": "Mit 70 Zwischenrufen mischst du aktiv in Debatten mit.",
+    "id": "wolf",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüter",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 1.0
+      },
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißiger Abgeordneter",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 94.1,
+      "aggression": 21.2,
+      "labeling": 27.3,
+      "solution_focus": 68.8,
+      "collaboration": 60.0,
+      "demand_intensity": 7.3,
+      "acknowledgment": 2.4,
+      "authority": 87.1,
+      "future_orientation": 73.5,
+      "emotional_intensity": 60.0,
+      "inclusivity": 56.4,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 12,
+      "words": 5453,
+      "adjectives": 33,
+      "verbs": 41
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.92,
+      "klima": 0.18,
+      "wirtschaft": 0.73,
+      "soziales": 1.28,
+      "sicherheit": 3.67,
+      "gesundheit": 0.37,
+      "europa": 25.67,
+      "digital": 0.18,
+      "bildung": 0.37,
+      "finanzen": 4.03,
+      "justiz": 0.18,
+      "arbeit": 0.18,
+      "mobilitaet": 1.83
+    },
+    "topTopics": [
+      {
+        "topic": "europa",
+        "score": 25.67,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 4.03,
+        "rank": 2
+      },
+      {
+        "topic": "sicherheit",
+        "score": 3.67,
+        "rank": 3
+      },
+      {
+        "topic": "mobilitaet",
+        "score": 1.83,
+        "rank": 4
+      },
+      {
+        "topic": "soziales",
+        "score": 1.28,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "migration",
+          "count": 4
+        },
+        {
+          "word": "grenze",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "wärmepumpe",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "betriebe",
+          "count": 1
+        },
+        {
+          "word": "wirtschaftspolitik",
+          "count": 1
+        },
+        {
+          "word": "rezession",
+          "count": 1
+        },
+        {
+          "word": "betrieb",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "bürgergeld",
+          "count": 2
+        },
+        {
+          "word": "sozialstaat",
+          "count": 2
+        },
+        {
+          "word": "altersarmut",
+          "count": 1
+        },
+        {
+          "word": "kinder",
+          "count": 1
+        },
+        {
+          "word": "familien",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "verteidigungsfähigkeit",
+          "count": 6
+        },
+        {
+          "word": "bundeswehr",
+          "count": 4
+        },
+        {
+          "word": "abschreckung",
+          "count": 2
+        },
+        {
+          "word": "polizisten",
+          "count": 2
+        },
+        {
+          "word": "terror",
+          "count": 2
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "depression",
+          "count": 2
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 32
+        },
+        {
+          "word": "ukraine",
+          "count": 20
+        },
+        {
+          "word": "putin",
+          "count": 14
+        },
+        {
+          "word": "frieden",
+          "count": 13
+        },
+        {
+          "word": "russland",
+          "count": 12
+        }
+      ],
+      "digital": [
+        {
+          "word": "desinformation",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "forschung",
+          "count": 1
+        },
+        {
+          "word": "schule",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 10
+        },
+        {
+          "word": "sondervermögen",
+          "count": 3
+        },
+        {
+          "word": "steuerzahler",
+          "count": 2
+        },
+        {
+          "word": "kosten",
+          "count": 1
+        },
+        {
+          "word": "steuer",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "beschluss",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitsplätze",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 5
+        },
+        {
+          "word": "straßen",
+          "count": 2
+        },
+        {
+          "word": "auto",
+          "count": 1
+        },
+        {
+          "word": "autos",
+          "count": 1
+        },
+        {
+          "word": "straße",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

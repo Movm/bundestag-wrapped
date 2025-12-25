@@ -1,0 +1,3127 @@
+{
+  "title": "Top Zwischenrufer",
+  "description": "Abgeordnete nach Anzahl der Zwischenrufe",
+  "count": 346,
+  "stats": {
+    "total": 7990,
+    "positive": 1428,
+    "negative": 889,
+    "neutral": 5673
+  },
+  "data": [
+    {
+      "rank": 1,
+      "name": "Stephan Brandner",
+      "party": "AfD",
+      "count": 772,
+      "positive": 107,
+      "negative": 50,
+      "neutral": 615
+    },
+    {
+      "rank": 2,
+      "name": "Jörn König",
+      "party": "AfD",
+      "count": 291,
+      "positive": 39,
+      "negative": 25,
+      "neutral": 227
+    },
+    {
+      "rank": 3,
+      "name": "Dr. Götz Frömming",
+      "party": "AfD",
+      "count": 285,
+      "positive": 51,
+      "negative": 44,
+      "neutral": 190
+    },
+    {
+      "rank": 4,
+      "name": "Dr. Bernd Baumann",
+      "party": "AfD",
+      "count": 217,
+      "positive": 21,
+      "negative": 33,
+      "neutral": 163
+    },
+    {
+      "rank": 5,
+      "name": "Marc Bernhard",
+      "party": "AfD",
+      "count": 180,
+      "positive": 30,
+      "negative": 15,
+      "neutral": 135
+    },
+    {
+      "rank": 6,
+      "name": "Dr. Johannes Fechner",
+      "party": "SPD",
+      "count": 161,
+      "positive": 40,
+      "negative": 42,
+      "neutral": 79
+    },
+    {
+      "rank": 7,
+      "name": "Martin Reichardt",
+      "party": "AfD",
+      "count": 159,
+      "positive": 20,
+      "negative": 11,
+      "neutral": 128
+    },
+    {
+      "rank": 8,
+      "name": "Enrico Komning",
+      "party": "AfD",
+      "count": 149,
+      "positive": 33,
+      "negative": 16,
+      "neutral": 100
+    },
+    {
+      "rank": 9,
+      "name": "Markus Frohnmaier",
+      "party": "AfD",
+      "count": 147,
+      "positive": 18,
+      "negative": 6,
+      "neutral": 123
+    },
+    {
+      "rank": 10,
+      "name": "Karsten Hilse",
+      "party": "AfD",
+      "count": 142,
+      "positive": 37,
+      "negative": 17,
+      "neutral": 88
+    },
+    {
+      "rank": 11,
+      "name": "Tino Chrupalla",
+      "party": "AfD",
+      "count": 134,
+      "positive": 23,
+      "negative": 13,
+      "neutral": 98
+    },
+    {
+      "rank": 12,
+      "name": "Dr. Rainer Kraft",
+      "party": "AfD",
+      "count": 123,
+      "positive": 10,
+      "negative": 4,
+      "neutral": 109
+    },
+    {
+      "rank": 13,
+      "name": "Kay Gottschalk",
+      "party": "AfD",
+      "count": 121,
+      "positive": 25,
+      "negative": 7,
+      "neutral": 89
+    },
+    {
+      "rank": 14,
+      "name": "Dr. Alice Weidel",
+      "party": "AfD",
+      "count": 119,
+      "positive": 25,
+      "negative": 18,
+      "neutral": 76
+    },
+    {
+      "rank": 15,
+      "name": "Beatrix von Storch",
+      "party": "AfD",
+      "count": 114,
+      "positive": 13,
+      "negative": 11,
+      "neutral": 90
+    },
+    {
+      "rank": 16,
+      "name": "Marcel Queckemeyer",
+      "party": "AfD",
+      "count": 101,
+      "positive": 12,
+      "negative": 10,
+      "neutral": 79
+    },
+    {
+      "rank": 17,
+      "name": "Florian Müller",
+      "party": "CDU/CSU",
+      "count": 95,
+      "positive": 15,
+      "negative": 16,
+      "neutral": 64
+    },
+    {
+      "rank": 18,
+      "name": "Dr. Michael Espendiller",
+      "party": "AfD",
+      "count": 84,
+      "positive": 8,
+      "negative": 4,
+      "neutral": 72
+    },
+    {
+      "rank": 19,
+      "name": "Dr. Ralf Stegner",
+      "party": "SPD",
+      "count": 79,
+      "positive": 7,
+      "negative": 7,
+      "neutral": 65
+    },
+    {
+      "rank": 20,
+      "name": "Dr. Hendrik Hoppenstedt",
+      "party": "CDU/CSU",
+      "count": 79,
+      "positive": 12,
+      "negative": 12,
+      "neutral": 55
+    },
+    {
+      "rank": 21,
+      "name": "Jens Spahn",
+      "party": "CDU/CSU",
+      "count": 73,
+      "positive": 14,
+      "negative": 4,
+      "neutral": 55
+    },
+    {
+      "rank": 22,
+      "name": "Alexander Hoffmann",
+      "party": "CDU/CSU",
+      "count": 70,
+      "positive": 12,
+      "negative": 12,
+      "neutral": 46
+    },
+    {
+      "rank": 23,
+      "name": "Ruben Rupp",
+      "party": "AfD",
+      "count": 70,
+      "positive": 19,
+      "negative": 4,
+      "neutral": 47
+    },
+    {
+      "rank": 24,
+      "name": "Luigi Pantisano",
+      "party": "Die Linke",
+      "count": 69,
+      "positive": 10,
+      "negative": 11,
+      "neutral": 48
+    },
+    {
+      "rank": 25,
+      "name": "Maximilian Kneller",
+      "party": "AfD",
+      "count": 68,
+      "positive": 6,
+      "negative": 5,
+      "neutral": 57
+    },
+    {
+      "rank": 26,
+      "name": "Dr. Jan-Marco Luczak",
+      "party": "CDU/CSU",
+      "count": 67,
+      "positive": 18,
+      "negative": 11,
+      "neutral": 38
+    },
+    {
+      "rank": 27,
+      "name": "Felix Schreiner",
+      "party": "CDU/CSU",
+      "count": 64,
+      "positive": 16,
+      "negative": 7,
+      "neutral": 41
+    },
+    {
+      "rank": 28,
+      "name": "Clara Bünger",
+      "party": "Die Linke",
+      "count": 58,
+      "positive": 13,
+      "negative": 8,
+      "neutral": 37
+    },
+    {
+      "rank": 29,
+      "name": "Fritz Güntzler",
+      "party": "CDU/CSU",
+      "count": 58,
+      "positive": 15,
+      "negative": 3,
+      "neutral": 40
+    },
+    {
+      "rank": 30,
+      "name": "Esra Limbacher",
+      "party": "SPD",
+      "count": 56,
+      "positive": 11,
+      "negative": 2,
+      "neutral": 43
+    },
+    {
+      "rank": 31,
+      "name": "Andreas Mattfeldt",
+      "party": "CDU/CSU",
+      "count": 55,
+      "positive": 10,
+      "negative": 6,
+      "neutral": 39
+    },
+    {
+      "rank": 32,
+      "name": "Rasha Nasr",
+      "party": "SPD",
+      "count": 55,
+      "positive": 9,
+      "negative": 8,
+      "neutral": 38
+    },
+    {
+      "rank": 33,
+      "name": "Leif-Erik Holm",
+      "party": "AfD",
+      "count": 54,
+      "positive": 12,
+      "negative": 7,
+      "neutral": 35
+    },
+    {
+      "rank": 34,
+      "name": "Ulrike Schielke-Ziesing",
+      "party": "AfD",
+      "count": 54,
+      "positive": 7,
+      "negative": 10,
+      "neutral": 37
+    },
+    {
+      "rank": 35,
+      "name": "Martin Hess",
+      "party": "AfD",
+      "count": 51,
+      "positive": 10,
+      "negative": 6,
+      "neutral": 35
+    },
+    {
+      "rank": 36,
+      "name": "Mirze Edis",
+      "party": "Die Linke",
+      "count": 50,
+      "positive": 13,
+      "negative": 1,
+      "neutral": 36
+    },
+    {
+      "rank": 37,
+      "name": "Derya Türk-Nachbaur",
+      "party": "SPD",
+      "count": 49,
+      "positive": 11,
+      "negative": 8,
+      "neutral": 30
+    },
+    {
+      "rank": 38,
+      "name": "Dr. Christian Wirth",
+      "party": "AfD",
+      "count": 46,
+      "positive": 4,
+      "negative": 4,
+      "neutral": 38
+    },
+    {
+      "rank": 39,
+      "name": "Dr. Malte Kaufmann",
+      "party": "AfD",
+      "count": 46,
+      "positive": 12,
+      "negative": 5,
+      "neutral": 29
+    },
+    {
+      "rank": 40,
+      "name": "Raimond Scheirich",
+      "party": "AfD",
+      "count": 45,
+      "positive": 9,
+      "negative": 1,
+      "neutral": 35
+    },
+    {
+      "rank": 41,
+      "name": "Christian Görke",
+      "party": "Die Linke",
+      "count": 44,
+      "positive": 7,
+      "negative": 4,
+      "neutral": 33
+    },
+    {
+      "rank": 42,
+      "name": "Ates Gürpinar",
+      "party": "Die Linke",
+      "count": 42,
+      "positive": 6,
+      "negative": 5,
+      "neutral": 31
+    },
+    {
+      "rank": 43,
+      "name": "Dr. Fabian Fahl",
+      "party": "Die Linke",
+      "count": 42,
+      "positive": 4,
+      "negative": 3,
+      "neutral": 35
+    },
+    {
+      "rank": 44,
+      "name": "Gerold Otten",
+      "party": "AfD",
+      "count": 42,
+      "positive": 12,
+      "negative": 7,
+      "neutral": 23
+    },
+    {
+      "rank": 45,
+      "name": "Tobias Matthias Peterka",
+      "party": "AfD",
+      "count": 40,
+      "positive": 5,
+      "negative": 6,
+      "neutral": 29
+    },
+    {
+      "rank": 46,
+      "name": "Pascal Meiser",
+      "party": "Die Linke",
+      "count": 40,
+      "positive": 6,
+      "negative": 5,
+      "neutral": 29
+    },
+    {
+      "rank": 47,
+      "name": "Fabian Jacobi",
+      "party": "AfD",
+      "count": 37,
+      "positive": 4,
+      "negative": 2,
+      "neutral": 31
+    },
+    {
+      "rank": 48,
+      "name": "Michael Donth",
+      "party": "CDU/CSU",
+      "count": 36,
+      "positive": 5,
+      "negative": 9,
+      "neutral": 22
+    },
+    {
+      "rank": 49,
+      "name": "Stefan Keuter",
+      "party": "AfD",
+      "count": 36,
+      "positive": 5,
+      "negative": 3,
+      "neutral": 28
+    },
+    {
+      "rank": 50,
+      "name": "Dr. Oliver Vogt",
+      "party": "CDU/CSU",
+      "count": 35,
+      "positive": 9,
+      "negative": 4,
+      "neutral": 22
+    },
+    {
+      "rank": 51,
+      "name": "Bernd Schattner",
+      "party": "AfD",
+      "count": 35,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 33
+    },
+    {
+      "rank": 52,
+      "name": "Thomas Rachel",
+      "party": "CDU/CSU",
+      "count": 35,
+      "positive": 19,
+      "negative": 6,
+      "neutral": 10
+    },
+    {
+      "rank": 53,
+      "name": "Katalin Gennburg",
+      "party": "Die Linke",
+      "count": 35,
+      "positive": 6,
+      "negative": 4,
+      "neutral": 25
+    },
+    {
+      "rank": 54,
+      "name": "Sören Pellmann",
+      "party": "Die Linke",
+      "count": 33,
+      "positive": 14,
+      "negative": 1,
+      "neutral": 18
+    },
+    {
+      "rank": 55,
+      "name": "Dr. Ingo Hahn",
+      "party": "AfD",
+      "count": 33,
+      "positive": 4,
+      "negative": 2,
+      "neutral": 27
+    },
+    {
+      "rank": 56,
+      "name": "Peter Boehringer",
+      "party": "AfD",
+      "count": 33,
+      "positive": 2,
+      "negative": 4,
+      "neutral": 27
+    },
+    {
+      "rank": 57,
+      "name": "Carolin Bachmann",
+      "party": "AfD",
+      "count": 33,
+      "positive": 8,
+      "negative": 0,
+      "neutral": 25
+    },
+    {
+      "rank": 58,
+      "name": "Albert Stegemann",
+      "party": "CDU/CSU",
+      "count": 32,
+      "positive": 9,
+      "negative": 4,
+      "neutral": 19
+    },
+    {
+      "rank": 59,
+      "name": "Dr. Konrad Körner",
+      "party": "CDU/CSU",
+      "count": 32,
+      "positive": 11,
+      "negative": 4,
+      "neutral": 17
+    },
+    {
+      "rank": 60,
+      "name": "Florian Oßner",
+      "party": "CDU/CSU",
+      "count": 32,
+      "positive": 9,
+      "negative": 3,
+      "neutral": 20
+    },
+    {
+      "rank": 61,
+      "name": "Frauke Heiligenstadt",
+      "party": "SPD",
+      "count": 31,
+      "positive": 3,
+      "negative": 4,
+      "neutral": 24
+    },
+    {
+      "rank": 62,
+      "name": "Stephan Albani",
+      "party": "CDU/CSU",
+      "count": 31,
+      "positive": 7,
+      "negative": 3,
+      "neutral": 21
+    },
+    {
+      "rank": 63,
+      "name": "Ronja Kemmer",
+      "party": "CDU/CSU",
+      "count": 31,
+      "positive": 6,
+      "negative": 4,
+      "neutral": 21
+    },
+    {
+      "rank": 64,
+      "name": "Nicole Höchst",
+      "party": "AfD",
+      "count": 31,
+      "positive": 3,
+      "negative": 7,
+      "neutral": 21
+    },
+    {
+      "rank": 65,
+      "name": "Jürgen Coße",
+      "party": "SPD",
+      "count": 30,
+      "positive": 6,
+      "negative": 2,
+      "neutral": 22
+    },
+    {
+      "rank": 66,
+      "name": "Dr. Andreas Lenz",
+      "party": "CDU/CSU",
+      "count": 30,
+      "positive": 11,
+      "negative": 3,
+      "neutral": 16
+    },
+    {
+      "rank": 67,
+      "name": "Andreas Bleck",
+      "party": "AfD",
+      "count": 30,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 26
+    },
+    {
+      "rank": 68,
+      "name": "Sonja Lemke",
+      "party": "Die Linke",
+      "count": 29,
+      "positive": 4,
+      "negative": 1,
+      "neutral": 24
+    },
+    {
+      "rank": 69,
+      "name": "Dr. Carolin Wagner",
+      "party": "SPD",
+      "count": 29,
+      "positive": 2,
+      "negative": 7,
+      "neutral": 20
+    },
+    {
+      "rank": 70,
+      "name": "Sepp Müller",
+      "party": "CDU/CSU",
+      "count": 29,
+      "positive": 4,
+      "negative": 4,
+      "neutral": 21
+    },
+    {
+      "rank": 71,
+      "name": "Bettina Hagedorn",
+      "party": "SPD",
+      "count": 29,
+      "positive": 5,
+      "negative": 10,
+      "neutral": 14
+    },
+    {
+      "rank": 72,
+      "name": "Dr. Anja Weisgerber",
+      "party": "CDU/CSU",
+      "count": 29,
+      "positive": 13,
+      "negative": 0,
+      "neutral": 16
+    },
+    {
+      "rank": 73,
+      "name": "Steffen Bilger",
+      "party": "CDU/CSU",
+      "count": 29,
+      "positive": 4,
+      "negative": 6,
+      "neutral": 19
+    },
+    {
+      "rank": 74,
+      "name": "Dr. Günter Krings",
+      "party": "CDU/CSU",
+      "count": 28,
+      "positive": 5,
+      "negative": 7,
+      "neutral": 16
+    },
+    {
+      "rank": 75,
+      "name": "Falko Droßmann",
+      "party": "SPD",
+      "count": 28,
+      "positive": 5,
+      "negative": 6,
+      "neutral": 17
+    },
+    {
+      "rank": 76,
+      "name": "Johannes Steiniger",
+      "party": "CDU/CSU",
+      "count": 28,
+      "positive": 9,
+      "negative": 3,
+      "neutral": 16
+    },
+    {
+      "rank": 77,
+      "name": "Dunja Kreiser",
+      "party": "SPD",
+      "count": 27,
+      "positive": 3,
+      "negative": 1,
+      "neutral": 23
+    },
+    {
+      "rank": 78,
+      "name": "Sebastian Münzenmaier",
+      "party": "AfD",
+      "count": 27,
+      "positive": 9,
+      "negative": 2,
+      "neutral": 16
+    },
+    {
+      "rank": 79,
+      "name": "Dr. Klaus Wiener",
+      "party": "CDU/CSU",
+      "count": 26,
+      "positive": 4,
+      "negative": 5,
+      "neutral": 17
+    },
+    {
+      "rank": 80,
+      "name": "Dr. Martin Plum",
+      "party": "CDU/CSU",
+      "count": 25,
+      "positive": 3,
+      "negative": 1,
+      "neutral": 21
+    },
+    {
+      "rank": 81,
+      "name": "Claudia Moll",
+      "party": "SPD",
+      "count": 25,
+      "positive": 11,
+      "negative": 6,
+      "neutral": 8
+    },
+    {
+      "rank": 82,
+      "name": "Ines Schwerdtner",
+      "party": "Die Linke",
+      "count": 25,
+      "positive": 6,
+      "negative": 2,
+      "neutral": 17
+    },
+    {
+      "rank": 83,
+      "name": "Birgit Bessin",
+      "party": "AfD",
+      "count": 25,
+      "positive": 3,
+      "negative": 2,
+      "neutral": 20
+    },
+    {
+      "rank": 84,
+      "name": "Hannes Gnauck",
+      "party": "AfD",
+      "count": 24,
+      "positive": 4,
+      "negative": 1,
+      "neutral": 19
+    },
+    {
+      "rank": 85,
+      "name": "Marc Henrichmann",
+      "party": "CDU/CSU",
+      "count": 24,
+      "positive": 0,
+      "negative": 5,
+      "neutral": 19
+    },
+    {
+      "rank": 86,
+      "name": "Peter Beyer",
+      "party": "CDU/CSU",
+      "count": 24,
+      "positive": 2,
+      "negative": 6,
+      "neutral": 16
+    },
+    {
+      "rank": 87,
+      "name": "Johannes Schraps",
+      "party": "SPD",
+      "count": 24,
+      "positive": 19,
+      "negative": 3,
+      "neutral": 2
+    },
+    {
+      "rank": 88,
+      "name": "Kai Whittaker",
+      "party": "CDU/CSU",
+      "count": 24,
+      "positive": 5,
+      "negative": 3,
+      "neutral": 16
+    },
+    {
+      "rank": 89,
+      "name": "Dr. Christina Baum",
+      "party": "AfD",
+      "count": 24,
+      "positive": 14,
+      "negative": 1,
+      "neutral": 9
+    },
+    {
+      "rank": 90,
+      "name": "Maik Brückner",
+      "party": "Die Linke",
+      "count": 23,
+      "positive": 3,
+      "negative": 4,
+      "neutral": 16
+    },
+    {
+      "rank": 91,
+      "name": "Dr. Inge Gräßle",
+      "party": "CDU/CSU",
+      "count": 23,
+      "positive": 6,
+      "negative": 4,
+      "neutral": 13
+    },
+    {
+      "rank": 92,
+      "name": "Vinzenz Glaser",
+      "party": "Die Linke",
+      "count": 23,
+      "positive": 2,
+      "negative": 6,
+      "neutral": 15
+    },
+    {
+      "rank": 93,
+      "name": "Dr. Christoph Birghan",
+      "party": "AfD",
+      "count": 22,
+      "positive": 3,
+      "negative": 1,
+      "neutral": 18
+    },
+    {
+      "rank": 94,
+      "name": "Desiree Becker",
+      "party": "Die Linke",
+      "count": 22,
+      "positive": 5,
+      "negative": 0,
+      "neutral": 17
+    },
+    {
+      "rank": 95,
+      "name": "Maja Wallstein",
+      "party": "SPD",
+      "count": 22,
+      "positive": 13,
+      "negative": 1,
+      "neutral": 8
+    },
+    {
+      "rank": 96,
+      "name": "Felix Döring",
+      "party": "SPD",
+      "count": 22,
+      "positive": 4,
+      "negative": 3,
+      "neutral": 15
+    },
+    {
+      "rank": 97,
+      "name": "Janine Wissler",
+      "party": "Die Linke",
+      "count": 22,
+      "positive": 6,
+      "negative": 0,
+      "neutral": 16
+    },
+    {
+      "rank": 98,
+      "name": "Simone Borchardt",
+      "party": "CDU/CSU",
+      "count": 22,
+      "positive": 9,
+      "negative": 2,
+      "neutral": 11
+    },
+    {
+      "rank": 99,
+      "name": "Georg Schroeter",
+      "party": "AfD",
+      "count": 21,
+      "positive": 1,
+      "negative": 2,
+      "neutral": 18
+    },
+    {
+      "rank": 100,
+      "name": "Dr. Gottfried Curio",
+      "party": "AfD",
+      "count": 21,
+      "positive": 1,
+      "negative": 2,
+      "neutral": 18
+    },
+    {
+      "rank": 101,
+      "name": "Uwe Schulz",
+      "party": "AfD",
+      "count": 21,
+      "positive": 0,
+      "negative": 2,
+      "neutral": 19
+    },
+    {
+      "rank": 102,
+      "name": "Siemtje Möller",
+      "party": "SPD",
+      "count": 21,
+      "positive": 7,
+      "negative": 1,
+      "neutral": 13
+    },
+    {
+      "rank": 103,
+      "name": "Catarina dos Santos-Wintz",
+      "party": "CDU/CSU",
+      "count": 19,
+      "positive": 5,
+      "negative": 5,
+      "neutral": 9
+    },
+    {
+      "rank": 104,
+      "name": "Jakob Blankenburg",
+      "party": "SPD",
+      "count": 19,
+      "positive": 2,
+      "negative": 1,
+      "neutral": 16
+    },
+    {
+      "rank": 105,
+      "name": "Sebastian Fiedler",
+      "party": "SPD",
+      "count": 19,
+      "positive": 2,
+      "negative": 4,
+      "neutral": 13
+    },
+    {
+      "rank": 106,
+      "name": "Johannes Winkel",
+      "party": "CDU/CSU",
+      "count": 19,
+      "positive": 6,
+      "negative": 4,
+      "neutral": 9
+    },
+    {
+      "rank": 107,
+      "name": "Peter Aumer",
+      "party": "CDU/CSU",
+      "count": 19,
+      "positive": 1,
+      "negative": 2,
+      "neutral": 16
+    },
+    {
+      "rank": 108,
+      "name": "Alexander Throm",
+      "party": "CDU/CSU",
+      "count": 18,
+      "positive": 6,
+      "negative": 2,
+      "neutral": 10
+    },
+    {
+      "rank": 109,
+      "name": "Svenja Schulze",
+      "party": "SPD",
+      "count": 18,
+      "positive": 3,
+      "negative": 6,
+      "neutral": 9
+    },
+    {
+      "rank": 110,
+      "name": "Marc Biadacz",
+      "party": "CDU/CSU",
+      "count": 18,
+      "positive": 1,
+      "negative": 2,
+      "neutral": 15
+    },
+    {
+      "rank": 111,
+      "name": "Tobias Ebenberger",
+      "party": "AfD",
+      "count": 18,
+      "positive": 0,
+      "negative": 4,
+      "neutral": 14
+    },
+    {
+      "rank": 112,
+      "name": "Nicole Gohlke",
+      "party": "Die Linke",
+      "count": 17,
+      "positive": 2,
+      "negative": 4,
+      "neutral": 11
+    },
+    {
+      "rank": 113,
+      "name": "Daniel Baldy",
+      "party": "SPD",
+      "count": 16,
+      "positive": 1,
+      "negative": 2,
+      "neutral": 13
+    },
+    {
+      "rank": 114,
+      "name": "Daniel Rinkert",
+      "party": "SPD",
+      "count": 16,
+      "positive": 5,
+      "negative": 3,
+      "neutral": 8
+    },
+    {
+      "rank": 115,
+      "name": "Armand Zorn",
+      "party": "SPD",
+      "count": 16,
+      "positive": 3,
+      "negative": 0,
+      "neutral": 13
+    },
+    {
+      "rank": 116,
+      "name": "Steffen Janich",
+      "party": "AfD",
+      "count": 16,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 14
+    },
+    {
+      "rank": 117,
+      "name": "Thomas Bareiß",
+      "party": "CDU/CSU",
+      "count": 16,
+      "positive": 4,
+      "negative": 5,
+      "neutral": 7
+    },
+    {
+      "rank": 118,
+      "name": "Gökay Akbulut",
+      "party": "Die Linke",
+      "count": 16,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 14
+    },
+    {
+      "rank": 119,
+      "name": "Michael Thews",
+      "party": "SPD",
+      "count": 16,
+      "positive": 0,
+      "negative": 5,
+      "neutral": 11
+    },
+    {
+      "rank": 120,
+      "name": "Cansin Köktürk",
+      "party": "Die Linke",
+      "count": 15,
+      "positive": 0,
+      "negative": 4,
+      "neutral": 11
+    },
+    {
+      "rank": 121,
+      "name": "Jürgen Hardt",
+      "party": "CDU/CSU",
+      "count": 15,
+      "positive": 3,
+      "negative": 2,
+      "neutral": 10
+    },
+    {
+      "rank": 122,
+      "name": "Adam Balten",
+      "party": "AfD",
+      "count": 15,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 15
+    },
+    {
+      "rank": 123,
+      "name": "Henning Rehbaum",
+      "party": "CDU/CSU",
+      "count": 15,
+      "positive": 1,
+      "negative": 4,
+      "neutral": 10
+    },
+    {
+      "rank": 124,
+      "name": "Bernd Rützel",
+      "party": "SPD",
+      "count": 14,
+      "positive": 9,
+      "negative": 1,
+      "neutral": 4
+    },
+    {
+      "rank": 125,
+      "name": "Tilman Kuban",
+      "party": "CDU/CSU",
+      "count": 14,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 13
+    },
+    {
+      "rank": 126,
+      "name": "Jan Feser",
+      "party": "AfD",
+      "count": 14,
+      "positive": 2,
+      "negative": 1,
+      "neutral": 11
+    },
+    {
+      "rank": 127,
+      "name": "Stephan Protschka",
+      "party": "AfD",
+      "count": 14,
+      "positive": 0,
+      "negative": 2,
+      "neutral": 12
+    },
+    {
+      "rank": 128,
+      "name": "Caren Lay",
+      "party": "Die Linke",
+      "count": 14,
+      "positive": 3,
+      "negative": 1,
+      "neutral": 10
+    },
+    {
+      "rank": 129,
+      "name": "Heidi Reichinnek",
+      "party": "Die Linke",
+      "count": 14,
+      "positive": 4,
+      "negative": 3,
+      "neutral": 7
+    },
+    {
+      "rank": 130,
+      "name": "Sonja Eichwede",
+      "party": "SPD",
+      "count": 13,
+      "positive": 4,
+      "negative": 4,
+      "neutral": 5
+    },
+    {
+      "rank": 131,
+      "name": "Dirk Wiese",
+      "party": "SPD",
+      "count": 13,
+      "positive": 3,
+      "negative": 1,
+      "neutral": 9
+    },
+    {
+      "rank": 132,
+      "name": "Jens Behrens",
+      "party": "SPD",
+      "count": 13,
+      "positive": 4,
+      "negative": 4,
+      "neutral": 5
+    },
+    {
+      "rank": 133,
+      "name": "Luke Hoß",
+      "party": "Die Linke",
+      "count": 13,
+      "positive": 6,
+      "negative": 1,
+      "neutral": 6
+    },
+    {
+      "rank": 134,
+      "name": "Dr. Michael Blos",
+      "party": "AfD",
+      "count": 13,
+      "positive": 0,
+      "negative": 1,
+      "neutral": 12
+    },
+    {
+      "rank": 135,
+      "name": "Dr. Paul Schmidt",
+      "party": "AfD",
+      "count": 13,
+      "positive": 2,
+      "negative": 3,
+      "neutral": 8
+    },
+    {
+      "rank": 136,
+      "name": "Isabelle Vandre",
+      "party": "Die Linke",
+      "count": 13,
+      "positive": 2,
+      "negative": 0,
+      "neutral": 11
+    },
+    {
+      "rank": 137,
+      "name": "Franziska Hoppermann",
+      "party": "CDU/CSU",
+      "count": 13,
+      "positive": 3,
+      "negative": 4,
+      "neutral": 6
+    },
+    {
+      "rank": 138,
+      "name": "Marcel Bauer",
+      "party": "Die Linke",
+      "count": 13,
+      "positive": 1,
+      "negative": 3,
+      "neutral": 9
+    },
+    {
+      "rank": 139,
+      "name": "Denis Pauli",
+      "party": "AfD",
+      "count": 13,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 12
+    },
+    {
+      "rank": 140,
+      "name": "Sanae Abdi",
+      "party": "SPD",
+      "count": 13,
+      "positive": 6,
+      "negative": 0,
+      "neutral": 7
+    },
+    {
+      "rank": 141,
+      "name": "Thomas Stephan",
+      "party": "AfD",
+      "count": 13,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 9
+    },
+    {
+      "rank": 142,
+      "name": "Siegfried Walch",
+      "party": "CDU/CSU",
+      "count": 13,
+      "positive": 7,
+      "negative": 4,
+      "neutral": 2
+    },
+    {
+      "rank": 143,
+      "name": "Ina Latendorf",
+      "party": "Die Linke",
+      "count": 12,
+      "positive": 4,
+      "negative": 0,
+      "neutral": 8
+    },
+    {
+      "rank": 144,
+      "name": "Esther Dilcher",
+      "party": "SPD",
+      "count": 12,
+      "positive": 4,
+      "negative": 0,
+      "neutral": 8
+    },
+    {
+      "rank": 145,
+      "name": "Sven Wendorf",
+      "party": "AfD",
+      "count": 12,
+      "positive": 0,
+      "negative": 1,
+      "neutral": 11
+    },
+    {
+      "rank": 146,
+      "name": "Jorrit Bosch",
+      "party": "Die Linke",
+      "count": 12,
+      "positive": 2,
+      "negative": 1,
+      "neutral": 9
+    },
+    {
+      "rank": 147,
+      "name": "Adis Ahmetovic",
+      "party": "SPD",
+      "count": 12,
+      "positive": 3,
+      "negative": 2,
+      "neutral": 7
+    },
+    {
+      "rank": 148,
+      "name": "Reinhard Mixl",
+      "party": "AfD",
+      "count": 11,
+      "positive": 1,
+      "negative": 2,
+      "neutral": 8
+    },
+    {
+      "rank": 149,
+      "name": "Manuel Krauthausen",
+      "party": "AfD",
+      "count": 11,
+      "positive": 4,
+      "negative": 0,
+      "neutral": 7
+    },
+    {
+      "rank": 150,
+      "name": "Helge Lindh",
+      "party": "SPD",
+      "count": 11,
+      "positive": 2,
+      "negative": 1,
+      "neutral": 8
+    },
+    {
+      "rank": 151,
+      "name": "Knut Abraham",
+      "party": "CDU/CSU",
+      "count": 11,
+      "positive": 0,
+      "negative": 6,
+      "neutral": 5
+    },
+    {
+      "rank": 152,
+      "name": "Sascha Wagner",
+      "party": "Die Linke",
+      "count": 11,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 9
+    },
+    {
+      "rank": 153,
+      "name": "Stephan Stracke",
+      "party": "CDU/CSU",
+      "count": 11,
+      "positive": 3,
+      "negative": 0,
+      "neutral": 8
+    },
+    {
+      "rank": 154,
+      "name": "Steffen Kotré",
+      "party": "AfD",
+      "count": 11,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 9
+    },
+    {
+      "rank": 155,
+      "name": "Katrin Fey",
+      "party": "Die Linke",
+      "count": 10,
+      "positive": 3,
+      "negative": 2,
+      "neutral": 5
+    },
+    {
+      "rank": 156,
+      "name": "Alexander Arpaschi",
+      "party": "AfD",
+      "count": 10,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 8
+    },
+    {
+      "rank": 157,
+      "name": "Axel Müller",
+      "party": "CDU/CSU",
+      "count": 10,
+      "positive": 0,
+      "negative": 1,
+      "neutral": 9
+    },
+    {
+      "rank": 158,
+      "name": "Thomas Erndl",
+      "party": "CDU/CSU",
+      "count": 10,
+      "positive": 3,
+      "negative": 2,
+      "neutral": 5
+    },
+    {
+      "rank": 159,
+      "name": "Peter Bohnhof",
+      "party": "AfD",
+      "count": 10,
+      "positive": 0,
+      "negative": 3,
+      "neutral": 7
+    },
+    {
+      "rank": 160,
+      "name": "Dr. Wiebke Esdar",
+      "party": "SPD",
+      "count": 9,
+      "positive": 4,
+      "negative": 2,
+      "neutral": 3
+    },
+    {
+      "rank": 161,
+      "name": "Emmi Zeulner",
+      "party": "CDU/CSU",
+      "count": 9,
+      "positive": 6,
+      "negative": 0,
+      "neutral": 3
+    },
+    {
+      "rank": 162,
+      "name": "Johannes Volkmann",
+      "party": "CDU/CSU",
+      "count": 9,
+      "positive": 2,
+      "negative": 0,
+      "neutral": 7
+    },
+    {
+      "rank": 163,
+      "name": "Aydan Özoğuz",
+      "party": "SPD",
+      "count": 9,
+      "positive": 2,
+      "negative": 0,
+      "neutral": 7
+    },
+    {
+      "rank": 164,
+      "name": "Martin Rabanus",
+      "party": "SPD",
+      "count": 9,
+      "positive": 1,
+      "negative": 2,
+      "neutral": 6
+    },
+    {
+      "rank": 165,
+      "name": "Stefan Schröder",
+      "party": "AfD",
+      "count": 9,
+      "positive": 2,
+      "negative": 0,
+      "neutral": 7
+    },
+    {
+      "rank": 166,
+      "name": "Andreas Mayer",
+      "party": "AfD",
+      "count": 9,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 7
+    },
+    {
+      "rank": 167,
+      "name": "Angelika Glöckner",
+      "party": "SPD",
+      "count": 9,
+      "positive": 3,
+      "negative": 1,
+      "neutral": 5
+    },
+    {
+      "rank": 168,
+      "name": "Dirk Brandes",
+      "party": "AfD",
+      "count": 8,
+      "positive": 0,
+      "negative": 1,
+      "neutral": 7
+    },
+    {
+      "rank": 169,
+      "name": "Björn Simon",
+      "party": "CDU/CSU",
+      "count": 8,
+      "positive": 0,
+      "negative": 3,
+      "neutral": 5
+    },
+    {
+      "rank": 170,
+      "name": "Dr. Michael Kaufmann",
+      "party": "AfD",
+      "count": 8,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 7
+    },
+    {
+      "rank": 171,
+      "name": "Udo Theodor Hemmelgarn",
+      "party": "AfD",
+      "count": 8,
+      "positive": 2,
+      "negative": 1,
+      "neutral": 5
+    },
+    {
+      "rank": 172,
+      "name": "Andreas Paul",
+      "party": "AfD",
+      "count": 8,
+      "positive": 3,
+      "negative": 0,
+      "neutral": 5
+    },
+    {
+      "rank": 173,
+      "name": "Carmen Wegge",
+      "party": "SPD",
+      "count": 8,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 6
+    },
+    {
+      "rank": 174,
+      "name": "René Springer",
+      "party": "AfD",
+      "count": 8,
+      "positive": 2,
+      "negative": 0,
+      "neutral": 6
+    },
+    {
+      "rank": 175,
+      "name": "Jörg Cezanne",
+      "party": "Die Linke",
+      "count": 8,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 7
+    },
+    {
+      "rank": 176,
+      "name": "Andrea Lindholz",
+      "party": "CDU/CSU",
+      "count": 8,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 6
+    },
+    {
+      "rank": 177,
+      "name": "Jan Köstering",
+      "party": "Die Linke",
+      "count": 8,
+      "positive": 2,
+      "negative": 0,
+      "neutral": 6
+    },
+    {
+      "rank": 178,
+      "name": "Kathrin Michel",
+      "party": "SPD",
+      "count": 8,
+      "positive": 2,
+      "negative": 3,
+      "neutral": 3
+    },
+    {
+      "rank": 179,
+      "name": "Cem Ince",
+      "party": "Die Linke",
+      "count": 8,
+      "positive": 2,
+      "negative": 1,
+      "neutral": 5
+    },
+    {
+      "rank": 180,
+      "name": "Artur Auernhammer",
+      "party": "CDU/CSU",
+      "count": 8,
+      "positive": 5,
+      "negative": 0,
+      "neutral": 3
+    },
+    {
+      "rank": 181,
+      "name": "Dr. Reinhard Brandl",
+      "party": "CDU/CSU",
+      "count": 7,
+      "positive": 0,
+      "negative": 2,
+      "neutral": 5
+    },
+    {
+      "rank": 182,
+      "name": "Holger Mann",
+      "party": "SPD",
+      "count": 7,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 5
+    },
+    {
+      "rank": 183,
+      "name": "Anja Karliczek",
+      "party": "CDU/CSU",
+      "count": 7,
+      "positive": 2,
+      "negative": 0,
+      "neutral": 5
+    },
+    {
+      "rank": 184,
+      "name": "Jan Wenzel Schmidt",
+      "party": "AfD",
+      "count": 7,
+      "positive": 0,
+      "negative": 1,
+      "neutral": 6
+    },
+    {
+      "rank": 185,
+      "name": "Mechthilde Wittmann",
+      "party": "CDU/CSU",
+      "count": 7,
+      "positive": 1,
+      "negative": 2,
+      "neutral": 4
+    },
+    {
+      "rank": 186,
+      "name": "Jan Ralf Nolte",
+      "party": "AfD",
+      "count": 7,
+      "positive": 2,
+      "negative": 0,
+      "neutral": 5
+    },
+    {
+      "rank": 187,
+      "name": "Dr. Christoph Ploß",
+      "party": "CDU/CSU",
+      "count": 7,
+      "positive": 4,
+      "negative": 0,
+      "neutral": 3
+    },
+    {
+      "rank": 188,
+      "name": "Martin Erwin Renner",
+      "party": "AfD",
+      "count": 7,
+      "positive": 3,
+      "negative": 1,
+      "neutral": 3
+    },
+    {
+      "rank": 189,
+      "name": "Dr. Christos Pantazis",
+      "party": "SPD",
+      "count": 7,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 3
+    },
+    {
+      "rank": 190,
+      "name": "Rocco Kever",
+      "party": "AfD",
+      "count": 7,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 6
+    },
+    {
+      "rank": 191,
+      "name": "Mandy Eißing",
+      "party": "Die Linke",
+      "count": 7,
+      "positive": 2,
+      "negative": 0,
+      "neutral": 5
+    },
+    {
+      "rank": 192,
+      "name": "Detlef Seif",
+      "party": "CDU/CSU",
+      "count": 7,
+      "positive": 3,
+      "negative": 1,
+      "neutral": 3
+    },
+    {
+      "rank": 193,
+      "name": "Sarah Vollath",
+      "party": "Die Linke",
+      "count": 6,
+      "positive": 3,
+      "negative": 0,
+      "neutral": 3
+    },
+    {
+      "rank": 194,
+      "name": "Zada Salihović",
+      "party": "Die Linke",
+      "count": 6,
+      "positive": 2,
+      "negative": 1,
+      "neutral": 3
+    },
+    {
+      "rank": 195,
+      "name": "Mark Helfrich",
+      "party": "CDU/CSU",
+      "count": 6,
+      "positive": 2,
+      "negative": 0,
+      "neutral": 4
+    },
+    {
+      "rank": 196,
+      "name": "Kerstin Vieregge",
+      "party": "CDU/CSU",
+      "count": 6,
+      "positive": 3,
+      "negative": 0,
+      "neutral": 3
+    },
+    {
+      "rank": 197,
+      "name": "Ronald Gläser",
+      "party": "AfD",
+      "count": 6,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 4
+    },
+    {
+      "rank": 198,
+      "name": "Kerstin Przygodda",
+      "party": "AfD",
+      "count": 6,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 5
+    },
+    {
+      "rank": 199,
+      "name": "Violetta Bock",
+      "party": "Die Linke",
+      "count": 6,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 6
+    },
+    {
+      "rank": 200,
+      "name": "Dieter Stier",
+      "party": "CDU/CSU",
+      "count": 6,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 5
+    },
+    {
+      "rank": 201,
+      "name": "Sergej Minich",
+      "party": "AfD",
+      "count": 6,
+      "positive": 0,
+      "negative": 1,
+      "neutral": 5
+    },
+    {
+      "rank": 202,
+      "name": "Dr. Philipp Rottwilm",
+      "party": "SPD",
+      "count": 6,
+      "positive": 0,
+      "negative": 2,
+      "neutral": 4
+    },
+    {
+      "rank": 203,
+      "name": "Jochen Haug",
+      "party": "AfD",
+      "count": 5,
+      "positive": 1,
+      "negative": 2,
+      "neutral": 2
+    },
+    {
+      "rank": 204,
+      "name": "Otto Strauß",
+      "party": "AfD",
+      "count": 5,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 3
+    },
+    {
+      "rank": 205,
+      "name": "Klaus-Peter Willsch",
+      "party": "CDU/CSU",
+      "count": 5,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 5
+    },
+    {
+      "rank": 206,
+      "name": "Dr. Dietmar Bartsch",
+      "party": "Die Linke",
+      "count": 5,
+      "positive": 2,
+      "negative": 1,
+      "neutral": 2
+    },
+    {
+      "rank": 207,
+      "name": "Kurt Kleinschmidt",
+      "party": "AfD",
+      "count": 5,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 5
+    },
+    {
+      "rank": 208,
+      "name": "Ralph Brinkhaus",
+      "party": "CDU/CSU",
+      "count": 5,
+      "positive": 2,
+      "negative": 0,
+      "neutral": 3
+    },
+    {
+      "rank": 209,
+      "name": "Pascal Reddig",
+      "party": "CDU/CSU",
+      "count": 5,
+      "positive": 0,
+      "negative": 1,
+      "neutral": 4
+    },
+    {
+      "rank": 210,
+      "name": "Gereon Bollmann",
+      "party": "AfD",
+      "count": 5,
+      "positive": 3,
+      "negative": 0,
+      "neutral": 2
+    },
+    {
+      "rank": 211,
+      "name": "Christina Stumpp",
+      "party": "CDU/CSU",
+      "count": 5,
+      "positive": 2,
+      "negative": 1,
+      "neutral": 2
+    },
+    {
+      "rank": 212,
+      "name": "Martin Sichert",
+      "party": "AfD",
+      "count": 5,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 5
+    },
+    {
+      "rank": 213,
+      "name": "Sascha van Beek",
+      "party": "CDU/CSU",
+      "count": 5,
+      "positive": 2,
+      "negative": 0,
+      "neutral": 3
+    },
+    {
+      "rank": 214,
+      "name": "Dr. Thorsten Rudolph",
+      "party": "SPD",
+      "count": 5,
+      "positive": 0,
+      "negative": 2,
+      "neutral": 3
+    },
+    {
+      "rank": 215,
+      "name": "Dr. Yannick Bury",
+      "party": "CDU/CSU",
+      "count": 5,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 1
+    },
+    {
+      "rank": 216,
+      "name": "Doris Achelwilm",
+      "party": "Die Linke",
+      "count": 5,
+      "positive": 0,
+      "negative": 1,
+      "neutral": 4
+    },
+    {
+      "rank": 217,
+      "name": "Saskia Esken",
+      "party": "SPD",
+      "count": 5,
+      "positive": 2,
+      "negative": 0,
+      "neutral": 3
+    },
+    {
+      "rank": 218,
+      "name": "Dr. Alexander Wolf",
+      "party": "AfD",
+      "count": 5,
+      "positive": 0,
+      "negative": 1,
+      "neutral": 4
+    },
+    {
+      "rank": 219,
+      "name": "Hermann Färber",
+      "party": "CDU/CSU",
+      "count": 5,
+      "positive": 0,
+      "negative": 1,
+      "neutral": 4
+    },
+    {
+      "rank": 220,
+      "name": "Knuth Meyer-Soltau",
+      "party": "AfD",
+      "count": 4,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 4
+    },
+    {
+      "rank": 221,
+      "name": "Armin Laschet",
+      "party": "CDU/CSU",
+      "count": 4,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 4
+    },
+    {
+      "rank": 222,
+      "name": "Wilfried Oellers",
+      "party": "CDU/CSU",
+      "count": 4,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 4
+    },
+    {
+      "rank": 223,
+      "name": "Johannes Schätzl",
+      "party": "SPD",
+      "count": 4,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 4
+    },
+    {
+      "rank": 224,
+      "name": "Rüdiger Lucassen",
+      "party": "AfD",
+      "count": 4,
+      "positive": 0,
+      "negative": 1,
+      "neutral": 3
+    },
+    {
+      "rank": 225,
+      "name": "Sebastian Roloff",
+      "party": "SPD",
+      "count": 4,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 4
+    },
+    {
+      "rank": 226,
+      "name": "Dr. Saskia Ludwig",
+      "party": "CDU/CSU",
+      "count": 4,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 4
+    },
+    {
+      "rank": 227,
+      "name": "Josef Oster",
+      "party": "CDU/CSU",
+      "count": 4,
+      "positive": 0,
+      "negative": 2,
+      "neutral": 2
+    },
+    {
+      "rank": 228,
+      "name": "Hans-Jürgen Goßner",
+      "party": "AfD",
+      "count": 4,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 4
+    },
+    {
+      "rank": 229,
+      "name": "Matthias Helferich",
+      "party": "AfD",
+      "count": 4,
+      "positive": 0,
+      "negative": 1,
+      "neutral": 3
+    },
+    {
+      "rank": 230,
+      "name": "Dr. Rainer Rothfuß",
+      "party": "AfD",
+      "count": 4,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 3
+    },
+    {
+      "rank": 231,
+      "name": "Arne Raue",
+      "party": "AfD",
+      "count": 4,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 3
+    },
+    {
+      "rank": 232,
+      "name": "Lorenz Gösta Beutin",
+      "party": "Die Linke",
+      "count": 4,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 4
+    },
+    {
+      "rank": 233,
+      "name": "Ulrich von Zons",
+      "party": "AfD",
+      "count": 4,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 4
+    },
+    {
+      "rank": 234,
+      "name": "Hendrik Bollmann",
+      "party": "SPD",
+      "count": 4,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 3
+    },
+    {
+      "rank": 235,
+      "name": "Dr. Ottilie Klein",
+      "party": "CDU/CSU",
+      "count": 4,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 4
+    },
+    {
+      "rank": 236,
+      "name": "Annika Klose",
+      "party": "SPD",
+      "count": 4,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 4
+    },
+    {
+      "rank": 237,
+      "name": "Cansu Özdemir",
+      "party": "Die Linke",
+      "count": 4,
+      "positive": 1,
+      "negative": 2,
+      "neutral": 1
+    },
+    {
+      "rank": 238,
+      "name": "Dr. Katja Strauss-Köster",
+      "party": "CDU/CSU",
+      "count": 4,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 3
+    },
+    {
+      "rank": 239,
+      "name": "Joachim Bloch",
+      "party": "AfD",
+      "count": 4,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 4
+    },
+    {
+      "rank": 240,
+      "name": "Rainer Galla",
+      "party": "AfD",
+      "count": 4,
+      "positive": 2,
+      "negative": 0,
+      "neutral": 2
+    },
+    {
+      "rank": 241,
+      "name": "Sebastian Maack",
+      "party": "AfD",
+      "count": 4,
+      "positive": 2,
+      "negative": 0,
+      "neutral": 2
+    },
+    {
+      "rank": 242,
+      "name": "Christian Haase",
+      "party": "CDU/CSU",
+      "count": 4,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 4
+    },
+    {
+      "rank": 243,
+      "name": "Lea Reisner",
+      "party": "Die Linke",
+      "count": 4,
+      "positive": 2,
+      "negative": 0,
+      "neutral": 2
+    },
+    {
+      "rank": 244,
+      "name": "Dr. Jonas Geissler",
+      "party": "CDU/CSU",
+      "count": 4,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 4
+    },
+    {
+      "rank": 245,
+      "name": "Charlotte Antonia Neuhäuser",
+      "party": "Die Linke",
+      "count": 3,
+      "positive": 2,
+      "negative": 1,
+      "neutral": 0
+    },
+    {
+      "rank": 246,
+      "name": "René Bochmann",
+      "party": "AfD",
+      "count": 3,
+      "positive": 0,
+      "negative": 1,
+      "neutral": 2
+    },
+    {
+      "rank": 247,
+      "name": "Michael Schrodi",
+      "party": "SPD",
+      "count": 3,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 3
+    },
+    {
+      "rank": 248,
+      "name": "Dr. Nina Scheer",
+      "party": "SPD",
+      "count": 3,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 3
+    },
+    {
+      "rank": 249,
+      "name": "Martin Kröber",
+      "party": "SPD",
+      "count": 3,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 3
+    },
+    {
+      "rank": 250,
+      "name": "Nadine Heselhaus",
+      "party": "SPD",
+      "count": 3,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 3
+    },
+    {
+      "rank": 251,
+      "name": "David Schliesing",
+      "party": "Die Linke",
+      "count": 3,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 2
+    },
+    {
+      "rank": 252,
+      "name": "Christin Willnat",
+      "party": "Die Linke",
+      "count": 3,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 2
+    },
+    {
+      "rank": 253,
+      "name": "Jens Peick",
+      "party": "SPD",
+      "count": 3,
+      "positive": 2,
+      "negative": 1,
+      "neutral": 0
+    },
+    {
+      "rank": 254,
+      "name": "Kathrin Gebel",
+      "party": "Die Linke",
+      "count": 3,
+      "positive": 0,
+      "negative": 1,
+      "neutral": 2
+    },
+    {
+      "rank": 255,
+      "name": "Sebastian Steineke",
+      "party": "CDU/CSU",
+      "count": 3,
+      "positive": 0,
+      "negative": 2,
+      "neutral": 1
+    },
+    {
+      "rank": 256,
+      "name": "Robin Jünger",
+      "party": "AfD",
+      "count": 3,
+      "positive": 0,
+      "negative": 1,
+      "neutral": 2
+    },
+    {
+      "rank": 257,
+      "name": "Ruppert Stüwe",
+      "party": "SPD",
+      "count": 3,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 2
+    },
+    {
+      "rank": 258,
+      "name": "Dr. Norbert Röttgen",
+      "party": "CDU/CSU",
+      "count": 3,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 3
+    },
+    {
+      "rank": 259,
+      "name": "Mechthild Heil",
+      "party": "CDU/CSU",
+      "count": 3,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 2
+    },
+    {
+      "rank": 260,
+      "name": "Dr. Anna Rathert",
+      "party": "AfD",
+      "count": 3,
+      "positive": 0,
+      "negative": 1,
+      "neutral": 2
+    },
+    {
+      "rank": 261,
+      "name": "Lars Rohwer",
+      "party": "CDU/CSU",
+      "count": 3,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 2
+    },
+    {
+      "rank": 262,
+      "name": "Erhard Brucker",
+      "party": "AfD",
+      "count": 3,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 3
+    },
+    {
+      "rank": 263,
+      "name": "Daniela Ludwig",
+      "party": "CDU/CSU",
+      "count": 2,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 2
+    },
+    {
+      "rank": 264,
+      "name": "Bastian Ernst",
+      "party": "CDU/CSU",
+      "count": 2,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 2
+    },
+    {
+      "rank": 265,
+      "name": "Anne König",
+      "party": "CDU/CSU",
+      "count": 2,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 2
+    },
+    {
+      "rank": 266,
+      "name": "Dr. Hülya Düber",
+      "party": "CDU/CSU",
+      "count": 2,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 1
+    },
+    {
+      "rank": 267,
+      "name": "Thomas Röwekamp",
+      "party": "CDU/CSU",
+      "count": 2,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 2
+    },
+    {
+      "rank": 268,
+      "name": "Johann Saathoff",
+      "party": "SPD",
+      "count": 2,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 2
+    },
+    {
+      "rank": 269,
+      "name": "Roland Theis",
+      "party": "CDU/CSU",
+      "count": 2,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 2
+    },
+    {
+      "rank": 270,
+      "name": "Bernd Schuhmann",
+      "party": "AfD",
+      "count": 2,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 1
+    },
+    {
+      "rank": 271,
+      "name": "Tamara Mazzi",
+      "party": "Die Linke",
+      "count": 2,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 2
+    },
+    {
+      "rank": 272,
+      "name": "Dr. Silke Launert",
+      "party": "CDU/CSU",
+      "count": 2,
+      "positive": 0,
+      "negative": 1,
+      "neutral": 1
+    },
+    {
+      "rank": 273,
+      "name": "Joachim Ebmeyer",
+      "party": "CDU/CSU",
+      "count": 2,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 2
+    },
+    {
+      "rank": 274,
+      "name": "Klaus Mack",
+      "party": "CDU/CSU",
+      "count": 2,
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    {
+      "rank": 275,
+      "name": "Nicolas Zippelius",
+      "party": "CDU/CSU",
+      "count": 2,
+      "positive": 0,
+      "negative": 2,
+      "neutral": 0
+    },
+    {
+      "rank": 276,
+      "name": "Diana Zimmer",
+      "party": "AfD",
+      "count": 2,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 1
+    },
+    {
+      "rank": 277,
+      "name": "Wolfgang Wiehle",
+      "party": "AfD",
+      "count": 2,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 1
+    },
+    {
+      "rank": 278,
+      "name": "Alexis L. Giersch",
+      "party": "AfD",
+      "count": 2,
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    {
+      "rank": 279,
+      "name": "Stella Merendino",
+      "party": "Die Linke",
+      "count": 2,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 2
+    },
+    {
+      "rank": 280,
+      "name": "Stefan Schwartze",
+      "party": "SPD",
+      "count": 2,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 2
+    },
+    {
+      "rank": 281,
+      "name": "Mareike Lotte Wulf",
+      "party": "CDU/CSU",
+      "count": 2,
+      "positive": 0,
+      "negative": 2,
+      "neutral": 0
+    },
+    {
+      "rank": 282,
+      "name": "Tijen Ataoğlu",
+      "party": "CDU/CSU",
+      "count": 2,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 2
+    },
+    {
+      "rank": 283,
+      "name": "Heiko Hain",
+      "party": "CDU/CSU",
+      "count": 2,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 2
+    },
+    {
+      "rank": 284,
+      "name": "Matthias David Mieves",
+      "party": "SPD",
+      "count": 2,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 1
+    },
+    {
+      "rank": 285,
+      "name": "Dr. Carsten Linnemann",
+      "party": "CDU/CSU",
+      "count": 2,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 2
+    },
+    {
+      "rank": 286,
+      "name": "Hakan Demir",
+      "party": "SPD",
+      "count": 2,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 2
+    },
+    {
+      "rank": 287,
+      "name": "Dr. Carsten Brodesser",
+      "party": "CDU/CSU",
+      "count": 2,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    },
+    {
+      "rank": 288,
+      "name": "Iris Nieland",
+      "party": "AfD",
+      "count": 2,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 2
+    },
+    {
+      "rank": 289,
+      "name": "Markus Matzerath",
+      "party": "AfD",
+      "count": 2,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 2
+    },
+    {
+      "rank": 290,
+      "name": "Jörg Zirwes",
+      "party": "AfD",
+      "count": 2,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 2
+    },
+    {
+      "rank": 291,
+      "name": "Olav Gutting",
+      "party": "CDU/CSU",
+      "count": 2,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 2
+    },
+    {
+      "rank": 292,
+      "name": "Uwe Schmidt",
+      "party": "SPD",
+      "count": 2,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 1
+    },
+    {
+      "rank": 293,
+      "name": "Dr. Franziska Kersten",
+      "party": "SPD",
+      "count": 2,
+      "positive": 0,
+      "negative": 1,
+      "neutral": 1
+    },
+    {
+      "rank": 294,
+      "name": "Ulrich Thoden",
+      "party": "Die Linke",
+      "count": 2,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 1
+    },
+    {
+      "rank": 295,
+      "name": "Isabel Cademartori",
+      "party": "SPD",
+      "count": 2,
+      "positive": 0,
+      "negative": 1,
+      "neutral": 1
+    },
+    {
+      "rank": 296,
+      "name": "Fabian Gramling",
+      "party": "CDU/CSU",
+      "count": 1,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    {
+      "rank": 297,
+      "name": "Nicklas Kappe",
+      "party": "CDU/CSU",
+      "count": 1,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    {
+      "rank": 298,
+      "name": "Carl-Philipp Sassenrath",
+      "party": "CDU/CSU",
+      "count": 1,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    {
+      "rank": 299,
+      "name": "Alexander Engelhard",
+      "party": "CDU/CSU",
+      "count": 1,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    {
+      "rank": 300,
+      "name": "Uwe Feiler",
+      "party": "CDU/CSU",
+      "count": 1,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    {
+      "rank": 301,
+      "name": "Gabriela Heinrich",
+      "party": "SPD",
+      "count": 1,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    {
+      "rank": 302,
+      "name": "Helmut Kleebank",
+      "party": "SPD",
+      "count": 1,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    {
+      "rank": 303,
+      "name": "Dr. Markus Reichel",
+      "party": "CDU/CSU",
+      "count": 1,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    {
+      "rank": 304,
+      "name": "Josephine Ortleb",
+      "party": "SPD",
+      "count": 1,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    {
+      "rank": 305,
+      "name": "Frank Junge",
+      "party": "SPD",
+      "count": 1,
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    {
+      "rank": 306,
+      "name": "Dr. Hendrik Streeck",
+      "party": "CDU/CSU",
+      "count": 1,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    {
+      "rank": 307,
+      "name": "Andreas Schwarz",
+      "party": "SPD",
+      "count": 1,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    {
+      "rank": 308,
+      "name": "Ralph Edelhäußer",
+      "party": "CDU/CSU",
+      "count": 1,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    {
+      "rank": 309,
+      "name": "Paul Ziemiak",
+      "party": "CDU/CSU",
+      "count": 1,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    {
+      "rank": 310,
+      "name": "Christoph Schmid",
+      "party": "SPD",
+      "count": 1,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    {
+      "rank": 311,
+      "name": "Johann Martel",
+      "party": "AfD",
+      "count": 1,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    {
+      "rank": 312,
+      "name": "Anja Troff-Schaffarzyk",
+      "party": "SPD",
+      "count": 1,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    {
+      "rank": 313,
+      "name": "Dr. Alexander Gauland",
+      "party": "AfD",
+      "count": 1,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    {
+      "rank": 314,
+      "name": "Dr. Wolfgang Stefinger",
+      "party": "CDU/CSU",
+      "count": 1,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    {
+      "rank": 315,
+      "name": "Mareike Hermeier",
+      "party": "Die Linke",
+      "count": 1,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    {
+      "rank": 316,
+      "name": "Janina Böttger",
+      "party": "Die Linke",
+      "count": 1,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    {
+      "rank": 317,
+      "name": "Svenja Stadler",
+      "party": "SPD",
+      "count": 1,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    {
+      "rank": 318,
+      "name": "Dr. Tanja Machalet",
+      "party": "SPD",
+      "count": 1,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    {
+      "rank": 319,
+      "name": "Gitta Connemann",
+      "party": "CDU/CSU",
+      "count": 1,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    {
+      "rank": 320,
+      "name": "Stefan Möller",
+      "party": "AfD",
+      "count": 1,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    {
+      "rank": 321,
+      "name": "Heinrich Koch",
+      "party": "AfD",
+      "count": 1,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    {
+      "rank": 322,
+      "name": "Truels Reichardt",
+      "party": "SPD",
+      "count": 1,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    {
+      "rank": 323,
+      "name": "Wilhelm Gebhard",
+      "party": "CDU/CSU",
+      "count": 1,
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    {
+      "rank": 324,
+      "name": "Anne Zerr",
+      "party": "Die Linke",
+      "count": 1,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    {
+      "rank": 325,
+      "name": "Florian Hahn",
+      "party": "CDU/CSU",
+      "count": 1,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    {
+      "rank": 326,
+      "name": "Bettina Lugk",
+      "party": "SPD",
+      "count": 1,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    {
+      "rank": 327,
+      "name": "Christian Freiherr von Stetten",
+      "party": "CDU/CSU",
+      "count": 1,
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    {
+      "rank": 328,
+      "name": "Dr. Matthias Miersch",
+      "party": "SPD",
+      "count": 1,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    {
+      "rank": 329,
+      "name": "Hans Koller",
+      "party": "CDU/CSU",
+      "count": 1,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    {
+      "rank": 330,
+      "name": "Julian Schmidt",
+      "party": "AfD",
+      "count": 1,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    {
+      "rank": 331,
+      "name": "Dorothee Bär",
+      "party": "CDU/CSU",
+      "count": 1,
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    {
+      "rank": 332,
+      "name": "Thorsten Frei",
+      "party": "CDU/CSU",
+      "count": 1,
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    {
+      "rank": 333,
+      "name": "Pierre Lamely",
+      "party": "AfD",
+      "count": 1,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    {
+      "rank": 334,
+      "name": "Donata Vogtschmidt",
+      "party": "Die Linke",
+      "count": 1,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    {
+      "rank": 335,
+      "name": "Isabel Mackensen-Geis",
+      "party": "SPD",
+      "count": 1,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    {
+      "rank": 336,
+      "name": "Oliver Kaczmarek",
+      "party": "SPD",
+      "count": 1,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    {
+      "rank": 337,
+      "name": "Sahra Mirow",
+      "party": "Die Linke",
+      "count": 1,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    {
+      "rank": 338,
+      "name": "Dr. Daniel Zerbin",
+      "party": "AfD",
+      "count": 1,
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    {
+      "rank": 339,
+      "name": "Ferat Koçak",
+      "party": "Die Linke",
+      "count": 1,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    {
+      "rank": 340,
+      "name": "Jürgen Koegel",
+      "party": "AfD",
+      "count": 1,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    {
+      "rank": 341,
+      "name": "Philipp Amthor",
+      "party": "CDU/CSU",
+      "count": 1,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    {
+      "rank": 342,
+      "name": "Torben Braga",
+      "party": "AfD",
+      "count": 1,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    {
+      "rank": 343,
+      "name": "Christian Douglas",
+      "party": "AfD",
+      "count": 1,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    {
+      "rank": 344,
+      "name": "Lars Schieske",
+      "party": "AfD",
+      "count": 1,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    {
+      "rank": 345,
+      "name": "Thomas Dietz",
+      "party": "AfD",
+      "count": 1,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    {
+      "rank": 346,
+      "name": "Dr. Matthias Hiller",
+      "party": "CDU/CSU",
+      "count": 1,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    }
+  ]
+}

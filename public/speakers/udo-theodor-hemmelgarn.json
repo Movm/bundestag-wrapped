@@ -1,0 +1,224 @@
+{
+  "name": "Udo Theodor Hemmelgarn",
+  "party": "AfD",
+  "slug": "udo-theodor-hemmelgarn",
+  "academicTitle": null,
+  "speeches": 2,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 709,
+  "avgWords": 354,
+  "minWords": 293,
+  "maxWords": 416,
+  "rankings": {
+    "speechRank": 553,
+    "wordsRank": 579,
+    "partySpeechRank": 134,
+    "partyWordsRank": 138,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 9.2,
+    "verbosityRank": null,
+    "verbosityTotal": null,
+    "partyVerbosityRank": null,
+    "longestSpeechRank": 568
+  },
+  "drama": {
+    "interruptionsGiven": 8,
+    "interruptionsReceived": 0,
+    "interrupterRank": 171,
+    "interruptedRank": null
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "einsatz",
+        "count": 4
+      },
+      {
+        "word": "verlängern",
+        "count": 3
+      },
+      {
+        "word": "jahr",
+        "count": 3
+      },
+      {
+        "word": "schwarz",
+        "count": 3
+      },
+      {
+        "word": "allerdings",
+        "count": 2
+      },
+      {
+        "word": "geld",
+        "count": 2
+      },
+      {
+        "word": "programme",
+        "count": 2
+      },
+      {
+        "word": "lässt",
+        "count": 2
+      },
+      {
+        "word": "jahren",
+        "count": 2
+      },
+      {
+        "word": "deutschland",
+        "count": 2
+      }
+    ],
+    "signatureWords": [],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 354,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.6,
+    "vsParliament": 0.58
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "2"
+    }
+  ],
+  "signatureQuiz": null,
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 50.0,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 100.0,
+      "collaboration": 50.0,
+      "demand_intensity": 14.3,
+      "acknowledgment": 0.0,
+      "authority": 50.0,
+      "future_orientation": 75.0,
+      "emotional_intensity": 50.0,
+      "inclusivity": 58.8,
+      "discriminatory": 0.0
+    },
+    "confidence": "low",
+    "sampleSize": {
+      "speeches": 2,
+      "words": 504,
+      "adjectives": 0,
+      "verbs": 7
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.0,
+      "wirtschaft": 0.0,
+      "soziales": 0.0,
+      "sicherheit": 7.94,
+      "gesundheit": 0.0,
+      "europa": 9.92,
+      "digital": 0.0,
+      "bildung": 1.98,
+      "finanzen": 3.97,
+      "justiz": 1.98,
+      "arbeit": 0.0,
+      "mobilitaet": 1.98
+    },
+    "topTopics": [
+      {
+        "topic": "europa",
+        "score": 9.92,
+        "rank": 1
+      },
+      {
+        "topic": "sicherheit",
+        "score": 7.94,
+        "rank": 2
+      },
+      {
+        "topic": "finanzen",
+        "score": 3.97,
+        "rank": 3
+      },
+      {
+        "topic": "bildung",
+        "score": 1.98,
+        "rank": 4
+      },
+      {
+        "topic": "justiz",
+        "score": 1.98,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "sicherheit": [
+        {
+          "word": "bundeswehr",
+          "count": 2
+        },
+        {
+          "word": "soldaten",
+          "count": 2
+        }
+      ],
+      "europa": [
+        {
+          "word": "außenminister",
+          "count": 1
+        },
+        {
+          "word": "europa",
+          "count": 1
+        },
+        {
+          "word": "außenpolitik",
+          "count": 1
+        },
+        {
+          "word": "abkommen",
+          "count": 1
+        },
+        {
+          "word": "krieg",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "bildung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 1
+        },
+        {
+          "word": "bundesrechnungshof",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "rechtsstaatlichkeit",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "straßen",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

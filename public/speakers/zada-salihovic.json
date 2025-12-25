@@ -1,0 +1,351 @@
+{
+  "name": "Zada Salihović",
+  "party": "DIE LINKE",
+  "slug": "zada-salihovic",
+  "academicTitle": null,
+  "speeches": 2,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 1079,
+  "avgWords": 360,
+  "minWords": 244,
+  "maxWords": 491,
+  "rankings": {
+    "speechRank": 532,
+    "wordsRank": 546,
+    "partySpeechRank": 61,
+    "partyWordsRank": 60,
+    "partySize": 63,
+    "totalSpeakers": 609,
+    "percentile": 12.6,
+    "verbosityRank": null,
+    "verbosityTotal": null,
+    "partyVerbosityRank": null,
+    "longestSpeechRank": 532
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 5,
+    "interrupterRank": 194,
+    "interruptedRank": 390
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "bundeswehr",
+        "count": 10
+      },
+      {
+        "word": "menschen",
+        "count": 6
+      },
+      {
+        "word": "soldaten",
+        "count": 6
+      },
+      {
+        "word": "soldatinnen",
+        "count": 6
+      },
+      {
+        "word": "schutz",
+        "count": 5
+      },
+      {
+        "word": "problem",
+        "count": 4
+      },
+      {
+        "word": "haltung",
+        "count": 4
+      },
+      {
+        "word": "sicherheit",
+        "count": 4
+      },
+      {
+        "word": "uniform",
+        "count": 4
+      },
+      {
+        "word": "gesetz",
+        "count": 4
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "soldatinnen",
+        "count": 6,
+        "ratioParty": 104.7,
+        "ratioBundestag": 39.7
+      },
+      {
+        "word": "soldaten",
+        "count": 6,
+        "ratioParty": 61.1,
+        "ratioBundestag": 23.4
+      },
+      {
+        "word": "bundeswehr",
+        "count": 10,
+        "ratioParty": 33.9,
+        "ratioBundestag": 30.6
+      },
+      {
+        "word": "schutz",
+        "count": 5,
+        "ratioParty": 11.6,
+        "ratioBundestag": 12.6
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "rechtsextrem",
+        "count": 3,
+        "ratioParty": 183.2,
+        "ratioBundestag": 281.3
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 360,
+    "partyAvgWords": 521,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.69,
+    "vsParliament": 0.59
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "2"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "1.079"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Zada Salihović häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Investitionen",
+        "isCorrect": false
+      },
+      {
+        "text": "Arbeit",
+        "isCorrect": false
+      },
+      {
+        "text": "Soldatinnen",
+        "isCorrect": true
+      },
+      {
+        "text": "Klima",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Soldatinnen\" nutzt Zada Salihović 104.7× häufiger als der DIE LINKE-Durchschnitt.",
+    "explanationBundestag": "39.7× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Zada Salihović häufiger als der Rest der DIE LINKE-Fraktion?",
+    "options": [
+      {
+        "text": "Klar",
+        "isCorrect": false
+      },
+      {
+        "text": "Rechtsextrem",
+        "isCorrect": true
+      },
+      {
+        "text": "Jung",
+        "isCorrect": false
+      },
+      {
+        "text": "Neu",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Rechtsextrem\" nutzt Zada Salihović 183.2× häufiger als der DIE LINKE-Durchschnitt.",
+    "explanationBundestag": "281.3× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🦫",
+    "name": "Biber",
+    "title": "Konstruktive Brückenbauerin",
+    "reason": "Du baust Brücken zwischen Positionen – kooperativ und lösungsorientiert.",
+    "id": "biber",
+    "alternatives": [
+      {
+        "emoji": "🐇",
+        "name": "Hase",
+        "title": "Wendige Optimistin",
+        "reason": "Mit positivem Blick reagierst du schnell auf neue Themen.",
+        "id": "hase",
+        "score": 0.725
+      },
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüterin",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.656
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 50.0,
+      "aggression": 0.0,
+      "labeling": 66.7,
+      "solution_focus": 100.0,
+      "collaboration": 50.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 0.0,
+      "authority": 92.3,
+      "future_orientation": 100.0,
+      "emotional_intensity": 25.0,
+      "inclusivity": 66.7,
+      "discriminatory": 1.41
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 3,
+      "words": 711,
+      "adjectives": 6,
+      "verbs": 4
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.0,
+      "wirtschaft": 0.0,
+      "soziales": 1.41,
+      "sicherheit": 33.76,
+      "gesundheit": 0.0,
+      "europa": 2.81,
+      "digital": 2.81,
+      "bildung": 7.03,
+      "finanzen": 0.0,
+      "justiz": 2.81,
+      "arbeit": 0.0,
+      "mobilitaet": 1.41
+    },
+    "topTopics": [
+      {
+        "topic": "sicherheit",
+        "score": 33.76,
+        "rank": 1
+      },
+      {
+        "topic": "bildung",
+        "score": 7.03,
+        "rank": 2
+      },
+      {
+        "topic": "europa",
+        "score": 2.81,
+        "rank": 3
+      },
+      {
+        "topic": "digital",
+        "score": 2.81,
+        "rank": 4
+      },
+      {
+        "topic": "justiz",
+        "score": 2.81,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "soziales": [
+        {
+          "word": "wohnung",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "bundeswehr",
+          "count": 10
+        },
+        {
+          "word": "soldaten",
+          "count": 6
+        },
+        {
+          "word": "polizei",
+          "count": 2
+        },
+        {
+          "word": "überwachung",
+          "count": 2
+        },
+        {
+          "word": "verfassungsschutz",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "außenpolitik",
+          "count": 1
+        },
+        {
+          "word": "diplomatie",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "internet",
+          "count": 1
+        },
+        {
+          "word": "daten",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "bildung",
+          "count": 2
+        },
+        {
+          "word": "ausbildung",
+          "count": 1
+        },
+        {
+          "word": "forschung",
+          "count": 1
+        },
+        {
+          "word": "schulen",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "verfassung",
+          "count": 1
+        },
+        {
+          "word": "gleichstellung",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "fahrzeuge",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

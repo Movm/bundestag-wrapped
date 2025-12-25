@@ -1,0 +1,459 @@
+{
+  "name": "Johannes Schätzl",
+  "party": "SPD",
+  "slug": "johannes-schaetzl",
+  "academicTitle": null,
+  "speeches": 9,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 3897,
+  "avgWords": 390,
+  "minWords": 68,
+  "maxWords": 648,
+  "rankings": {
+    "speechRank": 166,
+    "wordsRank": 260,
+    "partySpeechRank": 41,
+    "partyWordsRank": 59,
+    "partySize": 109,
+    "totalSpeakers": 609,
+    "percentile": 72.7,
+    "verbosityRank": 354,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 74,
+    "longestSpeechRank": 363
+  },
+  "drama": {
+    "interruptionsGiven": 4,
+    "interruptionsReceived": 4,
+    "interrupterRank": 223,
+    "interruptedRank": 443
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "digitale",
+        "count": 24
+      },
+      {
+        "word": "souveränität",
+        "count": 20
+      },
+      {
+        "word": "unternehmen",
+        "count": 18
+      },
+      {
+        "word": "sicherheit",
+        "count": 13
+      },
+      {
+        "word": "diesen",
+        "count": 11
+      },
+      {
+        "word": "land",
+        "count": 11
+      },
+      {
+        "word": "digitalen",
+        "count": 11
+      },
+      {
+        "word": "eines",
+        "count": 10
+      },
+      {
+        "word": "herzlichen",
+        "count": 10
+      },
+      {
+        "word": "würde",
+        "count": 9
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "komponenten",
+        "count": 5,
+        "ratioParty": 124.7,
+        "ratioBundestag": 195.5
+      },
+      {
+        "word": "abhängig",
+        "count": 6,
+        "ratioParty": 46.8,
+        "ratioBundestag": 27.8
+      },
+      {
+        "word": "zendis",
+        "count": 5,
+        "ratioParty": 41.6,
+        "ratioBundestag": 136.0
+      },
+      {
+        "word": "souveränität",
+        "count": 20,
+        "ratioParty": 36.1,
+        "ratioBundestag": 40.5
+      },
+      {
+        "word": "systeme",
+        "count": 6,
+        "ratioParty": 32.5,
+        "ratioBundestag": 34.7
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "stark",
+        "count": 3,
+        "ratioParty": 3.3,
+        "ratioBundestag": 4.6
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 390,
+    "partyAvgWords": 637,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.61,
+    "vsParliament": 0.64
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "9"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "3.897"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Johannes Schätzl häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Komponenten",
+        "isCorrect": true
+      },
+      {
+        "text": "Gesetzentwurf",
+        "isCorrect": false
+      },
+      {
+        "text": "Zukunft",
+        "isCorrect": false
+      },
+      {
+        "text": "Politik",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Komponenten\" nutzt Johannes Schätzl 124.7× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "195.5× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Johannes Schätzl häufiger als der Rest der SPD-Fraktion?",
+    "options": [
+      {
+        "text": "Neu",
+        "isCorrect": false
+      },
+      {
+        "text": "Stark",
+        "isCorrect": true
+      },
+      {
+        "text": "Sicher",
+        "isCorrect": false
+      },
+      {
+        "text": "Sozial",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Stark\" nutzt Johannes Schätzl 3.3× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "4.6× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐝",
+    "name": "Biene",
+    "title": "Fleißiger Abgeordneter",
+    "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+    "id": "biene",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüter",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.956
+      },
+      {
+        "emoji": "🦦",
+        "name": "Otter",
+        "title": "Positiver Teamplayer",
+        "reason": "Du bringst gute Stimmung und konstruktive Beiträge ins Plenum.",
+        "id": "otter",
+        "score": 0.828
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 100.0,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 92.6,
+      "collaboration": 50.0,
+      "demand_intensity": 3.0,
+      "acknowledgment": 15.2,
+      "authority": 80.3,
+      "future_orientation": 74.3,
+      "emotional_intensity": 23.1,
+      "inclusivity": 78.1,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 10,
+      "words": 2662,
+      "adjectives": 10,
+      "verbs": 33
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.38,
+      "wirtschaft": 8.26,
+      "soziales": 4.51,
+      "sicherheit": 3.38,
+      "gesundheit": 1.13,
+      "europa": 1.5,
+      "digital": 6.01,
+      "bildung": 0.38,
+      "finanzen": 4.51,
+      "justiz": 1.88,
+      "arbeit": 0.75,
+      "mobilitaet": 3.38
+    },
+    "topTopics": [
+      {
+        "topic": "wirtschaft",
+        "score": 8.26,
+        "rank": 1
+      },
+      {
+        "topic": "digital",
+        "score": 6.01,
+        "rank": 2
+      },
+      {
+        "topic": "soziales",
+        "score": 4.51,
+        "rank": 3
+      },
+      {
+        "topic": "finanzen",
+        "score": 4.51,
+        "rank": 4
+      },
+      {
+        "topic": "sicherheit",
+        "score": 3.38,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "stromnetz",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 18
+        },
+        {
+          "word": "markt",
+          "count": 2
+        },
+        {
+          "word": "standort",
+          "count": 1
+        },
+        {
+          "word": "wettbewerbsfähigkeit",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 6
+        },
+        {
+          "word": "kind",
+          "count": 3
+        },
+        {
+          "word": "eltern",
+          "count": 3
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "polizei",
+          "count": 3
+        },
+        {
+          "word": "verbrechen",
+          "count": 2
+        },
+        {
+          "word": "täter",
+          "count": 2
+        },
+        {
+          "word": "gewalt",
+          "count": 1
+        },
+        {
+          "word": "überwachung",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "prävention",
+          "count": 1
+        },
+        {
+          "word": "krankenkasse",
+          "count": 1
+        },
+        {
+          "word": "kliniken",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "china",
+          "count": 1
+        },
+        {
+          "word": "sanktionen",
+          "count": 1
+        },
+        {
+          "word": "europa",
+          "count": 1
+        },
+        {
+          "word": "europäisch",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "daten",
+          "count": 3
+        },
+        {
+          "word": "mobilfunk",
+          "count": 3
+        },
+        {
+          "word": "cloud",
+          "count": 2
+        },
+        {
+          "word": "glasfaser",
+          "count": 2
+        },
+        {
+          "word": "cybersicherheit",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "wissenschaftler",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 7
+        },
+        {
+          "word": "investitionen",
+          "count": 2
+        },
+        {
+          "word": "finanzminister",
+          "count": 1
+        },
+        {
+          "word": "steuer",
+          "count": 1
+        },
+        {
+          "word": "fördermittel",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "gesetzesänderung",
+          "count": 2
+        },
+        {
+          "word": "richter",
+          "count": 1
+        },
+        {
+          "word": "grundrechte",
+          "count": 1
+        },
+        {
+          "word": "straftat",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "befristung",
+          "count": 1
+        },
+        {
+          "word": "arbeitsplätze",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 7
+        },
+        {
+          "word": "straße",
+          "count": 1
+        },
+        {
+          "word": "bahnstrecke",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

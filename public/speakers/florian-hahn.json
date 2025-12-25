@@ -1,0 +1,423 @@
+{
+  "name": "Florian Hahn",
+  "party": "CDU/CSU",
+  "slug": "florian-hahn",
+  "academicTitle": null,
+  "speeches": 3,
+  "wortbeitraege": 39,
+  "befragungResponses": 39,
+  "totalWords": 7589,
+  "avgWords": 181,
+  "minWords": 10,
+  "maxWords": 1053,
+  "rankings": {
+    "speechRank": 473,
+    "wordsRank": 79,
+    "partySpeechRank": 147,
+    "partyWordsRank": 25,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 22.3,
+    "verbosityRank": 512,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 161,
+    "longestSpeechRank": 55
+  },
+  "drama": {
+    "interruptionsGiven": 1,
+    "interruptionsReceived": 10,
+    "interrupterRank": 325,
+    "interruptedRank": 267
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "ukraine",
+        "count": 44
+      },
+      {
+        "word": "russland",
+        "count": 36
+      },
+      {
+        "word": "bundesregierung",
+        "count": 32
+      },
+      {
+        "word": "nato",
+        "count": 29
+      },
+      {
+        "word": "sicherheit",
+        "count": 24
+      },
+      {
+        "word": "deutschland",
+        "count": 20
+      },
+      {
+        "word": "kollege",
+        "count": 20
+      },
+      {
+        "word": "klar",
+        "count": 17
+      },
+      {
+        "word": "europa",
+        "count": 16
+      },
+      {
+        "word": "europäischen",
+        "count": 14
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "aktivitäten",
+        "count": 5,
+        "ratioParty": 176.3,
+        "ratioBundestag": 66.5
+      },
+      {
+        "word": "kosovo",
+        "count": 9,
+        "ratioParty": 50.1,
+        "ratioBundestag": 34.8
+      },
+      {
+        "word": "mittelmeer",
+        "count": 6,
+        "ratioParty": 37.3,
+        "ratioBundestag": 19.7
+      },
+      {
+        "word": "westbalkan",
+        "count": 5,
+        "ratioParty": 25.2,
+        "ratioBundestag": 48.9
+      },
+      {
+        "word": "brandner",
+        "count": 6,
+        "ratioParty": 21.2,
+        "ratioBundestag": 23.7
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "zentral",
+        "count": 3,
+        "ratioParty": 8.1,
+        "ratioBundestag": 8.2
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 181,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.26,
+    "vsParliament": 0.3
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "3"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "7.589"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Florian Hahn häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Haushalt",
+        "isCorrect": false
+      },
+      {
+        "text": "Familie",
+        "isCorrect": false
+      },
+      {
+        "text": "Aktivitäten",
+        "isCorrect": true
+      },
+      {
+        "text": "Reform",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Aktivitäten\" nutzt Florian Hahn 176.3× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "66.5× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Florian Hahn häufiger als der Rest der CDU/CSU-Fraktion?",
+    "options": [
+      {
+        "text": "Richtig",
+        "isCorrect": false
+      },
+      {
+        "text": "Problematisch",
+        "isCorrect": false
+      },
+      {
+        "text": "Europäisch",
+        "isCorrect": false
+      },
+      {
+        "text": "Zentral",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Zentral\" nutzt Florian Hahn 8.1× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "8.2× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐿️",
+    "name": "Eichhörnchen",
+    "title": "Themenhüter",
+    "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+    "id": "eichhoernchen",
+    "alternatives": [
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißiger Abgeordneter",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      },
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Cleverer Stratege",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 0.964
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 78.3,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 75.6,
+      "collaboration": 66.7,
+      "demand_intensity": 9.6,
+      "acknowledgment": 0.0,
+      "authority": 71.1,
+      "future_orientation": 84.3,
+      "emotional_intensity": 76.7,
+      "inclusivity": 63.4,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 42,
+      "words": 5002,
+      "adjectives": 23,
+      "verbs": 52
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 2.4,
+      "klima": 0.8,
+      "wirtschaft": 0.0,
+      "soziales": 0.4,
+      "sicherheit": 8.2,
+      "gesundheit": 0.6,
+      "europa": 39.18,
+      "digital": 0.2,
+      "bildung": 0.0,
+      "finanzen": 0.6,
+      "justiz": 0.6,
+      "arbeit": 0.0,
+      "mobilitaet": 3.0
+    },
+    "topTopics": [
+      {
+        "topic": "europa",
+        "score": 39.18,
+        "rank": 1
+      },
+      {
+        "topic": "sicherheit",
+        "score": 8.2,
+        "rank": 2
+      },
+      {
+        "topic": "mobilitaet",
+        "score": 3.0,
+        "rank": 3
+      },
+      {
+        "topic": "migration",
+        "score": 2.4,
+        "rank": 4
+      },
+      {
+        "topic": "klima",
+        "score": 0.8,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "mittelmeer",
+          "count": 6
+        },
+        {
+          "word": "migranten",
+          "count": 1
+        },
+        {
+          "word": "flüchtlinge",
+          "count": 1
+        },
+        {
+          "word": "migration",
+          "count": 1
+        },
+        {
+          "word": "asylbewerber",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "klimapolitik",
+          "count": 2
+        },
+        {
+          "word": "klimaschutz",
+          "count": 1
+        },
+        {
+          "word": "energie",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 1
+        },
+        {
+          "word": "wohnungen",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "soldaten",
+          "count": 9
+        },
+        {
+          "word": "bundeswehr",
+          "count": 4
+        },
+        {
+          "word": "gewalt",
+          "count": 3
+        },
+        {
+          "word": "streitkräfte",
+          "count": 3
+        },
+        {
+          "word": "angriff",
+          "count": 3
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "operation",
+          "count": 3
+        }
+      ],
+      "europa": [
+        {
+          "word": "ukraine",
+          "count": 44
+        },
+        {
+          "word": "russland",
+          "count": 36
+        },
+        {
+          "word": "nato",
+          "count": 29
+        },
+        {
+          "word": "europa",
+          "count": 16
+        },
+        {
+          "word": "frieden",
+          "count": 11
+        }
+      ],
+      "digital": [
+        {
+          "word": "cyberangriff",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "finanzierung",
+          "count": 2
+        },
+        {
+          "word": "haushalt",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "verfassung",
+          "count": 1
+        },
+        {
+          "word": "strafverfolgung",
+          "count": 1
+        },
+        {
+          "word": "richter",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 8
+        },
+        {
+          "word": "schifffahrt",
+          "count": 2
+        },
+        {
+          "word": "flugzeug",
+          "count": 1
+        },
+        {
+          "word": "flughafen",
+          "count": 1
+        },
+        {
+          "word": "flugverkehr",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

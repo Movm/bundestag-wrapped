@@ -1,0 +1,358 @@
+{
+  "name": "Elisabeth Kaiser",
+  "party": "SPD",
+  "slug": "elisabeth-kaiser",
+  "academicTitle": null,
+  "speeches": 5,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 2120,
+  "avgWords": 424,
+  "minWords": 24,
+  "maxWords": 683,
+  "rankings": {
+    "speechRank": 397,
+    "wordsRank": 451,
+    "partySpeechRank": 75,
+    "partyWordsRank": 87,
+    "partySize": 109,
+    "totalSpeakers": 609,
+    "percentile": 34.8,
+    "verbosityRank": 296,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 65,
+    "longestSpeechRank": 322
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 5,
+    "interrupterRank": null,
+    "interruptedRank": 406
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 19
+      },
+      {
+        "word": "ostdeutschland",
+        "count": 16
+      },
+      {
+        "word": "deutschland",
+        "count": 11
+      },
+      {
+        "word": "deutsche",
+        "count": 9
+      },
+      {
+        "word": "einheit",
+        "count": 9
+      },
+      {
+        "word": "gemeinsam",
+        "count": 8
+      },
+      {
+        "word": "demokratie",
+        "count": 8
+      },
+      {
+        "word": "bürgerinnen",
+        "count": 7
+      },
+      {
+        "word": "bürger",
+        "count": 7
+      },
+      {
+        "word": "osten",
+        "count": 7
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "ostdeutschland",
+        "count": 16,
+        "ratioParty": 332.6,
+        "ratioBundestag": 344.1
+      },
+      {
+        "word": "ostdeutschen",
+        "count": 5,
+        "ratioParty": 207.9,
+        "ratioBundestag": 155.9
+      },
+      {
+        "word": "westen",
+        "count": 5,
+        "ratioParty": 155.9,
+        "ratioBundestag": 73.4
+      },
+      {
+        "word": "einheit",
+        "count": 9,
+        "ratioParty": 89.8,
+        "ratioBundestag": 77.4
+      },
+      {
+        "word": "osten",
+        "count": 7,
+        "ratioParty": 54.6,
+        "ratioBundestag": 42.2
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 424,
+    "partyAvgWords": 637,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.67,
+    "vsParliament": 0.69
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "5"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "2.120"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Elisabeth Kaiser häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Kinder",
+        "isCorrect": false
+      },
+      {
+        "text": "Bildung",
+        "isCorrect": false
+      },
+      {
+        "text": "Ostdeutschland",
+        "isCorrect": true
+      },
+      {
+        "text": "Antrag",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Ostdeutschland\" nutzt Elisabeth Kaiser 332.6× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "344.1× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🦊",
+    "name": "Fuchs",
+    "title": "Clevere Strategin",
+    "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+    "id": "fuchs",
+    "alternatives": [
+      {
+        "emoji": "🐇",
+        "name": "Hase",
+        "title": "Wendige Optimistin",
+        "reason": "Mit positivem Blick reagierst du schnell auf neue Themen.",
+        "id": "hase",
+        "score": 0.813
+      },
+      {
+        "emoji": "🦫",
+        "name": "Biber",
+        "title": "Konstruktive Brückenbauerin",
+        "reason": "Du baust Brücken zwischen Positionen – kooperativ und lösungsorientiert.",
+        "id": "biber",
+        "score": 0.8
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 84.6,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 100.0,
+      "collaboration": 50.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 20.0,
+      "authority": 80.0,
+      "future_orientation": 50.0,
+      "emotional_intensity": 0.0,
+      "inclusivity": 66.0,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 5,
+      "words": 1336,
+      "adjectives": 13,
+      "verbs": 15
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.75,
+      "klima": 2.25,
+      "wirtschaft": 2.25,
+      "soziales": 2.25,
+      "sicherheit": 0.0,
+      "gesundheit": 0.0,
+      "europa": 2.99,
+      "digital": 0.0,
+      "bildung": 1.5,
+      "finanzen": 2.99,
+      "justiz": 1.5,
+      "arbeit": 2.25,
+      "mobilitaet": 2.25
+    },
+    "topTopics": [
+      {
+        "topic": "europa",
+        "score": 2.99,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 2.99,
+        "rank": 2
+      },
+      {
+        "topic": "klima",
+        "score": 2.25,
+        "rank": 3
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 2.25,
+        "rank": 4
+      },
+      {
+        "topic": "soziales",
+        "score": 2.25,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "integration",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "braunkohle",
+          "count": 1
+        },
+        {
+          "word": "klimawandel",
+          "count": 1
+        },
+        {
+          "word": "erneuerbare",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 2
+        },
+        {
+          "word": "wettbewerb",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "familie",
+          "count": 1
+        },
+        {
+          "word": "sozialleistungen",
+          "count": 1
+        },
+        {
+          "word": "sozialstaat",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 2
+        },
+        {
+          "word": "angriffskrieg",
+          "count": 1
+        },
+        {
+          "word": "vertrag",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "forschung",
+          "count": 1
+        },
+        {
+          "word": "bildung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "investitionen",
+          "count": 2
+        },
+        {
+          "word": "haushalt",
+          "count": 1
+        },
+        {
+          "word": "erbschaftsteuer",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "rechtsstaat",
+          "count": 1
+        },
+        {
+          "word": "grundgesetz",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "einkommen",
+          "count": 2
+        },
+        {
+          "word": "arbeitsplätze",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "straße",
+          "count": 2
+        },
+        {
+          "word": "infrastruktur",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

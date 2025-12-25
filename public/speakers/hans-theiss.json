@@ -1,0 +1,360 @@
+{
+  "name": "Dr. Hans Theiss",
+  "party": "CDU/CSU",
+  "slug": "hans-theiss",
+  "academicTitle": "Dr",
+  "speeches": 7,
+  "wortbeitraege": 2,
+  "befragungResponses": 0,
+  "totalWords": 3155,
+  "avgWords": 351,
+  "minWords": 55,
+  "maxWords": 568,
+  "rankings": {
+    "speechRank": 291,
+    "wordsRank": 349,
+    "partySpeechRank": 71,
+    "partyWordsRank": 109,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 52.2,
+    "verbosityRank": 413,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 138,
+    "longestSpeechRank": 467
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 13,
+    "interrupterRank": null,
+    "interruptedRank": 230
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "patienten",
+        "count": 14
+      },
+      {
+        "word": "deutschland",
+        "count": 13
+      },
+      {
+        "word": "menschen",
+        "count": 10
+      },
+      {
+        "word": "behandlung",
+        "count": 8
+      },
+      {
+        "word": "versorgung",
+        "count": 7
+      },
+      {
+        "word": "medizinische",
+        "count": 6
+      },
+      {
+        "word": "notfallversorgung",
+        "count": 6
+      },
+      {
+        "word": "grünen",
+        "count": 6
+      },
+      {
+        "word": "land",
+        "count": 6
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "behandlung",
+        "count": 8,
+        "ratioParty": 155.6,
+        "ratioBundestag": 154.5
+      },
+      {
+        "word": "linkspartei",
+        "count": 5,
+        "ratioParty": 105.4,
+        "ratioBundestag": 92.0
+      },
+      {
+        "word": "notfallversorgung",
+        "count": 6,
+        "ratioParty": 101.2,
+        "ratioBundestag": 101.1
+      },
+      {
+        "word": "medizinische",
+        "count": 6,
+        "ratioParty": 94.8,
+        "ratioBundestag": 70.9
+      },
+      {
+        "word": "patienten",
+        "count": 14,
+        "ratioParty": 60.0,
+        "ratioBundestag": 85.2
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 351,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.51,
+    "vsParliament": 0.57
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "7"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "3.155"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Dr. Hans Theiss häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Behandlung",
+        "isCorrect": true
+      },
+      {
+        "text": "Bundesregierung",
+        "isCorrect": false
+      },
+      {
+        "text": "Kinder",
+        "isCorrect": false
+      },
+      {
+        "text": "Antrag",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Behandlung\" nutzt Dr. Hans Theiss 155.6× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "154.5× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🐿️",
+    "name": "Eichhörnchen",
+    "title": "Themenhüter",
+    "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+    "id": "eichhoernchen",
+    "alternatives": [
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißiger Abgeordneter",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 0.894
+      },
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Cleverer Stratege",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 0.853
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 100.0,
+      "aggression": 15.4,
+      "labeling": 38.5,
+      "solution_focus": 88.2,
+      "collaboration": 40.0,
+      "demand_intensity": 12.0,
+      "acknowledgment": 0.0,
+      "authority": 80.0,
+      "future_orientation": 84.2,
+      "emotional_intensity": 50.0,
+      "inclusivity": 56.1,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 9,
+      "words": 2104,
+      "adjectives": 13,
+      "verbs": 25
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.95,
+      "wirtschaft": 2.38,
+      "soziales": 1.43,
+      "sicherheit": 0.0,
+      "gesundheit": 25.67,
+      "europa": 0.48,
+      "digital": 2.38,
+      "bildung": 5.7,
+      "finanzen": 3.8,
+      "justiz": 0.0,
+      "arbeit": 0.0,
+      "mobilitaet": 0.95
+    },
+    "topTopics": [
+      {
+        "topic": "gesundheit",
+        "score": 25.67,
+        "rank": 1
+      },
+      {
+        "topic": "bildung",
+        "score": 5.7,
+        "rank": 2
+      },
+      {
+        "topic": "finanzen",
+        "score": 3.8,
+        "rank": 3
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 2.38,
+        "rank": 4
+      },
+      {
+        "topic": "digital",
+        "score": 2.38,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "klimaneutralität",
+          "count": 2
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "wettbewerb",
+          "count": 2
+        },
+        {
+          "word": "industrie",
+          "count": 1
+        },
+        {
+          "word": "pleite",
+          "count": 1
+        },
+        {
+          "word": "automobilindustrie",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "eltern",
+          "count": 2
+        },
+        {
+          "word": "familien",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "behandlung",
+          "count": 8
+        },
+        {
+          "word": "gesundheitssystem",
+          "count": 4
+        },
+        {
+          "word": "krankenkassen",
+          "count": 4
+        },
+        {
+          "word": "ärzte",
+          "count": 4
+        },
+        {
+          "word": "medizin",
+          "count": 3
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "computer",
+          "count": 2
+        },
+        {
+          "word": "digital",
+          "count": 1
+        },
+        {
+          "word": "technologie",
+          "count": 1
+        },
+        {
+          "word": "digitalisierung",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "hochschulen",
+          "count": 5
+        },
+        {
+          "word": "forschung",
+          "count": 4
+        },
+        {
+          "word": "wissenschaft",
+          "count": 2
+        },
+        {
+          "word": "kita",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "kosten",
+          "count": 5
+        },
+        {
+          "word": "sondervermögen",
+          "count": 2
+        },
+        {
+          "word": "finanzierung",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 2
+        }
+      ]
+    }
+  }
+}

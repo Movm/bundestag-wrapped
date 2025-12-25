@@ -1,0 +1,454 @@
+{
+  "name": "Derya Türk-Nachbaur",
+  "party": "SPD",
+  "slug": "derya-tuerk-nachbaur",
+  "academicTitle": null,
+  "speeches": 10,
+  "wortbeitraege": 2,
+  "befragungResponses": 0,
+  "totalWords": 5763,
+  "avgWords": 480,
+  "minWords": 21,
+  "maxWords": 761,
+  "rankings": {
+    "speechRank": 137,
+    "wordsRank": 135,
+    "partySpeechRank": 34,
+    "partyWordsRank": 33,
+    "partySize": 109,
+    "totalSpeakers": 609,
+    "percentile": 77.5,
+    "verbosityRank": 194,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 41,
+    "longestSpeechRank": 235
+  },
+  "drama": {
+    "interruptionsGiven": 49,
+    "interruptionsReceived": 13,
+    "interrupterRank": 37,
+    "interruptedRank": 222
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 31
+      },
+      {
+        "word": "frauen",
+        "count": 24
+      },
+      {
+        "word": "frieden",
+        "count": 19
+      },
+      {
+        "word": "sicherheit",
+        "count": 18
+      },
+      {
+        "word": "gehört",
+        "count": 13
+      },
+      {
+        "word": "dürfen",
+        "count": 13
+      },
+      {
+        "word": "internationalen",
+        "count": 12
+      },
+      {
+        "word": "deutschland",
+        "count": 12
+      },
+      {
+        "word": "sudan",
+        "count": 11
+      },
+      {
+        "word": "hilfe",
+        "count": 11
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "libanon",
+        "count": 5,
+        "ratioParty": 62.0,
+        "ratioBundestag": 27.6
+      },
+      {
+        "word": "sudan",
+        "count": 11,
+        "ratioParty": 47.7,
+        "ratioBundestag": 26.1
+      },
+      {
+        "word": "hoffnung",
+        "count": 9,
+        "ratioParty": 43.4,
+        "ratioBundestag": 22.1
+      },
+      {
+        "word": "regime",
+        "count": 7,
+        "ratioParty": 38.0,
+        "ratioBundestag": 31.8
+      },
+      {
+        "word": "hamas",
+        "count": 9,
+        "ratioParty": 32.6,
+        "ratioBundestag": 18.2
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "entscheidend",
+        "count": 3,
+        "ratioParty": 3.9,
+        "ratioBundestag": 4.8
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 480,
+    "partyAvgWords": 637,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.75,
+    "vsParliament": 0.78
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "10"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "5.763"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufe",
+      "value": "49"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Derya Türk-Nachbaur häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Arbeit",
+        "isCorrect": false
+      },
+      {
+        "text": "Libanon",
+        "isCorrect": true
+      },
+      {
+        "text": "Zukunft",
+        "isCorrect": false
+      },
+      {
+        "text": "Investitionen",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Libanon\" nutzt Derya Türk-Nachbaur 62.0× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "27.6× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Derya Türk-Nachbaur häufiger als der Rest der SPD-Fraktion?",
+    "options": [
+      {
+        "text": "Problematisch",
+        "isCorrect": false
+      },
+      {
+        "text": "Wichtig",
+        "isCorrect": false
+      },
+      {
+        "text": "Entscheidend",
+        "isCorrect": true
+      },
+      {
+        "text": "Jung",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Entscheidend\" nutzt Derya Türk-Nachbaur 3.9× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "4.8× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐿️",
+    "name": "Eichhörnchen",
+    "title": "Themenhüterin",
+    "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+    "id": "eichhoernchen",
+    "alternatives": [
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißige Abgeordnete",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      },
+      {
+        "emoji": "🐺",
+        "name": "Wolf",
+        "title": "Mutige Einwerferin",
+        "reason": "Mit 49 Zwischenrufen mischst du aktiv in Debatten mit.",
+        "id": "wolf",
+        "score": 0.959
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 90.0,
+      "aggression": 16.7,
+      "labeling": 0.0,
+      "solution_focus": 64.5,
+      "collaboration": 71.4,
+      "demand_intensity": 12.8,
+      "acknowledgment": 6.4,
+      "authority": 78.8,
+      "future_orientation": 87.0,
+      "emotional_intensity": 45.5,
+      "inclusivity": 54.7,
+      "discriminatory": 0.26
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 12,
+      "words": 3811,
+      "adjectives": 12,
+      "verbs": 47
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.26,
+      "wirtschaft": 0.26,
+      "soziales": 4.99,
+      "sicherheit": 9.97,
+      "gesundheit": 2.1,
+      "europa": 24.14,
+      "digital": 0.26,
+      "bildung": 1.84,
+      "finanzen": 1.57,
+      "justiz": 3.15,
+      "arbeit": 0.0,
+      "mobilitaet": 0.79
+    },
+    "topTopics": [
+      {
+        "topic": "europa",
+        "score": 24.14,
+        "rank": 1
+      },
+      {
+        "topic": "sicherheit",
+        "score": 9.97,
+        "rank": 2
+      },
+      {
+        "topic": "soziales",
+        "score": 4.99,
+        "rank": 3
+      },
+      {
+        "topic": "justiz",
+        "score": 3.15,
+        "rank": 4
+      },
+      {
+        "topic": "gesundheit",
+        "score": 2.1,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "erdöl",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "handel",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 11
+        },
+        {
+          "word": "familien",
+          "count": 4
+        },
+        {
+          "word": "armut",
+          "count": 1
+        },
+        {
+          "word": "mieten",
+          "count": 1
+        },
+        {
+          "word": "jugend",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "soldaten",
+          "count": 10
+        },
+        {
+          "word": "waffen",
+          "count": 8
+        },
+        {
+          "word": "gewalt",
+          "count": 5
+        },
+        {
+          "word": "terroristen",
+          "count": 3
+        },
+        {
+          "word": "radikalisierung",
+          "count": 2
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "operation",
+          "count": 4
+        },
+        {
+          "word": "medikamente",
+          "count": 2
+        },
+        {
+          "word": "krankenhäuser",
+          "count": 2
+        }
+      ],
+      "europa": [
+        {
+          "word": "frieden",
+          "count": 19
+        },
+        {
+          "word": "israel",
+          "count": 11
+        },
+        {
+          "word": "krieg",
+          "count": 9
+        },
+        {
+          "word": "außenpolitik",
+          "count": 8
+        },
+        {
+          "word": "europa",
+          "count": 8
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "ausbildung",
+          "count": 3
+        },
+        {
+          "word": "lehrerin",
+          "count": 1
+        },
+        {
+          "word": "bildung",
+          "count": 1
+        },
+        {
+          "word": "schulen",
+          "count": 1
+        },
+        {
+          "word": "studierende",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "finanzierung",
+          "count": 3
+        },
+        {
+          "word": "etat",
+          "count": 1
+        },
+        {
+          "word": "haushalt",
+          "count": 1
+        },
+        {
+          "word": "inflation",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "menschenrechte",
+          "count": 5
+        },
+        {
+          "word": "gleichberechtigung",
+          "count": 3
+        },
+        {
+          "word": "gleichstellung",
+          "count": 2
+        },
+        {
+          "word": "strafverfolgung",
+          "count": 1
+        },
+        {
+          "word": "anklage",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 1
+        },
+        {
+          "word": "schifffahrt",
+          "count": 1
+        },
+        {
+          "word": "schiffe",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

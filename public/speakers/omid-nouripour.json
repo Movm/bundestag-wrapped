@@ -1,0 +1,330 @@
+{
+  "name": "Omid Nouripour",
+  "party": "GRÜNE",
+  "slug": "omid-nouripour",
+  "academicTitle": null,
+  "speeches": 3,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 1335,
+  "avgWords": 445,
+  "minWords": 22,
+  "maxWords": 691,
+  "rankings": {
+    "speechRank": 477,
+    "wordsRank": 521,
+    "partySpeechRank": 76,
+    "partyWordsRank": 78,
+    "partySize": 85,
+    "totalSpeakers": 609,
+    "percentile": 21.7,
+    "verbosityRank": 255,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 30,
+    "longestSpeechRank": 316
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 1,
+    "interrupterRank": null,
+    "interruptedRank": 545
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 10
+      },
+      {
+        "word": "iran",
+        "count": 8
+      },
+      {
+        "word": "problem",
+        "count": 7
+      },
+      {
+        "word": "sicherheit",
+        "count": 6
+      },
+      {
+        "word": "land",
+        "count": 5
+      },
+      {
+        "word": "teheran",
+        "count": 4
+      },
+      {
+        "word": "leid",
+        "count": 4
+      },
+      {
+        "word": "bundeskanzler",
+        "count": 4
+      },
+      {
+        "word": "sprechen",
+        "count": 4
+      },
+      {
+        "word": "worden",
+        "count": 4
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "problem",
+        "count": 7,
+        "ratioParty": 9.9,
+        "ratioBundestag": 15.4
+      },
+      {
+        "word": "sicherheit",
+        "count": 6,
+        "ratioParty": 8.0,
+        "ratioBundestag": 5.7
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 445,
+    "partyAvgWords": 567,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.78,
+    "vsParliament": 0.73
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "3"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "1.335"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Omid Nouripour häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Haushalt",
+        "isCorrect": false
+      },
+      {
+        "text": "Problem",
+        "isCorrect": true
+      },
+      {
+        "text": "Kinder",
+        "isCorrect": false
+      },
+      {
+        "text": "Minister",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Problem\" nutzt Omid Nouripour 9.9× häufiger als der GRÜNE-Durchschnitt.",
+    "explanationBundestag": "15.4× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🐇",
+    "name": "Hase",
+    "title": "Wendiger Optimist",
+    "reason": "Mit positivem Blick reagierst du schnell auf neue Themen.",
+    "id": "hase",
+    "alternatives": [
+      {
+        "emoji": "🦚",
+        "name": "Pfau",
+        "title": "Eloquenter Redner",
+        "reason": "Mit Ø 445 Wörtern pro Rede gehörst du zu den ausführlichsten Rednern.",
+        "id": "pfau",
+        "score": 0.553
+      },
+      {
+        "emoji": "🦦",
+        "name": "Otter",
+        "title": "Positiver Teamplayer",
+        "reason": "Du bringst gute Stimmung und konstruktive Beiträge ins Plenum.",
+        "id": "otter",
+        "score": 0.55
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 100.0,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 50.0,
+      "collaboration": 0.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 33.3,
+      "authority": 73.3,
+      "future_orientation": 90.9,
+      "emotional_intensity": 0.0,
+      "inclusivity": 55.2,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 3,
+      "words": 854,
+      "adjectives": 3,
+      "verbs": 6
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 2.34,
+      "klima": 0.0,
+      "wirtschaft": 0.0,
+      "soziales": 1.17,
+      "sicherheit": 14.05,
+      "gesundheit": 0.0,
+      "europa": 19.91,
+      "digital": 2.34,
+      "bildung": 1.17,
+      "finanzen": 0.0,
+      "justiz": 3.51,
+      "arbeit": 2.34,
+      "mobilitaet": 2.34
+    },
+    "topTopics": [
+      {
+        "topic": "europa",
+        "score": 19.91,
+        "rank": 1
+      },
+      {
+        "topic": "sicherheit",
+        "score": 14.05,
+        "rank": 2
+      },
+      {
+        "topic": "justiz",
+        "score": 3.51,
+        "rank": 3
+      },
+      {
+        "topic": "migration",
+        "score": 2.34,
+        "rank": 4
+      },
+      {
+        "topic": "digital",
+        "score": 2.34,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "migration",
+          "count": 1
+        },
+        {
+          "word": "grenze",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "familien",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "terror",
+          "count": 3
+        },
+        {
+          "word": "islamismus",
+          "count": 2
+        },
+        {
+          "word": "polizei",
+          "count": 2
+        },
+        {
+          "word": "waffen",
+          "count": 1
+        },
+        {
+          "word": "gewalt",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "iran",
+          "count": 8
+        },
+        {
+          "word": "krieg",
+          "count": 2
+        },
+        {
+          "word": "israel",
+          "count": 2
+        },
+        {
+          "word": "außenminister",
+          "count": 2
+        },
+        {
+          "word": "europa",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "internet",
+          "count": 1
+        },
+        {
+          "word": "daten",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "schule",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "gefängnis",
+          "count": 2
+        },
+        {
+          "word": "gericht",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "überstunden",
+          "count": 2
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "auto",
+          "count": 1
+        },
+        {
+          "word": "infrastruktur",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

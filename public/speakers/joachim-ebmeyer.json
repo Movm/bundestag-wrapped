@@ -1,0 +1,438 @@
+{
+  "name": "Joachim Ebmeyer",
+  "party": "CDU/CSU",
+  "slug": "joachim-ebmeyer",
+  "academicTitle": null,
+  "speeches": 5,
+  "wortbeitraege": 2,
+  "befragungResponses": 0,
+  "totalWords": 3692,
+  "avgWords": 527,
+  "minWords": 70,
+  "maxWords": 779,
+  "rankings": {
+    "speechRank": 379,
+    "wordsRank": 286,
+    "partySpeechRank": 107,
+    "partyWordsRank": 90,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 37.8,
+    "verbosityRank": 133,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 52,
+    "longestSpeechRank": 214
+  },
+  "drama": {
+    "interruptionsGiven": 2,
+    "interruptionsReceived": 4,
+    "interrupterRank": 273,
+    "interruptedRank": 446
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "deutschland",
+        "count": 15
+      },
+      {
+        "word": "digitale",
+        "count": 13
+      },
+      {
+        "word": "zukunft",
+        "count": 12
+      },
+      {
+        "word": "digitalisierung",
+        "count": 11
+      },
+      {
+        "word": "bafög",
+        "count": 11
+      },
+      {
+        "word": "land",
+        "count": 8
+      },
+      {
+        "word": "lassen",
+        "count": 8
+      },
+      {
+        "word": "unternehmen",
+        "count": 7
+      },
+      {
+        "word": "agenda",
+        "count": 7
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "bafög",
+        "count": 11,
+        "ratioParty": 73.4,
+        "ratioBundestag": 41.0
+      },
+      {
+        "word": "internet",
+        "count": 5,
+        "ratioParty": 44.0,
+        "ratioBundestag": 31.9
+      },
+      {
+        "word": "künstliche",
+        "count": 5,
+        "ratioParty": 25.0,
+        "ratioBundestag": 39.2
+      },
+      {
+        "word": "risiken",
+        "count": 7,
+        "ratioParty": 19.0,
+        "ratioBundestag": 26.1
+      },
+      {
+        "word": "handlungsfähigkeit",
+        "count": 5,
+        "ratioParty": 17.2,
+        "ratioBundestag": 25.3
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 527,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.77,
+    "vsParliament": 0.86
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "5"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "3.692"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Joachim Ebmeyer häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Arbeit",
+        "isCorrect": false
+      },
+      {
+        "text": "Politik",
+        "isCorrect": false
+      },
+      {
+        "text": "Bafög",
+        "isCorrect": true
+      },
+      {
+        "text": "Gesetzentwurf",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Bafög\" nutzt Joachim Ebmeyer 73.4× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "41.0× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🦫",
+    "name": "Biber",
+    "title": "Konstruktiver Brückenbauer",
+    "reason": "Du baust Brücken zwischen Positionen – kooperativ und lösungsorientiert.",
+    "id": "biber",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüter",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.91
+      },
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißiger Abgeordneter",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 0.899
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 75.0,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 84.8,
+      "collaboration": 100.0,
+      "demand_intensity": 5.3,
+      "acknowledgment": 5.3,
+      "authority": 89.2,
+      "future_orientation": 87.5,
+      "emotional_intensity": 40.0,
+      "inclusivity": 70.5,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 7,
+      "words": 2416,
+      "adjectives": 12,
+      "verbs": 38
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 2.9,
+      "wirtschaft": 5.79,
+      "soziales": 2.48,
+      "sicherheit": 0.41,
+      "gesundheit": 0.41,
+      "europa": 3.73,
+      "digital": 14.49,
+      "bildung": 9.52,
+      "finanzen": 7.04,
+      "justiz": 0.83,
+      "arbeit": 0.83,
+      "mobilitaet": 2.48
+    },
+    "topTopics": [
+      {
+        "topic": "digital",
+        "score": 14.49,
+        "rank": 1
+      },
+      {
+        "topic": "bildung",
+        "score": 9.52,
+        "rank": 2
+      },
+      {
+        "topic": "finanzen",
+        "score": 7.04,
+        "rank": 3
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 5.79,
+        "rank": 4
+      },
+      {
+        "topic": "europa",
+        "score": 3.73,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "klimaschutz",
+          "count": 2
+        },
+        {
+          "word": "energiewende",
+          "count": 2
+        },
+        {
+          "word": "nachhaltig",
+          "count": 1
+        },
+        {
+          "word": "kohle",
+          "count": 1
+        },
+        {
+          "word": "energie",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 7
+        },
+        {
+          "word": "wettbewerbsfähigkeit",
+          "count": 4
+        },
+        {
+          "word": "wachstum",
+          "count": 1
+        },
+        {
+          "word": "gründer",
+          "count": 1
+        },
+        {
+          "word": "marktwirtschaft",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "sozialstaat",
+          "count": 2
+        },
+        {
+          "word": "familie",
+          "count": 1
+        },
+        {
+          "word": "rente",
+          "count": 1
+        },
+        {
+          "word": "eltern",
+          "count": 1
+        },
+        {
+          "word": "familien",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "verteidigungsfähigkeit",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "medizin",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 4
+        },
+        {
+          "word": "brüssel",
+          "count": 2
+        },
+        {
+          "word": "freizügigkeit",
+          "count": 2
+        },
+        {
+          "word": "china",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 11
+        },
+        {
+          "word": "internet",
+          "count": 5
+        },
+        {
+          "word": "digital",
+          "count": 5
+        },
+        {
+          "word": "glasfaser",
+          "count": 3
+        },
+        {
+          "word": "daten",
+          "count": 3
+        }
+      ],
+      "bildung": [
+        {
+          "word": "bafög",
+          "count": 11
+        },
+        {
+          "word": "studenten",
+          "count": 4
+        },
+        {
+          "word": "forschung",
+          "count": 3
+        },
+        {
+          "word": "bildung",
+          "count": 2
+        },
+        {
+          "word": "studium",
+          "count": 2
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 6
+        },
+        {
+          "word": "sondervermögen",
+          "count": 2
+        },
+        {
+          "word": "finanzierung",
+          "count": 2
+        },
+        {
+          "word": "haushaltsausschuss",
+          "count": 1
+        },
+        {
+          "word": "bundeshaushalt",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "beschluss",
+          "count": 1
+        },
+        {
+          "word": "gesetzesänderung",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "rentenversicherung",
+          "count": 1
+        },
+        {
+          "word": "homeoffice",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 4
+        },
+        {
+          "word": "elektromobilität",
+          "count": 1
+        },
+        {
+          "word": "fahrzeuge",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

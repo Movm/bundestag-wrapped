@@ -1,0 +1,340 @@
+{
+  "name": "Pierre Lamely",
+  "party": "AfD",
+  "slug": "pierre-lamely",
+  "academicTitle": null,
+  "speeches": 3,
+  "wortbeitraege": 4,
+  "befragungResponses": 0,
+  "totalWords": 1733,
+  "avgWords": 248,
+  "minWords": 39,
+  "maxWords": 640,
+  "rankings": {
+    "speechRank": 474,
+    "wordsRank": 483,
+    "partySpeechRank": 115,
+    "partyWordsRank": 113,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 22.2,
+    "verbosityRank": 494,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 123,
+    "longestSpeechRank": 374
+  },
+  "drama": {
+    "interruptionsGiven": 1,
+    "interruptionsReceived": 5,
+    "interrupterRank": 333,
+    "interruptedRank": 408
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "chatkontrolle",
+        "count": 16
+      },
+      {
+        "word": "kommission",
+        "count": 9
+      },
+      {
+        "word": "bürger",
+        "count": 9
+      },
+      {
+        "word": "kontrollieren",
+        "count": 8
+      },
+      {
+        "word": "bundesregierung",
+        "count": 7
+      },
+      {
+        "word": "habe",
+        "count": 6
+      },
+      {
+        "word": "deutschland",
+        "count": 5
+      },
+      {
+        "word": "kontrolle",
+        "count": 5
+      },
+      {
+        "word": "regierung",
+        "count": 4
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "chatkontrolle",
+        "count": 16,
+        "ratioParty": 248.7,
+        "ratioBundestag": 265.8
+      },
+      {
+        "word": "kontrollieren",
+        "count": 8,
+        "ratioParty": 96.7,
+        "ratioBundestag": 148.2
+      },
+      {
+        "word": "kommission",
+        "count": 9,
+        "ratioParty": 43.9,
+        "ratioBundestag": 27.4
+      },
+      {
+        "word": "kontrolle",
+        "count": 5,
+        "ratioParty": 18.5,
+        "ratioBundestag": 26.0
+      },
+      {
+        "word": "bundesregierung",
+        "count": 7,
+        "ratioParty": 3.8,
+        "ratioBundestag": 3.5
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 248,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.42,
+    "vsParliament": 0.4
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "3"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "1.733"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Pierre Lamely häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Gesetz",
+        "isCorrect": false
+      },
+      {
+        "text": "Freiheit",
+        "isCorrect": false
+      },
+      {
+        "text": "Europa",
+        "isCorrect": false
+      },
+      {
+        "text": "Chatkontrolle",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Chatkontrolle\" nutzt Pierre Lamely 248.7× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "265.8× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 50.0,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 100.0,
+      "collaboration": 75.0,
+      "demand_intensity": 6.7,
+      "acknowledgment": 6.7,
+      "authority": 61.9,
+      "future_orientation": 85.7,
+      "emotional_intensity": 0.0,
+      "inclusivity": 53.1,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 7,
+      "words": 1153,
+      "adjectives": 2,
+      "verbs": 15
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.87,
+      "klima": 0.0,
+      "wirtschaft": 0.0,
+      "soziales": 2.6,
+      "sicherheit": 4.34,
+      "gesundheit": 2.6,
+      "europa": 3.47,
+      "digital": 1.73,
+      "bildung": 0.0,
+      "finanzen": 2.6,
+      "justiz": 4.34,
+      "arbeit": 0.0,
+      "mobilitaet": 2.6
+    },
+    "topTopics": [
+      {
+        "topic": "sicherheit",
+        "score": 4.34,
+        "rank": 1
+      },
+      {
+        "topic": "justiz",
+        "score": 4.34,
+        "rank": 2
+      },
+      {
+        "topic": "europa",
+        "score": 3.47,
+        "rank": 3
+      },
+      {
+        "topic": "soziales",
+        "score": 2.6,
+        "rank": 4
+      },
+      {
+        "topic": "gesundheit",
+        "score": 2.6,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "rückführung",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kindergeld",
+          "count": 1
+        },
+        {
+          "word": "bürgergeld",
+          "count": 1
+        },
+        {
+          "word": "kinder",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "überwachung",
+          "count": 2
+        },
+        {
+          "word": "angriff",
+          "count": 1
+        },
+        {
+          "word": "täter",
+          "count": 1
+        },
+        {
+          "word": "polizei",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "corona",
+          "count": 1
+        },
+        {
+          "word": "covid",
+          "count": 1
+        },
+        {
+          "word": "impfung",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "sanktionen",
+          "count": 1
+        },
+        {
+          "word": "russland",
+          "count": 1
+        },
+        {
+          "word": "ukraine",
+          "count": 1
+        },
+        {
+          "word": "brüssel",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "internet",
+          "count": 1
+        },
+        {
+          "word": "algorithmen",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "steuerzahler",
+          "count": 1
+        },
+        {
+          "word": "haushalt",
+          "count": 1
+        },
+        {
+          "word": "steuern",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "verordnung",
+          "count": 1
+        },
+        {
+          "word": "grundrechte",
+          "count": 1
+        },
+        {
+          "word": "anwälte",
+          "count": 1
+        },
+        {
+          "word": "richter",
+          "count": 1
+        },
+        {
+          "word": "rechtsstaat",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 3
+        }
+      ]
+    }
+  }
+}

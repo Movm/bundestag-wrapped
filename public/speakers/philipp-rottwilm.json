@@ -1,0 +1,467 @@
+{
+  "name": "Dr. Philipp Rottwilm",
+  "party": "SPD",
+  "slug": "philipp-rottwilm",
+  "academicTitle": "Dr",
+  "speeches": 11,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 4860,
+  "avgWords": 442,
+  "minWords": 22,
+  "maxWords": 746,
+  "rankings": {
+    "speechRank": 113,
+    "wordsRank": 195,
+    "partySpeechRank": 31,
+    "partyWordsRank": 46,
+    "partySize": 109,
+    "totalSpeakers": 609,
+    "percentile": 81.4,
+    "verbosityRank": 263,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 59,
+    "longestSpeechRank": 252
+  },
+  "drama": {
+    "interruptionsGiven": 6,
+    "interruptionsReceived": 30,
+    "interrupterRank": 202,
+    "interruptedRank": 53
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "land",
+        "count": 20
+      },
+      {
+        "word": "menschen",
+        "count": 17
+      },
+      {
+        "word": "drei",
+        "count": 16
+      },
+      {
+        "word": "gehört",
+        "count": 15
+      },
+      {
+        "word": "kommunen",
+        "count": 12
+      },
+      {
+        "word": "koalition",
+        "count": 11
+      },
+      {
+        "word": "bauturbo",
+        "count": 10
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "dritten",
+        "count": 5,
+        "ratioParty": 24.4,
+        "ratioBundestag": 24.9
+      },
+      {
+        "word": "bauturbo",
+        "count": 10,
+        "ratioParty": 23.8,
+        "ratioBundestag": 28.5
+      },
+      {
+        "word": "wohnungen",
+        "count": 7,
+        "ratioParty": 17.0,
+        "ratioBundestag": 10.9
+      },
+      {
+        "word": "fordern",
+        "count": 5,
+        "ratioParty": 9.7,
+        "ratioBundestag": 4.0
+      },
+      {
+        "word": "drittens",
+        "count": 5,
+        "ratioParty": 8.5,
+        "ratioBundestag": 7.9
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "teuer",
+        "count": 3,
+        "ratioParty": 16.9,
+        "ratioBundestag": 7.4
+      },
+      {
+        "word": "gerecht",
+        "count": 3,
+        "ratioParty": 2.7,
+        "ratioBundestag": 3.8
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 442,
+    "partyAvgWords": 637,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.69,
+    "vsParliament": 0.72
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "11"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "4.860"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Dr. Philipp Rottwilm häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Rente",
+        "isCorrect": false
+      },
+      {
+        "text": "Kanzler",
+        "isCorrect": false
+      },
+      {
+        "text": "Dritten",
+        "isCorrect": true
+      },
+      {
+        "text": "Klima",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Dritten\" nutzt Dr. Philipp Rottwilm 24.4× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "24.9× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Dr. Philipp Rottwilm häufiger als der Rest der SPD-Fraktion?",
+    "options": [
+      {
+        "text": "Teuer",
+        "isCorrect": true
+      },
+      {
+        "text": "Erfolgreich",
+        "isCorrect": false
+      },
+      {
+        "text": "Groß",
+        "isCorrect": false
+      },
+      {
+        "text": "Problematisch",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Teuer\" nutzt Dr. Philipp Rottwilm 16.9× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "7.4× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐝",
+    "name": "Biene",
+    "title": "Fleißiger Abgeordneter",
+    "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+    "id": "biene",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüter",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.994
+      },
+      {
+        "emoji": "🐻",
+        "name": "Bär",
+        "title": "Standhafter Debattierer",
+        "reason": "Trotz 30× unterbrochen zu werden, bleibst du standhaft.",
+        "id": "baer",
+        "score": 0.971
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 81.2,
+      "aggression": 16.7,
+      "labeling": 16.7,
+      "solution_focus": 82.8,
+      "collaboration": 50.0,
+      "demand_intensity": 13.6,
+      "acknowledgment": 6.8,
+      "authority": 87.6,
+      "future_orientation": 84.2,
+      "emotional_intensity": 61.5,
+      "inclusivity": 66.0,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 11,
+      "words": 3094,
+      "adjectives": 24,
+      "verbs": 44
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 1.29,
+      "klima": 3.88,
+      "wirtschaft": 6.79,
+      "soziales": 6.14,
+      "sicherheit": 0.65,
+      "gesundheit": 0.32,
+      "europa": 0.97,
+      "digital": 1.62,
+      "bildung": 1.29,
+      "finanzen": 7.11,
+      "justiz": 1.29,
+      "arbeit": 1.29,
+      "mobilitaet": 2.59
+    },
+    "topTopics": [
+      {
+        "topic": "finanzen",
+        "score": 7.11,
+        "rank": 1
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 6.79,
+        "rank": 2
+      },
+      {
+        "topic": "soziales",
+        "score": 6.14,
+        "rank": 3
+      },
+      {
+        "topic": "klima",
+        "score": 3.88,
+        "rank": 4
+      },
+      {
+        "topic": "mobilitaet",
+        "score": 2.59,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "flüchtlinge",
+          "count": 4
+        }
+      ],
+      "klima": [
+        {
+          "word": "energiewende",
+          "count": 3
+        },
+        {
+          "word": "energie",
+          "count": 3
+        },
+        {
+          "word": "erneuerbare",
+          "count": 2
+        },
+        {
+          "word": "wälder",
+          "count": 1
+        },
+        {
+          "word": "geothermie",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 5
+        },
+        {
+          "word": "wachstum",
+          "count": 2
+        },
+        {
+          "word": "kapital",
+          "count": 2
+        },
+        {
+          "word": "zoll",
+          "count": 1
+        },
+        {
+          "word": "automobilindustrie",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "wohnungen",
+          "count": 7
+        },
+        {
+          "word": "altersvorsorge",
+          "count": 3
+        },
+        {
+          "word": "familie",
+          "count": 2
+        },
+        {
+          "word": "wohnung",
+          "count": 2
+        },
+        {
+          "word": "kind",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "verteidigungsfähigkeit",
+          "count": 1
+        },
+        {
+          "word": "polizisten",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "pflegekräfte",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 2
+        },
+        {
+          "word": "china",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 1
+        },
+        {
+          "word": "mobilfunk",
+          "count": 1
+        },
+        {
+          "word": "glasfaser",
+          "count": 1
+        },
+        {
+          "word": "plattformen",
+          "count": 1
+        },
+        {
+          "word": "netzwerk",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "schulen",
+          "count": 3
+        },
+        {
+          "word": "bildungssystem",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "investitionen",
+          "count": 6
+        },
+        {
+          "word": "kosten",
+          "count": 2
+        },
+        {
+          "word": "steuern",
+          "count": 2
+        },
+        {
+          "word": "währung",
+          "count": 2
+        },
+        {
+          "word": "finanzierung",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "novelle",
+          "count": 1
+        },
+        {
+          "word": "beschluss",
+          "count": 1
+        },
+        {
+          "word": "verfassungswidrig",
+          "count": 1
+        },
+        {
+          "word": "bundesverfassungsgericht",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "einkommen",
+          "count": 2
+        },
+        {
+          "word": "gehalt",
+          "count": 1
+        },
+        {
+          "word": "arbeitsplatz",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 6
+        },
+        {
+          "word": "straßen",
+          "count": 1
+        },
+        {
+          "word": "bahn",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

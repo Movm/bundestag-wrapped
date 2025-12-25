@@ -1,0 +1,495 @@
+{
+  "name": "Dorothee Bär",
+  "party": "CDU/CSU",
+  "slug": "dorothee-baer",
+  "academicTitle": null,
+  "speeches": 9,
+  "wortbeitraege": 34,
+  "befragungResponses": 34,
+  "totalWords": 11244,
+  "avgWords": 261,
+  "minWords": 12,
+  "maxWords": 1478,
+  "rankings": {
+    "speechRank": 157,
+    "wordsRank": 22,
+    "partySpeechRank": 36,
+    "partyWordsRank": 9,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 74.2,
+    "verbosityRank": 485,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 153,
+    "longestSpeechRank": 18
+  },
+  "drama": {
+    "interruptionsGiven": 1,
+    "interruptionsReceived": 8,
+    "interrupterRank": 331,
+    "interruptedRank": 333
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "forschung",
+        "count": 35
+      },
+      {
+        "word": "deutschland",
+        "count": 34
+      },
+      {
+        "word": "agenda",
+        "count": 31
+      },
+      {
+        "word": "raumfahrt",
+        "count": 25
+      },
+      {
+        "word": "hightech",
+        "count": 23
+      },
+      {
+        "word": "herzlichen",
+        "count": 22
+      },
+      {
+        "word": "bundesregierung",
+        "count": 22
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "gender",
+        "count": 5,
+        "ratioParty": 365.7,
+        "ratioBundestag": 30.3
+      },
+      {
+        "word": "gesundheitsforschung",
+        "count": 8,
+        "ratioParty": 292.6,
+        "ratioBundestag": 167.6
+      },
+      {
+        "word": "bmftr",
+        "count": 14,
+        "ratioParty": 113.8,
+        "ratioBundestag": 146.7
+      },
+      {
+        "word": "frauengesundheit",
+        "count": 10,
+        "ratioParty": 91.4,
+        "ratioBundestag": 115.2
+      },
+      {
+        "word": "grundlagenforschung",
+        "count": 5,
+        "ratioParty": 52.2,
+        "ratioBundestag": 57.6
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "hervorragend",
+        "count": 3,
+        "ratioParty": 27.4,
+        "ratioBundestag": 40.7
+      },
+      {
+        "word": "wesentlich",
+        "count": 3,
+        "ratioParty": 8.1,
+        "ratioBundestag": 9.5
+      },
+      {
+        "word": "stark",
+        "count": 9,
+        "ratioParty": 4.6,
+        "ratioBundestag": 5.2
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 261,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.38,
+    "vsParliament": 0.43
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "9"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "11.244"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Dorothee Bär häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Steuern",
+        "isCorrect": false
+      },
+      {
+        "text": "Arbeit",
+        "isCorrect": false
+      },
+      {
+        "text": "Investitionen",
+        "isCorrect": false
+      },
+      {
+        "text": "Gender",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Gender\" nutzt Dorothee Bär 365.7× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "30.3× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Dorothee Bär häufiger als der Rest der CDU/CSU-Fraktion?",
+    "options": [
+      {
+        "text": "Gefährlich",
+        "isCorrect": false
+      },
+      {
+        "text": "Jung",
+        "isCorrect": false
+      },
+      {
+        "text": "Hervorragend",
+        "isCorrect": true
+      },
+      {
+        "text": "National",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Hervorragend\" nutzt Dorothee Bär 27.4× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "40.7× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🦊",
+    "name": "Fuchs",
+    "title": "Clevere Strategin",
+    "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+    "id": "fuchs",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüterin",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 1.0
+      },
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißige Abgeordnete",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 87.1,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 93.2,
+      "collaboration": 100.0,
+      "demand_intensity": 5.3,
+      "acknowledgment": 28.0,
+      "authority": 69.9,
+      "future_orientation": 74.3,
+      "emotional_intensity": 39.6,
+      "inclusivity": 70.0,
+      "discriminatory": 0.28
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 43,
+      "words": 7205,
+      "adjectives": 31,
+      "verbs": 75
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 1.39,
+      "wirtschaft": 2.08,
+      "soziales": 0.42,
+      "sicherheit": 0.69,
+      "gesundheit": 1.94,
+      "europa": 1.11,
+      "digital": 1.67,
+      "bildung": 9.85,
+      "finanzen": 3.61,
+      "justiz": 0.56,
+      "arbeit": 0.28,
+      "mobilitaet": 1.94
+    },
+    "topTopics": [
+      {
+        "topic": "bildung",
+        "score": 9.85,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 3.61,
+        "rank": 2
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 2.08,
+        "rank": 3
+      },
+      {
+        "topic": "gesundheit",
+        "score": 1.94,
+        "rank": 4
+      },
+      {
+        "topic": "mobilitaet",
+        "score": 1.94,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "energie",
+          "count": 6
+        },
+        {
+          "word": "moore",
+          "count": 1
+        },
+        {
+          "word": "klimaneutralität",
+          "count": 1
+        },
+        {
+          "word": "emissionen",
+          "count": 1
+        },
+        {
+          "word": "klimaschutz",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "wettbewerbsfähigkeit",
+          "count": 3
+        },
+        {
+          "word": "standort",
+          "count": 3
+        },
+        {
+          "word": "wachstum",
+          "count": 2
+        },
+        {
+          "word": "unternehmen",
+          "count": 2
+        },
+        {
+          "word": "handwerk",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "eltern",
+          "count": 1
+        },
+        {
+          "word": "sozialstaat",
+          "count": 1
+        },
+        {
+          "word": "kind",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "verteidigung",
+          "count": 2
+        },
+        {
+          "word": "angriff",
+          "count": 2
+        },
+        {
+          "word": "soldaten",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "medizin",
+          "count": 6
+        },
+        {
+          "word": "covid",
+          "count": 4
+        },
+        {
+          "word": "medikament",
+          "count": 1
+        },
+        {
+          "word": "therapie",
+          "count": 1
+        },
+        {
+          "word": "psyche",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 3
+        },
+        {
+          "word": "china",
+          "count": 2
+        },
+        {
+          "word": "nato",
+          "count": 1
+        },
+        {
+          "word": "krieg",
+          "count": 1
+        },
+        {
+          "word": "ukraine",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "technologie",
+          "count": 7
+        },
+        {
+          "word": "daten",
+          "count": 2
+        },
+        {
+          "word": "digitalisierung",
+          "count": 1
+        },
+        {
+          "word": "digital",
+          "count": 1
+        },
+        {
+          "word": "netzwerk",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "forschung",
+          "count": 35
+        },
+        {
+          "word": "bafög",
+          "count": 14
+        },
+        {
+          "word": "wissenschaft",
+          "count": 5
+        },
+        {
+          "word": "grundlagenforschung",
+          "count": 5
+        },
+        {
+          "word": "hochschulen",
+          "count": 3
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 18
+        },
+        {
+          "word": "haushaltsausschuss",
+          "count": 4
+        },
+        {
+          "word": "sondervermögen",
+          "count": 3
+        },
+        {
+          "word": "finanzministerium",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "novelle",
+          "count": 3
+        },
+        {
+          "word": "grundgesetz",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeiter",
+          "count": 1
+        },
+        {
+          "word": "gewerkschaften",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "fliegen",
+          "count": 4
+        },
+        {
+          "word": "infrastruktur",
+          "count": 4
+        },
+        {
+          "word": "hafen",
+          "count": 2
+        },
+        {
+          "word": "verkehr",
+          "count": 2
+        },
+        {
+          "word": "straßen",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

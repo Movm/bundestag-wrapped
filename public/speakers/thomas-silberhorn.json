@@ -1,0 +1,439 @@
+{
+  "name": "Thomas Silberhorn",
+  "party": "CDU/CSU",
+  "slug": "thomas-silberhorn",
+  "academicTitle": null,
+  "speeches": 11,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 4908,
+  "avgWords": 446,
+  "minWords": 238,
+  "maxWords": 660,
+  "rankings": {
+    "speechRank": 100,
+    "wordsRank": 190,
+    "partySpeechRank": 27,
+    "partyWordsRank": 54,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 83.6,
+    "verbosityRank": 254,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 92,
+    "longestSpeechRank": 346
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 10,
+    "interrupterRank": null,
+    "interruptedRank": 275
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "abgeordneten",
+        "count": 14
+      },
+      {
+        "word": "deutschland",
+        "count": 13
+      },
+      {
+        "word": "abgeordnete",
+        "count": 13
+      },
+      {
+        "word": "verfahren",
+        "count": 12
+      },
+      {
+        "word": "bundestag",
+        "count": 11
+      },
+      {
+        "word": "bundeswehr",
+        "count": 11
+      },
+      {
+        "word": "jesiden",
+        "count": 10
+      },
+      {
+        "word": "eines",
+        "count": 10
+      },
+      {
+        "word": "einsprüche",
+        "count": 10
+      },
+      {
+        "word": "gesetzliche",
+        "count": 9
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "altersentschädigung",
+        "count": 5,
+        "ratioParty": 821.8,
+        "ratioBundestag": 643.9
+      },
+      {
+        "word": "jesiden",
+        "count": 10,
+        "ratioParty": 234.8,
+        "ratioBundestag": 112.0
+      },
+      {
+        "word": "diäten",
+        "count": 6,
+        "ratioParty": 109.6,
+        "ratioBundestag": 114.5
+      },
+      {
+        "word": "europol",
+        "count": 7,
+        "ratioParty": 76.7,
+        "ratioBundestag": 83.9
+      },
+      {
+        "word": "entschädigung",
+        "count": 6,
+        "ratioParty": 70.4,
+        "ratioBundestag": 103.0
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "angemessen",
+        "count": 4,
+        "ratioParty": 19.3,
+        "ratioBundestag": 19.3
+      },
+      {
+        "word": "sicher",
+        "count": 4,
+        "ratioParty": 2.4,
+        "ratioBundestag": 2.8
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 446,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.65,
+    "vsParliament": 0.73
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "11"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "4.908"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Thomas Silberhorn häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Reform",
+        "isCorrect": false
+      },
+      {
+        "text": "Altersentschädigung",
+        "isCorrect": true
+      },
+      {
+        "text": "Bundesregierung",
+        "isCorrect": false
+      },
+      {
+        "text": "Europa",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Altersentschädigung\" nutzt Thomas Silberhorn 821.8× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "643.9× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Thomas Silberhorn häufiger als der Rest der CDU/CSU-Fraktion?",
+    "options": [
+      {
+        "text": "Stark",
+        "isCorrect": false
+      },
+      {
+        "text": "Wichtig",
+        "isCorrect": false
+      },
+      {
+        "text": "Angemessen",
+        "isCorrect": true
+      },
+      {
+        "text": "Wirtschaftlich",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Angemessen\" nutzt Thomas Silberhorn 19.3× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "19.3× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐝",
+    "name": "Biene",
+    "title": "Fleißiger Abgeordneter",
+    "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+    "id": "biene",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüter",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.996
+      },
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Cleverer Stratege",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 0.947
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 85.7,
+      "aggression": 4.2,
+      "labeling": 8.3,
+      "solution_focus": 94.7,
+      "collaboration": 72.7,
+      "demand_intensity": 1.9,
+      "acknowledgment": 3.8,
+      "authority": 68.3,
+      "future_orientation": 86.3,
+      "emotional_intensity": 58.3,
+      "inclusivity": 71.4,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 11,
+      "words": 3231,
+      "adjectives": 24,
+      "verbs": 52
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 13.62,
+      "klima": 0.0,
+      "wirtschaft": 0.93,
+      "soziales": 1.55,
+      "sicherheit": 8.98,
+      "gesundheit": 0.0,
+      "europa": 5.26,
+      "digital": 0.93,
+      "bildung": 0.62,
+      "finanzen": 0.93,
+      "justiz": 3.4,
+      "arbeit": 3.71,
+      "mobilitaet": 0.31
+    },
+    "topTopics": [
+      {
+        "topic": "migration",
+        "score": 13.62,
+        "rank": 1
+      },
+      {
+        "topic": "sicherheit",
+        "score": 8.98,
+        "rank": 2
+      },
+      {
+        "topic": "europa",
+        "score": 5.26,
+        "rank": 3
+      },
+      {
+        "topic": "arbeit",
+        "score": 3.71,
+        "rank": 4
+      },
+      {
+        "topic": "justiz",
+        "score": 3.4,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "asyl",
+          "count": 6
+        },
+        {
+          "word": "migration",
+          "count": 5
+        },
+        {
+          "word": "dublin",
+          "count": 5
+        },
+        {
+          "word": "zuwanderung",
+          "count": 4
+        },
+        {
+          "word": "flüchtlinge",
+          "count": 3
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "selbstständige",
+          "count": 1
+        },
+        {
+          "word": "freiberufler",
+          "count": 1
+        },
+        {
+          "word": "betriebe",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "rente",
+          "count": 2
+        },
+        {
+          "word": "rentner",
+          "count": 1
+        },
+        {
+          "word": "renten",
+          "count": 1
+        },
+        {
+          "word": "altersvorsorge",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "bundeswehr",
+          "count": 11
+        },
+        {
+          "word": "kriminalität",
+          "count": 4
+        },
+        {
+          "word": "soldaten",
+          "count": 4
+        },
+        {
+          "word": "verbrechen",
+          "count": 2
+        },
+        {
+          "word": "spionage",
+          "count": 2
+        }
+      ],
+      "europa": [
+        {
+          "word": "russland",
+          "count": 7
+        },
+        {
+          "word": "europa",
+          "count": 3
+        },
+        {
+          "word": "abkommen",
+          "count": 2
+        },
+        {
+          "word": "sanktionen",
+          "count": 1
+        },
+        {
+          "word": "binnenmarkt",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "daten",
+          "count": 3
+        }
+      ],
+      "bildung": [
+        {
+          "word": "schulen",
+          "count": 1
+        },
+        {
+          "word": "ausbildung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "bundeshaushalt",
+          "count": 3
+        }
+      ],
+      "justiz": [
+        {
+          "word": "verordnung",
+          "count": 4
+        },
+        {
+          "word": "diskriminierung",
+          "count": 1
+        },
+        {
+          "word": "gesetzgebung",
+          "count": 1
+        },
+        {
+          "word": "klage",
+          "count": 1
+        },
+        {
+          "word": "rechtsstaatlichkeit",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "rentenversicherung",
+          "count": 9
+        },
+        {
+          "word": "löhne",
+          "count": 3
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

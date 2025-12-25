@@ -1,0 +1,397 @@
+{
+  "name": "Simone Fischer",
+  "party": "GRÜNE",
+  "slug": "simone-fischer",
+  "academicTitle": null,
+  "speeches": 9,
+  "wortbeitraege": 2,
+  "befragungResponses": 0,
+  "totalWords": 3493,
+  "avgWords": 318,
+  "minWords": 16,
+  "maxWords": 541,
+  "rankings": {
+    "speechRank": 192,
+    "wordsRank": 315,
+    "partySpeechRank": 34,
+    "partyWordsRank": 49,
+    "partySize": 85,
+    "totalSpeakers": 609,
+    "percentile": 68.5,
+    "verbosityRank": 450,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 65,
+    "longestSpeechRank": 489
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 7,
+    "interrupterRank": null,
+    "interruptedRank": 355
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "pflege",
+        "count": 48
+      },
+      {
+        "word": "menschen",
+        "count": 19
+      },
+      {
+        "word": "pflegeversicherung",
+        "count": 17
+      },
+      {
+        "word": "bundesregierung",
+        "count": 16
+      },
+      {
+        "word": "verantwortung",
+        "count": 16
+      },
+      {
+        "word": "braucht",
+        "count": 16
+      },
+      {
+        "word": "ministerin",
+        "count": 15
+      },
+      {
+        "word": "angehörige",
+        "count": 11
+      },
+      {
+        "word": "darf",
+        "count": 11
+      },
+      {
+        "word": "pflegende",
+        "count": 9
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "pflegende",
+        "count": 9,
+        "ratioParty": 451.9,
+        "ratioBundestag": 451.7
+      },
+      {
+        "word": "pflegekräfte",
+        "count": 6,
+        "ratioParty": 301.2,
+        "ratioBundestag": 50.8
+      },
+      {
+        "word": "pflege",
+        "count": 48,
+        "ratioParty": 301.2,
+        "ratioBundestag": 93.4
+      },
+      {
+        "word": "angehörige",
+        "count": 11,
+        "ratioParty": 220.9,
+        "ratioBundestag": 151.5
+      },
+      {
+        "word": "pflegeversicherung",
+        "count": 17,
+        "ratioParty": 131.3,
+        "ratioBundestag": 132.7
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "stabil",
+        "count": 3,
+        "ratioParty": 27.4,
+        "ratioBundestag": 25.7
+      },
+      {
+        "word": "solide",
+        "count": 3,
+        "ratioParty": 27.4,
+        "ratioBundestag": 20.1
+      },
+      {
+        "word": "gerecht",
+        "count": 3,
+        "ratioParty": 4.0,
+        "ratioBundestag": 5.0
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 318,
+    "partyAvgWords": 567,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.56,
+    "vsParliament": 0.52
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "9"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "3.493"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Simone Fischer häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Zukunft",
+        "isCorrect": false
+      },
+      {
+        "text": "Antrag",
+        "isCorrect": false
+      },
+      {
+        "text": "Verantwortung",
+        "isCorrect": false
+      },
+      {
+        "text": "Pflegende",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Pflegende\" nutzt Simone Fischer 451.9× häufiger als der GRÜNE-Durchschnitt.",
+    "explanationBundestag": "451.7× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Simone Fischer häufiger als der Rest der GRÜNE-Fraktion?",
+    "options": [
+      {
+        "text": "Schlecht",
+        "isCorrect": false
+      },
+      {
+        "text": "Sicher",
+        "isCorrect": false
+      },
+      {
+        "text": "Falsch",
+        "isCorrect": false
+      },
+      {
+        "text": "Stabil",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Stabil\" nutzt Simone Fischer 27.4× häufiger als der GRÜNE-Durchschnitt.",
+    "explanationBundestag": "25.7× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🦊",
+    "name": "Fuchs",
+    "title": "Clevere Strategin",
+    "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+    "id": "fuchs",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüterin",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.94
+      },
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißige Abgeordnete",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 0.937
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 92.3,
+      "aggression": 3.7,
+      "labeling": 0.0,
+      "solution_focus": 77.8,
+      "collaboration": 50.0,
+      "demand_intensity": 17.2,
+      "acknowledgment": 6.9,
+      "authority": 80.3,
+      "future_orientation": 84.2,
+      "emotional_intensity": 80.0,
+      "inclusivity": 42.9,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 11,
+      "words": 2370,
+      "adjectives": 27,
+      "verbs": 29
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.42,
+      "wirtschaft": 0.84,
+      "soziales": 1.27,
+      "sicherheit": 0.0,
+      "gesundheit": 31.65,
+      "europa": 0.0,
+      "digital": 0.0,
+      "bildung": 5.06,
+      "finanzen": 11.39,
+      "justiz": 0.0,
+      "arbeit": 1.27,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "gesundheit",
+        "score": 31.65,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 11.39,
+        "rank": 2
+      },
+      {
+        "topic": "bildung",
+        "score": 5.06,
+        "rank": 3
+      },
+      {
+        "topic": "soziales",
+        "score": 1.27,
+        "rank": 4
+      },
+      {
+        "topic": "arbeit",
+        "score": 1.27,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "nachhaltig",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "kredite",
+          "count": 1
+        },
+        {
+          "word": "kredit",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "familien",
+          "count": 1
+        },
+        {
+          "word": "familie",
+          "count": 1
+        },
+        {
+          "word": "jugend",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "pflege",
+          "count": 48
+        },
+        {
+          "word": "pflegeversicherung",
+          "count": 17
+        },
+        {
+          "word": "pflegekräfte",
+          "count": 6
+        },
+        {
+          "word": "pflegenotstand",
+          "count": 1
+        },
+        {
+          "word": "krankenpflege",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "ausbildung",
+          "count": 5
+        },
+        {
+          "word": "schulabschluss",
+          "count": 3
+        },
+        {
+          "word": "unterricht",
+          "count": 2
+        },
+        {
+          "word": "qualifizierung",
+          "count": 1
+        },
+        {
+          "word": "bildung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "entlastung",
+          "count": 6
+        },
+        {
+          "word": "finanzierung",
+          "count": 6
+        },
+        {
+          "word": "kosten",
+          "count": 4
+        },
+        {
+          "word": "bundeshaushalt",
+          "count": 3
+        },
+        {
+          "word": "defizit",
+          "count": 3
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitsplätze",
+          "count": 1
+        },
+        {
+          "word": "beitragssatz",
+          "count": 1
+        },
+        {
+          "word": "einkommen",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

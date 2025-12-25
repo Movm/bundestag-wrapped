@@ -1,0 +1,509 @@
+{
+  "name": "Ines Schwerdtner",
+  "party": "DIE LINKE",
+  "slug": "ines-schwerdtner",
+  "academicTitle": null,
+  "speeches": 13,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 10770,
+  "avgWords": 769,
+  "minWords": 111,
+  "maxWords": 1480,
+  "rankings": {
+    "speechRank": 46,
+    "wordsRank": 31,
+    "partySpeechRank": 7,
+    "partyWordsRank": 4,
+    "partySize": 63,
+    "totalSpeakers": 609,
+    "percentile": 92.4,
+    "verbosityRank": 13,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 2,
+    "longestSpeechRank": 17
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 46,
+    "interrupterRank": 82,
+    "interruptedRank": 25
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 95
+      },
+      {
+        "word": "land",
+        "count": 37
+      },
+      {
+        "word": "wissen",
+        "count": 26
+      },
+      {
+        "word": "haushalt",
+        "count": 25
+      },
+      {
+        "word": "merz",
+        "count": 23
+      },
+      {
+        "word": "politik",
+        "count": 20
+      },
+      {
+        "word": "geld",
+        "count": 19
+      },
+      {
+        "word": "leben",
+        "count": 19
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "sozialsprechstunde",
+        "count": 5,
+        "ratioParty": 122.6,
+        "ratioBundestag": 1214.9
+      },
+      {
+        "word": "haushaltsausschuss",
+        "count": 5,
+        "ratioParty": 40.9,
+        "ratioBundestag": 8.0
+      },
+      {
+        "word": "besucher",
+        "count": 5,
+        "ratioParty": 24.5,
+        "ratioBundestag": 29.6
+      },
+      {
+        "word": "lobbyisten",
+        "count": 5,
+        "ratioParty": 24.5,
+        "ratioBundestag": 71.5
+      },
+      {
+        "word": "mütter",
+        "count": 6,
+        "ratioParty": 18.4,
+        "ratioBundestag": 19.2
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "peinlich",
+        "count": 3,
+        "ratioParty": 7.4,
+        "ratioBundestag": 13.5
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 769,
+    "partyAvgWords": 521,
+    "parliamentAvgWords": 613,
+    "vsParty": 1.48,
+    "vsParliament": 1.25
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "13"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "10.770"
+    },
+    {
+      "emoji": "📚",
+      "label": "Wortreichster",
+      "value": "#13 von 521"
+    },
+    {
+      "emoji": "📊",
+      "label": "Top-Redner",
+      "value": "Top 8%"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Ines Schwerdtner häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Sozialsprechstunde",
+        "isCorrect": true
+      },
+      {
+        "text": "Koalition",
+        "isCorrect": false
+      },
+      {
+        "text": "Rente",
+        "isCorrect": false
+      },
+      {
+        "text": "Demokratie",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Sozialsprechstunde\" nutzt Ines Schwerdtner 122.6× häufiger als der DIE LINKE-Durchschnitt.",
+    "explanationBundestag": "1214.9× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Ines Schwerdtner häufiger als der Rest der DIE LINKE-Fraktion?",
+    "options": [
+      {
+        "text": "Alt",
+        "isCorrect": false
+      },
+      {
+        "text": "Richtig",
+        "isCorrect": false
+      },
+      {
+        "text": "Peinlich",
+        "isCorrect": true
+      },
+      {
+        "text": "Problematisch",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Peinlich\" nutzt Ines Schwerdtner 7.4× häufiger als der DIE LINKE-Durchschnitt.",
+    "explanationBundestag": "13.5× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐿️",
+    "name": "Eichhörnchen",
+    "title": "Themenhüterin",
+    "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+    "id": "eichhoernchen",
+    "alternatives": [
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißige Abgeordnete",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      },
+      {
+        "emoji": "🐻",
+        "name": "Bär",
+        "title": "Standhafte Debattiererin",
+        "reason": "Trotz 46× unterbrochen zu werden, bleibst du standhaft.",
+        "id": "baer",
+        "score": 0.977
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 57.1,
+      "aggression": 47.8,
+      "labeling": 21.7,
+      "solution_focus": 51.7,
+      "collaboration": 50.0,
+      "demand_intensity": 19.1,
+      "acknowledgment": 10.6,
+      "authority": 77.4,
+      "future_orientation": 86.2,
+      "emotional_intensity": 39.1,
+      "inclusivity": 41.9,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 14,
+      "words": 6835,
+      "adjectives": 23,
+      "verbs": 47
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.15,
+      "klima": 1.02,
+      "wirtschaft": 4.24,
+      "soziales": 11.7,
+      "sicherheit": 2.93,
+      "gesundheit": 3.8,
+      "europa": 4.39,
+      "digital": 0.15,
+      "bildung": 3.22,
+      "finanzen": 11.56,
+      "justiz": 0.0,
+      "arbeit": 2.05,
+      "mobilitaet": 2.49
+    },
+    "topTopics": [
+      {
+        "topic": "soziales",
+        "score": 11.7,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 11.56,
+        "rank": 2
+      },
+      {
+        "topic": "europa",
+        "score": 4.39,
+        "rank": 3
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 4.24,
+        "rank": 4
+      },
+      {
+        "topic": "gesundheit",
+        "score": 3.8,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "familiennachzug",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "klimaschutz",
+          "count": 1
+        },
+        {
+          "word": "klimapolitik",
+          "count": 1
+        },
+        {
+          "word": "klimakrise",
+          "count": 1
+        },
+        {
+          "word": "energie",
+          "count": 1
+        },
+        {
+          "word": "nachhaltigkeit",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "industrie",
+          "count": 8
+        },
+        {
+          "word": "wirtschaftspolitik",
+          "count": 4
+        },
+        {
+          "word": "konzerne",
+          "count": 4
+        },
+        {
+          "word": "unternehmen",
+          "count": 2
+        },
+        {
+          "word": "werke",
+          "count": 2
+        }
+      ],
+      "soziales": [
+        {
+          "word": "familien",
+          "count": 14
+        },
+        {
+          "word": "kinder",
+          "count": 9
+        },
+        {
+          "word": "wohnungen",
+          "count": 7
+        },
+        {
+          "word": "sozialstaat",
+          "count": 6
+        },
+        {
+          "word": "wohnung",
+          "count": 6
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "panzer",
+          "count": 4
+        },
+        {
+          "word": "waffen",
+          "count": 4
+        },
+        {
+          "word": "armee",
+          "count": 4
+        },
+        {
+          "word": "angriff",
+          "count": 3
+        },
+        {
+          "word": "bundeswehr",
+          "count": 2
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "pflege",
+          "count": 8
+        },
+        {
+          "word": "krankenhäuser",
+          "count": 5
+        },
+        {
+          "word": "pandemie",
+          "count": 4
+        },
+        {
+          "word": "krankenhaus",
+          "count": 3
+        },
+        {
+          "word": "pflegekraft",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "krieg",
+          "count": 6
+        },
+        {
+          "word": "kriegsverbrechen",
+          "count": 5
+        },
+        {
+          "word": "völkerrecht",
+          "count": 5
+        },
+        {
+          "word": "israel",
+          "count": 4
+        },
+        {
+          "word": "außenpolitik",
+          "count": 2
+        }
+      ],
+      "digital": [
+        {
+          "word": "technologie",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "schulen",
+          "count": 11
+        },
+        {
+          "word": "schule",
+          "count": 2
+        },
+        {
+          "word": "schüler",
+          "count": 2
+        },
+        {
+          "word": "kita",
+          "count": 1
+        },
+        {
+          "word": "schülerinnen",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 25
+        },
+        {
+          "word": "sondervermögen",
+          "count": 9
+        },
+        {
+          "word": "vermögensteuer",
+          "count": 9
+        },
+        {
+          "word": "investitionen",
+          "count": 8
+        },
+        {
+          "word": "schuldenbremse",
+          "count": 6
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "löhne",
+          "count": 2
+        },
+        {
+          "word": "jobcenter",
+          "count": 2
+        },
+        {
+          "word": "überstunden",
+          "count": 2
+        },
+        {
+          "word": "arbeitsplatz",
+          "count": 1
+        },
+        {
+          "word": "lohn",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "bahn",
+          "count": 6
+        },
+        {
+          "word": "infrastruktur",
+          "count": 4
+        },
+        {
+          "word": "deutschlandticket",
+          "count": 2
+        },
+        {
+          "word": "stau",
+          "count": 1
+        },
+        {
+          "word": "regionalbahn",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

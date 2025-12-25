@@ -1,0 +1,332 @@
+{
+  "name": "Dr. Michael Meister",
+  "party": "CDU/CSU",
+  "slug": "michael-meister",
+  "academicTitle": "Dr",
+  "speeches": 0,
+  "wortbeitraege": 27,
+  "befragungResponses": 26,
+  "totalWords": 1838,
+  "avgWords": 68,
+  "minWords": 10,
+  "maxWords": 174,
+  "rankings": {
+    "speechRank": 609,
+    "wordsRank": 471,
+    "partySpeechRank": 203,
+    "partyWordsRank": 149,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 0.0,
+    "verbosityRank": null,
+    "verbosityTotal": null,
+    "partyVerbosityRank": null,
+    "longestSpeechRank": 606
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 1,
+    "interrupterRank": null,
+    "interruptedRank": 565
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "kollege",
+        "count": 16
+      },
+      {
+        "word": "bundesregierung",
+        "count": 16
+      },
+      {
+        "word": "habe",
+        "count": 12
+      },
+      {
+        "word": "darf",
+        "count": 9
+      },
+      {
+        "word": "folgt",
+        "count": 8
+      },
+      {
+        "word": "maßnahmen",
+        "count": 8
+      },
+      {
+        "word": "glaube",
+        "count": 8
+      },
+      {
+        "word": "bundeskanzler",
+        "count": 7
+      },
+      {
+        "word": "beantworten",
+        "count": 7
+      },
+      {
+        "word": "koalitionsvertrag",
+        "count": 7
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "folgt",
+        "count": 8,
+        "ratioParty": 91.7,
+        "ratioBundestag": 88.5
+      },
+      {
+        "word": "brandner",
+        "count": 5,
+        "ratioParty": 70.2,
+        "ratioBundestag": 80.1
+      },
+      {
+        "word": "beantworten",
+        "count": 7,
+        "ratioParty": 61.0,
+        "ratioBundestag": 87.4
+      },
+      {
+        "word": "mitarbeiter",
+        "count": 6,
+        "ratioParty": 30.7,
+        "ratioBundestag": 36.6
+      },
+      {
+        "word": "kollege",
+        "count": 16,
+        "ratioParty": 19.5,
+        "ratioBundestag": 28.9
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 68,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.1,
+    "vsParliament": 0.11
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "0"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "1.838"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Dr. Michael Meister häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Energie",
+        "isCorrect": false
+      },
+      {
+        "text": "Gesetzentwurf",
+        "isCorrect": false
+      },
+      {
+        "text": "Koalition",
+        "isCorrect": false
+      },
+      {
+        "text": "Folgt",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Folgt\" nutzt Dr. Michael Meister 91.7× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "88.5× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🦦",
+    "name": "Otter",
+    "title": "Positiver Teamplayer",
+    "reason": "Du bringst gute Stimmung und konstruktive Beiträge ins Plenum.",
+    "id": "otter",
+    "alternatives": [
+      {
+        "emoji": "🐬",
+        "name": "Delfin",
+        "title": "Diplomatischer Redner",
+        "reason": "Aktiv im Parlament, aber respektvoll ohne viele Zwischenrufe.",
+        "id": "delfin",
+        "score": 1.0
+      },
+      {
+        "emoji": "🦫",
+        "name": "Biber",
+        "title": "Konstruktiver Brückenbauer",
+        "reason": "Du baust Brücken zwischen Positionen – kooperativ und lösungsorientiert.",
+        "id": "biber",
+        "score": 1.0
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 100.0,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 100.0,
+      "collaboration": 100.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 0.0,
+      "authority": 82.6,
+      "future_orientation": 81.5,
+      "emotional_intensity": 57.1,
+      "inclusivity": 37.2,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 27,
+      "words": 1224,
+      "adjectives": 3,
+      "verbs": 9
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 2.45,
+      "klima": 0.0,
+      "wirtschaft": 2.45,
+      "soziales": 0.0,
+      "sicherheit": 0.82,
+      "gesundheit": 0.82,
+      "europa": 3.27,
+      "digital": 0.0,
+      "bildung": 0.0,
+      "finanzen": 6.54,
+      "justiz": 1.63,
+      "arbeit": 0.82,
+      "mobilitaet": 0.82
+    },
+    "topTopics": [
+      {
+        "topic": "finanzen",
+        "score": 6.54,
+        "rank": 1
+      },
+      {
+        "topic": "europa",
+        "score": 3.27,
+        "rank": 2
+      },
+      {
+        "topic": "migration",
+        "score": 2.45,
+        "rank": 3
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 2.45,
+        "rank": 4
+      },
+      {
+        "topic": "justiz",
+        "score": 1.63,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "migration",
+          "count": 2
+        },
+        {
+          "word": "grenzkontrollen",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "wettbewerbsfähigkeit",
+          "count": 2
+        },
+        {
+          "word": "unternehmen",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "verteidigungsfähigkeit",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "pandemie",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "ukraine",
+          "count": 2
+        },
+        {
+          "word": "europa",
+          "count": 1
+        },
+        {
+          "word": "angriffskrieg",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "bundeshaushalt",
+          "count": 1
+        },
+        {
+          "word": "investitionen",
+          "count": 1
+        },
+        {
+          "word": "sondervermögen",
+          "count": 1
+        },
+        {
+          "word": "tilgung",
+          "count": 1
+        },
+        {
+          "word": "fördermittel",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "gesetzgebung",
+          "count": 2
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "vereinbarkeit",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "bahn",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

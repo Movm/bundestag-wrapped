@@ -1,0 +1,466 @@
+{
+  "name": "Adam Balten",
+  "party": "AfD",
+  "slug": "adam-balten",
+  "academicTitle": null,
+  "speeches": 10,
+  "wortbeitraege": 6,
+  "befragungResponses": 0,
+  "totalWords": 4491,
+  "avgWords": 281,
+  "minWords": 31,
+  "maxWords": 654,
+  "rankings": {
+    "speechRank": 126,
+    "wordsRank": 219,
+    "partySpeechRank": 22,
+    "partyWordsRank": 46,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 79.3,
+    "verbosityRank": 476,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 120,
+    "longestSpeechRank": 353
+  },
+  "drama": {
+    "interruptionsGiven": 15,
+    "interruptionsReceived": 15,
+    "interrupterRank": 122,
+    "interruptedRank": 186
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "deutschland",
+        "count": 17
+      },
+      {
+        "word": "forschung",
+        "count": 14
+      },
+      {
+        "word": "industrie",
+        "count": 10
+      },
+      {
+        "word": "unternehmen",
+        "count": 10
+      },
+      {
+        "word": "kosten",
+        "count": 9
+      },
+      {
+        "word": "weiter",
+        "count": 9
+      },
+      {
+        "word": "technologie",
+        "count": 8
+      },
+      {
+        "word": "bürger",
+        "count": 8
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "technologie",
+        "count": 8,
+        "ratioParty": 31.7,
+        "ratioBundestag": 24.8
+      },
+      {
+        "word": "haushaltsplan",
+        "count": 8,
+        "ratioParty": 30.7,
+        "ratioBundestag": 66.3
+      },
+      {
+        "word": "hertz",
+        "count": 5,
+        "ratioParty": 17.4,
+        "ratioBundestag": 17.4
+      },
+      {
+        "word": "forschung",
+        "count": 14,
+        "ratioParty": 16.8,
+        "ratioBundestag": 14.9
+      },
+      {
+        "word": "innovation",
+        "count": 7,
+        "ratioParty": 16.6,
+        "ratioBundestag": 15.0
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "falsch",
+        "count": 4,
+        "ratioParty": 7.2,
+        "ratioBundestag": 7.2
+      },
+      {
+        "word": "schlecht",
+        "count": 3,
+        "ratioParty": 6.2,
+        "ratioBundestag": 8.3
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 281,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.48,
+    "vsParliament": 0.46
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "10"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "4.491"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufe",
+      "value": "15"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Adam Balten häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Technologie",
+        "isCorrect": true
+      },
+      {
+        "text": "Migration",
+        "isCorrect": false
+      },
+      {
+        "text": "Kanzler",
+        "isCorrect": false
+      },
+      {
+        "text": "Bundesregierung",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Technologie\" nutzt Adam Balten 31.7× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "24.8× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Adam Balten häufiger als der Rest der AfD-Fraktion?",
+    "options": [
+      {
+        "text": "Neu",
+        "isCorrect": false
+      },
+      {
+        "text": "Wichtig",
+        "isCorrect": false
+      },
+      {
+        "text": "Notwendig",
+        "isCorrect": false
+      },
+      {
+        "text": "Falsch",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Falsch\" nutzt Adam Balten 7.2× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "7.2× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 28.6,
+      "aggression": 9.5,
+      "labeling": 23.8,
+      "solution_focus": 73.9,
+      "collaboration": 0.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 7.7,
+      "authority": 63.3,
+      "future_orientation": 83.6,
+      "emotional_intensity": 33.3,
+      "inclusivity": 43.0,
+      "discriminatory": 1.05
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 16,
+      "words": 2868,
+      "adjectives": 21,
+      "verbs": 26
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.7,
+      "klima": 3.84,
+      "wirtschaft": 13.25,
+      "soziales": 2.09,
+      "sicherheit": 0.35,
+      "gesundheit": 0.7,
+      "europa": 2.44,
+      "digital": 3.84,
+      "bildung": 8.02,
+      "finanzen": 12.55,
+      "justiz": 0.0,
+      "arbeit": 4.18,
+      "mobilitaet": 2.09
+    },
+    "topTopics": [
+      {
+        "topic": "wirtschaft",
+        "score": 13.25,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 12.55,
+        "rank": 2
+      },
+      {
+        "topic": "bildung",
+        "score": 8.02,
+        "rank": 3
+      },
+      {
+        "topic": "arbeit",
+        "score": 4.18,
+        "rank": 4
+      },
+      {
+        "topic": "klima",
+        "score": 3.84,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "flüchtlinge",
+          "count": 1
+        },
+        {
+          "word": "migranten",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "kohle",
+          "count": 4
+        },
+        {
+          "word": "klimaneutralität",
+          "count": 1
+        },
+        {
+          "word": "müll",
+          "count": 1
+        },
+        {
+          "word": "kernkraftwerk",
+          "count": 1
+        },
+        {
+          "word": "stromnetz",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "industrie",
+          "count": 10
+        },
+        {
+          "word": "unternehmen",
+          "count": 10
+        },
+        {
+          "word": "wettbewerb",
+          "count": 5
+        },
+        {
+          "word": "wettbewerbsfähigkeit",
+          "count": 2
+        },
+        {
+          "word": "rezession",
+          "count": 2
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 2
+        },
+        {
+          "word": "eltern",
+          "count": 2
+        },
+        {
+          "word": "bürgergeld",
+          "count": 1
+        },
+        {
+          "word": "kind",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "attentat",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "behandlung",
+          "count": 1
+        },
+        {
+          "word": "depression",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "china",
+          "count": 3
+        },
+        {
+          "word": "amerika",
+          "count": 2
+        },
+        {
+          "word": "europa",
+          "count": 1
+        },
+        {
+          "word": "afrika",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "technologie",
+          "count": 8
+        },
+        {
+          "word": "netz",
+          "count": 1
+        },
+        {
+          "word": "internet",
+          "count": 1
+        },
+        {
+          "word": "daten",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "forschung",
+          "count": 14
+        },
+        {
+          "word": "bildung",
+          "count": 2
+        },
+        {
+          "word": "ausbildung",
+          "count": 2
+        },
+        {
+          "word": "wissenschaft",
+          "count": 2
+        },
+        {
+          "word": "schülerinnen",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "kosten",
+          "count": 9
+        },
+        {
+          "word": "haushaltsplan",
+          "count": 8
+        },
+        {
+          "word": "steuer",
+          "count": 4
+        },
+        {
+          "word": "subventionen",
+          "count": 3
+        },
+        {
+          "word": "haushalt",
+          "count": 3
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "mindestlohn",
+          "count": 4
+        },
+        {
+          "word": "arbeitslosigkeit",
+          "count": 2
+        },
+        {
+          "word": "arbeitsplätze",
+          "count": 2
+        },
+        {
+          "word": "gehalt",
+          "count": 2
+        },
+        {
+          "word": "lohnerhöhung",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "autos",
+          "count": 2
+        },
+        {
+          "word": "verkehr",
+          "count": 1
+        },
+        {
+          "word": "elektroauto",
+          "count": 1
+        },
+        {
+          "word": "auto",
+          "count": 1
+        },
+        {
+          "word": "bahn",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,337 @@
+{
+  "name": "Swantje Henrike Michaelsen",
+  "party": "GRÜNE",
+  "slug": "swantje-henrike-michaelsen",
+  "academicTitle": null,
+  "speeches": 4,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 1716,
+  "avgWords": 343,
+  "minWords": 114,
+  "maxWords": 496,
+  "rankings": {
+    "speechRank": 455,
+    "wordsRank": 486,
+    "partySpeechRank": 71,
+    "partyWordsRank": 73,
+    "partySize": 85,
+    "totalSpeakers": 609,
+    "percentile": 25.3,
+    "verbosityRank": 426,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 58,
+    "longestSpeechRank": 527
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 7,
+    "interrupterRank": null,
+    "interruptedRank": 357
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "geld",
+        "count": 22
+      },
+      {
+        "word": "brücken",
+        "count": 10
+      },
+      {
+        "word": "sondervermögen",
+        "count": 9
+      },
+      {
+        "word": "union",
+        "count": 8
+      },
+      {
+        "word": "autobahnen",
+        "count": 8
+      },
+      {
+        "word": "erhalt",
+        "count": 7
+      },
+      {
+        "word": "sanierung",
+        "count": 7
+      },
+      {
+        "word": "infrastruktur",
+        "count": 6
+      },
+      {
+        "word": "straßen",
+        "count": 6
+      },
+      {
+        "word": "investieren",
+        "count": 6
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "autobahnen",
+        "count": 8,
+        "ratioParty": 217.7,
+        "ratioBundestag": 269.6
+      },
+      {
+        "word": "saniert",
+        "count": 5,
+        "ratioParty": 77.7,
+        "ratioBundestag": 120.3
+      },
+      {
+        "word": "sanierung",
+        "count": 7,
+        "ratioParty": 76.2,
+        "ratioBundestag": 73.2
+      },
+      {
+        "word": "erhalt",
+        "count": 7,
+        "ratioParty": 69.3,
+        "ratioBundestag": 69.4
+      },
+      {
+        "word": "bundesstraßen",
+        "count": 5,
+        "ratioParty": 45.5,
+        "ratioBundestag": 446.0
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "verantwortungslos",
+        "count": 3,
+        "ratioParty": 38.4,
+        "ratioBundestag": 74.6
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 343,
+    "partyAvgWords": 567,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.6,
+    "vsParliament": 0.56
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "4"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "1.716"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Swantje Henrike Michaelsen häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Opposition",
+        "isCorrect": false
+      },
+      {
+        "text": "Autobahnen",
+        "isCorrect": true
+      },
+      {
+        "text": "Bildung",
+        "isCorrect": false
+      },
+      {
+        "text": "Demokratie",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Autobahnen\" nutzt Swantje Henrike Michaelsen 217.7× häufiger als der GRÜNE-Durchschnitt.",
+    "explanationBundestag": "269.6× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Swantje Henrike Michaelsen häufiger als der Rest der GRÜNE-Fraktion?",
+    "options": [
+      {
+        "text": "Neu",
+        "isCorrect": false
+      },
+      {
+        "text": "Verantwortungslos",
+        "isCorrect": true
+      },
+      {
+        "text": "Stark",
+        "isCorrect": false
+      },
+      {
+        "text": "Jung",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Verantwortungslos\" nutzt Swantje Henrike Michaelsen 38.4× häufiger als der GRÜNE-Durchschnitt.",
+    "explanationBundestag": "74.6× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🦊",
+    "name": "Fuchs",
+    "title": "Clevere Strategin",
+    "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+    "id": "fuchs",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüterin",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.756
+      },
+      {
+        "emoji": "🦀",
+        "name": "Krabbe",
+        "title": "Hartnäckige Debattiererin",
+        "reason": "Du hältst an deinen Positionen fest und lässt nicht locker.",
+        "id": "krabbe",
+        "score": 0.71
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 83.3,
+      "aggression": 50.0,
+      "labeling": 0.0,
+      "solution_focus": 71.4,
+      "collaboration": 0.0,
+      "demand_intensity": 20.0,
+      "acknowledgment": 0.0,
+      "authority": 80.0,
+      "future_orientation": 88.9,
+      "emotional_intensity": 100.0,
+      "inclusivity": 48.0,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 5,
+      "words": 1099,
+      "adjectives": 12,
+      "verbs": 10
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 3.64,
+      "wirtschaft": 0.91,
+      "soziales": 0.0,
+      "sicherheit": 0.0,
+      "gesundheit": 0.0,
+      "europa": 0.0,
+      "digital": 0.91,
+      "bildung": 0.0,
+      "finanzen": 30.03,
+      "justiz": 0.0,
+      "arbeit": 0.0,
+      "mobilitaet": 33.67
+    },
+    "topTopics": [
+      {
+        "topic": "mobilitaet",
+        "score": 33.67,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 30.03,
+        "rank": 2
+      },
+      {
+        "topic": "klima",
+        "score": 3.64,
+        "rank": 3
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 0.91,
+        "rank": 4
+      },
+      {
+        "topic": "digital",
+        "score": 0.91,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "klimaschutz",
+          "count": 4
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "betrieb",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "sondervermögen",
+          "count": 9
+        },
+        {
+          "word": "schulden",
+          "count": 6
+        },
+        {
+          "word": "investitionen",
+          "count": 5
+        },
+        {
+          "word": "haushalt",
+          "count": 4
+        },
+        {
+          "word": "bundesrechnungshof",
+          "count": 2
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 6
+        },
+        {
+          "word": "straßen",
+          "count": 6
+        },
+        {
+          "word": "radwege",
+          "count": 4
+        },
+        {
+          "word": "bahn",
+          "count": 3
+        },
+        {
+          "word": "schiene",
+          "count": 3
+        }
+      ]
+    }
+  }
+}

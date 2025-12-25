@@ -1,0 +1,352 @@
+{
+  "name": "Oliver Kaczmarek",
+  "party": "SPD",
+  "slug": "oliver-kaczmarek",
+  "academicTitle": null,
+  "speeches": 4,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 2891,
+  "avgWords": 723,
+  "minWords": 674,
+  "maxWords": 793,
+  "rankings": {
+    "speechRank": 411,
+    "wordsRank": 376,
+    "partySpeechRank": 76,
+    "partyWordsRank": 77,
+    "partySize": 109,
+    "totalSpeakers": 609,
+    "percentile": 32.5,
+    "verbosityRank": 23,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 3,
+    "longestSpeechRank": 200
+  },
+  "drama": {
+    "interruptionsGiven": 1,
+    "interruptionsReceived": 7,
+    "interrupterRank": 336,
+    "interruptedRank": 344
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "deutschland",
+        "count": 22
+      },
+      {
+        "word": "forschung",
+        "count": 20
+      },
+      {
+        "word": "koalitionsvertrag",
+        "count": 11
+      },
+      {
+        "word": "beispiel",
+        "count": 10
+      },
+      {
+        "word": "hightech",
+        "count": 10
+      },
+      {
+        "word": "agenda",
+        "count": 10
+      },
+      {
+        "word": "wichtig",
+        "count": 8
+      },
+      {
+        "word": "haushalt",
+        "count": 8
+      },
+      {
+        "word": "worden",
+        "count": 7
+      },
+      {
+        "word": "wissenschaft",
+        "count": 7
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "anwendung",
+        "count": 7,
+        "ratioParty": 64.3,
+        "ratioBundestag": 72.3
+      },
+      {
+        "word": "hightech",
+        "count": 10,
+        "ratioParty": 54.0,
+        "ratioBundestag": 34.7
+      },
+      {
+        "word": "köpfe",
+        "count": 5,
+        "ratioParty": 43.7,
+        "ratioBundestag": 51.0
+      },
+      {
+        "word": "forschung",
+        "count": 20,
+        "ratioParty": 31.7,
+        "ratioBundestag": 34.0
+      },
+      {
+        "word": "agenda",
+        "count": 10,
+        "ratioParty": 29.6,
+        "ratioBundestag": 22.2
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 723,
+    "partyAvgWords": 637,
+    "parliamentAvgWords": 613,
+    "vsParty": 1.14,
+    "vsParliament": 1.18
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "4"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "2.891"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Oliver Kaczmarek häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Gesellschaft",
+        "isCorrect": false
+      },
+      {
+        "text": "Abstimmung",
+        "isCorrect": false
+      },
+      {
+        "text": "Anwendung",
+        "isCorrect": true
+      },
+      {
+        "text": "Energie",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Anwendung\" nutzt Oliver Kaczmarek 64.3× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "72.3× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🐇",
+    "name": "Hase",
+    "title": "Wendiger Optimist",
+    "reason": "Mit positivem Blick reagierst du schnell auf neue Themen.",
+    "id": "hase",
+    "alternatives": [
+      {
+        "emoji": "🦦",
+        "name": "Otter",
+        "title": "Positiver Teamplayer",
+        "reason": "Du bringst gute Stimmung und konstruktive Beiträge ins Plenum.",
+        "id": "otter",
+        "score": 0.836
+      },
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüter",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.766
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 100.0,
+      "aggression": 0.0,
+      "labeling": 16.7,
+      "solution_focus": 95.2,
+      "collaboration": 50.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 8.0,
+      "authority": 86.4,
+      "future_orientation": 90.7,
+      "emotional_intensity": 43.8,
+      "inclusivity": 57.4,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 4,
+      "words": 1813,
+      "adjectives": 6,
+      "verbs": 25
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.55,
+      "wirtschaft": 3.86,
+      "soziales": 0.0,
+      "sicherheit": 0.0,
+      "gesundheit": 1.1,
+      "europa": 1.1,
+      "digital": 0.55,
+      "bildung": 25.92,
+      "finanzen": 11.03,
+      "justiz": 0.0,
+      "arbeit": 1.65,
+      "mobilitaet": 0.55
+    },
+    "topTopics": [
+      {
+        "topic": "bildung",
+        "score": 25.92,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 11.03,
+        "rank": 2
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 3.86,
+        "rank": 3
+      },
+      {
+        "topic": "arbeit",
+        "score": 1.65,
+        "rank": 4
+      },
+      {
+        "topic": "gesundheit",
+        "score": 1.1,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "nachhaltig",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 2
+        },
+        {
+          "word": "standort",
+          "count": 2
+        },
+        {
+          "word": "wirtschaftswachstum",
+          "count": 1
+        },
+        {
+          "word": "betrieb",
+          "count": 1
+        },
+        {
+          "word": "wachstum",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "medizin",
+          "count": 1
+        },
+        {
+          "word": "covid",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "frieden",
+          "count": 1
+        },
+        {
+          "word": "europa",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "computer",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "forschung",
+          "count": 20
+        },
+        {
+          "word": "wissenschaft",
+          "count": 7
+        },
+        {
+          "word": "bafög",
+          "count": 4
+        },
+        {
+          "word": "wissenschaftsfreiheit",
+          "count": 4
+        },
+        {
+          "word": "forschungsförderung",
+          "count": 3
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 8
+        },
+        {
+          "word": "investitionen",
+          "count": 6
+        },
+        {
+          "word": "sondervermögen",
+          "count": 4
+        },
+        {
+          "word": "bundeshaushalt",
+          "count": 2
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitsplätze",
+          "count": 3
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

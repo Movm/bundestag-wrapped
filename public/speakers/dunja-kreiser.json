@@ -1,0 +1,486 @@
+{
+  "name": "Dunja Kreiser",
+  "party": "SPD",
+  "slug": "dunja-kreiser",
+  "academicTitle": null,
+  "speeches": 17,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 7685,
+  "avgWords": 452,
+  "minWords": 106,
+  "maxWords": 811,
+  "rankings": {
+    "speechRank": 17,
+    "wordsRank": 77,
+    "partySpeechRank": 4,
+    "partyWordsRank": 18,
+    "partySize": 109,
+    "totalSpeakers": 609,
+    "percentile": 97.2,
+    "verbosityRank": 244,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 53,
+    "longestSpeechRank": 189
+  },
+  "drama": {
+    "interruptionsGiven": 27,
+    "interruptionsReceived": 76,
+    "interrupterRank": 77,
+    "interruptedRank": 7
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "deutschland",
+        "count": 26
+      },
+      {
+        "word": "investieren",
+        "count": 19
+      },
+      {
+        "word": "industrie",
+        "count": 17
+      },
+      {
+        "word": "transformation",
+        "count": 14
+      },
+      {
+        "word": "wirtschaft",
+        "count": 14
+      },
+      {
+        "word": "weiter",
+        "count": 13
+      },
+      {
+        "word": "unternehmen",
+        "count": 13
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "salzgitter",
+        "count": 9,
+        "ratioParty": 606.0,
+        "ratioBundestag": 254.7
+      },
+      {
+        "word": "offshore",
+        "count": 5,
+        "ratioParty": 168.3,
+        "ratioBundestag": 99.9
+      },
+      {
+        "word": "meeresschutz",
+        "count": 5,
+        "ratioParty": 112.2,
+        "ratioBundestag": 242.5
+      },
+      {
+        "word": "windenergie",
+        "count": 5,
+        "ratioParty": 84.2,
+        "ratioBundestag": 43.5
+      },
+      {
+        "word": "meere",
+        "count": 10,
+        "ratioParty": 67.3,
+        "ratioBundestag": 141.5
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "wirtschaftlich",
+        "count": 3,
+        "ratioParty": 4.0,
+        "ratioBundestag": 4.5
+      },
+      {
+        "word": "falsch",
+        "count": 3,
+        "ratioParty": 3.7,
+        "ratioBundestag": 3.1
+      },
+      {
+        "word": "stark",
+        "count": 5,
+        "ratioParty": 3.0,
+        "ratioBundestag": 4.2
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 452,
+    "partyAvgWords": 637,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.71,
+    "vsParliament": 0.74
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "17"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "7.685"
+    },
+    {
+      "emoji": "🏆",
+      "label": "Rang (Reden)",
+      "value": "#17 von 609"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufe",
+      "value": "27"
+    },
+    {
+      "emoji": "🥇",
+      "label": "Rang in SPD",
+      "value": "#4 von 109"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Dunja Kreiser häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Abstimmung",
+        "isCorrect": false
+      },
+      {
+        "text": "Bürger",
+        "isCorrect": false
+      },
+      {
+        "text": "Salzgitter",
+        "isCorrect": true
+      },
+      {
+        "text": "Haushalt",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Salzgitter\" nutzt Dunja Kreiser 606.0× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "254.7× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Dunja Kreiser häufiger als der Rest der SPD-Fraktion?",
+    "options": [
+      {
+        "text": "Wirtschaftlich",
+        "isCorrect": true
+      },
+      {
+        "text": "Gut",
+        "isCorrect": false
+      },
+      {
+        "text": "Politisch",
+        "isCorrect": false
+      },
+      {
+        "text": "National",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Wirtschaftlich\" nutzt Dunja Kreiser 4.0× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "4.5× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🦊",
+    "name": "Fuchs",
+    "title": "Clevere Strategin",
+    "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+    "id": "fuchs",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüterin",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 1.0
+      },
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißige Abgeordnete",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 70.0,
+      "aggression": 3.2,
+      "labeling": 0.0,
+      "solution_focus": 89.6,
+      "collaboration": 100.0,
+      "demand_intensity": 3.4,
+      "acknowledgment": 5.2,
+      "authority": 72.9,
+      "future_orientation": 91.2,
+      "emotional_intensity": 59.3,
+      "inclusivity": 59.0,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 17,
+      "words": 4897,
+      "adjectives": 31,
+      "verbs": 58
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.2,
+      "klima": 16.54,
+      "wirtschaft": 12.05,
+      "soziales": 0.61,
+      "sicherheit": 0.0,
+      "gesundheit": 0.41,
+      "europa": 2.25,
+      "digital": 0.61,
+      "bildung": 2.25,
+      "finanzen": 3.06,
+      "justiz": 0.2,
+      "arbeit": 3.27,
+      "mobilitaet": 4.9
+    },
+    "topTopics": [
+      {
+        "topic": "klima",
+        "score": 16.54,
+        "rank": 1
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 12.05,
+        "rank": 2
+      },
+      {
+        "topic": "mobilitaet",
+        "score": 4.9,
+        "rank": 3
+      },
+      {
+        "topic": "arbeit",
+        "score": 3.27,
+        "rank": 4
+      },
+      {
+        "topic": "finanzen",
+        "score": 3.06,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "grenze",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "klimaschutz",
+          "count": 11
+        },
+        {
+          "word": "klimawandel",
+          "count": 10
+        },
+        {
+          "word": "umwelt",
+          "count": 7
+        },
+        {
+          "word": "windenergie",
+          "count": 5
+        },
+        {
+          "word": "offshore",
+          "count": 5
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "industrie",
+          "count": 17
+        },
+        {
+          "word": "unternehmen",
+          "count": 13
+        },
+        {
+          "word": "automobilindustrie",
+          "count": 4
+        },
+        {
+          "word": "produktion",
+          "count": 3
+        },
+        {
+          "word": "handwerk",
+          "count": 3
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 2
+        },
+        {
+          "word": "rente",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "pandemie",
+          "count": 1
+        },
+        {
+          "word": "corona",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 5
+        },
+        {
+          "word": "angriffskrieg",
+          "count": 2
+        },
+        {
+          "word": "china",
+          "count": 2
+        },
+        {
+          "word": "wiederaufbau",
+          "count": 1
+        },
+        {
+          "word": "ukraine",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "daten",
+          "count": 1
+        },
+        {
+          "word": "plattform",
+          "count": 1
+        },
+        {
+          "word": "netz",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "wissenschaft",
+          "count": 6
+        },
+        {
+          "word": "forschung",
+          "count": 3
+        },
+        {
+          "word": "berufsausbildung",
+          "count": 1
+        },
+        {
+          "word": "wissenschaftler",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "investitionen",
+          "count": 6
+        },
+        {
+          "word": "haushalt",
+          "count": 4
+        },
+        {
+          "word": "kosten",
+          "count": 3
+        },
+        {
+          "word": "fördermittel",
+          "count": 1
+        },
+        {
+          "word": "investition",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "novelle",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitsplätze",
+          "count": 7
+        },
+        {
+          "word": "gewerkschaften",
+          "count": 3
+        },
+        {
+          "word": "arbeitnehmer",
+          "count": 2
+        },
+        {
+          "word": "beschäftigte",
+          "count": 1
+        },
+        {
+          "word": "mitbestimmung",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "elektromobilität",
+          "count": 10
+        },
+        {
+          "word": "fahrzeuge",
+          "count": 5
+        },
+        {
+          "word": "infrastruktur",
+          "count": 2
+        },
+        {
+          "word": "auto",
+          "count": 2
+        },
+        {
+          "word": "ladeinfrastruktur",
+          "count": 2
+        }
+      ]
+    }
+  }
+}

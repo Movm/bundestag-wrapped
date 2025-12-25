@@ -1,0 +1,399 @@
+{
+  "name": "Uwe Schmidt",
+  "party": "SPD",
+  "slug": "uwe-schmidt",
+  "academicTitle": null,
+  "speeches": 1,
+  "wortbeitraege": 3,
+  "befragungResponses": 0,
+  "totalWords": 3468,
+  "avgWords": 867,
+  "minWords": 816,
+  "maxWords": 952,
+  "rankings": {
+    "speechRank": 572,
+    "wordsRank": 317,
+    "partySpeechRank": 99,
+    "partyWordsRank": 67,
+    "partySize": 109,
+    "totalSpeakers": 609,
+    "percentile": 6.1,
+    "verbosityRank": null,
+    "verbosityTotal": null,
+    "partyVerbosityRank": null,
+    "longestSpeechRank": 83
+  },
+  "drama": {
+    "interruptionsGiven": 2,
+    "interruptionsReceived": 2,
+    "interrupterRank": 292,
+    "interruptedRank": 508
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "minister",
+        "count": 18
+      },
+      {
+        "word": "infrastruktur",
+        "count": 16
+      },
+      {
+        "word": "häfen",
+        "count": 16
+      },
+      {
+        "word": "deutschland",
+        "count": 15
+      },
+      {
+        "word": "gemeinsam",
+        "count": 10
+      },
+      {
+        "word": "florian",
+        "count": 9
+      },
+      {
+        "word": "straßen",
+        "count": 8
+      },
+      {
+        "word": "oßner",
+        "count": 8
+      },
+      {
+        "word": "verfahren",
+        "count": 8
+      },
+      {
+        "word": "moin",
+        "count": 7
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "häfen",
+        "count": 16,
+        "ratioParty": 595.2,
+        "ratioBundestag": 331.3
+      },
+      {
+        "word": "florian",
+        "count": 9,
+        "ratioParty": 446.4,
+        "ratioBundestag": 291.7
+      },
+      {
+        "word": "wasserstraße",
+        "count": 6,
+        "ratioParty": 446.4,
+        "ratioBundestag": 186.4
+      },
+      {
+        "word": "bremerhaven",
+        "count": 5,
+        "ratioParty": 372.0,
+        "ratioBundestag": 532.5
+      },
+      {
+        "word": "verkehrsträger",
+        "count": 6,
+        "ratioParty": 148.8,
+        "ratioBundestag": 104.0
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "zuverlässig",
+        "count": 5,
+        "ratioParty": 49.6,
+        "ratioBundestag": 61.1
+      },
+      {
+        "word": "gerecht",
+        "count": 3,
+        "ratioParty": 3.8,
+        "ratioBundestag": 5.3
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 867,
+    "partyAvgWords": 637,
+    "parliamentAvgWords": 613,
+    "vsParty": 1.36,
+    "vsParliament": 1.41
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "1"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "3.468"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Uwe Schmidt häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Reform",
+        "isCorrect": false
+      },
+      {
+        "text": "Bildung",
+        "isCorrect": false
+      },
+      {
+        "text": "Gesellschaft",
+        "isCorrect": false
+      },
+      {
+        "text": "Häfen",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Häfen\" nutzt Uwe Schmidt 595.2× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "331.3× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Uwe Schmidt häufiger als der Rest der SPD-Fraktion?",
+    "options": [
+      {
+        "text": "Sicher",
+        "isCorrect": false
+      },
+      {
+        "text": "Sozial",
+        "isCorrect": false
+      },
+      {
+        "text": "Stark",
+        "isCorrect": false
+      },
+      {
+        "text": "Zuverlässig",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Zuverlässig\" nutzt Uwe Schmidt 49.6× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "61.1× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🦦",
+    "name": "Otter",
+    "title": "Positiver Teamplayer",
+    "reason": "Du bringst gute Stimmung und konstruktive Beiträge ins Plenum.",
+    "id": "otter",
+    "alternatives": [
+      {
+        "emoji": "🐇",
+        "name": "Hase",
+        "title": "Wendiger Optimist",
+        "reason": "Mit positivem Blick reagierst du schnell auf neue Themen.",
+        "id": "hase",
+        "score": 0.9
+      },
+      {
+        "emoji": "🦫",
+        "name": "Biber",
+        "title": "Konstruktiver Brückenbauer",
+        "reason": "Du baust Brücken zwischen Positionen – kooperativ und lösungsorientiert.",
+        "id": "biber",
+        "score": 0.86
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 100.0,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 100.0,
+      "collaboration": 75.0,
+      "demand_intensity": 3.2,
+      "acknowledgment": 3.2,
+      "authority": 74.3,
+      "future_orientation": 100.0,
+      "emotional_intensity": 43.8,
+      "inclusivity": 77.8,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 4,
+      "words": 2234,
+      "adjectives": 17,
+      "verbs": 31
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 1.79,
+      "wirtschaft": 4.03,
+      "soziales": 0.45,
+      "sicherheit": 0.0,
+      "gesundheit": 0.45,
+      "europa": 1.79,
+      "digital": 0.0,
+      "bildung": 0.45,
+      "finanzen": 7.61,
+      "justiz": 0.0,
+      "arbeit": 0.45,
+      "mobilitaet": 30.44
+    },
+    "topTopics": [
+      {
+        "topic": "mobilitaet",
+        "score": 30.44,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 7.61,
+        "rank": 2
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 4.03,
+        "rank": 3
+      },
+      {
+        "topic": "klima",
+        "score": 1.79,
+        "rank": 4
+      },
+      {
+        "topic": "europa",
+        "score": 1.79,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "klimaneutralität",
+          "count": 1
+        },
+        {
+          "word": "wasserstoff",
+          "count": 1
+        },
+        {
+          "word": "klimaschutz",
+          "count": 1
+        },
+        {
+          "word": "nachhaltigkeit",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "industrie",
+          "count": 3
+        },
+        {
+          "word": "wettbewerbsfähigkeit",
+          "count": 2
+        },
+        {
+          "word": "export",
+          "count": 1
+        },
+        {
+          "word": "wachstum",
+          "count": 1
+        },
+        {
+          "word": "industriestandort",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "familien",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "medikamente",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "nato",
+          "count": 3
+        },
+        {
+          "word": "europa",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "ausbildung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "sondervermögen",
+          "count": 7
+        },
+        {
+          "word": "haushalt",
+          "count": 6
+        },
+        {
+          "word": "investitionen",
+          "count": 2
+        },
+        {
+          "word": "haushaltsausschuss",
+          "count": 1
+        },
+        {
+          "word": "bank",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitsplätze",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 16
+        },
+        {
+          "word": "häfen",
+          "count": 16
+        },
+        {
+          "word": "straßen",
+          "count": 8
+        },
+        {
+          "word": "schiene",
+          "count": 6
+        },
+        {
+          "word": "straße",
+          "count": 5
+        }
+      ]
+    }
+  }
+}

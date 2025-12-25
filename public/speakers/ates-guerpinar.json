@@ -1,0 +1,432 @@
+{
+  "name": "Ates Gürpinar",
+  "party": "DIE LINKE",
+  "slug": "ates-guerpinar",
+  "academicTitle": null,
+  "speeches": 13,
+  "wortbeitraege": 4,
+  "befragungResponses": 0,
+  "totalWords": 6193,
+  "avgWords": 364,
+  "minWords": 82,
+  "maxWords": 779,
+  "rankings": {
+    "speechRank": 61,
+    "wordsRank": 116,
+    "partySpeechRank": 9,
+    "partyWordsRank": 12,
+    "partySize": 63,
+    "totalSpeakers": 609,
+    "percentile": 90.0,
+    "verbosityRank": 392,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 36,
+    "longestSpeechRank": 215
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 15,
+    "interrupterRank": 42,
+    "interruptedRank": 191
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 24
+      },
+      {
+        "word": "spahn",
+        "count": 17
+      },
+      {
+        "word": "kommission",
+        "count": 14
+      },
+      {
+        "word": "union",
+        "count": 14
+      },
+      {
+        "word": "geld",
+        "count": 14
+      },
+      {
+        "word": "warken",
+        "count": 13
+      },
+      {
+        "word": "versorgung",
+        "count": 11
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "maskenbeschaffung",
+        "count": 5,
+        "ratioParty": 212.9,
+        "ratioBundestag": 159.9
+      },
+      {
+        "word": "beitragsbemessungsgrenze",
+        "count": 6,
+        "ratioParty": 127.7,
+        "ratioBundestag": 131.3
+      },
+      {
+        "word": "warken",
+        "count": 13,
+        "ratioParty": 69.2,
+        "ratioBundestag": 65.9
+      },
+      {
+        "word": "krankenversicherung",
+        "count": 5,
+        "ratioParty": 53.2,
+        "ratioBundestag": 17.3
+      },
+      {
+        "word": "sudhof",
+        "count": 7,
+        "ratioParty": 49.7,
+        "ratioBundestag": 88.2
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "absurd",
+        "count": 4,
+        "ratioParty": 4.2,
+        "ratioBundestag": 14.8
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 364,
+    "partyAvgWords": 521,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.7,
+    "vsParliament": 0.59
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "13"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "6.193"
+    },
+    {
+      "emoji": "📊",
+      "label": "Top-Redner",
+      "value": "Top 10%"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Ates Gürpinar häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Bildung",
+        "isCorrect": false
+      },
+      {
+        "text": "Maskenbeschaffung",
+        "isCorrect": true
+      },
+      {
+        "text": "Steuern",
+        "isCorrect": false
+      },
+      {
+        "text": "Fraktion",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Maskenbeschaffung\" nutzt Ates Gürpinar 212.9× häufiger als der DIE LINKE-Durchschnitt.",
+    "explanationBundestag": "159.9× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Ates Gürpinar häufiger als der Rest der DIE LINKE-Fraktion?",
+    "options": [
+      {
+        "text": "Absurd",
+        "isCorrect": true
+      },
+      {
+        "text": "Sicher",
+        "isCorrect": false
+      },
+      {
+        "text": "Neu",
+        "isCorrect": false
+      },
+      {
+        "text": "Klar",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Absurd\" nutzt Ates Gürpinar 4.2× häufiger als der DIE LINKE-Durchschnitt.",
+    "explanationBundestag": "14.8× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🦊",
+    "name": "Fuchs",
+    "title": "Cleverer Stratege",
+    "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+    "id": "fuchs",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüter",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 1.0
+      },
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißiger Abgeordneter",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 70.0,
+      "aggression": 39.1,
+      "labeling": 17.4,
+      "solution_focus": 59.3,
+      "collaboration": 66.7,
+      "demand_intensity": 13.9,
+      "acknowledgment": 2.8,
+      "authority": 69.0,
+      "future_orientation": 74.2,
+      "emotional_intensity": 46.2,
+      "inclusivity": 38.4,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 17,
+      "words": 4002,
+      "adjectives": 23,
+      "verbs": 36
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 1.5,
+      "klima": 0.5,
+      "wirtschaft": 1.5,
+      "soziales": 7.25,
+      "sicherheit": 0.5,
+      "gesundheit": 16.74,
+      "europa": 0.5,
+      "digital": 0.0,
+      "bildung": 1.25,
+      "finanzen": 4.75,
+      "justiz": 0.0,
+      "arbeit": 1.25,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "gesundheit",
+        "score": 16.74,
+        "rank": 1
+      },
+      {
+        "topic": "soziales",
+        "score": 7.25,
+        "rank": 2
+      },
+      {
+        "topic": "finanzen",
+        "score": 4.75,
+        "rank": 3
+      },
+      {
+        "topic": "migration",
+        "score": 1.5,
+        "rank": 4
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 1.5,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "geflüchtete",
+          "count": 3
+        },
+        {
+          "word": "migration",
+          "count": 2
+        },
+        {
+          "word": "migranten",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "nachhaltig",
+          "count": 2
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "industrie",
+          "count": 2
+        },
+        {
+          "word": "konzern",
+          "count": 1
+        },
+        {
+          "word": "unternehmen",
+          "count": 1
+        },
+        {
+          "word": "konzerne",
+          "count": 1
+        },
+        {
+          "word": "produktion",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "rentnerin",
+          "count": 5
+        },
+        {
+          "word": "miete",
+          "count": 5
+        },
+        {
+          "word": "rente",
+          "count": 3
+        },
+        {
+          "word": "jugendliche",
+          "count": 2
+        },
+        {
+          "word": "rentner",
+          "count": 2
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "rüstung",
+          "count": 1
+        },
+        {
+          "word": "verteidigung",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "gesundheitssystem",
+          "count": 9
+        },
+        {
+          "word": "kliniken",
+          "count": 9
+        },
+        {
+          "word": "pandemie",
+          "count": 8
+        },
+        {
+          "word": "krankenversicherung",
+          "count": 5
+        },
+        {
+          "word": "pharmaindustrie",
+          "count": 5
+        }
+      ],
+      "europa": [
+        {
+          "word": "krieg",
+          "count": 2
+        }
+      ],
+      "bildung": [
+        {
+          "word": "schulklasse",
+          "count": 1
+        },
+        {
+          "word": "schule",
+          "count": 1
+        },
+        {
+          "word": "erzieher",
+          "count": 1
+        },
+        {
+          "word": "schulen",
+          "count": 1
+        },
+        {
+          "word": "bildung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "finanzierung",
+          "count": 6
+        },
+        {
+          "word": "haushalt",
+          "count": 4
+        },
+        {
+          "word": "finanzminister",
+          "count": 2
+        },
+        {
+          "word": "kosten",
+          "count": 1
+        },
+        {
+          "word": "subvention",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "vereinbarkeit",
+          "count": 2
+        },
+        {
+          "word": "jobcenter",
+          "count": 1
+        },
+        {
+          "word": "einkommen",
+          "count": 1
+        },
+        {
+          "word": "arbeitszeit",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

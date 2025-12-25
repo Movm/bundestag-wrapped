@@ -1,0 +1,205 @@
+{
+  "name": "Patricia Lips",
+  "party": "CDU/CSU",
+  "slug": "patricia-lips",
+  "academicTitle": null,
+  "speeches": 1,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 570,
+  "avgWords": 570,
+  "minWords": 570,
+  "maxWords": 570,
+  "rankings": {
+    "speechRank": 595,
+    "wordsRank": 587,
+    "partySpeechRank": 195,
+    "partyWordsRank": 194,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 2.3,
+    "verbosityRank": null,
+    "verbosityTotal": null,
+    "partyVerbosityRank": null,
+    "longestSpeechRank": 464
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 0,
+    "interrupterRank": null,
+    "interruptedRank": null
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "union",
+        "count": 4
+      },
+      {
+        "word": "frieden",
+        "count": 4
+      },
+      {
+        "word": "freiheit",
+        "count": 4
+      },
+      {
+        "word": "wohlstand",
+        "count": 4
+      },
+      {
+        "word": "zunehmend",
+        "count": 4
+      },
+      {
+        "word": "europäische",
+        "count": 3
+      },
+      {
+        "word": "gehört",
+        "count": 3
+      },
+      {
+        "word": "sicherheit",
+        "count": 3
+      },
+      {
+        "word": "europäischen",
+        "count": 3
+      },
+      {
+        "word": "stärke",
+        "count": 3
+      }
+    ],
+    "signatureWords": [],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 570,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.83,
+    "vsParliament": 0.93
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "1"
+    }
+  ],
+  "signatureQuiz": null,
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🐢",
+    "name": "Schildkröte",
+    "title": "Gründliche Analystin",
+    "reason": "Wenige Reden, aber wenn, dann richtig ausführlich.",
+    "id": "schildkroete",
+    "alternatives": [
+      {
+        "emoji": "🦫",
+        "name": "Biber",
+        "title": "Konstruktive Brückenbauerin",
+        "reason": "Du baust Brücken zwischen Positionen – kooperativ und lösungsorientiert.",
+        "id": "biber",
+        "score": 0.8
+      },
+      {
+        "emoji": "🐇",
+        "name": "Hase",
+        "title": "Wendige Optimistin",
+        "reason": "Mit positivem Blick reagierst du schnell auf neue Themen.",
+        "id": "hase",
+        "score": 0.775
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 50.0,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 100.0,
+      "collaboration": 50.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 0.0,
+      "authority": 88.9,
+      "future_orientation": 100.0,
+      "emotional_intensity": 0.0,
+      "inclusivity": 81.8,
+      "discriminatory": 0.0
+    },
+    "confidence": "low",
+    "sampleSize": {
+      "speeches": 1,
+      "words": 381,
+      "adjectives": 0,
+      "verbs": 2
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.0,
+      "wirtschaft": 13.12,
+      "soziales": 0.0,
+      "sicherheit": 0.0,
+      "gesundheit": 0.0,
+      "europa": 15.75,
+      "digital": 0.0,
+      "bildung": 0.0,
+      "finanzen": 0.0,
+      "justiz": 0.0,
+      "arbeit": 0.0,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "europa",
+        "score": 15.75,
+        "rank": 1
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 13.12,
+        "rank": 2
+      }
+    ],
+    "topicWords": {
+      "wirtschaft": [
+        {
+          "word": "wettbewerbsfähigkeit",
+          "count": 2
+        },
+        {
+          "word": "kapital",
+          "count": 1
+        },
+        {
+          "word": "märkte",
+          "count": 1
+        },
+        {
+          "word": "wettbewerb",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "frieden",
+          "count": 4
+        },
+        {
+          "word": "ukraine",
+          "count": 1
+        },
+        {
+          "word": "europa",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

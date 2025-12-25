@@ -1,0 +1,301 @@
+{
+  "name": "Josephine Ortleb",
+  "party": "SPD",
+  "slug": "josephine-ortleb",
+  "academicTitle": null,
+  "speeches": 2,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 975,
+  "avgWords": 488,
+  "minWords": 400,
+  "maxWords": 575,
+  "rankings": {
+    "speechRank": 542,
+    "wordsRank": 552,
+    "partySpeechRank": 98,
+    "partyWordsRank": 100,
+    "partySize": 109,
+    "totalSpeakers": 609,
+    "percentile": 11.0,
+    "verbosityRank": null,
+    "verbosityTotal": null,
+    "partyVerbosityRank": null,
+    "longestSpeechRank": 450
+  },
+  "drama": {
+    "interruptionsGiven": 1,
+    "interruptionsReceived": 3,
+    "interrupterRank": 304,
+    "interruptedRank": 463
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "frauen",
+        "count": 14
+      },
+      {
+        "word": "gleichstellung",
+        "count": 8
+      },
+      {
+        "word": "geld",
+        "count": 6
+      },
+      {
+        "word": "wert",
+        "count": 5
+      },
+      {
+        "word": "menschen",
+        "count": 4
+      },
+      {
+        "word": "habe",
+        "count": 4
+      },
+      {
+        "word": "umschläge",
+        "count": 4
+      },
+      {
+        "word": "umschlag",
+        "count": 4
+      },
+      {
+        "word": "frauenhäusern",
+        "count": 3
+      },
+      {
+        "word": "diesen",
+        "count": 3
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "gleichstellung",
+        "count": 8,
+        "ratioParty": 475.8,
+        "ratioBundestag": 388.6
+      },
+      {
+        "word": "frauen",
+        "count": 14,
+        "ratioParty": 31.0,
+        "ratioBundestag": 40.2
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 488,
+    "partyAvgWords": 637,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.77,
+    "vsParliament": 0.8
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "2"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Josephine Ortleb häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Bildung",
+        "isCorrect": false
+      },
+      {
+        "text": "Haushalt",
+        "isCorrect": false
+      },
+      {
+        "text": "Gleichstellung",
+        "isCorrect": true
+      },
+      {
+        "text": "Opposition",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Gleichstellung\" nutzt Josephine Ortleb 475.8× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "388.6× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🐇",
+    "name": "Hase",
+    "title": "Wendige Optimistin",
+    "reason": "Mit positivem Blick reagierst du schnell auf neue Themen.",
+    "id": "hase",
+    "alternatives": [
+      {
+        "emoji": "🦦",
+        "name": "Otter",
+        "title": "Positive Teamplayerin",
+        "reason": "Du bringst gute Stimmung und konstruktive Beiträge ins Plenum.",
+        "id": "otter",
+        "score": 0.85
+      },
+      {
+        "emoji": "🦫",
+        "name": "Biber",
+        "title": "Konstruktive Brückenbauerin",
+        "reason": "Du baust Brücken zwischen Positionen – kooperativ und lösungsorientiert.",
+        "id": "biber",
+        "score": 0.78
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 100.0,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 100.0,
+      "collaboration": 50.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 40.0,
+      "authority": 50.0,
+      "future_orientation": 75.0,
+      "emotional_intensity": 0.0,
+      "inclusivity": 47.4,
+      "discriminatory": 0.0
+    },
+    "confidence": "low",
+    "sampleSize": {
+      "speeches": 2,
+      "words": 624,
+      "adjectives": 2,
+      "verbs": 5
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 1.6,
+      "klima": 0.0,
+      "wirtschaft": 0.0,
+      "soziales": 8.01,
+      "sicherheit": 4.81,
+      "gesundheit": 4.81,
+      "europa": 1.6,
+      "digital": 0.0,
+      "bildung": 3.21,
+      "finanzen": 3.21,
+      "justiz": 12.82,
+      "arbeit": 4.81,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "justiz",
+        "score": 12.82,
+        "rank": 1
+      },
+      {
+        "topic": "soziales",
+        "score": 8.01,
+        "rank": 2
+      },
+      {
+        "topic": "sicherheit",
+        "score": 4.81,
+        "rank": 3
+      },
+      {
+        "topic": "gesundheit",
+        "score": 4.81,
+        "rank": 4
+      },
+      {
+        "topic": "arbeit",
+        "score": 4.81,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "migration",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 2
+        },
+        {
+          "word": "familie",
+          "count": 2
+        },
+        {
+          "word": "miete",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "gewalt",
+          "count": 3
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "pflege",
+          "count": 2
+        },
+        {
+          "word": "prävention",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "vertrag",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "ausbildung",
+          "count": 1
+        },
+        {
+          "word": "forschung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 2
+        }
+      ],
+      "justiz": [
+        {
+          "word": "gleichstellung",
+          "count": 8
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "vereinbarkeit",
+          "count": 1
+        },
+        {
+          "word": "lohngerechtigkeit",
+          "count": 1
+        },
+        {
+          "word": "lohn",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

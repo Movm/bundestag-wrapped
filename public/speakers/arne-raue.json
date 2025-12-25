@@ -1,0 +1,410 @@
+{
+  "name": "Arne Raue",
+  "party": "AfD",
+  "slug": "arne-raue",
+  "academicTitle": null,
+  "speeches": 6,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 3377,
+  "avgWords": 482,
+  "minWords": 273,
+  "maxWords": 843,
+  "rankings": {
+    "speechRank": 340,
+    "wordsRank": 323,
+    "partySpeechRank": 81,
+    "partyWordsRank": 77,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 44.2,
+    "verbosityRank": 189,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 45,
+    "longestSpeechRank": 146
+  },
+  "drama": {
+    "interruptionsGiven": 4,
+    "interruptionsReceived": 9,
+    "interrupterRank": 231,
+    "interruptedRank": 308
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "sicherheit",
+        "count": 15
+      },
+      {
+        "word": "deutschland",
+        "count": 13
+      },
+      {
+        "word": "heißt",
+        "count": 9
+      },
+      {
+        "word": "land",
+        "count": 9
+      },
+      {
+        "word": "staat",
+        "count": 7
+      },
+      {
+        "word": "gesetz",
+        "count": 7
+      },
+      {
+        "word": "bitte",
+        "count": 6
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "sicherheit",
+        "count": 15,
+        "ratioParty": 8.9,
+        "ratioBundestag": 5.4
+      },
+      {
+        "word": "bitte",
+        "count": 6,
+        "ratioParty": 7.4,
+        "ratioBundestag": 6.6
+      },
+      {
+        "word": "klare",
+        "count": 6,
+        "ratioParty": 7.3,
+        "ratioBundestag": 6.0
+      },
+      {
+        "word": "gesetzentwurf",
+        "count": 5,
+        "ratioParty": 5.4,
+        "ratioBundestag": 4.5
+      },
+      {
+        "word": "heißt",
+        "count": 9,
+        "ratioParty": 5.2,
+        "ratioBundestag": 5.3
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 482,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.82,
+    "vsParliament": 0.79
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "6"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "3.377"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Arne Raue häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Migration",
+        "isCorrect": false
+      },
+      {
+        "text": "Sicherheit",
+        "isCorrect": true
+      },
+      {
+        "text": "Demokratie",
+        "isCorrect": false
+      },
+      {
+        "text": "Abstimmung",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Sicherheit\" nutzt Arne Raue 8.9× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "5.4× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 36.4,
+      "aggression": 15.4,
+      "labeling": 0.0,
+      "solution_focus": 83.3,
+      "collaboration": 66.7,
+      "demand_intensity": 8.0,
+      "acknowledgment": 8.0,
+      "authority": 63.0,
+      "future_orientation": 90.0,
+      "emotional_intensity": 30.0,
+      "inclusivity": 66.2,
+      "discriminatory": 2.21
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 7,
+      "words": 2262,
+      "adjectives": 13,
+      "verbs": 25
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 7.07,
+      "klima": 0.0,
+      "wirtschaft": 3.09,
+      "soziales": 4.42,
+      "sicherheit": 3.98,
+      "gesundheit": 1.33,
+      "europa": 1.33,
+      "digital": 2.21,
+      "bildung": 0.88,
+      "finanzen": 3.09,
+      "justiz": 3.98,
+      "arbeit": 0.88,
+      "mobilitaet": 2.65
+    },
+    "topTopics": [
+      {
+        "topic": "migration",
+        "score": 7.07,
+        "rank": 1
+      },
+      {
+        "topic": "soziales",
+        "score": 4.42,
+        "rank": 2
+      },
+      {
+        "topic": "sicherheit",
+        "score": 3.98,
+        "rank": 3
+      },
+      {
+        "topic": "justiz",
+        "score": 3.98,
+        "rank": 4
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 3.09,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "zuwanderung",
+          "count": 4
+        },
+        {
+          "word": "familiennachzug",
+          "count": 3
+        },
+        {
+          "word": "flüchtlinge",
+          "count": 3
+        },
+        {
+          "word": "asylrecht",
+          "count": 1
+        },
+        {
+          "word": "subsidiär",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 4
+        },
+        {
+          "word": "firmen",
+          "count": 2
+        },
+        {
+          "word": "konzerne",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "familien",
+          "count": 3
+        },
+        {
+          "word": "sozialleistungen",
+          "count": 2
+        },
+        {
+          "word": "kind",
+          "count": 1
+        },
+        {
+          "word": "sozialsystem",
+          "count": 1
+        },
+        {
+          "word": "familie",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "waffen",
+          "count": 2
+        },
+        {
+          "word": "panzer",
+          "count": 1
+        },
+        {
+          "word": "terror",
+          "count": 1
+        },
+        {
+          "word": "streitkräfte",
+          "count": 1
+        },
+        {
+          "word": "bundeswehr",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "medikamente",
+          "count": 1
+        },
+        {
+          "word": "vorsorge",
+          "count": 1
+        },
+        {
+          "word": "gesundheitssystem",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "außenminister",
+          "count": 1
+        },
+        {
+          "word": "sanktionen",
+          "count": 1
+        },
+        {
+          "word": "brüssel",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "digital",
+          "count": 2
+        },
+        {
+          "word": "digitalisierung",
+          "count": 1
+        },
+        {
+          "word": "daten",
+          "count": 1
+        },
+        {
+          "word": "cybersicherheit",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "schulen",
+          "count": 2
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "kosten",
+          "count": 2
+        },
+        {
+          "word": "haushalt",
+          "count": 1
+        },
+        {
+          "word": "schuldenbremse",
+          "count": 1
+        },
+        {
+          "word": "steuer",
+          "count": 1
+        },
+        {
+          "word": "steuern",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "rechtsstaat",
+          "count": 2
+        },
+        {
+          "word": "strafrecht",
+          "count": 2
+        },
+        {
+          "word": "gleichberechtigung",
+          "count": 1
+        },
+        {
+          "word": "grundgesetz",
+          "count": 1
+        },
+        {
+          "word": "gesetzgebung",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "überstunden",
+          "count": 1
+        },
+        {
+          "word": "jobcenter",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 4
+        },
+        {
+          "word": "luftverkehr",
+          "count": 1
+        },
+        {
+          "word": "straße",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

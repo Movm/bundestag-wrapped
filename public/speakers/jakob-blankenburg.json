@@ -1,0 +1,478 @@
+{
+  "name": "Jakob Blankenburg",
+  "party": "SPD",
+  "slug": "jakob-blankenburg",
+  "academicTitle": null,
+  "speeches": 11,
+  "wortbeitraege": 3,
+  "befragungResponses": 0,
+  "totalWords": 6297,
+  "avgWords": 450,
+  "minWords": 51,
+  "maxWords": 833,
+  "rankings": {
+    "speechRank": 105,
+    "wordsRank": 110,
+    "partySpeechRank": 28,
+    "partyWordsRank": 27,
+    "partySize": 109,
+    "totalSpeakers": 609,
+    "percentile": 82.8,
+    "verbosityRank": 247,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 55,
+    "longestSpeechRank": 157
+  },
+  "drama": {
+    "interruptionsGiven": 19,
+    "interruptionsReceived": 23,
+    "interrupterRank": 106,
+    "interruptedRank": 98
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "klimaschutz",
+        "count": 35
+      },
+      {
+        "word": "menschen",
+        "count": 27
+      },
+      {
+        "word": "verantwortung",
+        "count": 16
+      },
+      {
+        "word": "sicherheit",
+        "count": 12
+      },
+      {
+        "word": "deutschland",
+        "count": 11
+      },
+      {
+        "word": "land",
+        "count": 11
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "rückbau",
+        "count": 7,
+        "ratioParty": 561.6,
+        "ratioBundestag": 88.3
+      },
+      {
+        "word": "vorsorge",
+        "count": 6,
+        "ratioParty": 48.1,
+        "ratioBundestag": 47.5
+      },
+      {
+        "word": "teuer",
+        "count": 5,
+        "ratioParty": 23.6,
+        "ratioBundestag": 9.3
+      },
+      {
+        "word": "sozialer",
+        "count": 6,
+        "ratioParty": 18.5,
+        "ratioBundestag": 22.0
+      },
+      {
+        "word": "klimaschutz",
+        "count": 35,
+        "ratioParty": 14.3,
+        "ratioBundestag": 15.8
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "teuer",
+        "count": 5,
+        "ratioParty": 23.6,
+        "ratioBundestag": 9.3
+      },
+      {
+        "word": "sozial",
+        "count": 6,
+        "ratioParty": 10.2,
+        "ratioBundestag": 12.2
+      },
+      {
+        "word": "wirtschaftlich",
+        "count": 5,
+        "ratioParty": 8.4,
+        "ratioBundestag": 9.0
+      },
+      {
+        "word": "stark",
+        "count": 3,
+        "ratioParty": 2.1,
+        "ratioBundestag": 3.0
+      },
+      {
+        "word": "gerecht",
+        "count": 3,
+        "ratioParty": 2.0,
+        "ratioBundestag": 2.9
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 450,
+    "partyAvgWords": 637,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.71,
+    "vsParliament": 0.73
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "11"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "6.297"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufe",
+      "value": "19"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Jakob Blankenburg häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Kinder",
+        "isCorrect": false
+      },
+      {
+        "text": "Gesellschaft",
+        "isCorrect": false
+      },
+      {
+        "text": "Rückbau",
+        "isCorrect": true
+      },
+      {
+        "text": "Kanzler",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Rückbau\" nutzt Jakob Blankenburg 561.6× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "88.3× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Jakob Blankenburg häufiger als der Rest der SPD-Fraktion?",
+    "options": [
+      {
+        "text": "Sicher",
+        "isCorrect": false
+      },
+      {
+        "text": "Europäisch",
+        "isCorrect": false
+      },
+      {
+        "text": "Erfolgreich",
+        "isCorrect": false
+      },
+      {
+        "text": "Teuer",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Teuer\" nutzt Jakob Blankenburg 23.6× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "9.3× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐿️",
+    "name": "Eichhörnchen",
+    "title": "Themenhüter",
+    "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+    "id": "eichhoernchen",
+    "alternatives": [
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißiger Abgeordneter",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      },
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Cleverer Stratege",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 0.987
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 85.4,
+      "aggression": 6.8,
+      "labeling": 0.0,
+      "solution_focus": 87.9,
+      "collaboration": 100.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 7.7,
+      "authority": 76.4,
+      "future_orientation": 91.5,
+      "emotional_intensity": 50.0,
+      "inclusivity": 61.4,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 14,
+      "words": 4120,
+      "adjectives": 44,
+      "verbs": 39
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 23.3,
+      "wirtschaft": 3.16,
+      "soziales": 2.67,
+      "sicherheit": 0.0,
+      "gesundheit": 2.43,
+      "europa": 2.18,
+      "digital": 0.97,
+      "bildung": 0.73,
+      "finanzen": 4.13,
+      "justiz": 0.24,
+      "arbeit": 2.18,
+      "mobilitaet": 2.67
+    },
+    "topTopics": [
+      {
+        "topic": "klima",
+        "score": 23.3,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 4.13,
+        "rank": 2
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 3.16,
+        "rank": 3
+      },
+      {
+        "topic": "soziales",
+        "score": 2.67,
+        "rank": 4
+      },
+      {
+        "topic": "mobilitaet",
+        "score": 2.67,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "klimaschutz",
+          "count": 35
+        },
+        {
+          "word": "atomkraft",
+          "count": 4
+        },
+        {
+          "word": "moor",
+          "count": 4
+        },
+        {
+          "word": "klimapolitik",
+          "count": 4
+        },
+        {
+          "word": "erneuerbare",
+          "count": 3
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 4
+        },
+        {
+          "word": "betriebe",
+          "count": 3
+        },
+        {
+          "word": "industrie",
+          "count": 2
+        },
+        {
+          "word": "markt",
+          "count": 1
+        },
+        {
+          "word": "konzern",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 4
+        },
+        {
+          "word": "alleinerziehende",
+          "count": 1
+        },
+        {
+          "word": "familie",
+          "count": 1
+        },
+        {
+          "word": "rentner",
+          "count": 1
+        },
+        {
+          "word": "familien",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "vorsorge",
+          "count": 6
+        },
+        {
+          "word": "pflegekraft",
+          "count": 2
+        },
+        {
+          "word": "sucht",
+          "count": 1
+        },
+        {
+          "word": "pflegekräfte",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 4
+        },
+        {
+          "word": "europäisch",
+          "count": 2
+        },
+        {
+          "word": "wiederaufbau",
+          "count": 1
+        },
+        {
+          "word": "putin",
+          "count": 1
+        },
+        {
+          "word": "gipfel",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "technologie",
+          "count": 2
+        },
+        {
+          "word": "netzausbau",
+          "count": 1
+        },
+        {
+          "word": "netz",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "forschung",
+          "count": 2
+        },
+        {
+          "word": "schulen",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 7
+        },
+        {
+          "word": "investitionen",
+          "count": 3
+        },
+        {
+          "word": "kosten",
+          "count": 2
+        },
+        {
+          "word": "entlastung",
+          "count": 2
+        },
+        {
+          "word": "sondervermögen",
+          "count": 2
+        }
+      ],
+      "justiz": [
+        {
+          "word": "gesetzgebung",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "einkommen",
+          "count": 5
+        },
+        {
+          "word": "arbeitsplätze",
+          "count": 4
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 2
+        },
+        {
+          "word": "verkehr",
+          "count": 2
+        },
+        {
+          "word": "bahn",
+          "count": 2
+        },
+        {
+          "word": "fahrzeuge",
+          "count": 1
+        },
+        {
+          "word": "auto",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

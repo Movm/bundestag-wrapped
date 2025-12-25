@@ -1,0 +1,421 @@
+{
+  "name": "Caren Lay",
+  "party": "DIE LINKE",
+  "slug": "caren-lay",
+  "academicTitle": null,
+  "speeches": 8,
+  "wortbeitraege": 3,
+  "befragungResponses": 0,
+  "totalWords": 5528,
+  "avgWords": 503,
+  "minWords": 74,
+  "maxWords": 901,
+  "rankings": {
+    "speechRank": 217,
+    "wordsRank": 148,
+    "partySpeechRank": 28,
+    "partyWordsRank": 15,
+    "partySize": 63,
+    "totalSpeakers": 609,
+    "percentile": 64.4,
+    "verbosityRank": 161,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 12,
+    "longestSpeechRank": 105
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 20,
+    "interrupterRank": 129,
+    "interruptedRank": 134
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "mietpreisbremse",
+        "count": 32
+      },
+      {
+        "word": "mieten",
+        "count": 31
+      },
+      {
+        "word": "endlich",
+        "count": 26
+      },
+      {
+        "word": "wohnungsbau",
+        "count": 19
+      },
+      {
+        "word": "mieter",
+        "count": 18
+      },
+      {
+        "word": "mieterinnen",
+        "count": 16
+      },
+      {
+        "word": "linke",
+        "count": 16
+      },
+      {
+        "word": "jahren",
+        "count": 15
+      },
+      {
+        "word": "wohnungen",
+        "count": 15
+      },
+      {
+        "word": "sozialen",
+        "count": 14
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "mietpreisbremse",
+        "count": 32,
+        "ratioParty": 167.9,
+        "ratioBundestag": 65.7
+      },
+      {
+        "word": "neubauten",
+        "count": 6,
+        "ratioParty": 141.6,
+        "ratioBundestag": 98.6
+      },
+      {
+        "word": "gemeinnützigen",
+        "count": 9,
+        "ratioParty": 106.2,
+        "ratioBundestag": 345.0
+      },
+      {
+        "word": "investitionsprogramm",
+        "count": 6,
+        "ratioParty": 94.4,
+        "ratioBundestag": 89.0
+      },
+      {
+        "word": "bundesweiten",
+        "count": 7,
+        "ratioParty": 82.6,
+        "ratioBundestag": 178.9
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "schwach",
+        "count": 4,
+        "ratioParty": 94.4,
+        "ratioBundestag": 65.7
+      },
+      {
+        "word": "absurd",
+        "count": 8,
+        "ratioParty": 10.2,
+        "ratioBundestag": 34.1
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 503,
+    "partyAvgWords": 521,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.97,
+    "vsParliament": 0.82
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "8"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "5.528"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Caren Lay häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Arbeit",
+        "isCorrect": false
+      },
+      {
+        "text": "Kanzler",
+        "isCorrect": false
+      },
+      {
+        "text": "Migration",
+        "isCorrect": false
+      },
+      {
+        "text": "Mietpreisbremse",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Mietpreisbremse\" nutzt Caren Lay 167.9× häufiger als der DIE LINKE-Durchschnitt.",
+    "explanationBundestag": "65.7× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Caren Lay häufiger als der Rest der DIE LINKE-Fraktion?",
+    "options": [
+      {
+        "text": "Wichtig",
+        "isCorrect": false
+      },
+      {
+        "text": "Schwach",
+        "isCorrect": true
+      },
+      {
+        "text": "Notwendig",
+        "isCorrect": false
+      },
+      {
+        "text": "Falsch",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Schwach\" nutzt Caren Lay 94.4× häufiger als der DIE LINKE-Durchschnitt.",
+    "explanationBundestag": "65.7× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐿️",
+    "name": "Eichhörnchen",
+    "title": "Themenhüterin",
+    "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+    "id": "eichhoernchen",
+    "alternatives": [
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißige Abgeordnete",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      },
+      {
+        "emoji": "🦀",
+        "name": "Krabbe",
+        "title": "Hartnäckige Debattiererin",
+        "reason": "Du hältst an deinen Positionen fest und lässt nicht locker.",
+        "id": "krabbe",
+        "score": 0.967
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 30.0,
+      "aggression": 42.9,
+      "labeling": 9.5,
+      "solution_focus": 90.5,
+      "collaboration": 50.0,
+      "demand_intensity": 33.3,
+      "acknowledgment": 7.1,
+      "authority": 83.3,
+      "future_orientation": 81.8,
+      "emotional_intensity": 65.0,
+      "inclusivity": 36.4,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 11,
+      "words": 3617,
+      "adjectives": 21,
+      "verbs": 42
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.55,
+      "klima": 0.55,
+      "wirtschaft": 0.83,
+      "soziales": 28.48,
+      "sicherheit": 1.11,
+      "gesundheit": 0.0,
+      "europa": 0.83,
+      "digital": 0.0,
+      "bildung": 0.0,
+      "finanzen": 6.36,
+      "justiz": 2.49,
+      "arbeit": 0.83,
+      "mobilitaet": 0.83
+    },
+    "topTopics": [
+      {
+        "topic": "soziales",
+        "score": 28.48,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 6.36,
+        "rank": 2
+      },
+      {
+        "topic": "justiz",
+        "score": 2.49,
+        "rank": 3
+      },
+      {
+        "topic": "sicherheit",
+        "score": 1.11,
+        "rank": 4
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 0.83,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "migranten",
+          "count": 1
+        },
+        {
+          "word": "obergrenze",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "nachhaltig",
+          "count": 2
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "konzerne",
+          "count": 2
+        },
+        {
+          "word": "konzern",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "mietpreisbremse",
+          "count": 32
+        },
+        {
+          "word": "mieten",
+          "count": 31
+        },
+        {
+          "word": "wohnungen",
+          "count": 15
+        },
+        {
+          "word": "miete",
+          "count": 8
+        },
+        {
+          "word": "wohngeld",
+          "count": 5
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "rüstung",
+          "count": 2
+        },
+        {
+          "word": "bundeswehr",
+          "count": 1
+        },
+        {
+          "word": "panzer",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "bündnis",
+          "count": 2
+        },
+        {
+          "word": "sanktionen",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 7
+        },
+        {
+          "word": "kosten",
+          "count": 5
+        },
+        {
+          "word": "investitionen",
+          "count": 4
+        },
+        {
+          "word": "sondervermögen",
+          "count": 3
+        },
+        {
+          "word": "subventionen",
+          "count": 2
+        }
+      ],
+      "justiz": [
+        {
+          "word": "verordnung",
+          "count": 3
+        },
+        {
+          "word": "staatsanwaltschaft",
+          "count": 1
+        },
+        {
+          "word": "gesetzesänderung",
+          "count": 1
+        },
+        {
+          "word": "straftat",
+          "count": 1
+        },
+        {
+          "word": "mietrecht",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "kündigungsschutz",
+          "count": 2
+        },
+        {
+          "word": "kündigung",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "straßen",
+          "count": 1
+        },
+        {
+          "word": "auto",
+          "count": 1
+        },
+        {
+          "word": "straße",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

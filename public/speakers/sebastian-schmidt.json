@@ -1,0 +1,391 @@
+{
+  "name": "Sebastian Schmidt",
+  "party": "CDU/CSU",
+  "slug": "sebastian-schmidt",
+  "academicTitle": null,
+  "speeches": 7,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 3156,
+  "avgWords": 451,
+  "minWords": 287,
+  "maxWords": 592,
+  "rankings": {
+    "speechRank": 250,
+    "wordsRank": 348,
+    "partySpeechRank": 61,
+    "partyWordsRank": 108,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 58.9,
+    "verbosityRank": 245,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 90,
+    "longestSpeechRank": 433
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 0,
+    "interrupterRank": null,
+    "interruptedRank": null
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "sicherheit",
+        "count": 14
+      },
+      {
+        "word": "neue",
+        "count": 13
+      },
+      {
+        "word": "bevölkerungsschutz",
+        "count": 11
+      },
+      {
+        "word": "schutz",
+        "count": 10
+      },
+      {
+        "word": "bundesregierung",
+        "count": 9
+      },
+      {
+        "word": "haushalt",
+        "count": 9
+      },
+      {
+        "word": "bevölkerung",
+        "count": 8
+      },
+      {
+        "word": "land",
+        "count": 7
+      },
+      {
+        "word": "infrastruktur",
+        "count": 7
+      },
+      {
+        "word": "deutschland",
+        "count": 7
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "schleswig",
+        "count": 5,
+        "ratioParty": 156.2,
+        "ratioBundestag": 66.3
+      },
+      {
+        "word": "bevölkerungsschutz",
+        "count": 11,
+        "ratioParty": 94.8,
+        "ratioBundestag": 130.4
+      },
+      {
+        "word": "technik",
+        "count": 5,
+        "ratioParty": 39.1,
+        "ratioBundestag": 42.1
+      },
+      {
+        "word": "bevölkerung",
+        "count": 8,
+        "ratioParty": 14.9,
+        "ratioBundestag": 12.9
+      },
+      {
+        "word": "moderne",
+        "count": 5,
+        "ratioParty": 14.4,
+        "ratioBundestag": 18.2
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "sicher",
+        "count": 5,
+        "ratioParty": 4.6,
+        "ratioBundestag": 5.3
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 451,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.66,
+    "vsParliament": 0.74
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "7"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "3.156"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Sebastian Schmidt häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Schleswig",
+        "isCorrect": true
+      },
+      {
+        "text": "Demokratie",
+        "isCorrect": false
+      },
+      {
+        "text": "Koalition",
+        "isCorrect": false
+      },
+      {
+        "text": "Arbeit",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Schleswig\" nutzt Sebastian Schmidt 156.2× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "66.3× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Sebastian Schmidt häufiger als der Rest der CDU/CSU-Fraktion?",
+    "options": [
+      {
+        "text": "Gefährlich",
+        "isCorrect": false
+      },
+      {
+        "text": "Europäisch",
+        "isCorrect": false
+      },
+      {
+        "text": "Schlecht",
+        "isCorrect": false
+      },
+      {
+        "text": "Sicher",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Sicher\" nutzt Sebastian Schmidt 4.6× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "5.3× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🦫",
+    "name": "Biber",
+    "title": "Konstruktiver Brückenbauer",
+    "reason": "Du baust Brücken zwischen Positionen – kooperativ und lösungsorientiert.",
+    "id": "biber",
+    "alternatives": [
+      {
+        "emoji": "🐬",
+        "name": "Delfin",
+        "title": "Diplomatischer Redner",
+        "reason": "Aktiv im Parlament, aber respektvoll ohne viele Zwischenrufe.",
+        "id": "delfin",
+        "score": 0.925
+      },
+      {
+        "emoji": "🦦",
+        "name": "Otter",
+        "title": "Positiver Teamplayer",
+        "reason": "Du bringst gute Stimmung und konstruktive Beiträge ins Plenum.",
+        "id": "otter",
+        "score": 0.907
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 80.0,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 95.7,
+      "collaboration": 100.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 7.4,
+      "authority": 70.8,
+      "future_orientation": 100.0,
+      "emotional_intensity": 66.7,
+      "inclusivity": 67.1,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 7,
+      "words": 2129,
+      "adjectives": 15,
+      "verbs": 27
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.47,
+      "klima": 0.0,
+      "wirtschaft": 0.47,
+      "soziales": 0.47,
+      "sicherheit": 6.11,
+      "gesundheit": 1.41,
+      "europa": 1.88,
+      "digital": 0.94,
+      "bildung": 0.94,
+      "finanzen": 8.92,
+      "justiz": 0.0,
+      "arbeit": 0.0,
+      "mobilitaet": 5.17
+    },
+    "topTopics": [
+      {
+        "topic": "finanzen",
+        "score": 8.92,
+        "rank": 1
+      },
+      {
+        "topic": "sicherheit",
+        "score": 6.11,
+        "rank": 2
+      },
+      {
+        "topic": "mobilitaet",
+        "score": 5.17,
+        "rank": 3
+      },
+      {
+        "topic": "europa",
+        "score": 1.88,
+        "rank": 4
+      },
+      {
+        "topic": "gesundheit",
+        "score": 1.41,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "integration",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "betrieb",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "jugendarbeit",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "bundespolizei",
+          "count": 5
+        },
+        {
+          "word": "polizei",
+          "count": 3
+        },
+        {
+          "word": "verteidigung",
+          "count": 2
+        },
+        {
+          "word": "bundeswehr",
+          "count": 2
+        },
+        {
+          "word": "waffen",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "rettungsdienst",
+          "count": 2
+        },
+        {
+          "word": "krankenversicherung",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "angriffskrieg",
+          "count": 2
+        },
+        {
+          "word": "ukraine",
+          "count": 1
+        },
+        {
+          "word": "europa",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 2
+        }
+      ],
+      "bildung": [
+        {
+          "word": "forschung",
+          "count": 1
+        },
+        {
+          "word": "fortbildung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 9
+        },
+        {
+          "word": "investitionen",
+          "count": 6
+        },
+        {
+          "word": "haushaltsentwurf",
+          "count": 2
+        },
+        {
+          "word": "investition",
+          "count": 1
+        },
+        {
+          "word": "etat",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 7
+        },
+        {
+          "word": "fahrzeuge",
+          "count": 3
+        },
+        {
+          "word": "flugverkehr",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

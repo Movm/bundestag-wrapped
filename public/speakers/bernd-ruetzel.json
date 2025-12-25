@@ -1,0 +1,389 @@
+{
+  "name": "Bernd Rützel",
+  "party": "SPD",
+  "slug": "bernd-ruetzel",
+  "academicTitle": null,
+  "speeches": 12,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 4923,
+  "avgWords": 379,
+  "minWords": 12,
+  "maxWords": 751,
+  "rankings": {
+    "speechRank": 70,
+    "wordsRank": 188,
+    "partySpeechRank": 18,
+    "partyWordsRank": 44,
+    "partySize": 109,
+    "totalSpeakers": 609,
+    "percentile": 88.5,
+    "verbosityRank": 370,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 76,
+    "longestSpeechRank": 246
+  },
+  "drama": {
+    "interruptionsGiven": 14,
+    "interruptionsReceived": 5,
+    "interrupterRank": 124,
+    "interruptedRank": 388
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 28
+      },
+      {
+        "word": "rente",
+        "count": 27
+      },
+      {
+        "word": "arbeit",
+        "count": 21
+      },
+      {
+        "word": "unternehmen",
+        "count": 13
+      },
+      {
+        "word": "stunden",
+        "count": 10
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "überstanden",
+        "count": 6,
+        "ratioParty": 321.8,
+        "ratioBundestag": 461.6
+      },
+      {
+        "word": "selber",
+        "count": 9,
+        "ratioParty": 56.8,
+        "ratioBundestag": 23.0
+      },
+      {
+        "word": "rentenversicherung",
+        "count": 9,
+        "ratioParty": 33.3,
+        "ratioBundestag": 33.4
+      },
+      {
+        "word": "rentenniveau",
+        "count": 8,
+        "ratioParty": 31.8,
+        "ratioBundestag": 36.8
+      },
+      {
+        "word": "stunden",
+        "count": 10,
+        "ratioParty": 29.8,
+        "ratioBundestag": 26.4
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 379,
+    "partyAvgWords": 637,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.59,
+    "vsParliament": 0.62
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "12"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "4.923"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufe",
+      "value": "14"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Bernd Rützel häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Reform",
+        "isCorrect": false
+      },
+      {
+        "text": "Bürger",
+        "isCorrect": false
+      },
+      {
+        "text": "Überstanden",
+        "isCorrect": true
+      },
+      {
+        "text": "Haushalt",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Überstanden\" nutzt Bernd Rützel 321.8× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "461.6× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🐝",
+    "name": "Biene",
+    "title": "Fleißiger Abgeordneter",
+    "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+    "id": "biene",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüter",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.997
+      },
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Cleverer Stratege",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 0.973
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 84.6,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 93.3,
+      "collaboration": 100.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 12.0,
+      "authority": 77.3,
+      "future_orientation": 91.5,
+      "emotional_intensity": 20.0,
+      "inclusivity": 50.0,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 13,
+      "words": 3091,
+      "adjectives": 13,
+      "verbs": 25
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.32,
+      "klima": 0.97,
+      "wirtschaft": 7.76,
+      "soziales": 18.12,
+      "sicherheit": 0.0,
+      "gesundheit": 0.32,
+      "europa": 0.0,
+      "digital": 0.32,
+      "bildung": 3.56,
+      "finanzen": 1.62,
+      "justiz": 1.29,
+      "arbeit": 11.0,
+      "mobilitaet": 0.32
+    },
+    "topTopics": [
+      {
+        "topic": "soziales",
+        "score": 18.12,
+        "rank": 1
+      },
+      {
+        "topic": "arbeit",
+        "score": 11.0,
+        "rank": 2
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 7.76,
+        "rank": 3
+      },
+      {
+        "topic": "bildung",
+        "score": 3.56,
+        "rank": 4
+      },
+      {
+        "topic": "finanzen",
+        "score": 1.62,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "grenze",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "klimaschutz",
+          "count": 1
+        },
+        {
+          "word": "umwelt",
+          "count": 1
+        },
+        {
+          "word": "nachhaltig",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 13
+        },
+        {
+          "word": "firma",
+          "count": 2
+        },
+        {
+          "word": "lieferkette",
+          "count": 2
+        },
+        {
+          "word": "selbstständige",
+          "count": 1
+        },
+        {
+          "word": "wachstum",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "rente",
+          "count": 27
+        },
+        {
+          "word": "rentenniveau",
+          "count": 8
+        },
+        {
+          "word": "rentner",
+          "count": 4
+        },
+        {
+          "word": "kinder",
+          "count": 4
+        },
+        {
+          "word": "betriebsrente",
+          "count": 3
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "pflege",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "ausbildung",
+          "count": 2
+        },
+        {
+          "word": "qualifizierung",
+          "count": 2
+        },
+        {
+          "word": "weiterbildung",
+          "count": 2
+        },
+        {
+          "word": "meister",
+          "count": 1
+        },
+        {
+          "word": "kita",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "banken",
+          "count": 1
+        },
+        {
+          "word": "investition",
+          "count": 1
+        },
+        {
+          "word": "haushalt",
+          "count": 1
+        },
+        {
+          "word": "investitionen",
+          "count": 1
+        },
+        {
+          "word": "kosten",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "menschenrechte",
+          "count": 3
+        },
+        {
+          "word": "bundesverfassungsgericht",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "rentenversicherung",
+          "count": 9
+        },
+        {
+          "word": "mindestlohn",
+          "count": 6
+        },
+        {
+          "word": "tarifvertrag",
+          "count": 4
+        },
+        {
+          "word": "tarifbindung",
+          "count": 4
+        },
+        {
+          "word": "arbeitszeit",
+          "count": 3
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "bahn",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

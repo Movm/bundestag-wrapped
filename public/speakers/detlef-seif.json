@@ -1,0 +1,409 @@
+{
+  "name": "Detlef Seif",
+  "party": "CDU/CSU",
+  "slug": "detlef-seif",
+  "academicTitle": null,
+  "speeches": 10,
+  "wortbeitraege": 2,
+  "befragungResponses": 0,
+  "totalWords": 5338,
+  "avgWords": 445,
+  "minWords": 77,
+  "maxWords": 710,
+  "rankings": {
+    "speechRank": 141,
+    "wordsRank": 161,
+    "partySpeechRank": 31,
+    "partyWordsRank": 45,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 76.8,
+    "verbosityRank": 257,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 94,
+    "longestSpeechRank": 290
+  },
+  "drama": {
+    "interruptionsGiven": 7,
+    "interruptionsReceived": 38,
+    "interrupterRank": 192,
+    "interruptedRank": 34
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 29
+      },
+      {
+        "word": "bundesregierung",
+        "count": 17
+      },
+      {
+        "word": "personen",
+        "count": 16
+      },
+      {
+        "word": "verfahren",
+        "count": 15
+      },
+      {
+        "word": "deutschland",
+        "count": 15
+      },
+      {
+        "word": "maßnahmen",
+        "count": 14
+      },
+      {
+        "word": "land",
+        "count": 9
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "visum",
+        "count": 6,
+        "ratioParty": 934.9,
+        "ratioBundestag": 293.1
+      },
+      {
+        "word": "aufschrei",
+        "count": 5,
+        "ratioParty": 779.0,
+        "ratioBundestag": 187.9
+      },
+      {
+        "word": "aufnahmezusage",
+        "count": 6,
+        "ratioParty": 311.6,
+        "ratioBundestag": 112.7
+      },
+      {
+        "word": "überlastung",
+        "count": 5,
+        "ratioParty": 97.4,
+        "ratioBundestag": 97.7
+      },
+      {
+        "word": "personen",
+        "count": 16,
+        "ratioParty": 27.7,
+        "ratioBundestag": 27.1
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "falsch",
+        "count": 6,
+        "ratioParty": 10.5,
+        "ratioBundestag": 9.1
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 445,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.65,
+    "vsParliament": 0.73
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "10"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "5.338"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Detlef Seif häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Kinder",
+        "isCorrect": false
+      },
+      {
+        "text": "Visum",
+        "isCorrect": true
+      },
+      {
+        "text": "Arbeit",
+        "isCorrect": false
+      },
+      {
+        "text": "Demokratie",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Visum\" nutzt Detlef Seif 934.9× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "293.1× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Detlef Seif häufiger als der Rest der CDU/CSU-Fraktion?",
+    "options": [
+      {
+        "text": "Groß",
+        "isCorrect": false
+      },
+      {
+        "text": "Falsch",
+        "isCorrect": true
+      },
+      {
+        "text": "Sicher",
+        "isCorrect": false
+      },
+      {
+        "text": "Stark",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Falsch\" nutzt Detlef Seif 10.5× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "9.1× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐿️",
+    "name": "Eichhörnchen",
+    "title": "Themenhüter",
+    "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+    "id": "eichhoernchen",
+    "alternatives": [
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißiger Abgeordneter",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      },
+      {
+        "emoji": "🐻",
+        "name": "Bär",
+        "title": "Standhafter Debattierer",
+        "reason": "Trotz 38× unterbrochen zu werden, bleibst du standhaft.",
+        "id": "baer",
+        "score": 0.986
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 40.0,
+      "aggression": 0.0,
+      "labeling": 16.7,
+      "solution_focus": 80.0,
+      "collaboration": 33.3,
+      "demand_intensity": 3.7,
+      "acknowledgment": 0.0,
+      "authority": 85.7,
+      "future_orientation": 74.4,
+      "emotional_intensity": 54.2,
+      "inclusivity": 36.7,
+      "discriminatory": 0.29
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 12,
+      "words": 3407,
+      "adjectives": 12,
+      "verbs": 27
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 10.57,
+      "klima": 0.0,
+      "wirtschaft": 1.17,
+      "soziales": 1.47,
+      "sicherheit": 3.52,
+      "gesundheit": 0.0,
+      "europa": 1.47,
+      "digital": 0.29,
+      "bildung": 0.59,
+      "finanzen": 0.0,
+      "justiz": 7.34,
+      "arbeit": 0.0,
+      "mobilitaet": 0.59
+    },
+    "topTopics": [
+      {
+        "topic": "migration",
+        "score": 10.57,
+        "rank": 1
+      },
+      {
+        "topic": "justiz",
+        "score": 7.34,
+        "rank": 2
+      },
+      {
+        "topic": "sicherheit",
+        "score": 3.52,
+        "rank": 3
+      },
+      {
+        "topic": "soziales",
+        "score": 1.47,
+        "rank": 4
+      },
+      {
+        "topic": "europa",
+        "score": 1.47,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "aufenthaltsgesetz",
+          "count": 4
+        },
+        {
+          "word": "familiennachzug",
+          "count": 4
+        },
+        {
+          "word": "abschiebehaft",
+          "count": 3
+        },
+        {
+          "word": "asyl",
+          "count": 3
+        },
+        {
+          "word": "grenze",
+          "count": 3
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "fachkräfte",
+          "count": 2
+        },
+        {
+          "word": "import",
+          "count": 1
+        },
+        {
+          "word": "handelsbeziehungen",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kind",
+          "count": 1
+        },
+        {
+          "word": "kinder",
+          "count": 1
+        },
+        {
+          "word": "familie",
+          "count": 1
+        },
+        {
+          "word": "eltern",
+          "count": 1
+        },
+        {
+          "word": "wohnungsmarkt",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "verfassungsschutz",
+          "count": 4
+        },
+        {
+          "word": "bundespolizei",
+          "count": 2
+        },
+        {
+          "word": "armee",
+          "count": 1
+        },
+        {
+          "word": "terroristen",
+          "count": 1
+        },
+        {
+          "word": "anschlag",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "europäisch",
+          "count": 1
+        },
+        {
+          "word": "türkei",
+          "count": 1
+        },
+        {
+          "word": "ukraine",
+          "count": 1
+        },
+        {
+          "word": "außenminister",
+          "count": 1
+        },
+        {
+          "word": "bündnis",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "plattform",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "schulen",
+          "count": 1
+        },
+        {
+          "word": "bildung",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "richter",
+          "count": 5
+        },
+        {
+          "word": "haft",
+          "count": 4
+        },
+        {
+          "word": "gericht",
+          "count": 2
+        },
+        {
+          "word": "grundrechte",
+          "count": 2
+        },
+        {
+          "word": "vorschrift",
+          "count": 2
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 2
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,367 @@
+{
+  "name": "Katalin Gennburg",
+  "party": "DIE LINKE",
+  "slug": "katalin-gennburg",
+  "academicTitle": null,
+  "speeches": 6,
+  "wortbeitraege": 3,
+  "befragungResponses": 0,
+  "totalWords": 3677,
+  "avgWords": 409,
+  "minWords": 13,
+  "maxWords": 957,
+  "rankings": {
+    "speechRank": 316,
+    "wordsRank": 291,
+    "partySpeechRank": 41,
+    "partyWordsRank": 30,
+    "partySize": 63,
+    "totalSpeakers": 609,
+    "percentile": 48.1,
+    "verbosityRank": 323,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 23,
+    "longestSpeechRank": 79
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 29,
+    "interrupterRank": 53,
+    "interruptedRank": 58
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "bauen",
+        "count": 30
+      },
+      {
+        "word": "klar",
+        "count": 13
+      },
+      {
+        "word": "wohnungen",
+        "count": 10
+      },
+      {
+        "word": "ministerin",
+        "count": 9
+      },
+      {
+        "word": "reden",
+        "count": 9
+      },
+      {
+        "word": "weiter",
+        "count": 9
+      },
+      {
+        "word": "mieten",
+        "count": 8
+      },
+      {
+        "word": "menschen",
+        "count": 8
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "bauwirtschaft",
+        "count": 6,
+        "ratioParty": 446.2,
+        "ratioBundestag": 130.8
+      },
+      {
+        "word": "leerstand",
+        "count": 5,
+        "ratioParty": 371.8,
+        "ratioBundestag": 276.8
+      },
+      {
+        "word": "bauturbo",
+        "count": 7,
+        "ratioParty": 260.3,
+        "ratioBundestag": 26.2
+      },
+      {
+        "word": "hubertz",
+        "count": 5,
+        "ratioParty": 62.0,
+        "ratioBundestag": 37.1
+      },
+      {
+        "word": "neubau",
+        "count": 5,
+        "ratioParty": 53.1,
+        "ratioBundestag": 25.7
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "links",
+        "count": 4,
+        "ratioParty": 18.6,
+        "ratioBundestag": 9.4
+      },
+      {
+        "word": "sozial",
+        "count": 3,
+        "ratioParty": 4.1,
+        "ratioBundestag": 10.7
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 409,
+    "partyAvgWords": 521,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.79,
+    "vsParliament": 0.67
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "6"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "3.677"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Katalin Gennburg häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Ausschuss",
+        "isCorrect": false
+      },
+      {
+        "text": "Koalition",
+        "isCorrect": false
+      },
+      {
+        "text": "Bauwirtschaft",
+        "isCorrect": true
+      },
+      {
+        "text": "Zukunft",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Bauwirtschaft\" nutzt Katalin Gennburg 446.2× häufiger als der DIE LINKE-Durchschnitt.",
+    "explanationBundestag": "130.8× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Katalin Gennburg häufiger als der Rest der DIE LINKE-Fraktion?",
+    "options": [
+      {
+        "text": "Wirtschaftlich",
+        "isCorrect": false
+      },
+      {
+        "text": "Neu",
+        "isCorrect": false
+      },
+      {
+        "text": "Problematisch",
+        "isCorrect": false
+      },
+      {
+        "text": "Links",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Links\" nutzt Katalin Gennburg 18.6× häufiger als der DIE LINKE-Durchschnitt.",
+    "explanationBundestag": "9.4× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐝",
+    "name": "Biene",
+    "title": "Fleißige Abgeordnete",
+    "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+    "id": "biene",
+    "alternatives": [
+      {
+        "emoji": "🦀",
+        "name": "Krabbe",
+        "title": "Hartnäckige Debattiererin",
+        "reason": "Du hältst an deinen Positionen fest und lässt nicht locker.",
+        "id": "krabbe",
+        "score": 0.956
+      },
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüterin",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.947
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 50.0,
+      "aggression": 5.9,
+      "labeling": 23.5,
+      "solution_focus": 83.3,
+      "collaboration": 66.7,
+      "demand_intensity": 42.1,
+      "acknowledgment": 10.5,
+      "authority": 93.0,
+      "future_orientation": 94.1,
+      "emotional_intensity": 91.7,
+      "inclusivity": 46.0,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 9,
+      "words": 2314,
+      "adjectives": 17,
+      "verbs": 19
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 3.89,
+      "wirtschaft": 2.16,
+      "soziales": 11.24,
+      "sicherheit": 0.0,
+      "gesundheit": 0.0,
+      "europa": 0.0,
+      "digital": 0.0,
+      "bildung": 0.86,
+      "finanzen": 2.16,
+      "justiz": 0.0,
+      "arbeit": 0.43,
+      "mobilitaet": 0.43
+    },
+    "topTopics": [
+      {
+        "topic": "soziales",
+        "score": 11.24,
+        "rank": 1
+      },
+      {
+        "topic": "klima",
+        "score": 3.89,
+        "rank": 2
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 2.16,
+        "rank": 3
+      },
+      {
+        "topic": "finanzen",
+        "score": 2.16,
+        "rank": 4
+      },
+      {
+        "topic": "bildung",
+        "score": 0.86,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "klimakrise",
+          "count": 5
+        },
+        {
+          "word": "kohle",
+          "count": 1
+        },
+        {
+          "word": "umwelt",
+          "count": 1
+        },
+        {
+          "word": "emissionen",
+          "count": 1
+        },
+        {
+          "word": "nachhaltig",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "markt",
+          "count": 3
+        },
+        {
+          "word": "wettbewerb",
+          "count": 2
+        }
+      ],
+      "soziales": [
+        {
+          "word": "wohnungen",
+          "count": 10
+        },
+        {
+          "word": "mieten",
+          "count": 8
+        },
+        {
+          "word": "wohnungsnot",
+          "count": 3
+        },
+        {
+          "word": "wohnung",
+          "count": 2
+        },
+        {
+          "word": "miete",
+          "count": 2
+        }
+      ],
+      "bildung": [
+        {
+          "word": "forschung",
+          "count": 1
+        },
+        {
+          "word": "schule",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "investitionen",
+          "count": 2
+        },
+        {
+          "word": "haushaltsentwurf",
+          "count": 1
+        },
+        {
+          "word": "haushalt",
+          "count": 1
+        },
+        {
+          "word": "bundeshaushalt",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "mitbestimmung",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

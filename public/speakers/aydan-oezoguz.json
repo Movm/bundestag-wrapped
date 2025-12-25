@@ -1,0 +1,302 @@
+{
+  "name": "Aydan Özoğuz",
+  "party": "SPD",
+  "slug": "aydan-oezoguz",
+  "academicTitle": null,
+  "speeches": 3,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 1819,
+  "avgWords": 455,
+  "minWords": 420,
+  "maxWords": 529,
+  "rankings": {
+    "speechRank": 492,
+    "wordsRank": 476,
+    "partySpeechRank": 86,
+    "partyWordsRank": 89,
+    "partySize": 109,
+    "totalSpeakers": 609,
+    "percentile": 19.2,
+    "verbosityRank": 237,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 51,
+    "longestSpeechRank": 503
+  },
+  "drama": {
+    "interruptionsGiven": 9,
+    "interruptionsReceived": 5,
+    "interrupterRank": 163,
+    "interruptedRank": 405
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "deutschland",
+        "count": 5
+      },
+      {
+        "word": "taliban",
+        "count": 5
+      },
+      {
+        "word": "kommunen",
+        "count": 5
+      },
+      {
+        "word": "wichtig",
+        "count": 4
+      },
+      {
+        "word": "frauen",
+        "count": 4
+      },
+      {
+        "word": "afghanistan",
+        "count": 4
+      },
+      {
+        "word": "beim",
+        "count": 3
+      },
+      {
+        "word": "lassen",
+        "count": 3
+      },
+      {
+        "word": "werte",
+        "count": 3
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "taliban",
+        "count": 5,
+        "ratioParty": 337.6,
+        "ratioBundestag": 109.9
+      },
+      {
+        "word": "kommunen",
+        "count": 5,
+        "ratioParty": 6.9,
+        "ratioBundestag": 7.6
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 455,
+    "partyAvgWords": 637,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.71,
+    "vsParliament": 0.74
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "3"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "1.819"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Aydan Özoğuz häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Taliban",
+        "isCorrect": true
+      },
+      {
+        "text": "Kanzler",
+        "isCorrect": false
+      },
+      {
+        "text": "Gesellschaft",
+        "isCorrect": false
+      },
+      {
+        "text": "Rente",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Taliban\" nutzt Aydan Özoğuz 337.6× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "109.9× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🐇",
+    "name": "Hase",
+    "title": "Wendige Optimistin",
+    "reason": "Mit positivem Blick reagierst du schnell auf neue Themen.",
+    "id": "hase",
+    "alternatives": [
+      {
+        "emoji": "🦦",
+        "name": "Otter",
+        "title": "Positive Teamplayerin",
+        "reason": "Du bringst gute Stimmung und konstruktive Beiträge ins Plenum.",
+        "id": "otter",
+        "score": 0.743
+      },
+      {
+        "emoji": "🦫",
+        "name": "Biber",
+        "title": "Konstruktive Brückenbauerin",
+        "reason": "Du baust Brücken zwischen Positionen – kooperativ und lösungsorientiert.",
+        "id": "biber",
+        "score": 0.593
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 80.0,
+      "aggression": 16.7,
+      "labeling": 0.0,
+      "solution_focus": 90.9,
+      "collaboration": 50.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 21.4,
+      "authority": 57.9,
+      "future_orientation": 87.5,
+      "emotional_intensity": 28.6,
+      "inclusivity": 45.5,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 4,
+      "words": 824,
+      "adjectives": 6,
+      "verbs": 14
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 1.21,
+      "wirtschaft": 1.21,
+      "soziales": 1.21,
+      "sicherheit": 4.85,
+      "gesundheit": 0.0,
+      "europa": 0.0,
+      "digital": 1.21,
+      "bildung": 1.21,
+      "finanzen": 4.85,
+      "justiz": 2.43,
+      "arbeit": 0.0,
+      "mobilitaet": 1.21
+    },
+    "topTopics": [
+      {
+        "topic": "sicherheit",
+        "score": 4.85,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 4.85,
+        "rank": 2
+      },
+      {
+        "topic": "justiz",
+        "score": 2.43,
+        "rank": 3
+      },
+      {
+        "topic": "klima",
+        "score": 1.21,
+        "rank": 4
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 1.21,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "nachhaltig",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "zoll",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "inklusion",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "soldaten",
+          "count": 2
+        },
+        {
+          "word": "bundeswehr",
+          "count": 1
+        },
+        {
+          "word": "bundespolizei",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "pressefreiheit",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "bildung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "sondervermögen",
+          "count": 1
+        },
+        {
+          "word": "haushalt",
+          "count": 1
+        },
+        {
+          "word": "investitionen",
+          "count": 1
+        },
+        {
+          "word": "fördermittel",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "gleichberechtigung",
+          "count": 1
+        },
+        {
+          "word": "menschenrechte",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "straße",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

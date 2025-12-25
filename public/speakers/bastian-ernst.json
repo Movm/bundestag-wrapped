@@ -1,0 +1,332 @@
+{
+  "name": "Bastian Ernst",
+  "party": "CDU/CSU",
+  "slug": "bastian-ernst",
+  "academicTitle": null,
+  "speeches": 4,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 1668,
+  "avgWords": 417,
+  "minWords": 397,
+  "maxWords": 428,
+  "rankings": {
+    "speechRank": 416,
+    "wordsRank": 490,
+    "partySpeechRank": 124,
+    "partyWordsRank": 158,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 31.7,
+    "verbosityRank": 308,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 112,
+    "longestSpeechRank": 564
+  },
+  "drama": {
+    "interruptionsGiven": 2,
+    "interruptionsReceived": 3,
+    "interrupterRank": 264,
+    "interruptedRank": 451
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "mission",
+        "count": 14
+      },
+      {
+        "word": "sicherheit",
+        "count": 11
+      },
+      {
+        "word": "beitrag",
+        "count": 9
+      },
+      {
+        "word": "nato",
+        "count": 8
+      },
+      {
+        "word": "guardian",
+        "count": 8
+      },
+      {
+        "word": "vereinten",
+        "count": 8
+      },
+      {
+        "word": "nationen",
+        "count": 8
+      },
+      {
+        "word": "deutschland",
+        "count": 8
+      },
+      {
+        "word": "unifil",
+        "count": 7
+      },
+      {
+        "word": "irini",
+        "count": 7
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "libanesischen",
+        "count": 7,
+        "ratioParty": 579.2,
+        "ratioBundestag": 571.7
+      },
+      {
+        "word": "miliz",
+        "count": 5,
+        "ratioParty": 354.6,
+        "ratioBundestag": 484.9
+      },
+      {
+        "word": "guardian",
+        "count": 8,
+        "ratioParty": 331.0,
+        "ratioBundestag": 197.0
+      },
+      {
+        "word": "huthi",
+        "count": 5,
+        "ratioParty": 310.3,
+        "ratioBundestag": 287.4
+      },
+      {
+        "word": "unifil",
+        "count": 7,
+        "ratioParty": 248.2,
+        "ratioBundestag": 167.1
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 417,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.61,
+    "vsParliament": 0.68
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "4"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "1.668"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Bastian Ernst häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Politik",
+        "isCorrect": false
+      },
+      {
+        "text": "Libanesischen",
+        "isCorrect": true
+      },
+      {
+        "text": "Abstimmung",
+        "isCorrect": false
+      },
+      {
+        "text": "Ausschuss",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Libanesischen\" nutzt Bastian Ernst 579.2× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "571.7× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🦊",
+    "name": "Fuchs",
+    "title": "Cleverer Stratege",
+    "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+    "id": "fuchs",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüter",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.717
+      },
+      {
+        "emoji": "🦫",
+        "name": "Biber",
+        "title": "Konstruktiver Brückenbauer",
+        "reason": "Du baust Brücken zwischen Positionen – kooperativ und lösungsorientiert.",
+        "id": "biber",
+        "score": 0.7
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 33.3,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 66.7,
+      "collaboration": 60.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 33.3,
+      "authority": 100.0,
+      "future_orientation": 100.0,
+      "emotional_intensity": 33.3,
+      "inclusivity": 64.5,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 4,
+      "words": 1074,
+      "adjectives": 3,
+      "verbs": 12
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 3.72,
+      "klima": 0.0,
+      "wirtschaft": 0.0,
+      "soziales": 0.0,
+      "sicherheit": 8.38,
+      "gesundheit": 3.72,
+      "europa": 28.86,
+      "digital": 0.93,
+      "bildung": 1.86,
+      "finanzen": 0.0,
+      "justiz": 0.0,
+      "arbeit": 0.0,
+      "mobilitaet": 4.66
+    },
+    "topTopics": [
+      {
+        "topic": "europa",
+        "score": 28.86,
+        "rank": 1
+      },
+      {
+        "topic": "sicherheit",
+        "score": 8.38,
+        "rank": 2
+      },
+      {
+        "topic": "mobilitaet",
+        "score": 4.66,
+        "rank": 3
+      },
+      {
+        "topic": "migration",
+        "score": 3.72,
+        "rank": 4
+      },
+      {
+        "topic": "gesundheit",
+        "score": 3.72,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "mittelmeer",
+          "count": 2
+        },
+        {
+          "word": "grenze",
+          "count": 2
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "soldaten",
+          "count": 4
+        },
+        {
+          "word": "armee",
+          "count": 2
+        },
+        {
+          "word": "terrorismus",
+          "count": 1
+        },
+        {
+          "word": "terror",
+          "count": 1
+        },
+        {
+          "word": "streitkräfte",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "operation",
+          "count": 4
+        }
+      ],
+      "europa": [
+        {
+          "word": "nato",
+          "count": 8
+        },
+        {
+          "word": "israel",
+          "count": 7
+        },
+        {
+          "word": "russland",
+          "count": 6
+        },
+        {
+          "word": "frieden",
+          "count": 4
+        },
+        {
+          "word": "putin",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "netzwerk",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "ausbildung",
+          "count": 2
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "schiffe",
+          "count": 3
+        },
+        {
+          "word": "infrastruktur",
+          "count": 1
+        },
+        {
+          "word": "häfen",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,454 @@
+{
+  "name": "Tobias Matthias Peterka",
+  "party": "AfD",
+  "slug": "tobias-matthias-peterka",
+  "academicTitle": null,
+  "speeches": 9,
+  "wortbeitraege": 6,
+  "befragungResponses": 0,
+  "totalWords": 6463,
+  "avgWords": 431,
+  "minWords": 78,
+  "maxWords": 1005,
+  "rankings": {
+    "speechRank": 146,
+    "wordsRank": 105,
+    "partySpeechRank": 31,
+    "partyWordsRank": 23,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 76.0,
+    "verbosityRank": 278,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 64,
+    "longestSpeechRank": 66
+  },
+  "drama": {
+    "interruptionsGiven": 40,
+    "interruptionsReceived": 18,
+    "interrupterRank": 45,
+    "interruptedRank": 156
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "bürger",
+        "count": 23
+      },
+      {
+        "word": "demokratie",
+        "count": 19
+      },
+      {
+        "word": "einfach",
+        "count": 13
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "bestrafung",
+        "count": 5,
+        "ratioParty": 218.5,
+        "ratioBundestag": 324.5
+      },
+      {
+        "word": "hubig",
+        "count": 7,
+        "ratioParty": 68.0,
+        "ratioBundestag": 41.9
+      },
+      {
+        "word": "nachher",
+        "count": 5,
+        "ratioParty": 48.6,
+        "ratioBundestag": 59.0
+      },
+      {
+        "word": "vorfeld",
+        "count": 5,
+        "ratioParty": 36.4,
+        "ratioBundestag": 60.9
+      },
+      {
+        "word": "bekanntlich",
+        "count": 6,
+        "ratioParty": 32.8,
+        "ratioBundestag": 45.8
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "falsch",
+        "count": 4,
+        "ratioParty": 4.8,
+        "ratioBundestag": 4.8
+      },
+      {
+        "word": "sicher",
+        "count": 5,
+        "ratioParty": 3.6,
+        "ratioBundestag": 2.6
+      },
+      {
+        "word": "links",
+        "count": 5,
+        "ratioParty": 2.3,
+        "ratioBundestag": 6.4
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 431,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.73,
+    "vsParliament": 0.7
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "9"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "6.463"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufe",
+      "value": "40"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Tobias Matthias Peterka häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Bestrafung",
+        "isCorrect": true
+      },
+      {
+        "text": "Bundesregierung",
+        "isCorrect": false
+      },
+      {
+        "text": "Freiheit",
+        "isCorrect": false
+      },
+      {
+        "text": "Demokratie",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Bestrafung\" nutzt Tobias Matthias Peterka 218.5× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "324.5× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Tobias Matthias Peterka häufiger als der Rest der AfD-Fraktion?",
+    "options": [
+      {
+        "text": "Jung",
+        "isCorrect": false
+      },
+      {
+        "text": "Gefährlich",
+        "isCorrect": false
+      },
+      {
+        "text": "Falsch",
+        "isCorrect": true
+      },
+      {
+        "text": "Sozial",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Falsch\" nutzt Tobias Matthias Peterka 4.8× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "4.8× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 58.8,
+      "aggression": 3.8,
+      "labeling": 30.8,
+      "solution_focus": 63.2,
+      "collaboration": 40.0,
+      "demand_intensity": 11.1,
+      "acknowledgment": 8.3,
+      "authority": 61.1,
+      "future_orientation": 80.6,
+      "emotional_intensity": 17.1,
+      "inclusivity": 58.6,
+      "discriminatory": 0.47
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 15,
+      "words": 4271,
+      "adjectives": 26,
+      "verbs": 36
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.94,
+      "klima": 0.23,
+      "wirtschaft": 1.64,
+      "soziales": 5.62,
+      "sicherheit": 2.34,
+      "gesundheit": 0.23,
+      "europa": 1.64,
+      "digital": 1.17,
+      "bildung": 1.64,
+      "finanzen": 0.94,
+      "justiz": 7.02,
+      "arbeit": 0.23,
+      "mobilitaet": 0.94
+    },
+    "topTopics": [
+      {
+        "topic": "justiz",
+        "score": 7.02,
+        "rank": 1
+      },
+      {
+        "topic": "soziales",
+        "score": 5.62,
+        "rank": 2
+      },
+      {
+        "topic": "sicherheit",
+        "score": 2.34,
+        "rank": 3
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 1.64,
+        "rank": 4
+      },
+      {
+        "topic": "europa",
+        "score": 1.64,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "asyl",
+          "count": 1
+        },
+        {
+          "word": "migration",
+          "count": 1
+        },
+        {
+          "word": "asylverfahren",
+          "count": 1
+        },
+        {
+          "word": "grenze",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "nachhaltig",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "werk",
+          "count": 2
+        },
+        {
+          "word": "unternehmen",
+          "count": 1
+        },
+        {
+          "word": "insolvenz",
+          "count": 1
+        },
+        {
+          "word": "kredit",
+          "count": 1
+        },
+        {
+          "word": "konkurrenz",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 5
+        },
+        {
+          "word": "eltern",
+          "count": 4
+        },
+        {
+          "word": "jugendliche",
+          "count": 3
+        },
+        {
+          "word": "wohnung",
+          "count": 2
+        },
+        {
+          "word": "kind",
+          "count": 2
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "korruption",
+          "count": 2
+        },
+        {
+          "word": "kriminalität",
+          "count": 2
+        },
+        {
+          "word": "polizei",
+          "count": 2
+        },
+        {
+          "word": "mord",
+          "count": 1
+        },
+        {
+          "word": "polizisten",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "corona",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "israel",
+          "count": 1
+        },
+        {
+          "word": "außenpolitik",
+          "count": 1
+        },
+        {
+          "word": "außenminister",
+          "count": 1
+        },
+        {
+          "word": "nato",
+          "count": 1
+        },
+        {
+          "word": "allianz",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "internet",
+          "count": 3
+        },
+        {
+          "word": "digitalisierung",
+          "count": 1
+        },
+        {
+          "word": "daten",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "wissenschaftsfreiheit",
+          "count": 2
+        },
+        {
+          "word": "schulen",
+          "count": 2
+        },
+        {
+          "word": "universitäten",
+          "count": 1
+        },
+        {
+          "word": "studenten",
+          "count": 1
+        },
+        {
+          "word": "hochschulen",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 2
+        },
+        {
+          "word": "steuerzahler",
+          "count": 1
+        },
+        {
+          "word": "schulden",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "rechtsstaat",
+          "count": 7
+        },
+        {
+          "word": "richter",
+          "count": 2
+        },
+        {
+          "word": "justizminister",
+          "count": 2
+        },
+        {
+          "word": "justizministerium",
+          "count": 2
+        },
+        {
+          "word": "strafverfolgung",
+          "count": 2
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitsplatz",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "bahnhof",
+          "count": 1
+        },
+        {
+          "word": "infrastruktur",
+          "count": 1
+        },
+        {
+          "word": "straßen",
+          "count": 1
+        },
+        {
+          "word": "hafen",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,476 @@
+{
+  "name": "Dr. Carolin Wagner",
+  "party": "SPD",
+  "slug": "carolin-wagner",
+  "academicTitle": "Dr",
+  "speeches": 12,
+  "wortbeitraege": 3,
+  "befragungResponses": 0,
+  "totalWords": 6639,
+  "avgWords": 443,
+  "minWords": 41,
+  "maxWords": 745,
+  "rankings": {
+    "speechRank": 81,
+    "wordsRank": 101,
+    "partySpeechRank": 22,
+    "partyWordsRank": 24,
+    "partySize": 109,
+    "totalSpeakers": 609,
+    "percentile": 86.7,
+    "verbosityRank": 260,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 57,
+    "longestSpeechRank": 253
+  },
+  "drama": {
+    "interruptionsGiven": 30,
+    "interruptionsReceived": 26,
+    "interrupterRank": 66,
+    "interruptedRank": 76
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "werte",
+        "count": 19
+      },
+      {
+        "word": "digitale",
+        "count": 17
+      },
+      {
+        "word": "zendis",
+        "count": 14
+      },
+      {
+        "word": "deutschland",
+        "count": 12
+      },
+      {
+        "word": "souveränität",
+        "count": 12
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "bnetza",
+        "count": 6,
+        "ratioParty": 232.8,
+        "ratioBundestag": 781.5
+      },
+      {
+        "word": "source",
+        "count": 5,
+        "ratioParty": 194.0,
+        "ratioBundestag": 88.8
+      },
+      {
+        "word": "zendis",
+        "count": 14,
+        "ratioParty": 181.1,
+        "ratioBundestag": 390.7
+      },
+      {
+        "word": "reallabore",
+        "count": 5,
+        "ratioParty": 129.3,
+        "ratioBundestag": 72.4
+      },
+      {
+        "word": "netzausbau",
+        "count": 5,
+        "ratioParty": 129.3,
+        "ratioBundestag": 34.9
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "jämmerlich",
+        "count": 3,
+        "ratioParty": 232.8,
+        "ratioBundestag": 586.1
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 443,
+    "partyAvgWords": 637,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.7,
+    "vsParliament": 0.72
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "12"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "6.639"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufe",
+      "value": "30"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Dr. Carolin Wagner häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Abstimmung",
+        "isCorrect": false
+      },
+      {
+        "text": "Bnetza",
+        "isCorrect": true
+      },
+      {
+        "text": "Minister",
+        "isCorrect": false
+      },
+      {
+        "text": "Verantwortung",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Bnetza\" nutzt Dr. Carolin Wagner 232.8× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "781.5× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Dr. Carolin Wagner häufiger als der Rest der SPD-Fraktion?",
+    "options": [
+      {
+        "text": "Sozial",
+        "isCorrect": false
+      },
+      {
+        "text": "Jämmerlich",
+        "isCorrect": true
+      },
+      {
+        "text": "Neu",
+        "isCorrect": false
+      },
+      {
+        "text": "Jung",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Jämmerlich\" nutzt Dr. Carolin Wagner 232.8× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "586.1× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐺",
+    "name": "Wolf",
+    "title": "Mutige Einwerferin",
+    "reason": "Mit 30 Zwischenrufen mischst du aktiv in Debatten mit.",
+    "id": "wolf",
+    "alternatives": [
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Clevere Strategin",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 1.0
+      },
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüterin",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 1.0
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 78.9,
+      "aggression": 24.1,
+      "labeling": 10.3,
+      "solution_focus": 90.6,
+      "collaboration": 37.5,
+      "demand_intensity": 2.4,
+      "acknowledgment": 2.4,
+      "authority": 84.0,
+      "future_orientation": 84.7,
+      "emotional_intensity": 54.5,
+      "inclusivity": 46.2,
+      "discriminatory": 0.23
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 15,
+      "words": 4257,
+      "adjectives": 29,
+      "verbs": 42
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 1.17,
+      "wirtschaft": 1.64,
+      "soziales": 1.17,
+      "sicherheit": 0.94,
+      "gesundheit": 0.23,
+      "europa": 3.76,
+      "digital": 8.93,
+      "bildung": 5.87,
+      "finanzen": 5.64,
+      "justiz": 3.29,
+      "arbeit": 2.35,
+      "mobilitaet": 1.88
+    },
+    "topTopics": [
+      {
+        "topic": "digital",
+        "score": 8.93,
+        "rank": 1
+      },
+      {
+        "topic": "bildung",
+        "score": 5.87,
+        "rank": 2
+      },
+      {
+        "topic": "finanzen",
+        "score": 5.64,
+        "rank": 3
+      },
+      {
+        "topic": "europa",
+        "score": 3.76,
+        "rank": 4
+      },
+      {
+        "topic": "justiz",
+        "score": 3.29,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "klimawandel",
+          "count": 3
+        },
+        {
+          "word": "ökosystem",
+          "count": 1
+        },
+        {
+          "word": "wald",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "markt",
+          "count": 1
+        },
+        {
+          "word": "standort",
+          "count": 1
+        },
+        {
+          "word": "produktion",
+          "count": 1
+        },
+        {
+          "word": "wirtschaftspolitik",
+          "count": 1
+        },
+        {
+          "word": "wettbewerbsfähigkeit",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 2
+        },
+        {
+          "word": "jugendliche",
+          "count": 2
+        },
+        {
+          "word": "mieten",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "überwachung",
+          "count": 3
+        },
+        {
+          "word": "angriff",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "pflege",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 5
+        },
+        {
+          "word": "putin",
+          "count": 3
+        },
+        {
+          "word": "binnenmarkt",
+          "count": 1
+        },
+        {
+          "word": "gipfel",
+          "count": 1
+        },
+        {
+          "word": "brüssel",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 6
+        },
+        {
+          "word": "netzausbau",
+          "count": 5
+        },
+        {
+          "word": "digital",
+          "count": 4
+        },
+        {
+          "word": "software",
+          "count": 3
+        },
+        {
+          "word": "cybersicherheit",
+          "count": 3
+        }
+      ],
+      "bildung": [
+        {
+          "word": "schulen",
+          "count": 4
+        },
+        {
+          "word": "forschung",
+          "count": 4
+        },
+        {
+          "word": "universitäten",
+          "count": 3
+        },
+        {
+          "word": "wissenschaft",
+          "count": 3
+        },
+        {
+          "word": "wissenschaftsfreiheit",
+          "count": 3
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 10
+        },
+        {
+          "word": "investitionen",
+          "count": 3
+        },
+        {
+          "word": "sondervermögen",
+          "count": 2
+        },
+        {
+          "word": "kosten",
+          "count": 2
+        },
+        {
+          "word": "finanzierung",
+          "count": 2
+        }
+      ],
+      "justiz": [
+        {
+          "word": "grundrechte",
+          "count": 6
+        },
+        {
+          "word": "verordnung",
+          "count": 5
+        },
+        {
+          "word": "datenschutz",
+          "count": 2
+        },
+        {
+          "word": "rechtsstaatlichkeit",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitskräfte",
+          "count": 2
+        },
+        {
+          "word": "arbeitsplätze",
+          "count": 1
+        },
+        {
+          "word": "sozialversicherung",
+          "count": 1
+        },
+        {
+          "word": "homeoffice",
+          "count": 1
+        },
+        {
+          "word": "arbeitnehmerinnen",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 3
+        },
+        {
+          "word": "schiene",
+          "count": 2
+        },
+        {
+          "word": "verkehr",
+          "count": 1
+        },
+        {
+          "word": "auto",
+          "count": 1
+        },
+        {
+          "word": "bahn",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

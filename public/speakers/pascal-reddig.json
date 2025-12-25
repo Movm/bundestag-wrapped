@@ -1,0 +1,371 @@
+{
+  "name": "Pascal Reddig",
+  "party": "CDU/CSU",
+  "slug": "pascal-reddig",
+  "academicTitle": null,
+  "speeches": 8,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 4735,
+  "avgWords": 592,
+  "minWords": 334,
+  "maxWords": 819,
+  "rankings": {
+    "speechRank": 236,
+    "wordsRank": 204,
+    "partySpeechRank": 57,
+    "partyWordsRank": 58,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 61.2,
+    "verbosityRank": 77,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 36,
+    "longestSpeechRank": 176
+  },
+  "drama": {
+    "interruptionsGiven": 5,
+    "interruptionsReceived": 20,
+    "interrupterRank": 209,
+    "interruptedRank": 128
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 16
+      },
+      {
+        "word": "habe",
+        "count": 12
+      },
+      {
+        "word": "jedenfalls",
+        "count": 12
+      },
+      {
+        "word": "debatte",
+        "count": 10
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "urheberrechtsverletzungen",
+        "count": 6,
+        "ratioParty": 1048.1,
+        "ratioBundestag": 298.6
+      },
+      {
+        "word": "verlage",
+        "count": 8,
+        "ratioParty": 279.5,
+        "ratioBundestag": 156.4
+      },
+      {
+        "word": "verlagspreis",
+        "count": 5,
+        "ratioParty": 124.8,
+        "ratioBundestag": 144.0
+      },
+      {
+        "word": "haltelinie",
+        "count": 5,
+        "ratioParty": 87.3,
+        "ratioBundestag": 68.4
+      },
+      {
+        "word": "kulturstaatsminister",
+        "count": 7,
+        "ratioParty": 64.4,
+        "ratioBundestag": 52.5
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "rechts",
+        "count": 3,
+        "ratioParty": 5.8,
+        "ratioBundestag": 5.2
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 592,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.86,
+    "vsParliament": 0.97
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "8"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "4.735"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Pascal Reddig häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Gesetzentwurf",
+        "isCorrect": false
+      },
+      {
+        "text": "Opposition",
+        "isCorrect": false
+      },
+      {
+        "text": "Europa",
+        "isCorrect": false
+      },
+      {
+        "text": "Urheberrechtsverletzungen",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Urheberrechtsverletzungen\" nutzt Pascal Reddig 1048.1× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "298.6× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Pascal Reddig häufiger als der Rest der CDU/CSU-Fraktion?",
+    "options": [
+      {
+        "text": "Neu",
+        "isCorrect": false
+      },
+      {
+        "text": "Rechts",
+        "isCorrect": true
+      },
+      {
+        "text": "Erfolgreich",
+        "isCorrect": false
+      },
+      {
+        "text": "Klar",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Rechts\" nutzt Pascal Reddig 5.8× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "5.2× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐝",
+    "name": "Biene",
+    "title": "Fleißiger Abgeordneter",
+    "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+    "id": "biene",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüter",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.989
+      },
+      {
+        "emoji": "🦔",
+        "name": "Igel",
+        "title": "Beharrlicher Redner",
+        "reason": "Auch wenn du oft unterbrochen wirst – du lässt dich nicht beirren.",
+        "id": "igel",
+        "score": 0.933
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 66.7,
+      "aggression": 7.1,
+      "labeling": 50.0,
+      "solution_focus": 100.0,
+      "collaboration": 0.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 5.6,
+      "authority": 83.8,
+      "future_orientation": 78.9,
+      "emotional_intensity": 42.9,
+      "inclusivity": 50.0,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 8,
+      "words": 3041,
+      "adjectives": 14,
+      "verbs": 18
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.0,
+      "wirtschaft": 1.64,
+      "soziales": 5.26,
+      "sicherheit": 0.99,
+      "gesundheit": 0.0,
+      "europa": 4.27,
+      "digital": 1.64,
+      "bildung": 0.0,
+      "finanzen": 4.93,
+      "justiz": 0.0,
+      "arbeit": 0.99,
+      "mobilitaet": 0.33
+    },
+    "topTopics": [
+      {
+        "topic": "soziales",
+        "score": 5.26,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 4.93,
+        "rank": 2
+      },
+      {
+        "topic": "europa",
+        "score": 4.27,
+        "rank": 3
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 1.64,
+        "rank": 4
+      },
+      {
+        "topic": "digital",
+        "score": 1.64,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "wirtschaft": [
+        {
+          "word": "wachstum",
+          "count": 2
+        },
+        {
+          "word": "konjunktur",
+          "count": 1
+        },
+        {
+          "word": "konzerne",
+          "count": 1
+        },
+        {
+          "word": "wettbewerbsfähigkeit",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "rente",
+          "count": 4
+        },
+        {
+          "word": "eltern",
+          "count": 3
+        },
+        {
+          "word": "altersvorsorge",
+          "count": 3
+        },
+        {
+          "word": "sozialstaat",
+          "count": 2
+        },
+        {
+          "word": "rentenniveau",
+          "count": 2
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "verfassungsschutz",
+          "count": 2
+        },
+        {
+          "word": "angriff",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "frieden",
+          "count": 3
+        },
+        {
+          "word": "europa",
+          "count": 3
+        },
+        {
+          "word": "russland",
+          "count": 2
+        },
+        {
+          "word": "ukraine",
+          "count": 2
+        },
+        {
+          "word": "putin",
+          "count": 2
+        }
+      ],
+      "digital": [
+        {
+          "word": "plattformen",
+          "count": 4
+        },
+        {
+          "word": "algorithmen",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 3
+        },
+        {
+          "word": "investitionen",
+          "count": 2
+        },
+        {
+          "word": "steuern",
+          "count": 2
+        },
+        {
+          "word": "bundeshaushalt",
+          "count": 1
+        },
+        {
+          "word": "finanzminister",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "einkommen",
+          "count": 2
+        },
+        {
+          "word": "rentenversicherung",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

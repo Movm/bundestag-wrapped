@@ -1,0 +1,312 @@
+{
+  "name": "Jan Metzler",
+  "party": "CDU/CSU",
+  "slug": "jan-metzler",
+  "academicTitle": null,
+  "speeches": 2,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 1660,
+  "avgWords": 553,
+  "minWords": 531,
+  "maxWords": 589,
+  "rankings": {
+    "speechRank": 545,
+    "wordsRank": 491,
+    "partySpeechRank": 174,
+    "partyWordsRank": 159,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 10.5,
+    "verbosityRank": null,
+    "verbosityTotal": null,
+    "partyVerbosityRank": null,
+    "longestSpeechRank": 438
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 2,
+    "interrupterRank": null,
+    "interruptedRank": 503
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "land",
+        "count": 12
+      },
+      {
+        "word": "haushalt",
+        "count": 10
+      },
+      {
+        "word": "diesen",
+        "count": 8
+      },
+      {
+        "word": "bundeshaushalt",
+        "count": 7
+      },
+      {
+        "word": "verfügung",
+        "count": 6
+      },
+      {
+        "word": "zeiten",
+        "count": 6
+      },
+      {
+        "word": "halt",
+        "count": 5
+      },
+      {
+        "word": "jahren",
+        "count": 4
+      },
+      {
+        "word": "investitionen",
+        "count": 4
+      },
+      {
+        "word": "hinaus",
+        "count": 4
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "bundeshaushalt",
+        "count": 7,
+        "ratioParty": 24.4,
+        "ratioBundestag": 31.6
+      },
+      {
+        "word": "zeiten",
+        "count": 6,
+        "ratioParty": 19.0,
+        "ratioBundestag": 19.8
+      },
+      {
+        "word": "verfügung",
+        "count": 6,
+        "ratioParty": 17.2,
+        "ratioBundestag": 19.6
+      },
+      {
+        "word": "haushalt",
+        "count": 10,
+        "ratioParty": 6.0,
+        "ratioBundestag": 6.6
+      },
+      {
+        "word": "diesen",
+        "count": 8,
+        "ratioParty": 4.1,
+        "ratioBundestag": 4.9
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 553,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.8,
+    "vsParliament": 0.9
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "2"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "1.660"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Jan Metzler häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Reform",
+        "isCorrect": false
+      },
+      {
+        "text": "Opposition",
+        "isCorrect": false
+      },
+      {
+        "text": "Bundeshaushalt",
+        "isCorrect": true
+      },
+      {
+        "text": "Antrag",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Bundeshaushalt\" nutzt Jan Metzler 24.4× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "31.6× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🐇",
+    "name": "Hase",
+    "title": "Wendiger Optimist",
+    "reason": "Mit positivem Blick reagierst du schnell auf neue Themen.",
+    "id": "hase",
+    "alternatives": [
+      {
+        "emoji": "🦦",
+        "name": "Otter",
+        "title": "Positiver Teamplayer",
+        "reason": "Du bringst gute Stimmung und konstruktive Beiträge ins Plenum.",
+        "id": "otter",
+        "score": 0.85
+      },
+      {
+        "emoji": "🦫",
+        "name": "Biber",
+        "title": "Konstruktiver Brückenbauer",
+        "reason": "Du baust Brücken zwischen Positionen – kooperativ und lösungsorientiert.",
+        "id": "biber",
+        "score": 0.8
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 100.0,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 100.0,
+      "collaboration": 50.0,
+      "demand_intensity": 11.1,
+      "acknowledgment": 0.0,
+      "authority": 79.2,
+      "future_orientation": 93.3,
+      "emotional_intensity": 50.0,
+      "inclusivity": 58.6,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 3,
+      "words": 1025,
+      "adjectives": 5,
+      "verbs": 9
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.0,
+      "wirtschaft": 8.78,
+      "soziales": 1.95,
+      "sicherheit": 2.93,
+      "gesundheit": 0.0,
+      "europa": 0.0,
+      "digital": 0.0,
+      "bildung": 0.0,
+      "finanzen": 22.44,
+      "justiz": 0.0,
+      "arbeit": 0.0,
+      "mobilitaet": 0.98
+    },
+    "topTopics": [
+      {
+        "topic": "finanzen",
+        "score": 22.44,
+        "rank": 1
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 8.78,
+        "rank": 2
+      },
+      {
+        "topic": "sicherheit",
+        "score": 2.93,
+        "rank": 3
+      },
+      {
+        "topic": "soziales",
+        "score": 1.95,
+        "rank": 4
+      },
+      {
+        "topic": "mobilitaet",
+        "score": 0.98,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "wirtschaft": [
+        {
+          "word": "wachstum",
+          "count": 3
+        },
+        {
+          "word": "wirtschaftspolitik",
+          "count": 3
+        },
+        {
+          "word": "markt",
+          "count": 1
+        },
+        {
+          "word": "mittelstand",
+          "count": 1
+        },
+        {
+          "word": "wettbewerbsfähigkeit",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "sozialpolitik",
+          "count": 1
+        },
+        {
+          "word": "sozialstaat",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "verteidigung",
+          "count": 2
+        },
+        {
+          "word": "bundeswehr",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 10
+        },
+        {
+          "word": "bundeshaushalt",
+          "count": 7
+        },
+        {
+          "word": "investitionen",
+          "count": 4
+        },
+        {
+          "word": "sondervermögen",
+          "count": 2
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "straße",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

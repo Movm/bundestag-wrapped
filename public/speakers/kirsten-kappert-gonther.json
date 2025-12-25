@@ -1,0 +1,318 @@
+{
+  "name": "Dr. Kirsten Kappert-Gonther",
+  "party": "GRÜNE",
+  "slug": "kirsten-kappert-gonther",
+  "academicTitle": "Dr",
+  "speeches": 2,
+  "wortbeitraege": 4,
+  "befragungResponses": 0,
+  "totalWords": 1081,
+  "avgWords": 180,
+  "minWords": 80,
+  "maxWords": 358,
+  "rankings": {
+    "speechRank": 554,
+    "wordsRank": 545,
+    "partySpeechRank": 82,
+    "partyWordsRank": 82,
+    "partySize": 85,
+    "totalSpeakers": 609,
+    "percentile": 9.0,
+    "verbosityRank": null,
+    "verbosityTotal": null,
+    "partyVerbosityRank": null,
+    "longestSpeechRank": 591
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 3,
+    "interrupterRank": null,
+    "interruptedRank": 473
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "ministerin",
+        "count": 7
+      },
+      {
+        "word": "menschen",
+        "count": 6
+      },
+      {
+        "word": "zukunft",
+        "count": 6
+      },
+      {
+        "word": "haushalt",
+        "count": 5
+      },
+      {
+        "word": "finanzierung",
+        "count": 5
+      },
+      {
+        "word": "versorgung",
+        "count": 5
+      },
+      {
+        "word": "dringend",
+        "count": 5
+      },
+      {
+        "word": "gute",
+        "count": 4
+      },
+      {
+        "word": "wissen",
+        "count": 4
+      },
+      {
+        "word": "verantwortung",
+        "count": 4
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "versorgung",
+        "count": 5,
+        "ratioParty": 50.6,
+        "ratioBundestag": 36.0
+      },
+      {
+        "word": "finanzierung",
+        "count": 5,
+        "ratioParty": 22.9,
+        "ratioBundestag": 28.4
+      },
+      {
+        "word": "dringend",
+        "count": 5,
+        "ratioParty": 12.8,
+        "ratioBundestag": 18.4
+      },
+      {
+        "word": "ministerin",
+        "count": 7,
+        "ratioParty": 9.8,
+        "ratioBundestag": 14.4
+      },
+      {
+        "word": "zukunft",
+        "count": 6,
+        "ratioParty": 6.8,
+        "ratioBundestag": 8.0
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 180,
+    "partyAvgWords": 567,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.32,
+    "vsParliament": 0.29
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "2"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "1.081"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Dr. Kirsten Kappert-Gonther häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Versorgung",
+        "isCorrect": true
+      },
+      {
+        "text": "Klima",
+        "isCorrect": false
+      },
+      {
+        "text": "Migration",
+        "isCorrect": false
+      },
+      {
+        "text": "Minister",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Versorgung\" nutzt Dr. Kirsten Kappert-Gonther 50.6× häufiger als der GRÜNE-Durchschnitt.",
+    "explanationBundestag": "36.0× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🦜",
+    "name": "Papagei",
+    "title": "Neugierige Fragestellerin",
+    "reason": "Mit vielen Fragen bringst du wichtige Themen auf den Tisch.",
+    "id": "papagei",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüterin",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.768
+      },
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Clevere Strategin",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 0.656
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 25.0,
+      "aggression": 20.0,
+      "labeling": 0.0,
+      "solution_focus": 50.0,
+      "collaboration": 0.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 0.0,
+      "authority": 83.3,
+      "future_orientation": 85.7,
+      "emotional_intensity": 0.0,
+      "inclusivity": 35.0,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 6,
+      "words": 717,
+      "adjectives": 5,
+      "verbs": 10
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 1.39,
+      "wirtschaft": 0.0,
+      "soziales": 0.0,
+      "sicherheit": 0.0,
+      "gesundheit": 8.37,
+      "europa": 1.39,
+      "digital": 1.39,
+      "bildung": 4.18,
+      "finanzen": 13.95,
+      "justiz": 1.39,
+      "arbeit": 1.39,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "finanzen",
+        "score": 13.95,
+        "rank": 1
+      },
+      {
+        "topic": "gesundheit",
+        "score": 8.37,
+        "rank": 2
+      },
+      {
+        "topic": "bildung",
+        "score": 4.18,
+        "rank": 3
+      },
+      {
+        "topic": "klima",
+        "score": 1.39,
+        "rank": 4
+      },
+      {
+        "topic": "europa",
+        "score": 1.39,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "klimakrise",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "prävention",
+          "count": 2
+        },
+        {
+          "word": "gesundheitspolitik",
+          "count": 1
+        },
+        {
+          "word": "vorsorge",
+          "count": 1
+        },
+        {
+          "word": "psychotherapie",
+          "count": 1
+        },
+        {
+          "word": "suchtberatung",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "krieg",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "netzwerk",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "weiterbildung",
+          "count": 2
+        },
+        {
+          "word": "ausbildung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 5
+        },
+        {
+          "word": "finanzierung",
+          "count": 5
+        }
+      ],
+      "justiz": [
+        {
+          "word": "beschluss",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "kündigung",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

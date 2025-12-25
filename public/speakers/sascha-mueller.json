@@ -1,0 +1,422 @@
+{
+  "name": "Sascha Müller",
+  "party": "GRÜNE",
+  "slug": "sascha-mueller",
+  "academicTitle": null,
+  "speeches": 7,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 3618,
+  "avgWords": 517,
+  "minWords": 412,
+  "maxWords": 617,
+  "rankings": {
+    "speechRank": 273,
+    "wordsRank": 298,
+    "partySpeechRank": 46,
+    "partyWordsRank": 46,
+    "partySize": 85,
+    "totalSpeakers": 609,
+    "percentile": 55.2,
+    "verbosityRank": 141,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 18,
+    "longestSpeechRank": 400
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 31,
+    "interrupterRank": null,
+    "interruptedRank": 51
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 18
+      },
+      {
+        "word": "einkommen",
+        "count": 10
+      },
+      {
+        "word": "profitieren",
+        "count": 9
+      },
+      {
+        "word": "anders",
+        "count": 9
+      },
+      {
+        "word": "würden",
+        "count": 9
+      },
+      {
+        "word": "gesetzentwurf",
+        "count": 8
+      },
+      {
+        "word": "politik",
+        "count": 8
+      },
+      {
+        "word": "soziale",
+        "count": 7
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "einkommen",
+        "count": 10,
+        "ratioParty": 31.7,
+        "ratioBundestag": 23.0
+      },
+      {
+        "word": "aufmerksamkeit",
+        "count": 7,
+        "ratioParty": 30.8,
+        "ratioBundestag": 16.8
+      },
+      {
+        "word": "solidaritätszuschlag",
+        "count": 7,
+        "ratioParty": 29.8,
+        "ratioBundestag": 198.5
+      },
+      {
+        "word": "reichen",
+        "count": 5,
+        "ratioParty": 19.5,
+        "ratioBundestag": 15.1
+      },
+      {
+        "word": "profitieren",
+        "count": 9,
+        "ratioParty": 17.5,
+        "ratioBundestag": 21.1
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 517,
+    "partyAvgWords": 567,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.91,
+    "vsParliament": 0.84
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "7"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "3.618"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Sascha Müller häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Kanzler",
+        "isCorrect": false
+      },
+      {
+        "text": "Einkommen",
+        "isCorrect": true
+      },
+      {
+        "text": "Arbeit",
+        "isCorrect": false
+      },
+      {
+        "text": "Demokratie",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Einkommen\" nutzt Sascha Müller 31.7× häufiger als der GRÜNE-Durchschnitt.",
+    "explanationBundestag": "23.0× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🐿️",
+    "name": "Eichhörnchen",
+    "title": "Themenhüter",
+    "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+    "id": "eichhoernchen",
+    "alternatives": [
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißiger Abgeordneter",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 0.89
+      },
+      {
+        "emoji": "🦫",
+        "name": "Biber",
+        "title": "Konstruktiver Brückenbauer",
+        "reason": "Du baust Brücken zwischen Positionen – kooperativ und lösungsorientiert.",
+        "id": "biber",
+        "score": 0.877
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 50.0,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 92.3,
+      "collaboration": 75.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 15.0,
+      "authority": 60.0,
+      "future_orientation": 69.4,
+      "emotional_intensity": 29.4,
+      "inclusivity": 50.9,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 7,
+      "words": 2349,
+      "adjectives": 8,
+      "verbs": 20
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.85,
+      "klima": 1.7,
+      "wirtschaft": 5.11,
+      "soziales": 7.24,
+      "sicherheit": 0.0,
+      "gesundheit": 0.43,
+      "europa": 1.28,
+      "digital": 0.85,
+      "bildung": 3.83,
+      "finanzen": 6.81,
+      "justiz": 1.28,
+      "arbeit": 5.96,
+      "mobilitaet": 2.55
+    },
+    "topTopics": [
+      {
+        "topic": "soziales",
+        "score": 7.24,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 6.81,
+        "rank": 2
+      },
+      {
+        "topic": "arbeit",
+        "score": 5.96,
+        "rank": 3
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 5.11,
+        "rank": 4
+      },
+      {
+        "topic": "bildung",
+        "score": 3.83,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "geflüchtete",
+          "count": 1
+        },
+        {
+          "word": "integration",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "nachhaltig",
+          "count": 2
+        },
+        {
+          "word": "nachhaltigkeit",
+          "count": 1
+        },
+        {
+          "word": "recycling",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 6
+        },
+        {
+          "word": "wachstum",
+          "count": 1
+        },
+        {
+          "word": "mittelstand",
+          "count": 1
+        },
+        {
+          "word": "selbstständige",
+          "count": 1
+        },
+        {
+          "word": "standort",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "familien",
+          "count": 6
+        },
+        {
+          "word": "familie",
+          "count": 4
+        },
+        {
+          "word": "eltern",
+          "count": 2
+        },
+        {
+          "word": "sozialstaat",
+          "count": 2
+        },
+        {
+          "word": "rente",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "behandlung",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "europäisch",
+          "count": 2
+        },
+        {
+          "word": "europa",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "netz",
+          "count": 1
+        },
+        {
+          "word": "digitalisierung",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "schulen",
+          "count": 5
+        },
+        {
+          "word": "kita",
+          "count": 2
+        },
+        {
+          "word": "wissenschaft",
+          "count": 1
+        },
+        {
+          "word": "bildung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "entlastung",
+          "count": 3
+        },
+        {
+          "word": "kosten",
+          "count": 2
+        },
+        {
+          "word": "steuern",
+          "count": 2
+        },
+        {
+          "word": "erbschaftsteuer",
+          "count": 2
+        },
+        {
+          "word": "finanzierung",
+          "count": 2
+        }
+      ],
+      "justiz": [
+        {
+          "word": "verfassung",
+          "count": 1
+        },
+        {
+          "word": "verfassungskonform",
+          "count": 1
+        },
+        {
+          "word": "verbraucherschutz",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "einkommen",
+          "count": 10
+        },
+        {
+          "word": "beschäftigung",
+          "count": 1
+        },
+        {
+          "word": "rentenversicherung",
+          "count": 1
+        },
+        {
+          "word": "arbeitnehmerinnen",
+          "count": 1
+        },
+        {
+          "word": "arbeitszeit",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 4
+        },
+        {
+          "word": "bahn",
+          "count": 1
+        },
+        {
+          "word": "verkehr",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

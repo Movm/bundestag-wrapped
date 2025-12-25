@@ -1,0 +1,376 @@
+{
+  "name": "Sebastian Steineke",
+  "party": "CDU/CSU",
+  "slug": "sebastian-steineke",
+  "academicTitle": null,
+  "speeches": 2,
+  "wortbeitraege": 3,
+  "befragungResponses": 0,
+  "totalWords": 2837,
+  "avgWords": 567,
+  "minWords": 401,
+  "maxWords": 770,
+  "rankings": {
+    "speechRank": 522,
+    "wordsRank": 382,
+    "partySpeechRank": 166,
+    "partyWordsRank": 118,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 14.3,
+    "verbosityRank": null,
+    "verbosityTotal": null,
+    "partyVerbosityRank": null,
+    "longestSpeechRank": 221
+  },
+  "drama": {
+    "interruptionsGiven": 3,
+    "interruptionsReceived": 1,
+    "interrupterRank": 255,
+    "interruptedRank": 567
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "verbraucher",
+        "count": 12
+      },
+      {
+        "word": "schuldnerberatung",
+        "count": 9
+      },
+      {
+        "word": "verbraucherschutz",
+        "count": 8
+      },
+      {
+        "word": "richtlinie",
+        "count": 7
+      },
+      {
+        "word": "verbraucherinnen",
+        "count": 7
+      },
+      {
+        "word": "gehört",
+        "count": 7
+      },
+      {
+        "word": "gesetz",
+        "count": 6
+      },
+      {
+        "word": "beispiel",
+        "count": 6
+      },
+      {
+        "word": "verfahren",
+        "count": 6
+      },
+      {
+        "word": "wichtig",
+        "count": 6
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "verbraucherkreditrichtlinie",
+        "count": 5,
+        "ratioParty": 1506.7,
+        "ratioBundestag": 336.7
+      },
+      {
+        "word": "schuldnerberatung",
+        "count": 9,
+        "ratioParty": 339.0,
+        "ratioBundestag": 188.5
+      },
+      {
+        "word": "verbraucherinnen",
+        "count": 7,
+        "ratioParty": 57.0,
+        "ratioBundestag": 53.2
+      },
+      {
+        "word": "verbraucherschutz",
+        "count": 8,
+        "ratioParty": 56.1,
+        "ratioBundestag": 55.9
+      },
+      {
+        "word": "verbraucher",
+        "count": 12,
+        "ratioParty": 44.1,
+        "ratioBundestag": 45.3
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 567,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.82,
+    "vsParliament": 0.92
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "2"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "2.837"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Sebastian Steineke häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Verbraucherkreditrichtlinie",
+        "isCorrect": true
+      },
+      {
+        "text": "Steuern",
+        "isCorrect": false
+      },
+      {
+        "text": "Verantwortung",
+        "isCorrect": false
+      },
+      {
+        "text": "Investitionen",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Verbraucherkreditrichtlinie\" nutzt Sebastian Steineke 1506.7× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "336.7× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🦦",
+    "name": "Otter",
+    "title": "Positiver Teamplayer",
+    "reason": "Du bringst gute Stimmung und konstruktive Beiträge ins Plenum.",
+    "id": "otter",
+    "alternatives": [
+      {
+        "emoji": "🦫",
+        "name": "Biber",
+        "title": "Konstruktiver Brückenbauer",
+        "reason": "Du baust Brücken zwischen Positionen – kooperativ und lösungsorientiert.",
+        "id": "biber",
+        "score": 0.922
+      },
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Cleverer Stratege",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 0.867
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 100.0,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 94.1,
+      "collaboration": 100.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 18.5,
+      "authority": 71.4,
+      "future_orientation": 93.5,
+      "emotional_intensity": 14.3,
+      "inclusivity": 50.0,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 5,
+      "words": 1767,
+      "adjectives": 6,
+      "verbs": 27
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 3.96,
+      "wirtschaft": 6.23,
+      "soziales": 0.0,
+      "sicherheit": 0.0,
+      "gesundheit": 0.57,
+      "europa": 0.57,
+      "digital": 3.4,
+      "bildung": 0.57,
+      "finanzen": 3.96,
+      "justiz": 8.49,
+      "arbeit": 0.0,
+      "mobilitaet": 0.57
+    },
+    "topTopics": [
+      {
+        "topic": "justiz",
+        "score": 8.49,
+        "rank": 1
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 6.23,
+        "rank": 2
+      },
+      {
+        "topic": "klima",
+        "score": 3.96,
+        "rank": 3
+      },
+      {
+        "topic": "finanzen",
+        "score": 3.96,
+        "rank": 4
+      },
+      {
+        "topic": "digital",
+        "score": 3.4,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "nachhaltig",
+          "count": 2
+        },
+        {
+          "word": "nachhaltigkeit",
+          "count": 1
+        },
+        {
+          "word": "klimaneutralität",
+          "count": 1
+        },
+        {
+          "word": "klimaneutral",
+          "count": 1
+        },
+        {
+          "word": "umwelt",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 4
+        },
+        {
+          "word": "wettbewerb",
+          "count": 3
+        },
+        {
+          "word": "kredite",
+          "count": 2
+        },
+        {
+          "word": "markt",
+          "count": 1
+        },
+        {
+          "word": "märkte",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "behandlung",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "binnenmarkt",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 2
+        },
+        {
+          "word": "netz",
+          "count": 1
+        },
+        {
+          "word": "digital",
+          "count": 1
+        },
+        {
+          "word": "daten",
+          "count": 1
+        },
+        {
+          "word": "onlinehandel",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "fortbildung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "kosten",
+          "count": 2
+        },
+        {
+          "word": "haushalt",
+          "count": 2
+        },
+        {
+          "word": "finanzierung",
+          "count": 2
+        },
+        {
+          "word": "verschuldung",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "verbraucherschutz",
+          "count": 8
+        },
+        {
+          "word": "richter",
+          "count": 2
+        },
+        {
+          "word": "rechtsprechung",
+          "count": 1
+        },
+        {
+          "word": "justizministerium",
+          "count": 1
+        },
+        {
+          "word": "gerichte",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "flughafen",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

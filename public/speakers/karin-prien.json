@@ -1,0 +1,503 @@
+{
+  "name": "Karin Prien",
+  "party": "CDU/CSU",
+  "slug": "karin-prien",
+  "academicTitle": null,
+  "speeches": 5,
+  "wortbeitraege": 54,
+  "befragungResponses": 53,
+  "totalWords": 9080,
+  "avgWords": 154,
+  "minWords": 9,
+  "maxWords": 1289,
+  "rankings": {
+    "speechRank": 391,
+    "wordsRank": 46,
+    "partySpeechRank": 114,
+    "partyWordsRank": 16,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 35.8,
+    "verbosityRank": 517,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 163,
+    "longestSpeechRank": 26
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 9,
+    "interrupterRank": null,
+    "interruptedRank": 306
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "kinder",
+        "count": 49
+      },
+      {
+        "word": "bildung",
+        "count": 45
+      },
+      {
+        "word": "kommunen",
+        "count": 30
+      },
+      {
+        "word": "land",
+        "count": 29
+      },
+      {
+        "word": "gesellschaft",
+        "count": 28
+      },
+      {
+        "word": "länder",
+        "count": 28
+      },
+      {
+        "word": "menschen",
+        "count": 26
+      },
+      {
+        "word": "demokratie",
+        "count": 22
+      },
+      {
+        "word": "gute",
+        "count": 21
+      },
+      {
+        "word": "glaube",
+        "count": 20
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "föderalismus",
+        "count": 5,
+        "ratioParty": 91.5,
+        "ratioBundestag": 96.0
+      },
+      {
+        "word": "startchancen",
+        "count": 5,
+        "ratioParty": 57.2,
+        "ratioBundestag": 65.4
+      },
+      {
+        "word": "sprachförderung",
+        "count": 5,
+        "ratioParty": 57.2,
+        "ratioBundestag": 102.8
+      },
+      {
+        "word": "senioren",
+        "count": 7,
+        "ratioParty": 53.4,
+        "ratioBundestag": 32.5
+      },
+      {
+        "word": "ganztag",
+        "count": 5,
+        "ratioParty": 41.6,
+        "ratioBundestag": 30.6
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "entscheidend",
+        "count": 6,
+        "ratioParty": 4.0,
+        "ratioBundestag": 6.4
+      },
+      {
+        "word": "stark",
+        "count": 4,
+        "ratioParty": 2.5,
+        "ratioBundestag": 2.8
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 154,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.22,
+    "vsParliament": 0.25
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "5"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "9.080"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Karin Prien häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Politik",
+        "isCorrect": false
+      },
+      {
+        "text": "Föderalismus",
+        "isCorrect": true
+      },
+      {
+        "text": "Kinder",
+        "isCorrect": false
+      },
+      {
+        "text": "Europa",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Föderalismus\" nutzt Karin Prien 91.5× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "96.0× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Karin Prien häufiger als der Rest der CDU/CSU-Fraktion?",
+    "options": [
+      {
+        "text": "Neu",
+        "isCorrect": false
+      },
+      {
+        "text": "Entscheidend",
+        "isCorrect": true
+      },
+      {
+        "text": "Wirtschaftlich",
+        "isCorrect": false
+      },
+      {
+        "text": "National",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Entscheidend\" nutzt Karin Prien 4.0× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "6.4× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐿️",
+    "name": "Eichhörnchen",
+    "title": "Themenhüterin",
+    "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+    "id": "eichhoernchen",
+    "alternatives": [
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißige Abgeordnete",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      },
+      {
+        "emoji": "🦜",
+        "name": "Papagei",
+        "title": "Neugierige Fragestellerin",
+        "reason": "Mit vielen Fragen bringst du wichtige Themen auf den Tisch.",
+        "id": "papagei",
+        "score": 0.884
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 92.3,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 100.0,
+      "collaboration": 69.2,
+      "demand_intensity": 0.0,
+      "acknowledgment": 10.2,
+      "authority": 75.2,
+      "future_orientation": 93.6,
+      "emotional_intensity": 33.3,
+      "inclusivity": 68.4,
+      "discriminatory": 0.17
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 59,
+      "words": 5773,
+      "adjectives": 26,
+      "verbs": 108
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.87,
+      "klima": 0.17,
+      "wirtschaft": 0.87,
+      "soziales": 20.27,
+      "sicherheit": 1.04,
+      "gesundheit": 2.6,
+      "europa": 0.87,
+      "digital": 0.69,
+      "bildung": 17.32,
+      "finanzen": 3.46,
+      "justiz": 1.56,
+      "arbeit": 1.21,
+      "mobilitaet": 0.17
+    },
+    "topTopics": [
+      {
+        "topic": "soziales",
+        "score": 20.27,
+        "rank": 1
+      },
+      {
+        "topic": "bildung",
+        "score": 17.32,
+        "rank": 2
+      },
+      {
+        "topic": "finanzen",
+        "score": 3.46,
+        "rank": 3
+      },
+      {
+        "topic": "gesundheit",
+        "score": 2.6,
+        "rank": 4
+      },
+      {
+        "topic": "justiz",
+        "score": 1.56,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "zuwanderung",
+          "count": 2
+        },
+        {
+          "word": "integration",
+          "count": 2
+        },
+        {
+          "word": "geflüchtete",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "klimaneutralität",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "wachstum",
+          "count": 1
+        },
+        {
+          "word": "unternehmen",
+          "count": 1
+        },
+        {
+          "word": "wirtschaftspolitik",
+          "count": 1
+        },
+        {
+          "word": "fachkräfte",
+          "count": 1
+        },
+        {
+          "word": "qualifikation",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 49
+        },
+        {
+          "word": "familien",
+          "count": 12
+        },
+        {
+          "word": "jugendliche",
+          "count": 11
+        },
+        {
+          "word": "familie",
+          "count": 9
+        },
+        {
+          "word": "eltern",
+          "count": 7
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "extremismus",
+          "count": 2
+        },
+        {
+          "word": "gewalt",
+          "count": 2
+        },
+        {
+          "word": "islamismus",
+          "count": 1
+        },
+        {
+          "word": "radikalisierung",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "pflege",
+          "count": 12
+        },
+        {
+          "word": "corona",
+          "count": 2
+        },
+        {
+          "word": "pflegekräfte",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "kooperation",
+          "count": 3
+        },
+        {
+          "word": "europa",
+          "count": 1
+        },
+        {
+          "word": "allianz",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "netz",
+          "count": 1
+        },
+        {
+          "word": "digital",
+          "count": 1
+        },
+        {
+          "word": "plattformen",
+          "count": 1
+        },
+        {
+          "word": "netzwerk",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "bildung",
+          "count": 45
+        },
+        {
+          "word": "schulen",
+          "count": 13
+        },
+        {
+          "word": "schule",
+          "count": 11
+        },
+        {
+          "word": "kita",
+          "count": 5
+        },
+        {
+          "word": "ausbildung",
+          "count": 5
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "investitionen",
+          "count": 7
+        },
+        {
+          "word": "finanzplan",
+          "count": 3
+        },
+        {
+          "word": "finanzierung",
+          "count": 2
+        },
+        {
+          "word": "sondervermögen",
+          "count": 2
+        },
+        {
+          "word": "haushalt",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "diskriminierung",
+          "count": 3
+        },
+        {
+          "word": "grundrechte",
+          "count": 2
+        },
+        {
+          "word": "gleichberechtigung",
+          "count": 1
+        },
+        {
+          "word": "gleichstellung",
+          "count": 1
+        },
+        {
+          "word": "grundgesetz",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "einkommen",
+          "count": 1
+        },
+        {
+          "word": "arbeitnehmerinnen",
+          "count": 1
+        },
+        {
+          "word": "arbeitnehmer",
+          "count": 1
+        },
+        {
+          "word": "vereinbarkeit",
+          "count": 1
+        },
+        {
+          "word": "gewerkschaften",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

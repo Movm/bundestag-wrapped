@@ -1,0 +1,377 @@
+{
+  "name": "Manuel Krauthausen",
+  "party": "AfD",
+  "slug": "manuel-krauthausen",
+  "academicTitle": null,
+  "speeches": 5,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 3114,
+  "avgWords": 519,
+  "minWords": 232,
+  "maxWords": 732,
+  "rankings": {
+    "speechRank": 392,
+    "wordsRank": 355,
+    "partySpeechRank": 93,
+    "partyWordsRank": 84,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 35.6,
+    "verbosityRank": 139,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 35,
+    "longestSpeechRank": 264
+  },
+  "drama": {
+    "interruptionsGiven": 11,
+    "interruptionsReceived": 23,
+    "interrupterRank": 149,
+    "interruptedRank": 104
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "grünen",
+        "count": 16
+      },
+      {
+        "word": "menschen",
+        "count": 12
+      },
+      {
+        "word": "deutschland",
+        "count": 10
+      },
+      {
+        "word": "land",
+        "count": 9
+      },
+      {
+        "word": "politik",
+        "count": 9
+      },
+      {
+        "word": "klimaschutz",
+        "count": 8
+      },
+      {
+        "word": "tonnen",
+        "count": 8
+      },
+      {
+        "word": "natur",
+        "count": 7
+      },
+      {
+        "word": "erst",
+        "count": 6
+      },
+      {
+        "word": "grüne",
+        "count": 6
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "tonnen",
+        "count": 8,
+        "ratioParty": 119.6,
+        "ratioBundestag": 160.4
+      },
+      {
+        "word": "weltklima",
+        "count": 5,
+        "ratioParty": 81.0,
+        "ratioBundestag": 269.4
+      },
+      {
+        "word": "natur",
+        "count": 7,
+        "ratioParty": 33.2,
+        "ratioBundestag": 31.8
+      },
+      {
+        "word": "klimaschutz",
+        "count": 8,
+        "ratioParty": 26.8,
+        "ratioBundestag": 7.5
+      },
+      {
+        "word": "selber",
+        "count": 5,
+        "ratioParty": 21.1,
+        "ratioBundestag": 20.1
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 519,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.88,
+    "vsParliament": 0.85
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "5"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "3.114"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufe",
+      "value": "11"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Manuel Krauthausen häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Tonnen",
+        "isCorrect": true
+      },
+      {
+        "text": "Investitionen",
+        "isCorrect": false
+      },
+      {
+        "text": "Klima",
+        "isCorrect": false
+      },
+      {
+        "text": "Steuern",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Tonnen\" nutzt Manuel Krauthausen 119.6× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "160.4× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 100.0,
+      "aggression": 20.0,
+      "labeling": 40.0,
+      "solution_focus": 91.7,
+      "collaboration": 25.0,
+      "demand_intensity": 5.9,
+      "acknowledgment": 0.0,
+      "authority": 64.3,
+      "future_orientation": 69.2,
+      "emotional_intensity": 57.1,
+      "inclusivity": 57.6,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 6,
+      "words": 1932,
+      "adjectives": 5,
+      "verbs": 17
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 15.01,
+      "wirtschaft": 1.55,
+      "soziales": 1.04,
+      "sicherheit": 0.52,
+      "gesundheit": 0.0,
+      "europa": 2.59,
+      "digital": 1.55,
+      "bildung": 3.11,
+      "finanzen": 4.66,
+      "justiz": 1.55,
+      "arbeit": 1.04,
+      "mobilitaet": 3.62
+    },
+    "topTopics": [
+      {
+        "topic": "klima",
+        "score": 15.01,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 4.66,
+        "rank": 2
+      },
+      {
+        "topic": "mobilitaet",
+        "score": 3.62,
+        "rank": 3
+      },
+      {
+        "topic": "bildung",
+        "score": 3.11,
+        "rank": 4
+      },
+      {
+        "topic": "europa",
+        "score": 2.59,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "klimaschutz",
+          "count": 8
+        },
+        {
+          "word": "klimawandel",
+          "count": 4
+        },
+        {
+          "word": "umweltschutz",
+          "count": 3
+        },
+        {
+          "word": "energie",
+          "count": 2
+        },
+        {
+          "word": "naturschutz",
+          "count": 2
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "industrie",
+          "count": 2
+        },
+        {
+          "word": "wettbewerbsfähigkeit",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kind",
+          "count": 1
+        },
+        {
+          "word": "familien",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "waffen",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "russland",
+          "count": 2
+        },
+        {
+          "word": "brüssel",
+          "count": 1
+        },
+        {
+          "word": "frieden",
+          "count": 1
+        },
+        {
+          "word": "europa",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "daten",
+          "count": 2
+        },
+        {
+          "word": "rundfunk",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "professor",
+          "count": 2
+        },
+        {
+          "word": "wissenschaftler",
+          "count": 2
+        },
+        {
+          "word": "berufsschule",
+          "count": 1
+        },
+        {
+          "word": "wissenschaft",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "steuern",
+          "count": 4
+        },
+        {
+          "word": "steuer",
+          "count": 3
+        },
+        {
+          "word": "kosten",
+          "count": 2
+        }
+      ],
+      "justiz": [
+        {
+          "word": "grundgesetz",
+          "count": 2
+        },
+        {
+          "word": "verordnung",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "gehalt",
+          "count": 1
+        },
+        {
+          "word": "arbeitsplätze",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "straßen",
+          "count": 2
+        },
+        {
+          "word": "auto",
+          "count": 2
+        },
+        {
+          "word": "fliegen",
+          "count": 1
+        },
+        {
+          "word": "bahn",
+          "count": 1
+        },
+        {
+          "word": "straße",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

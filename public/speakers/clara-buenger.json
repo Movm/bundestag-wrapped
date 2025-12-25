@@ -1,0 +1,497 @@
+{
+  "name": "Clara Bünger",
+  "party": "DIE LINKE",
+  "slug": "clara-buenger",
+  "academicTitle": null,
+  "speeches": 22,
+  "wortbeitraege": 6,
+  "befragungResponses": 0,
+  "totalWords": 12007,
+  "avgWords": 429,
+  "minWords": 77,
+  "maxWords": 812,
+  "rankings": {
+    "speechRank": 6,
+    "wordsRank": 14,
+    "partySpeechRank": 2,
+    "partyWordsRank": 3,
+    "partySize": 63,
+    "totalSpeakers": 609,
+    "percentile": 99.0,
+    "verbosityRank": 282,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 20,
+    "longestSpeechRank": 187
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 89,
+    "interrupterRank": 28,
+    "interruptedRank": 6
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 118
+      },
+      {
+        "word": "dobrindt",
+        "count": 56
+      },
+      {
+        "word": "deutschland",
+        "count": 52
+      },
+      {
+        "word": "recht",
+        "count": 29
+      },
+      {
+        "word": "politik",
+        "count": 26
+      },
+      {
+        "word": "schutz",
+        "count": 25
+      },
+      {
+        "word": "union",
+        "count": 23
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "entrechtung",
+        "count": 8,
+        "ratioParty": 169.5,
+        "ratioBundestag": 337.9
+      },
+      {
+        "word": "throm",
+        "count": 5,
+        "ratioParty": 105.9,
+        "ratioBundestag": 52.8
+      },
+      {
+        "word": "familiennachzugs",
+        "count": 5,
+        "ratioParty": 105.9,
+        "ratioBundestag": 19.2
+      },
+      {
+        "word": "zurückweisungen",
+        "count": 10,
+        "ratioParty": 70.6,
+        "ratioBundestag": 18.2
+      },
+      {
+        "word": "islamisten",
+        "count": 6,
+        "ratioParty": 63.6,
+        "ratioBundestag": 35.2
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "gefährlich",
+        "count": 4,
+        "ratioParty": 6.5,
+        "ratioBundestag": 8.7
+      },
+      {
+        "word": "rechts",
+        "count": 8,
+        "ratioParty": 3.5,
+        "ratioBundestag": 5.4
+      },
+      {
+        "word": "sicher",
+        "count": 6,
+        "ratioParty": 2.4,
+        "ratioBundestag": 1.7
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 429,
+    "partyAvgWords": 521,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.82,
+    "vsParliament": 0.7
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "22"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "12.007"
+    },
+    {
+      "emoji": "🏆",
+      "label": "Rang (Reden)",
+      "value": "#6 von 609"
+    },
+    {
+      "emoji": "🥇",
+      "label": "Rang in DIE LINKE",
+      "value": "#2 von 63"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Clara Bünger häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Debatte",
+        "isCorrect": false
+      },
+      {
+        "text": "Minister",
+        "isCorrect": false
+      },
+      {
+        "text": "Bürger",
+        "isCorrect": false
+      },
+      {
+        "text": "Entrechtung",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Entrechtung\" nutzt Clara Bünger 169.5× häufiger als der DIE LINKE-Durchschnitt.",
+    "explanationBundestag": "337.9× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Clara Bünger häufiger als der Rest der DIE LINKE-Fraktion?",
+    "options": [
+      {
+        "text": "Falsch",
+        "isCorrect": false
+      },
+      {
+        "text": "Wichtig",
+        "isCorrect": false
+      },
+      {
+        "text": "Gefährlich",
+        "isCorrect": true
+      },
+      {
+        "text": "Erfolgreich",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Gefährlich\" nutzt Clara Bünger 6.5× häufiger als der DIE LINKE-Durchschnitt.",
+    "explanationBundestag": "8.7× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🦅",
+    "name": "Adler",
+    "title": "Parlamentarische Überfliegerin",
+    "reason": "Top 6 bei Reden UND Top 14 bei Wörtern – ein echter Überflieger!",
+    "id": "adler",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüterin",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 1.0
+      },
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißige Abgeordnete",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 65.0,
+      "aggression": 14.3,
+      "labeling": 28.6,
+      "solution_focus": 75.0,
+      "collaboration": 30.4,
+      "demand_intensity": 11.9,
+      "acknowledgment": 3.6,
+      "authority": 79.1,
+      "future_orientation": 76.6,
+      "emotional_intensity": 59.5,
+      "inclusivity": 31.9,
+      "discriminatory": 0.13
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 28,
+      "words": 7860,
+      "adjectives": 35,
+      "verbs": 84
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 13.74,
+      "klima": 0.0,
+      "wirtschaft": 0.64,
+      "soziales": 5.34,
+      "sicherheit": 7.0,
+      "gesundheit": 1.4,
+      "europa": 1.53,
+      "digital": 0.25,
+      "bildung": 1.15,
+      "finanzen": 1.53,
+      "justiz": 9.03,
+      "arbeit": 0.38,
+      "mobilitaet": 2.16
+    },
+    "topTopics": [
+      {
+        "topic": "migration",
+        "score": 13.74,
+        "rank": 1
+      },
+      {
+        "topic": "justiz",
+        "score": 9.03,
+        "rank": 2
+      },
+      {
+        "topic": "sicherheit",
+        "score": 7.0,
+        "rank": 3
+      },
+      {
+        "topic": "soziales",
+        "score": 5.34,
+        "rank": 4
+      },
+      {
+        "topic": "mobilitaet",
+        "score": 2.16,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "geflüchtete",
+          "count": 14
+        },
+        {
+          "word": "grenze",
+          "count": 13
+        },
+        {
+          "word": "migration",
+          "count": 9
+        },
+        {
+          "word": "schutzsuchende",
+          "count": 6
+        },
+        {
+          "word": "asyl",
+          "count": 6
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 3
+        },
+        {
+          "word": "wettbewerb",
+          "count": 2
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 15
+        },
+        {
+          "word": "familien",
+          "count": 6
+        },
+        {
+          "word": "familie",
+          "count": 4
+        },
+        {
+          "word": "existenzminimum",
+          "count": 3
+        },
+        {
+          "word": "eltern",
+          "count": 3
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "gewalt",
+          "count": 9
+        },
+        {
+          "word": "bundespolizei",
+          "count": 9
+        },
+        {
+          "word": "angriff",
+          "count": 6
+        },
+        {
+          "word": "verbrechen",
+          "count": 4
+        },
+        {
+          "word": "kriminalität",
+          "count": 3
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "prävention",
+          "count": 3
+        },
+        {
+          "word": "krankenhäuser",
+          "count": 3
+        },
+        {
+          "word": "sucht",
+          "count": 2
+        },
+        {
+          "word": "ärzte",
+          "count": 1
+        },
+        {
+          "word": "gesundheitssystem",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "krieg",
+          "count": 8
+        },
+        {
+          "word": "türkei",
+          "count": 2
+        },
+        {
+          "word": "europa",
+          "count": 2
+        }
+      ],
+      "digital": [
+        {
+          "word": "netz",
+          "count": 1
+        },
+        {
+          "word": "desinformation",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "schulen",
+          "count": 3
+        },
+        {
+          "word": "bildung",
+          "count": 1
+        },
+        {
+          "word": "lehrkraft",
+          "count": 1
+        },
+        {
+          "word": "kinderbetreuung",
+          "count": 1
+        },
+        {
+          "word": "studierende",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 7
+        },
+        {
+          "word": "investitionen",
+          "count": 3
+        },
+        {
+          "word": "kosten",
+          "count": 2
+        }
+      ],
+      "justiz": [
+        {
+          "word": "grundrechte",
+          "count": 9
+        },
+        {
+          "word": "rechtsstaatlichkeit",
+          "count": 7
+        },
+        {
+          "word": "rechtsstaat",
+          "count": 7
+        },
+        {
+          "word": "haft",
+          "count": 6
+        },
+        {
+          "word": "gericht",
+          "count": 5
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "überstunden",
+          "count": 1
+        },
+        {
+          "word": "arbeiter",
+          "count": 1
+        },
+        {
+          "word": "löhne",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 9
+        },
+        {
+          "word": "straßen",
+          "count": 5
+        },
+        {
+          "word": "fliegen",
+          "count": 2
+        },
+        {
+          "word": "bahn",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

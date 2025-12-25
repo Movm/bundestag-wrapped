@@ -1,0 +1,442 @@
+{
+  "name": "Ronja Kemmer",
+  "party": "CDU/CSU",
+  "slug": "ronja-kemmer",
+  "academicTitle": null,
+  "speeches": 6,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 3890,
+  "avgWords": 556,
+  "minWords": 95,
+  "maxWords": 823,
+  "rankings": {
+    "speechRank": 301,
+    "wordsRank": 262,
+    "partySpeechRank": 75,
+    "partyWordsRank": 79,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 50.6,
+    "verbosityRank": 108,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 45,
+    "longestSpeechRank": 171
+  },
+  "drama": {
+    "interruptionsGiven": 31,
+    "interruptionsReceived": 4,
+    "interrupterRank": 63,
+    "interruptedRank": 417
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "unternehmen",
+        "count": 15
+      },
+      {
+        "word": "deutschland",
+        "count": 14
+      },
+      {
+        "word": "hightech",
+        "count": 12
+      },
+      {
+        "word": "agenda",
+        "count": 12
+      },
+      {
+        "word": "vertrauen",
+        "count": 11
+      },
+      {
+        "word": "haushalt",
+        "count": 10
+      },
+      {
+        "word": "setzt",
+        "count": 9
+      },
+      {
+        "word": "schaffen",
+        "count": 9
+      },
+      {
+        "word": "digitale",
+        "count": 9
+      },
+      {
+        "word": "neue",
+        "count": 9
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "geist",
+        "count": 5,
+        "ratioParty": 53.3,
+        "ratioBundestag": 64.7
+      },
+      {
+        "word": "wildberger",
+        "count": 7,
+        "ratioParty": 52.5,
+        "ratioBundestag": 37.3
+      },
+      {
+        "word": "hightech",
+        "count": 12,
+        "ratioParty": 20.2,
+        "ratioBundestag": 28.9
+      },
+      {
+        "word": "agenda",
+        "count": 12,
+        "ratioParty": 14.5,
+        "ratioBundestag": 18.5
+      },
+      {
+        "word": "souveränität",
+        "count": 7,
+        "ratioParty": 13.9,
+        "ratioBundestag": 13.8
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "entscheidend",
+        "count": 6,
+        "ratioParty": 8.7,
+        "ratioBundestag": 14.2
+      },
+      {
+        "word": "wirtschaftlich",
+        "count": 3,
+        "ratioParty": 7.0,
+        "ratioBundestag": 8.4
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 556,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.81,
+    "vsParliament": 0.91
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "6"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "3.890"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufe",
+      "value": "31"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Ronja Kemmer häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Gesellschaft",
+        "isCorrect": false
+      },
+      {
+        "text": "Energie",
+        "isCorrect": false
+      },
+      {
+        "text": "Minister",
+        "isCorrect": false
+      },
+      {
+        "text": "Geist",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Geist\" nutzt Ronja Kemmer 53.3× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "64.7× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Ronja Kemmer häufiger als der Rest der CDU/CSU-Fraktion?",
+    "options": [
+      {
+        "text": "Entscheidend",
+        "isCorrect": true
+      },
+      {
+        "text": "Europäisch",
+        "isCorrect": false
+      },
+      {
+        "text": "Richtig",
+        "isCorrect": false
+      },
+      {
+        "text": "Problematisch",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Entscheidend\" nutzt Ronja Kemmer 8.7× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "14.2× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐝",
+    "name": "Biene",
+    "title": "Fleißige Abgeordnete",
+    "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+    "id": "biene",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüterin",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.918
+      },
+      {
+        "emoji": "🦦",
+        "name": "Otter",
+        "title": "Positive Teamplayerin",
+        "reason": "Du bringst gute Stimmung und konstruktive Beiträge ins Plenum.",
+        "id": "otter",
+        "score": 0.823
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 90.0,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 87.5,
+      "collaboration": 66.7,
+      "demand_intensity": 0.0,
+      "acknowledgment": 2.8,
+      "authority": 90.5,
+      "future_orientation": 100.0,
+      "emotional_intensity": 14.3,
+      "inclusivity": 77.4,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 7,
+      "words": 2626,
+      "adjectives": 20,
+      "verbs": 36
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.38,
+      "wirtschaft": 12.57,
+      "soziales": 0.76,
+      "sicherheit": 0.0,
+      "gesundheit": 0.76,
+      "europa": 4.19,
+      "digital": 8.76,
+      "bildung": 6.09,
+      "finanzen": 7.24,
+      "justiz": 0.0,
+      "arbeit": 0.76,
+      "mobilitaet": 2.28
+    },
+    "topTopics": [
+      {
+        "topic": "wirtschaft",
+        "score": 12.57,
+        "rank": 1
+      },
+      {
+        "topic": "digital",
+        "score": 8.76,
+        "rank": 2
+      },
+      {
+        "topic": "finanzen",
+        "score": 7.24,
+        "rank": 3
+      },
+      {
+        "topic": "bildung",
+        "score": 6.09,
+        "rank": 4
+      },
+      {
+        "topic": "europa",
+        "score": 4.19,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "energie",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 15
+        },
+        {
+          "word": "wettbewerbsfähigkeit",
+          "count": 4
+        },
+        {
+          "word": "industrie",
+          "count": 3
+        },
+        {
+          "word": "gründer",
+          "count": 2
+        },
+        {
+          "word": "wettbewerb",
+          "count": 2
+        }
+      ],
+      "soziales": [
+        {
+          "word": "familie",
+          "count": 1
+        },
+        {
+          "word": "kindergeld",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "covid",
+          "count": 1
+        },
+        {
+          "word": "kliniken",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 4
+        },
+        {
+          "word": "china",
+          "count": 2
+        },
+        {
+          "word": "gipfel",
+          "count": 2
+        },
+        {
+          "word": "brüssel",
+          "count": 2
+        },
+        {
+          "word": "bündnis",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 5
+        },
+        {
+          "word": "glasfaser",
+          "count": 4
+        },
+        {
+          "word": "digital",
+          "count": 3
+        },
+        {
+          "word": "cybersicherheit",
+          "count": 2
+        },
+        {
+          "word": "mobilfunk",
+          "count": 2
+        }
+      ],
+      "bildung": [
+        {
+          "word": "forschung",
+          "count": 8
+        },
+        {
+          "word": "wissenschaft",
+          "count": 3
+        },
+        {
+          "word": "hochschulen",
+          "count": 1
+        },
+        {
+          "word": "schule",
+          "count": 1
+        },
+        {
+          "word": "bafög",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 10
+        },
+        {
+          "word": "investitionen",
+          "count": 4
+        },
+        {
+          "word": "kosten",
+          "count": 2
+        },
+        {
+          "word": "sondervermögen",
+          "count": 1
+        },
+        {
+          "word": "etat",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitsplätze",
+          "count": 2
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 3
+        },
+        {
+          "word": "auto",
+          "count": 2
+        },
+        {
+          "word": "straße",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

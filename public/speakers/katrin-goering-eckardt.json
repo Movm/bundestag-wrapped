@@ -1,0 +1,374 @@
+{
+  "name": "Katrin Göring-Eckardt",
+  "party": "GRÜNE",
+  "slug": "katrin-goering-eckardt",
+  "academicTitle": null,
+  "speeches": 8,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 4473,
+  "avgWords": 497,
+  "minWords": 22,
+  "maxWords": 704,
+  "rankings": {
+    "speechRank": 232,
+    "wordsRank": 221,
+    "partySpeechRank": 38,
+    "partyWordsRank": 33,
+    "partySize": 85,
+    "totalSpeakers": 609,
+    "percentile": 61.9,
+    "verbosityRank": 168,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 21,
+    "longestSpeechRank": 298
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 13,
+    "interrupterRank": null,
+    "interruptedRank": 220
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "freiheit",
+        "count": 23
+      },
+      {
+        "word": "kultur",
+        "count": 17
+      },
+      {
+        "word": "erinnern",
+        "count": 16
+      },
+      {
+        "word": "land",
+        "count": 15
+      },
+      {
+        "word": "feiern",
+        "count": 12
+      },
+      {
+        "word": "reden",
+        "count": 10
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "kunst",
+        "count": 9,
+        "ratioParty": 187.2,
+        "ratioBundestag": 93.7
+      },
+      {
+        "word": "freundschaft",
+        "count": 5,
+        "ratioParty": 138.7,
+        "ratioBundestag": 153.5
+      },
+      {
+        "word": "feiern",
+        "count": 12,
+        "ratioParty": 55.5,
+        "ratioBundestag": 77.8
+      },
+      {
+        "word": "erinnerung",
+        "count": 7,
+        "ratioParty": 48.5,
+        "ratioBundestag": 39.3
+      },
+      {
+        "word": "kultur",
+        "count": 17,
+        "ratioParty": 36.3,
+        "ratioBundestag": 36.3
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 497,
+    "partyAvgWords": 567,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.88,
+    "vsParliament": 0.81
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "8"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "4.473"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Katrin Göring-Eckardt häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Kunst",
+        "isCorrect": true
+      },
+      {
+        "text": "Wirtschaft",
+        "isCorrect": false
+      },
+      {
+        "text": "Steuern",
+        "isCorrect": false
+      },
+      {
+        "text": "Haushalt",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Kunst\" nutzt Katrin Göring-Eckardt 187.2× häufiger als der GRÜNE-Durchschnitt.",
+    "explanationBundestag": "93.7× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🐝",
+    "name": "Biene",
+    "title": "Fleißige Abgeordnete",
+    "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+    "id": "biene",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüterin",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.979
+      },
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Clevere Strategin",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 0.901
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 100.0,
+      "aggression": 10.0,
+      "labeling": 10.0,
+      "solution_focus": 81.8,
+      "collaboration": 37.5,
+      "demand_intensity": 4.2,
+      "acknowledgment": 33.3,
+      "authority": 72.6,
+      "future_orientation": 83.7,
+      "emotional_intensity": 27.3,
+      "inclusivity": 60.0,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 9,
+      "words": 2854,
+      "adjectives": 10,
+      "verbs": 48
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.35,
+      "wirtschaft": 2.1,
+      "soziales": 1.05,
+      "sicherheit": 1.75,
+      "gesundheit": 0.0,
+      "europa": 3.85,
+      "digital": 0.35,
+      "bildung": 1.4,
+      "finanzen": 2.45,
+      "justiz": 0.7,
+      "arbeit": 0.0,
+      "mobilitaet": 0.7
+    },
+    "topTopics": [
+      {
+        "topic": "europa",
+        "score": 3.85,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 2.45,
+        "rank": 2
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 2.1,
+        "rank": 3
+      },
+      {
+        "topic": "sicherheit",
+        "score": 1.75,
+        "rank": 4
+      },
+      {
+        "topic": "bildung",
+        "score": 1.4,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "nachhaltig",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "standort",
+          "count": 2
+        },
+        {
+          "word": "mittelstand",
+          "count": 1
+        },
+        {
+          "word": "konzerne",
+          "count": 1
+        },
+        {
+          "word": "firmen",
+          "count": 1
+        },
+        {
+          "word": "handwerk",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "eltern",
+          "count": 1
+        },
+        {
+          "word": "jugendarbeit",
+          "count": 1
+        },
+        {
+          "word": "jugendliche",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "verbrechen",
+          "count": 2
+        },
+        {
+          "word": "gewalt",
+          "count": 1
+        },
+        {
+          "word": "soldaten",
+          "count": 1
+        },
+        {
+          "word": "täter",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 4
+        },
+        {
+          "word": "krieg",
+          "count": 2
+        },
+        {
+          "word": "europäisch",
+          "count": 1
+        },
+        {
+          "word": "bündnis",
+          "count": 1
+        },
+        {
+          "word": "partnerschaft",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "pressefreiheit",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "schulen",
+          "count": 2
+        },
+        {
+          "word": "universitäten",
+          "count": 1
+        },
+        {
+          "word": "bildung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "erbschaftsteuer",
+          "count": 2
+        },
+        {
+          "word": "haushaltsentwurf",
+          "count": 1
+        },
+        {
+          "word": "steuer",
+          "count": 1
+        },
+        {
+          "word": "steuern",
+          "count": 1
+        },
+        {
+          "word": "schulden",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "grundgesetz",
+          "count": 1
+        },
+        {
+          "word": "novelle",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "fliegen",
+          "count": 1
+        },
+        {
+          "word": "straßen",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

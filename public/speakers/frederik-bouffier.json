@@ -1,0 +1,376 @@
+{
+  "name": "Frederik Bouffier",
+  "party": "CDU/CSU",
+  "slug": "frederik-bouffier",
+  "academicTitle": null,
+  "speeches": 4,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 2420,
+  "avgWords": 484,
+  "minWords": 265,
+  "maxWords": 635,
+  "rankings": {
+    "speechRank": 442,
+    "wordsRank": 417,
+    "partySpeechRank": 132,
+    "partyWordsRank": 129,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 27.4,
+    "verbosityRank": 183,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 66,
+    "longestSpeechRank": 382
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 4,
+    "interrupterRank": null,
+    "interruptedRank": 439
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 11
+      },
+      {
+        "word": "wissen",
+        "count": 7
+      },
+      {
+        "word": "worden",
+        "count": 7
+      },
+      {
+        "word": "richtige",
+        "count": 7
+      },
+      {
+        "word": "deutschland",
+        "count": 6
+      },
+      {
+        "word": "vergangenen",
+        "count": 5
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "richtige",
+        "count": 7,
+        "ratioParty": 13.1,
+        "ratioBundestag": 19.8
+      },
+      {
+        "word": "vergangenen",
+        "count": 5,
+        "ratioParty": 7.5,
+        "ratioBundestag": 10.9
+      },
+      {
+        "word": "worden",
+        "count": 7,
+        "ratioParty": 6.5,
+        "ratioBundestag": 8.0
+      },
+      {
+        "word": "wissen",
+        "count": 7,
+        "ratioParty": 4.4,
+        "ratioBundestag": 4.1
+      },
+      {
+        "word": "sicherheit",
+        "count": 5,
+        "ratioParty": 2.3,
+        "ratioBundestag": 2.7
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 484,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.7,
+    "vsParliament": 0.79
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "4"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "2.420"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Frederik Bouffier häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Richtige",
+        "isCorrect": true
+      },
+      {
+        "text": "Arbeit",
+        "isCorrect": false
+      },
+      {
+        "text": "Bildung",
+        "isCorrect": false
+      },
+      {
+        "text": "Verantwortung",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Richtige\" nutzt Frederik Bouffier 13.1× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "19.8× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🐇",
+    "name": "Hase",
+    "title": "Wendiger Optimist",
+    "reason": "Mit positivem Blick reagierst du schnell auf neue Themen.",
+    "id": "hase",
+    "alternatives": [
+      {
+        "emoji": "🦦",
+        "name": "Otter",
+        "title": "Positiver Teamplayer",
+        "reason": "Du bringst gute Stimmung und konstruktive Beiträge ins Plenum.",
+        "id": "otter",
+        "score": 0.8
+      },
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüter",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.784
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 100.0,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 100.0,
+      "collaboration": 33.3,
+      "demand_intensity": 5.0,
+      "acknowledgment": 0.0,
+      "authority": 75.0,
+      "future_orientation": 94.1,
+      "emotional_intensity": 100.0,
+      "inclusivity": 56.4,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 5,
+      "words": 1526,
+      "adjectives": 5,
+      "verbs": 20
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 2.62,
+      "klima": 0.0,
+      "wirtschaft": 1.97,
+      "soziales": 0.66,
+      "sicherheit": 1.31,
+      "gesundheit": 0.0,
+      "europa": 1.97,
+      "digital": 2.62,
+      "bildung": 7.21,
+      "finanzen": 5.24,
+      "justiz": 5.24,
+      "arbeit": 1.31,
+      "mobilitaet": 1.31
+    },
+    "topTopics": [
+      {
+        "topic": "bildung",
+        "score": 7.21,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 5.24,
+        "rank": 2
+      },
+      {
+        "topic": "justiz",
+        "score": 5.24,
+        "rank": 3
+      },
+      {
+        "topic": "migration",
+        "score": 2.62,
+        "rank": 4
+      },
+      {
+        "topic": "digital",
+        "score": 2.62,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "schutzstatus",
+          "count": 2
+        },
+        {
+          "word": "migration",
+          "count": 1
+        },
+        {
+          "word": "frontex",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "wachstum",
+          "count": 1
+        },
+        {
+          "word": "wettbewerbsfähigkeit",
+          "count": 1
+        },
+        {
+          "word": "wettbewerb",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "wohnungen",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "überwachung",
+          "count": 1
+        },
+        {
+          "word": "terror",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "russland",
+          "count": 2
+        },
+        {
+          "word": "gipfel",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "technologie",
+          "count": 2
+        },
+        {
+          "word": "algorithmen",
+          "count": 1
+        },
+        {
+          "word": "daten",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "forschung",
+          "count": 3
+        },
+        {
+          "word": "wissenschaft",
+          "count": 3
+        },
+        {
+          "word": "hochschulen",
+          "count": 3
+        },
+        {
+          "word": "studium",
+          "count": 1
+        },
+        {
+          "word": "wissenschaftsfreiheit",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushaltsentwurf",
+          "count": 3
+        },
+        {
+          "word": "investitionen",
+          "count": 2
+        },
+        {
+          "word": "haushalt",
+          "count": 2
+        },
+        {
+          "word": "finanzierung",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "bundesverfassungsgericht",
+          "count": 3
+        },
+        {
+          "word": "straftaten",
+          "count": 2
+        },
+        {
+          "word": "rechtsstaat",
+          "count": 1
+        },
+        {
+          "word": "urteil",
+          "count": 1
+        },
+        {
+          "word": "rechtsprechung",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitsplätze",
+          "count": 2
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 1
+        },
+        {
+          "word": "straßen",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,374 @@
+{
+  "name": "Dr. Daniel Zerbin",
+  "party": "AfD",
+  "slug": "daniel-zerbin",
+  "academicTitle": "Dr",
+  "speeches": 8,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 2950,
+  "avgWords": 328,
+  "minWords": 88,
+  "maxWords": 569,
+  "rankings": {
+    "speechRank": 246,
+    "wordsRank": 370,
+    "partySpeechRank": 60,
+    "partyWordsRank": 86,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 59.6,
+    "verbosityRank": 441,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 107,
+    "longestSpeechRank": 466
+  },
+  "drama": {
+    "interruptionsGiven": 1,
+    "interruptionsReceived": 15,
+    "interrupterRank": 338,
+    "interruptedRank": 193
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "deutschland",
+        "count": 10
+      },
+      {
+        "word": "deutschen",
+        "count": 10
+      },
+      {
+        "word": "bürger",
+        "count": 9
+      },
+      {
+        "word": "jahren",
+        "count": 9
+      },
+      {
+        "word": "europa",
+        "count": 9
+      },
+      {
+        "word": "land",
+        "count": 9
+      },
+      {
+        "word": "wahrheit",
+        "count": 8
+      },
+      {
+        "word": "recht",
+        "count": 7
+      },
+      {
+        "word": "habe",
+        "count": 7
+      },
+      {
+        "word": "soldaten",
+        "count": 7
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "afghanistan",
+        "count": 7,
+        "ratioParty": 31.9,
+        "ratioBundestag": 26.9
+      },
+      {
+        "word": "europa",
+        "count": 9,
+        "ratioParty": 13.4,
+        "ratioBundestag": 5.3
+      },
+      {
+        "word": "krieg",
+        "count": 5,
+        "ratioParty": 9.7,
+        "ratioBundestag": 7.6
+      },
+      {
+        "word": "soldaten",
+        "count": 7,
+        "ratioParty": 9.2,
+        "ratioBundestag": 10.4
+      },
+      {
+        "word": "russland",
+        "count": 5,
+        "ratioParty": 9.1,
+        "ratioBundestag": 7.0
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 328,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.56,
+    "vsParliament": 0.54
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "8"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "2.950"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Dr. Daniel Zerbin häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Kinder",
+        "isCorrect": false
+      },
+      {
+        "text": "Arbeit",
+        "isCorrect": false
+      },
+      {
+        "text": "Verantwortung",
+        "isCorrect": false
+      },
+      {
+        "text": "Afghanistan",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Afghanistan\" nutzt Dr. Daniel Zerbin 31.9× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "26.9× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 85.7,
+      "aggression": 16.7,
+      "labeling": 25.0,
+      "solution_focus": 60.0,
+      "collaboration": 50.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 0.0,
+      "authority": 94.3,
+      "future_orientation": 52.4,
+      "emotional_intensity": 28.6,
+      "inclusivity": 72.4,
+      "discriminatory": 0.53
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 9,
+      "words": 1875,
+      "adjectives": 12,
+      "verbs": 12
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 1.6,
+      "klima": 0.53,
+      "wirtschaft": 1.6,
+      "soziales": 2.67,
+      "sicherheit": 9.6,
+      "gesundheit": 1.07,
+      "europa": 17.6,
+      "digital": 0.0,
+      "bildung": 1.07,
+      "finanzen": 2.13,
+      "justiz": 1.6,
+      "arbeit": 0.53,
+      "mobilitaet": 1.07
+    },
+    "topTopics": [
+      {
+        "topic": "europa",
+        "score": 17.6,
+        "rank": 1
+      },
+      {
+        "topic": "sicherheit",
+        "score": 9.6,
+        "rank": 2
+      },
+      {
+        "topic": "soziales",
+        "score": 2.67,
+        "rank": 3
+      },
+      {
+        "topic": "finanzen",
+        "score": 2.13,
+        "rank": 4
+      },
+      {
+        "topic": "migration",
+        "score": 1.6,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "grenze",
+          "count": 1
+        },
+        {
+          "word": "mittelmeer",
+          "count": 1
+        },
+        {
+          "word": "migration",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "nachhaltig",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "wirtschaftskrise",
+          "count": 1
+        },
+        {
+          "word": "markt",
+          "count": 1
+        },
+        {
+          "word": "handel",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "familie",
+          "count": 3
+        },
+        {
+          "word": "kinder",
+          "count": 2
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "soldaten",
+          "count": 7
+        },
+        {
+          "word": "bundeswehr",
+          "count": 2
+        },
+        {
+          "word": "gewalt",
+          "count": 2
+        },
+        {
+          "word": "soldat",
+          "count": 2
+        },
+        {
+          "word": "militär",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "corona",
+          "count": 1
+        },
+        {
+          "word": "operation",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 9
+        },
+        {
+          "word": "ukraine",
+          "count": 5
+        },
+        {
+          "word": "krieg",
+          "count": 5
+        },
+        {
+          "word": "russland",
+          "count": 5
+        },
+        {
+          "word": "frieden",
+          "count": 3
+        }
+      ],
+      "bildung": [
+        {
+          "word": "universität",
+          "count": 1
+        },
+        {
+          "word": "professor",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "steuerzahler",
+          "count": 2
+        },
+        {
+          "word": "inflation",
+          "count": 1
+        },
+        {
+          "word": "kosten",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "rechtsstaatlichkeit",
+          "count": 1
+        },
+        {
+          "word": "gefängnis",
+          "count": 1
+        },
+        {
+          "word": "verteidiger",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeiter",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 1
+        },
+        {
+          "word": "straßen",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

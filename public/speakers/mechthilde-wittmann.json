@@ -1,0 +1,465 @@
+{
+  "name": "Mechthilde Wittmann",
+  "party": "CDU/CSU",
+  "slug": "mechthilde-wittmann",
+  "academicTitle": null,
+  "speeches": 14,
+  "wortbeitraege": 3,
+  "befragungResponses": 0,
+  "totalWords": 11915,
+  "avgWords": 701,
+  "minWords": 100,
+  "maxWords": 1224,
+  "rankings": {
+    "speechRank": 43,
+    "wordsRank": 15,
+    "partySpeechRank": 11,
+    "partyWordsRank": 5,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 92.9,
+    "verbosityRank": 28,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 9,
+    "longestSpeechRank": 30
+  },
+  "drama": {
+    "interruptionsGiven": 7,
+    "interruptionsReceived": 22,
+    "interrupterRank": 185,
+    "interruptedRank": 113
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "haushalt",
+        "count": 31
+      },
+      {
+        "word": "glaube",
+        "count": 31
+      },
+      {
+        "word": "land",
+        "count": 30
+      },
+      {
+        "word": "menschen",
+        "count": 30
+      },
+      {
+        "word": "lassen",
+        "count": 27
+      },
+      {
+        "word": "wohnen",
+        "count": 26
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "stüwe",
+        "count": 7,
+        "ratioParty": 493.5,
+        "ratioBundestag": 311.1
+      },
+      {
+        "word": "steuerhinterziehung",
+        "count": 5,
+        "ratioParty": 58.8,
+        "ratioBundestag": 34.7
+      },
+      {
+        "word": "aufschlag",
+        "count": 5,
+        "ratioParty": 32.0,
+        "ratioBundestag": 61.7
+      },
+      {
+        "word": "wohnen",
+        "count": 26,
+        "ratioParty": 31.6,
+        "ratioBundestag": 19.4
+      },
+      {
+        "word": "geliefert",
+        "count": 7,
+        "ratioParty": 24.7,
+        "ratioBundestag": 21.6
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 701,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 1.02,
+    "vsParliament": 1.14
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "14"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "11.915"
+    },
+    {
+      "emoji": "📊",
+      "label": "Top-Redner",
+      "value": "Top 8%"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Mechthilde Wittmann häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Freiheit",
+        "isCorrect": false
+      },
+      {
+        "text": "Ausschuss",
+        "isCorrect": false
+      },
+      {
+        "text": "Europa",
+        "isCorrect": false
+      },
+      {
+        "text": "Stüwe",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Stüwe\" nutzt Mechthilde Wittmann 493.5× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "311.1× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🦊",
+    "name": "Fuchs",
+    "title": "Clevere Strategin",
+    "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+    "id": "fuchs",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüterin",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 1.0
+      },
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißige Abgeordnete",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 85.7,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 96.9,
+      "collaboration": 80.0,
+      "demand_intensity": 2.4,
+      "acknowledgment": 7.3,
+      "authority": 74.8,
+      "future_orientation": 92.9,
+      "emotional_intensity": 19.6,
+      "inclusivity": 67.3,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 17,
+      "words": 7472,
+      "adjectives": 21,
+      "verbs": 82
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.27,
+      "klima": 0.67,
+      "wirtschaft": 7.36,
+      "soziales": 7.09,
+      "sicherheit": 1.07,
+      "gesundheit": 2.14,
+      "europa": 0.8,
+      "digital": 0.4,
+      "bildung": 0.94,
+      "finanzen": 12.45,
+      "justiz": 0.27,
+      "arbeit": 1.2,
+      "mobilitaet": 0.94
+    },
+    "topTopics": [
+      {
+        "topic": "finanzen",
+        "score": 12.45,
+        "rank": 1
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 7.36,
+        "rank": 2
+      },
+      {
+        "topic": "soziales",
+        "score": 7.09,
+        "rank": 3
+      },
+      {
+        "topic": "gesundheit",
+        "score": 2.14,
+        "rank": 4
+      },
+      {
+        "topic": "arbeit",
+        "score": 1.2,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "migration",
+          "count": 2
+        }
+      ],
+      "klima": [
+        {
+          "word": "nachhaltigkeit",
+          "count": 2
+        },
+        {
+          "word": "klimaschutz",
+          "count": 1
+        },
+        {
+          "word": "klimaneutralität",
+          "count": 1
+        },
+        {
+          "word": "energie",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 10
+        },
+        {
+          "word": "kapital",
+          "count": 7
+        },
+        {
+          "word": "standort",
+          "count": 5
+        },
+        {
+          "word": "wachstum",
+          "count": 4
+        },
+        {
+          "word": "handwerk",
+          "count": 3
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 15
+        },
+        {
+          "word": "familien",
+          "count": 15
+        },
+        {
+          "word": "rente",
+          "count": 4
+        },
+        {
+          "word": "wohnungen",
+          "count": 4
+        },
+        {
+          "word": "wohnung",
+          "count": 3
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "verteidigung",
+          "count": 3
+        },
+        {
+          "word": "betrug",
+          "count": 1
+        },
+        {
+          "word": "geldwäsche",
+          "count": 1
+        },
+        {
+          "word": "bundeswehr",
+          "count": 1
+        },
+        {
+          "word": "spionage",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "pandemie",
+          "count": 7
+        },
+        {
+          "word": "vorsorge",
+          "count": 3
+        },
+        {
+          "word": "krankenhäuser",
+          "count": 3
+        },
+        {
+          "word": "mediziner",
+          "count": 1
+        },
+        {
+          "word": "kranke",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 3
+        },
+        {
+          "word": "frieden",
+          "count": 1
+        },
+        {
+          "word": "bündnis",
+          "count": 1
+        },
+        {
+          "word": "freizügigkeit",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "digital",
+          "count": 2
+        },
+        {
+          "word": "netz",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "ausbildung",
+          "count": 2
+        },
+        {
+          "word": "forschung",
+          "count": 2
+        },
+        {
+          "word": "schule",
+          "count": 1
+        },
+        {
+          "word": "schulen",
+          "count": 1
+        },
+        {
+          "word": "bildung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 31
+        },
+        {
+          "word": "investitionen",
+          "count": 12
+        },
+        {
+          "word": "sondervermögen",
+          "count": 8
+        },
+        {
+          "word": "steuerhinterziehung",
+          "count": 5
+        },
+        {
+          "word": "finanzminister",
+          "count": 5
+        }
+      ],
+      "justiz": [
+        {
+          "word": "rechtsstaatlichkeit",
+          "count": 1
+        },
+        {
+          "word": "beschluss",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "einkommen",
+          "count": 4
+        },
+        {
+          "word": "lohn",
+          "count": 1
+        },
+        {
+          "word": "löhne",
+          "count": 1
+        },
+        {
+          "word": "arbeitsplätze",
+          "count": 1
+        },
+        {
+          "word": "gewerkschaft",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 5
+        },
+        {
+          "word": "auto",
+          "count": 1
+        },
+        {
+          "word": "elektromobilität",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

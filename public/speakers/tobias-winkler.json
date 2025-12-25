@@ -1,0 +1,519 @@
+{
+  "name": "Tobias Winkler",
+  "party": "CDU/CSU",
+  "slug": "tobias-winkler",
+  "academicTitle": null,
+  "speeches": 8,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 5420,
+  "avgWords": 602,
+  "minWords": 172,
+  "maxWords": 1116,
+  "rankings": {
+    "speechRank": 211,
+    "wordsRank": 155,
+    "partySpeechRank": 50,
+    "partyWordsRank": 44,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 65.4,
+    "verbosityRank": 67,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 31,
+    "longestSpeechRank": 43
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 4,
+    "interrupterRank": null,
+    "interruptedRank": 445
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "ukraine",
+        "count": 19
+      },
+      {
+        "word": "krieg",
+        "count": 13
+      },
+      {
+        "word": "europa",
+        "count": 12
+      },
+      {
+        "word": "land",
+        "count": 11
+      },
+      {
+        "word": "unterstützung",
+        "count": 11
+      },
+      {
+        "word": "jahren",
+        "count": 11
+      },
+      {
+        "word": "verantwortung",
+        "count": 11
+      },
+      {
+        "word": "deutschland",
+        "count": 11
+      },
+      {
+        "word": "europäischen",
+        "count": 10
+      },
+      {
+        "word": "frieden",
+        "count": 10
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "europarat",
+        "count": 9,
+        "ratioParty": 72.7,
+        "ratioBundestag": 56.2
+      },
+      {
+        "word": "prinzipien",
+        "count": 5,
+        "ratioParty": 48.0,
+        "ratioBundestag": 34.4
+      },
+      {
+        "word": "geschätzte",
+        "count": 6,
+        "ratioParty": 31.7,
+        "ratioBundestag": 40.7
+      },
+      {
+        "word": "israelischen",
+        "count": 6,
+        "ratioParty": 26.3,
+        "ratioBundestag": 32.4
+      },
+      {
+        "word": "herzegowina",
+        "count": 6,
+        "ratioParty": 25.6,
+        "ratioBundestag": 27.2
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "links",
+        "count": 3,
+        "ratioParty": 7.4,
+        "ratioBundestag": 4.7
+      },
+      {
+        "word": "wirtschaftlich",
+        "count": 4,
+        "ratioParty": 7.1,
+        "ratioBundestag": 8.5
+      },
+      {
+        "word": "rechts",
+        "count": 3,
+        "ratioParty": 5.1,
+        "ratioBundestag": 4.5
+      },
+      {
+        "word": "stark",
+        "count": 3,
+        "ratioParty": 3.1,
+        "ratioBundestag": 3.5
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 602,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.88,
+    "vsParliament": 0.98
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "8"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "5.420"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Tobias Winkler häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Investitionen",
+        "isCorrect": false
+      },
+      {
+        "text": "Arbeit",
+        "isCorrect": false
+      },
+      {
+        "text": "Europarat",
+        "isCorrect": true
+      },
+      {
+        "text": "Gesetz",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Europarat\" nutzt Tobias Winkler 72.7× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "56.2× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Tobias Winkler häufiger als der Rest der CDU/CSU-Fraktion?",
+    "options": [
+      {
+        "text": "Klar",
+        "isCorrect": false
+      },
+      {
+        "text": "Sozial",
+        "isCorrect": false
+      },
+      {
+        "text": "Sicher",
+        "isCorrect": false
+      },
+      {
+        "text": "Links",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Links\" nutzt Tobias Winkler 7.4× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "4.7× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐿️",
+    "name": "Eichhörnchen",
+    "title": "Themenhüter",
+    "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+    "id": "eichhoernchen",
+    "alternatives": [
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißiger Abgeordneter",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      },
+      {
+        "emoji": "🦚",
+        "name": "Pfau",
+        "title": "Eloquenter Redner",
+        "reason": "Mit Ø 602 Wörtern pro Rede gehörst du zu den ausführlichsten Rednern.",
+        "id": "pfau",
+        "score": 0.761
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 80.0,
+      "aggression": 0.0,
+      "labeling": 23.1,
+      "solution_focus": 75.0,
+      "collaboration": 33.3,
+      "demand_intensity": 5.1,
+      "acknowledgment": 15.4,
+      "authority": 65.9,
+      "future_orientation": 76.0,
+      "emotional_intensity": 75.0,
+      "inclusivity": 71.3,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 9,
+      "words": 3459,
+      "adjectives": 26,
+      "verbs": 39
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.87,
+      "klima": 0.58,
+      "wirtschaft": 3.18,
+      "soziales": 3.18,
+      "sicherheit": 6.65,
+      "gesundheit": 1.45,
+      "europa": 30.36,
+      "digital": 1.73,
+      "bildung": 1.16,
+      "finanzen": 2.89,
+      "justiz": 3.47,
+      "arbeit": 0.87,
+      "mobilitaet": 2.31
+    },
+    "topTopics": [
+      {
+        "topic": "europa",
+        "score": 30.36,
+        "rank": 1
+      },
+      {
+        "topic": "sicherheit",
+        "score": 6.65,
+        "rank": 2
+      },
+      {
+        "topic": "justiz",
+        "score": 3.47,
+        "rank": 3
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 3.18,
+        "rank": 4
+      },
+      {
+        "topic": "soziales",
+        "score": 3.18,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "mittelmeer",
+          "count": 1
+        },
+        {
+          "word": "integration",
+          "count": 1
+        },
+        {
+          "word": "migration",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "klimaneutralität",
+          "count": 1
+        },
+        {
+          "word": "klimaschutz",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "wettbewerbsfähigkeit",
+          "count": 3
+        },
+        {
+          "word": "anlage",
+          "count": 2
+        },
+        {
+          "word": "kapital",
+          "count": 1
+        },
+        {
+          "word": "standort",
+          "count": 1
+        },
+        {
+          "word": "wirtschaftspolitik",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "rente",
+          "count": 3
+        },
+        {
+          "word": "familien",
+          "count": 2
+        },
+        {
+          "word": "rentenniveau",
+          "count": 1
+        },
+        {
+          "word": "renten",
+          "count": 1
+        },
+        {
+          "word": "rentner",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "soldaten",
+          "count": 6
+        },
+        {
+          "word": "bundeswehr",
+          "count": 3
+        },
+        {
+          "word": "streitkräfte",
+          "count": 2
+        },
+        {
+          "word": "terroristen",
+          "count": 2
+        },
+        {
+          "word": "verteidigung",
+          "count": 2
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "operation",
+          "count": 3
+        },
+        {
+          "word": "sucht",
+          "count": 1
+        },
+        {
+          "word": "vorsorge",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "ukraine",
+          "count": 19
+        },
+        {
+          "word": "krieg",
+          "count": 13
+        },
+        {
+          "word": "europa",
+          "count": 12
+        },
+        {
+          "word": "frieden",
+          "count": 10
+        },
+        {
+          "word": "osze",
+          "count": 10
+        }
+      ],
+      "digital": [
+        {
+          "word": "desinformation",
+          "count": 3
+        },
+        {
+          "word": "pressefreiheit",
+          "count": 1
+        },
+        {
+          "word": "netz",
+          "count": 1
+        },
+        {
+          "word": "netzwerk",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "universitäten",
+          "count": 2
+        },
+        {
+          "word": "ausbildung",
+          "count": 1
+        },
+        {
+          "word": "schule",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "kosten",
+          "count": 2
+        },
+        {
+          "word": "finanzierung",
+          "count": 2
+        },
+        {
+          "word": "schuldenbremse",
+          "count": 1
+        },
+        {
+          "word": "steuerzahler",
+          "count": 1
+        },
+        {
+          "word": "sondervermögen",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "rechtsstaatlichkeit",
+          "count": 4
+        },
+        {
+          "word": "menschenrechte",
+          "count": 3
+        },
+        {
+          "word": "bewährung",
+          "count": 3
+        },
+        {
+          "word": "gleichstellung",
+          "count": 2
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "beitragssatz",
+          "count": 1
+        },
+        {
+          "word": "arbeitnehmer",
+          "count": 1
+        },
+        {
+          "word": "arbeitnehmerinnen",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "straßen",
+          "count": 4
+        },
+        {
+          "word": "infrastruktur",
+          "count": 3
+        },
+        {
+          "word": "schiffe",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

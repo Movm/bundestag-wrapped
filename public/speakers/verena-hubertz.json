@@ -1,0 +1,429 @@
+{
+  "name": "Verena Hubertz",
+  "party": "SPD",
+  "slug": "verena-hubertz",
+  "academicTitle": null,
+  "speeches": 7,
+  "wortbeitraege": 60,
+  "befragungResponses": 60,
+  "totalWords": 10783,
+  "avgWords": 161,
+  "minWords": 9,
+  "maxWords": 984,
+  "rankings": {
+    "speechRank": 266,
+    "wordsRank": 30,
+    "partySpeechRank": 59,
+    "partyWordsRank": 7,
+    "partySize": 109,
+    "totalSpeakers": 609,
+    "percentile": 56.3,
+    "verbosityRank": 516,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 90,
+    "longestSpeechRank": 73
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 13,
+    "interrupterRank": null,
+    "interruptedRank": 212
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "bauen",
+        "count": 55
+      },
+      {
+        "word": "land",
+        "count": 40
+      },
+      {
+        "word": "miteinander",
+        "count": 28
+      },
+      {
+        "word": "wohnen",
+        "count": 27
+      },
+      {
+        "word": "gemeinsam",
+        "count": 22
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "baugb",
+        "count": 6,
+        "ratioParty": 286.6,
+        "ratioBundestag": 103.7
+      },
+      {
+        "word": "vorkaufsrecht",
+        "count": 5,
+        "ratioParty": 119.4,
+        "ratioBundestag": 110.0
+      },
+      {
+        "word": "gebäudetyp",
+        "count": 9,
+        "ratioParty": 107.5,
+        "ratioBundestag": 103.7
+      },
+      {
+        "word": "gelsenkirchen",
+        "count": 6,
+        "ratioParty": 95.5,
+        "ratioBundestag": 58.1
+      },
+      {
+        "word": "turbo",
+        "count": 5,
+        "ratioParty": 79.6,
+        "ratioBundestag": 48.4
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "konstruktiv",
+        "count": 3,
+        "ratioParty": 5.5,
+        "ratioBundestag": 9.4
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 161,
+    "partyAvgWords": 637,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.25,
+    "vsParliament": 0.26
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "7"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "10.783"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Verena Hubertz häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Baugb",
+        "isCorrect": true
+      },
+      {
+        "text": "Abstimmung",
+        "isCorrect": false
+      },
+      {
+        "text": "Ausschuss",
+        "isCorrect": false
+      },
+      {
+        "text": "Wirtschaft",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Baugb\" nutzt Verena Hubertz 286.6× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "103.7× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Verena Hubertz häufiger als der Rest der SPD-Fraktion?",
+    "options": [
+      {
+        "text": "National",
+        "isCorrect": false
+      },
+      {
+        "text": "Neu",
+        "isCorrect": false
+      },
+      {
+        "text": "Konstruktiv",
+        "isCorrect": true
+      },
+      {
+        "text": "Erfolgreich",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Konstruktiv\" nutzt Verena Hubertz 5.5× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "9.4× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🦊",
+    "name": "Fuchs",
+    "title": "Clevere Strategin",
+    "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+    "id": "fuchs",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüterin",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 1.0
+      },
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißige Abgeordnete",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 73.3,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 94.4,
+      "collaboration": 88.9,
+      "demand_intensity": 0.0,
+      "acknowledgment": 8.0,
+      "authority": 75.3,
+      "future_orientation": 91.9,
+      "emotional_intensity": 26.5,
+      "inclusivity": 75.8,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 67,
+      "words": 6861,
+      "adjectives": 15,
+      "verbs": 87
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.15,
+      "klima": 1.75,
+      "wirtschaft": 2.04,
+      "soziales": 7.0,
+      "sicherheit": 0.0,
+      "gesundheit": 0.0,
+      "europa": 0.29,
+      "digital": 1.89,
+      "bildung": 0.29,
+      "finanzen": 6.56,
+      "justiz": 0.58,
+      "arbeit": 0.73,
+      "mobilitaet": 0.87
+    },
+    "topTopics": [
+      {
+        "topic": "soziales",
+        "score": 7.0,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 6.56,
+        "rank": 2
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 2.04,
+        "rank": 3
+      },
+      {
+        "topic": "digital",
+        "score": 1.89,
+        "rank": 4
+      },
+      {
+        "topic": "klima",
+        "score": 1.75,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "migranten",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "nachhaltig",
+          "count": 2
+        },
+        {
+          "word": "wald",
+          "count": 1
+        },
+        {
+          "word": "umweltschutz",
+          "count": 1
+        },
+        {
+          "word": "klimaschutz",
+          "count": 1
+        },
+        {
+          "word": "nachhaltigkeit",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "markt",
+          "count": 10
+        },
+        {
+          "word": "unternehmen",
+          "count": 1
+        },
+        {
+          "word": "fachkräfte",
+          "count": 1
+        },
+        {
+          "word": "fabrik",
+          "count": 1
+        },
+        {
+          "word": "automobilindustrie",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "wohnung",
+          "count": 12
+        },
+        {
+          "word": "wohnungen",
+          "count": 11
+        },
+        {
+          "word": "mietpreisbremse",
+          "count": 8
+        },
+        {
+          "word": "familien",
+          "count": 6
+        },
+        {
+          "word": "wohngeld",
+          "count": 3
+        }
+      ],
+      "europa": [
+        {
+          "word": "bündnis",
+          "count": 1
+        },
+        {
+          "word": "krieg",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "technologie",
+          "count": 6
+        },
+        {
+          "word": "digitalisierung",
+          "count": 4
+        },
+        {
+          "word": "digital",
+          "count": 1
+        },
+        {
+          "word": "automatisierung",
+          "count": 1
+        },
+        {
+          "word": "daten",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "kita",
+          "count": 1
+        },
+        {
+          "word": "schulen",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 15
+        },
+        {
+          "word": "sondervermögen",
+          "count": 9
+        },
+        {
+          "word": "etat",
+          "count": 3
+        },
+        {
+          "word": "kosten",
+          "count": 2
+        },
+        {
+          "word": "finanzminister",
+          "count": 2
+        }
+      ],
+      "justiz": [
+        {
+          "word": "novelle",
+          "count": 3
+        },
+        {
+          "word": "mietrecht",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "einkommen",
+          "count": 3
+        },
+        {
+          "word": "unbefristet",
+          "count": 1
+        },
+        {
+          "word": "gehalt",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 3
+        },
+        {
+          "word": "straße",
+          "count": 2
+        },
+        {
+          "word": "auto",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

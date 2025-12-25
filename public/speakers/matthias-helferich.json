@@ -1,0 +1,336 @@
+{
+  "name": "Matthias Helferich",
+  "party": "AfD",
+  "slug": "matthias-helferich",
+  "academicTitle": null,
+  "speeches": 8,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 2550,
+  "avgWords": 319,
+  "minWords": 53,
+  "maxWords": 572,
+  "rankings": {
+    "speechRank": 235,
+    "wordsRank": 406,
+    "partySpeechRank": 56,
+    "partyWordsRank": 92,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 61.4,
+    "verbosityRank": 447,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 111,
+    "longestSpeechRank": 456
+  },
+  "drama": {
+    "interruptionsGiven": 4,
+    "interruptionsReceived": 13,
+    "interrupterRank": 229,
+    "interruptedRank": 221
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "kulturstaatsminister",
+        "count": 25
+      },
+      {
+        "word": "kassiererin",
+        "count": 12
+      },
+      {
+        "word": "weimer",
+        "count": 9
+      },
+      {
+        "word": "hätte",
+        "count": 7
+      },
+      {
+        "word": "museum",
+        "count": 7
+      },
+      {
+        "word": "würde",
+        "count": 7
+      },
+      {
+        "word": "linken",
+        "count": 7
+      },
+      {
+        "word": "kultur",
+        "count": 6
+      },
+      {
+        "word": "staat",
+        "count": 5
+      },
+      {
+        "word": "deutschland",
+        "count": 5
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "museum",
+        "count": 7,
+        "ratioParty": 1504.1,
+        "ratioBundestag": 666.7
+      },
+      {
+        "word": "kassiererin",
+        "count": 12,
+        "ratioParty": 859.5,
+        "ratioBundestag": 1428.7
+      },
+      {
+        "word": "kulturstaatsminister",
+        "count": 25,
+        "ratioParty": 298.4,
+        "ratioBundestag": 432.9
+      },
+      {
+        "word": "group",
+        "count": 5,
+        "ratioParty": 119.4,
+        "ratioBundestag": 238.1
+      },
+      {
+        "word": "eigentümer",
+        "count": 5,
+        "ratioParty": 82.6,
+        "ratioBundestag": 176.4
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 319,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.54,
+    "vsParliament": 0.52
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "8"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "2.550"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Matthias Helferich häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Museum",
+        "isCorrect": true
+      },
+      {
+        "text": "Antrag",
+        "isCorrect": false
+      },
+      {
+        "text": "Steuern",
+        "isCorrect": false
+      },
+      {
+        "text": "Rente",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Museum\" nutzt Matthias Helferich 1504.1× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "666.7× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 25.0,
+      "aggression": 14.3,
+      "labeling": 28.6,
+      "solution_focus": 100.0,
+      "collaboration": 50.0,
+      "demand_intensity": 20.0,
+      "acknowledgment": 10.0,
+      "authority": 44.4,
+      "future_orientation": 58.8,
+      "emotional_intensity": 0.0,
+      "inclusivity": 42.4,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 8,
+      "words": 1749,
+      "adjectives": 7,
+      "verbs": 10
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.57,
+      "klima": 0.0,
+      "wirtschaft": 2.29,
+      "soziales": 2.29,
+      "sicherheit": 2.29,
+      "gesundheit": 0.0,
+      "europa": 2.29,
+      "digital": 0.57,
+      "bildung": 1.14,
+      "finanzen": 1.72,
+      "justiz": 1.72,
+      "arbeit": 0.0,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "wirtschaft",
+        "score": 2.29,
+        "rank": 1
+      },
+      {
+        "topic": "soziales",
+        "score": 2.29,
+        "rank": 2
+      },
+      {
+        "topic": "sicherheit",
+        "score": 2.29,
+        "rank": 3
+      },
+      {
+        "topic": "europa",
+        "score": 2.29,
+        "rank": 4
+      },
+      {
+        "topic": "finanzen",
+        "score": 1.72,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "migranten",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "konzerne",
+          "count": 1
+        },
+        {
+          "word": "firma",
+          "count": 1
+        },
+        {
+          "word": "markt",
+          "count": 1
+        },
+        {
+          "word": "werk",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "jugend",
+          "count": 1
+        },
+        {
+          "word": "kind",
+          "count": 1
+        },
+        {
+          "word": "familie",
+          "count": 1
+        },
+        {
+          "word": "jugendliche",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "gewalt",
+          "count": 1
+        },
+        {
+          "word": "polizisten",
+          "count": 1
+        },
+        {
+          "word": "verbrechen",
+          "count": 1
+        },
+        {
+          "word": "angriff",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 1
+        },
+        {
+          "word": "gipfel",
+          "count": 1
+        },
+        {
+          "word": "krieg",
+          "count": 1
+        },
+        {
+          "word": "brexit",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "daten",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "schüler",
+          "count": 2
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "kosten",
+          "count": 2
+        },
+        {
+          "word": "haushalt",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "verfassung",
+          "count": 1
+        },
+        {
+          "word": "staatsanwalt",
+          "count": 1
+        },
+        {
+          "word": "straftaten",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

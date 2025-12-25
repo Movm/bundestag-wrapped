@@ -1,0 +1,416 @@
+{
+  "name": "Peter Boehringer",
+  "party": "AfD",
+  "slug": "peter-boehringer",
+  "academicTitle": null,
+  "speeches": 7,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 3343,
+  "avgWords": 418,
+  "minWords": 60,
+  "maxWords": 644,
+  "rankings": {
+    "speechRank": 254,
+    "wordsRank": 329,
+    "partySpeechRank": 62,
+    "partyWordsRank": 80,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 58.3,
+    "verbosityRank": 306,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 71,
+    "longestSpeechRank": 370
+  },
+  "drama": {
+    "interruptionsGiven": 33,
+    "interruptionsReceived": 1,
+    "interrupterRank": 56,
+    "interruptedRank": 563
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "deutschland",
+        "count": 14
+      },
+      {
+        "word": "deutschen",
+        "count": 13
+      },
+      {
+        "word": "brüssel",
+        "count": 10
+      },
+      {
+        "word": "merz",
+        "count": 7
+      },
+      {
+        "word": "ukraine",
+        "count": 7
+      },
+      {
+        "word": "recht",
+        "count": 7
+      },
+      {
+        "word": "inzwischen",
+        "count": 6
+      },
+      {
+        "word": "planwirtschaft",
+        "count": 6
+      },
+      {
+        "word": "kommission",
+        "count": 6
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "gemeinschaftsschulden",
+        "count": 5,
+        "ratioParty": 845.0,
+        "ratioBundestag": 3749.2
+      },
+      {
+        "word": "brüssel",
+        "count": 10,
+        "ratioParty": 25.2,
+        "ratioBundestag": 34.2
+      },
+      {
+        "word": "finanzminister",
+        "count": 5,
+        "ratioParty": 20.1,
+        "ratioBundestag": 20.9
+      },
+      {
+        "word": "ernsthaft",
+        "count": 5,
+        "ratioParty": 18.8,
+        "ratioBundestag": 20.4
+      },
+      {
+        "word": "planwirtschaft",
+        "count": 6,
+        "ratioParty": 15.1,
+        "ratioBundestag": 50.6
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "stark",
+        "count": 3,
+        "ratioParty": 7.7,
+        "ratioBundestag": 5.5
+      },
+      {
+        "word": "sicher",
+        "count": 5,
+        "ratioParty": 6.9,
+        "ratioBundestag": 5.0
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 418,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.71,
+    "vsParliament": 0.68
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "7"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "3.343"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufe",
+      "value": "33"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Peter Boehringer häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Gemeinschaftsschulden",
+        "isCorrect": true
+      },
+      {
+        "text": "Wirtschaft",
+        "isCorrect": false
+      },
+      {
+        "text": "Kanzler",
+        "isCorrect": false
+      },
+      {
+        "text": "Gesetzentwurf",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Gemeinschaftsschulden\" nutzt Peter Boehringer 845.0× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "3749.2× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Peter Boehringer häufiger als der Rest der AfD-Fraktion?",
+    "options": [
+      {
+        "text": "Groß",
+        "isCorrect": false
+      },
+      {
+        "text": "Politisch",
+        "isCorrect": false
+      },
+      {
+        "text": "Wichtig",
+        "isCorrect": false
+      },
+      {
+        "text": "Stark",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Stark\" nutzt Peter Boehringer 7.7× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "5.5× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 75.0,
+      "aggression": 7.1,
+      "labeling": 7.1,
+      "solution_focus": 69.2,
+      "collaboration": 33.3,
+      "demand_intensity": 5.9,
+      "acknowledgment": 0.0,
+      "authority": 81.5,
+      "future_orientation": 90.9,
+      "emotional_intensity": 80.0,
+      "inclusivity": 52.5,
+      "discriminatory": 0.45
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 8,
+      "words": 2221,
+      "adjectives": 14,
+      "verbs": 17
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.9,
+      "klima": 1.8,
+      "wirtschaft": 3.6,
+      "soziales": 0.45,
+      "sicherheit": 5.85,
+      "gesundheit": 1.35,
+      "europa": 17.56,
+      "digital": 0.9,
+      "bildung": 0.0,
+      "finanzen": 18.91,
+      "justiz": 4.05,
+      "arbeit": 0.9,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "finanzen",
+        "score": 18.91,
+        "rank": 1
+      },
+      {
+        "topic": "europa",
+        "score": 17.56,
+        "rank": 2
+      },
+      {
+        "topic": "sicherheit",
+        "score": 5.85,
+        "rank": 3
+      },
+      {
+        "topic": "justiz",
+        "score": 4.05,
+        "rank": 4
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 3.6,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "dublin",
+          "count": 2
+        }
+      ],
+      "klima": [
+        {
+          "word": "klimaneutralität",
+          "count": 3
+        },
+        {
+          "word": "klimaneutral",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "wachstum",
+          "count": 3
+        },
+        {
+          "word": "firma",
+          "count": 1
+        },
+        {
+          "word": "unternehmen",
+          "count": 1
+        },
+        {
+          "word": "kredite",
+          "count": 1
+        },
+        {
+          "word": "handel",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "umverteilung",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "waffen",
+          "count": 3
+        },
+        {
+          "word": "panzer",
+          "count": 2
+        },
+        {
+          "word": "militär",
+          "count": 2
+        },
+        {
+          "word": "rüstung",
+          "count": 1
+        },
+        {
+          "word": "verteidigung",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "corona",
+          "count": 3
+        }
+      ],
+      "europa": [
+        {
+          "word": "brüssel",
+          "count": 10
+        },
+        {
+          "word": "ukraine",
+          "count": 7
+        },
+        {
+          "word": "frieden",
+          "count": 6
+        },
+        {
+          "word": "europa",
+          "count": 5
+        },
+        {
+          "word": "eurozone",
+          "count": 2
+        }
+      ],
+      "digital": [
+        {
+          "word": "digital",
+          "count": 1
+        },
+        {
+          "word": "plattformen",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "schulden",
+          "count": 5
+        },
+        {
+          "word": "finanzminister",
+          "count": 5
+        },
+        {
+          "word": "steuerzahler",
+          "count": 4
+        },
+        {
+          "word": "investitionen",
+          "count": 4
+        },
+        {
+          "word": "investition",
+          "count": 3
+        }
+      ],
+      "justiz": [
+        {
+          "word": "verfassung",
+          "count": 1
+        },
+        {
+          "word": "grundgesetz",
+          "count": 1
+        },
+        {
+          "word": "rechtsprechung",
+          "count": 1
+        },
+        {
+          "word": "rechtsstaatlichkeit",
+          "count": 1
+        },
+        {
+          "word": "rechtsstaat",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "rentenversicherung",
+          "count": 1
+        },
+        {
+          "word": "arbeitslose",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

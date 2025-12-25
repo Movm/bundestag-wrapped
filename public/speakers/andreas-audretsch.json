@@ -1,0 +1,492 @@
+{
+  "name": "Andreas Audretsch",
+  "party": "GRÜNE",
+  "slug": "andreas-audretsch",
+  "academicTitle": null,
+  "speeches": 13,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 7593,
+  "avgWords": 542,
+  "minWords": 66,
+  "maxWords": 760,
+  "rankings": {
+    "speechRank": 56,
+    "wordsRank": 78,
+    "partySpeechRank": 11,
+    "partyWordsRank": 10,
+    "partySize": 85,
+    "totalSpeakers": 609,
+    "percentile": 90.8,
+    "verbosityRank": 119,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 13,
+    "longestSpeechRank": 237
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 52,
+    "interrupterRank": null,
+    "interruptedRank": 16
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 51
+      },
+      {
+        "word": "deutschland",
+        "count": 40
+      },
+      {
+        "word": "politik",
+        "count": 31
+      },
+      {
+        "word": "spahn",
+        "count": 23
+      },
+      {
+        "word": "zukunft",
+        "count": 18
+      },
+      {
+        "word": "geld",
+        "count": 15
+      },
+      {
+        "word": "land",
+        "count": 15
+      },
+      {
+        "word": "merz",
+        "count": 15
+      },
+      {
+        "word": "unternehmen",
+        "count": 15
+      },
+      {
+        "word": "investitionen",
+        "count": 14
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "zwickau",
+        "count": 5,
+        "ratioParty": 125.2,
+        "ratioBundestag": 196.4
+      },
+      {
+        "word": "breite",
+        "count": 6,
+        "ratioParty": 27.3,
+        "ratioBundestag": 16.6
+      },
+      {
+        "word": "elektromobilität",
+        "count": 8,
+        "ratioParty": 25.0,
+        "ratioBundestag": 32.1
+      },
+      {
+        "word": "spahn",
+        "count": 23,
+        "ratioParty": 18.6,
+        "ratioBundestag": 36.6
+      },
+      {
+        "word": "strom",
+        "count": 7,
+        "ratioParty": 16.7,
+        "ratioBundestag": 9.1
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "absurd",
+        "count": 4,
+        "ratioParty": 9.1,
+        "ratioBundestag": 12.6
+      },
+      {
+        "word": "teuer",
+        "count": 3,
+        "ratioParty": 4.4,
+        "ratioBundestag": 4.8
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 542,
+    "partyAvgWords": 567,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.96,
+    "vsParliament": 0.88
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "13"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "7.593"
+    },
+    {
+      "emoji": "📊",
+      "label": "Top-Redner",
+      "value": "Top 10%"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Andreas Audretsch häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Gesetz",
+        "isCorrect": false
+      },
+      {
+        "text": "Arbeit",
+        "isCorrect": false
+      },
+      {
+        "text": "Antrag",
+        "isCorrect": false
+      },
+      {
+        "text": "Zwickau",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Zwickau\" nutzt Andreas Audretsch 125.2× häufiger als der GRÜNE-Durchschnitt.",
+    "explanationBundestag": "196.4× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Andreas Audretsch häufiger als der Rest der GRÜNE-Fraktion?",
+    "options": [
+      {
+        "text": "Sozial",
+        "isCorrect": false
+      },
+      {
+        "text": "Absurd",
+        "isCorrect": true
+      },
+      {
+        "text": "Wichtig",
+        "isCorrect": false
+      },
+      {
+        "text": "Falsch",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Absurd\" nutzt Andreas Audretsch 9.1× häufiger als der GRÜNE-Durchschnitt.",
+    "explanationBundestag": "12.6× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐿️",
+    "name": "Eichhörnchen",
+    "title": "Themenhüter",
+    "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+    "id": "eichhoernchen",
+    "alternatives": [
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißiger Abgeordneter",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      },
+      {
+        "emoji": "🐻",
+        "name": "Bär",
+        "title": "Standhafter Debattierer",
+        "reason": "Trotz 52× unterbrochen zu werden, bleibst du standhaft.",
+        "id": "baer",
+        "score": 0.978
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 26.7,
+      "aggression": 26.1,
+      "labeling": 8.7,
+      "solution_focus": 55.0,
+      "collaboration": 33.3,
+      "demand_intensity": 0.0,
+      "acknowledgment": 0.0,
+      "authority": 78.2,
+      "future_orientation": 79.2,
+      "emotional_intensity": 73.0,
+      "inclusivity": 46.3,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 14,
+      "words": 4705,
+      "adjectives": 23,
+      "verbs": 43
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.21,
+      "klima": 2.98,
+      "wirtschaft": 9.14,
+      "soziales": 5.53,
+      "sicherheit": 1.06,
+      "gesundheit": 0.43,
+      "europa": 3.61,
+      "digital": 0.21,
+      "bildung": 1.06,
+      "finanzen": 8.5,
+      "justiz": 0.21,
+      "arbeit": 2.13,
+      "mobilitaet": 5.31
+    },
+    "topTopics": [
+      {
+        "topic": "wirtschaft",
+        "score": 9.14,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 8.5,
+        "rank": 2
+      },
+      {
+        "topic": "soziales",
+        "score": 5.53,
+        "rank": 3
+      },
+      {
+        "topic": "mobilitaet",
+        "score": 5.31,
+        "rank": 4
+      },
+      {
+        "topic": "europa",
+        "score": 3.61,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "grenze",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "klimaschutz",
+          "count": 4
+        },
+        {
+          "word": "erneuerbare",
+          "count": 2
+        },
+        {
+          "word": "klimaneutralität",
+          "count": 2
+        },
+        {
+          "word": "solarenergie",
+          "count": 1
+        },
+        {
+          "word": "windenergie",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 15
+        },
+        {
+          "word": "handwerk",
+          "count": 6
+        },
+        {
+          "word": "insolvenzen",
+          "count": 2
+        },
+        {
+          "word": "industrie",
+          "count": 2
+        },
+        {
+          "word": "markt",
+          "count": 2
+        }
+      ],
+      "soziales": [
+        {
+          "word": "rente",
+          "count": 8
+        },
+        {
+          "word": "wohnungen",
+          "count": 4
+        },
+        {
+          "word": "altersvorsorge",
+          "count": 3
+        },
+        {
+          "word": "familie",
+          "count": 2
+        },
+        {
+          "word": "wohnung",
+          "count": 2
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "angriff",
+          "count": 2
+        },
+        {
+          "word": "verfassungsschutz",
+          "count": 1
+        },
+        {
+          "word": "bundeswehr",
+          "count": 1
+        },
+        {
+          "word": "korruption",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "medikamente",
+          "count": 2
+        }
+      ],
+      "europa": [
+        {
+          "word": "putin",
+          "count": 3
+        },
+        {
+          "word": "vertrag",
+          "count": 3
+        },
+        {
+          "word": "china",
+          "count": 3
+        },
+        {
+          "word": "europa",
+          "count": 2
+        },
+        {
+          "word": "bündnis",
+          "count": 2
+        }
+      ],
+      "digital": [
+        {
+          "word": "technologie",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "schulen",
+          "count": 4
+        },
+        {
+          "word": "bildung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "investitionen",
+          "count": 14
+        },
+        {
+          "word": "sondervermögen",
+          "count": 5
+        },
+        {
+          "word": "steuern",
+          "count": 5
+        },
+        {
+          "word": "erbschaftsteuer",
+          "count": 3
+        },
+        {
+          "word": "etat",
+          "count": 2
+        }
+      ],
+      "justiz": [
+        {
+          "word": "beschluss",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitslose",
+          "count": 2
+        },
+        {
+          "word": "arbeiter",
+          "count": 2
+        },
+        {
+          "word": "lohn",
+          "count": 1
+        },
+        {
+          "word": "löhne",
+          "count": 1
+        },
+        {
+          "word": "arbeitsplätze",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "elektromobilität",
+          "count": 8
+        },
+        {
+          "word": "autos",
+          "count": 6
+        },
+        {
+          "word": "bahn",
+          "count": 3
+        },
+        {
+          "word": "infrastruktur",
+          "count": 3
+        },
+        {
+          "word": "schiene",
+          "count": 2
+        }
+      ]
+    }
+  }
+}

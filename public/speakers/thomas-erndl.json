@@ -1,0 +1,467 @@
+{
+  "name": "Thomas Erndl",
+  "party": "CDU/CSU",
+  "slug": "thomas-erndl",
+  "academicTitle": null,
+  "speeches": 15,
+  "wortbeitraege": 3,
+  "befragungResponses": 0,
+  "totalWords": 6747,
+  "avgWords": 375,
+  "minWords": 12,
+  "maxWords": 1031,
+  "rankings": {
+    "speechRank": 29,
+    "wordsRank": 99,
+    "partySpeechRank": 7,
+    "partyWordsRank": 30,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 95.2,
+    "verbosityRank": 375,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 129,
+    "longestSpeechRank": 61
+  },
+  "drama": {
+    "interruptionsGiven": 10,
+    "interruptionsReceived": 4,
+    "interrupterRank": 158,
+    "interruptedRank": 430
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "sicherheit",
+        "count": 33
+      },
+      {
+        "word": "bundeswehr",
+        "count": 31
+      },
+      {
+        "word": "neuen",
+        "count": 21
+      },
+      {
+        "word": "wehrdienst",
+        "count": 20
+      },
+      {
+        "word": "land",
+        "count": 20
+      },
+      {
+        "word": "gesellschaft",
+        "count": 19
+      },
+      {
+        "word": "soldaten",
+        "count": 18
+      },
+      {
+        "word": "verantwortung",
+        "count": 17
+      },
+      {
+        "word": "europa",
+        "count": 16
+      },
+      {
+        "word": "soldatinnen",
+        "count": 13
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "wehrbeauftragte",
+        "count": 5,
+        "ratioParty": 118.2,
+        "ratioBundestag": 84.3
+      },
+      {
+        "word": "wehrdienst",
+        "count": 20,
+        "ratioParty": 76.3,
+        "ratioBundestag": 60.3
+      },
+      {
+        "word": "wehrbeauftragter",
+        "count": 6,
+        "ratioParty": 59.1,
+        "ratioBundestag": 44.5
+      },
+      {
+        "word": "kehren",
+        "count": 5,
+        "ratioParty": 49.2,
+        "ratioBundestag": 38.7
+      },
+      {
+        "word": "truppe",
+        "count": 7,
+        "ratioParty": 31.8,
+        "ratioBundestag": 24.1
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "konstruktiv",
+        "count": 3,
+        "ratioParty": 14.2,
+        "ratioBundestag": 14.5
+      },
+      {
+        "word": "entscheidend",
+        "count": 4,
+        "ratioParty": 3.4,
+        "ratioBundestag": 5.5
+      },
+      {
+        "word": "sicher",
+        "count": 6,
+        "ratioParty": 2.6,
+        "ratioBundestag": 3.0
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 375,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.55,
+    "vsParliament": 0.61
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "15"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "6.747"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufe",
+      "value": "10"
+    },
+    {
+      "emoji": "📊",
+      "label": "Top-Redner",
+      "value": "Top 5%"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Thomas Erndl häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Energie",
+        "isCorrect": false
+      },
+      {
+        "text": "Gesetzentwurf",
+        "isCorrect": false
+      },
+      {
+        "text": "Reform",
+        "isCorrect": false
+      },
+      {
+        "text": "Wehrbeauftragte",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Wehrbeauftragte\" nutzt Thomas Erndl 118.2× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "84.3× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Thomas Erndl häufiger als der Rest der CDU/CSU-Fraktion?",
+    "options": [
+      {
+        "text": "Gut",
+        "isCorrect": false
+      },
+      {
+        "text": "Problematisch",
+        "isCorrect": false
+      },
+      {
+        "text": "Konstruktiv",
+        "isCorrect": true
+      },
+      {
+        "text": "Sozial",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Konstruktiv\" nutzt Thomas Erndl 14.2× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "14.5× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐿️",
+    "name": "Eichhörnchen",
+    "title": "Themenhüter",
+    "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+    "id": "eichhoernchen",
+    "alternatives": [
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißiger Abgeordneter",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      },
+      {
+        "emoji": "🦦",
+        "name": "Otter",
+        "title": "Positiver Teamplayer",
+        "reason": "Du bringst gute Stimmung und konstruktive Beiträge ins Plenum.",
+        "id": "otter",
+        "score": 0.958
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 93.1,
+      "aggression": 0.0,
+      "labeling": 6.5,
+      "solution_focus": 95.2,
+      "collaboration": 100.0,
+      "demand_intensity": 5.4,
+      "acknowledgment": 8.9,
+      "authority": 80.1,
+      "future_orientation": 97.0,
+      "emotional_intensity": 54.5,
+      "inclusivity": 79.1,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 18,
+      "words": 4482,
+      "adjectives": 31,
+      "verbs": 56
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.22,
+      "klima": 0.45,
+      "wirtschaft": 1.12,
+      "soziales": 0.67,
+      "sicherheit": 18.96,
+      "gesundheit": 0.22,
+      "europa": 13.61,
+      "digital": 0.89,
+      "bildung": 0.45,
+      "finanzen": 2.9,
+      "justiz": 0.45,
+      "arbeit": 0.45,
+      "mobilitaet": 0.89
+    },
+    "topTopics": [
+      {
+        "topic": "sicherheit",
+        "score": 18.96,
+        "rank": 1
+      },
+      {
+        "topic": "europa",
+        "score": 13.61,
+        "rank": 2
+      },
+      {
+        "topic": "finanzen",
+        "score": 2.9,
+        "rank": 3
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 1.12,
+        "rank": 4
+      },
+      {
+        "topic": "digital",
+        "score": 0.89,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "integration",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "ökosystem",
+          "count": 1
+        },
+        {
+          "word": "nachhaltig",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "produktion",
+          "count": 1
+        },
+        {
+          "word": "mittelstand",
+          "count": 1
+        },
+        {
+          "word": "betrieb",
+          "count": 1
+        },
+        {
+          "word": "industrie",
+          "count": 1
+        },
+        {
+          "word": "unternehmen",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "familie",
+          "count": 2
+        },
+        {
+          "word": "familien",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "bundeswehr",
+          "count": 31
+        },
+        {
+          "word": "soldaten",
+          "count": 18
+        },
+        {
+          "word": "verteidigungsfähigkeit",
+          "count": 8
+        },
+        {
+          "word": "armee",
+          "count": 7
+        },
+        {
+          "word": "abschreckung",
+          "count": 4
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "fallzahl",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 16
+        },
+        {
+          "word": "nato",
+          "count": 13
+        },
+        {
+          "word": "russland",
+          "count": 5
+        },
+        {
+          "word": "bündnis",
+          "count": 5
+        },
+        {
+          "word": "ukraine",
+          "count": 5
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 2
+        },
+        {
+          "word": "technologie",
+          "count": 1
+        },
+        {
+          "word": "desinformation",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "ausbildung",
+          "count": 1
+        },
+        {
+          "word": "forschung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 4
+        },
+        {
+          "word": "investitionen",
+          "count": 3
+        },
+        {
+          "word": "sondervermögen",
+          "count": 2
+        },
+        {
+          "word": "schuldenbremse",
+          "count": 2
+        },
+        {
+          "word": "etat",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "grundgesetz",
+          "count": 1
+        },
+        {
+          "word": "beschluss",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "angestellte",
+          "count": 1
+        },
+        {
+          "word": "befristung",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 4
+        }
+      ]
+    }
+  }
+}

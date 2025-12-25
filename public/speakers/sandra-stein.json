@@ -1,0 +1,457 @@
+{
+  "name": "Sandra Stein",
+  "party": "GRÜNE",
+  "slug": "sandra-stein",
+  "academicTitle": null,
+  "speeches": 6,
+  "wortbeitraege": 2,
+  "befragungResponses": 0,
+  "totalWords": 3497,
+  "avgWords": 437,
+  "minWords": 71,
+  "maxWords": 790,
+  "rankings": {
+    "speechRank": 308,
+    "wordsRank": 314,
+    "partySpeechRank": 51,
+    "partyWordsRank": 48,
+    "partySize": 85,
+    "totalSpeakers": 609,
+    "percentile": 49.4,
+    "verbosityRank": 268,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 31,
+    "longestSpeechRank": 205
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 23,
+    "interrupterRank": null,
+    "interruptedRank": 96
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "wirtschaft",
+        "count": 17
+      },
+      {
+        "word": "menschen",
+        "count": 17
+      },
+      {
+        "word": "regierung",
+        "count": 13
+      },
+      {
+        "word": "mittelstand",
+        "count": 13
+      },
+      {
+        "word": "unternehmen",
+        "count": 13
+      },
+      {
+        "word": "deutschland",
+        "count": 12
+      },
+      {
+        "word": "betriebe",
+        "count": 11
+      },
+      {
+        "word": "klar",
+        "count": 8
+      },
+      {
+        "word": "ehrlich",
+        "count": 8
+      },
+      {
+        "word": "bundesregierung",
+        "count": 8
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "betriebe",
+        "count": 11,
+        "ratioParty": 78.0,
+        "ratioBundestag": 29.2
+      },
+      {
+        "word": "mittelstand",
+        "count": 13,
+        "ratioParty": 55.3,
+        "ratioBundestag": 38.8
+      },
+      {
+        "word": "wirtschaftspolitik",
+        "count": 6,
+        "ratioParty": 31.9,
+        "ratioBundestag": 30.8
+      },
+      {
+        "word": "handwerk",
+        "count": 7,
+        "ratioParty": 31.0,
+        "ratioBundestag": 45.3
+      },
+      {
+        "word": "ideen",
+        "count": 7,
+        "ratioParty": 28.6,
+        "ratioBundestag": 26.3
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "wesentlich",
+        "count": 3,
+        "ratioParty": 35.4,
+        "ratioBundestag": 30.6
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 437,
+    "partyAvgWords": 567,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.77,
+    "vsParliament": 0.71
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "6"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "3.497"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Sandra Stein häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Bildung",
+        "isCorrect": false
+      },
+      {
+        "text": "Europa",
+        "isCorrect": false
+      },
+      {
+        "text": "Betriebe",
+        "isCorrect": true
+      },
+      {
+        "text": "Migration",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Betriebe\" nutzt Sandra Stein 78.0× häufiger als der GRÜNE-Durchschnitt.",
+    "explanationBundestag": "29.2× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Sandra Stein häufiger als der Rest der GRÜNE-Fraktion?",
+    "options": [
+      {
+        "text": "Politisch",
+        "isCorrect": false
+      },
+      {
+        "text": "Wesentlich",
+        "isCorrect": true
+      },
+      {
+        "text": "Klar",
+        "isCorrect": false
+      },
+      {
+        "text": "Alt",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Wesentlich\" nutzt Sandra Stein 35.4× häufiger als der GRÜNE-Durchschnitt.",
+    "explanationBundestag": "30.6× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🦫",
+    "name": "Biber",
+    "title": "Konstruktive Brückenbauerin",
+    "reason": "Du baust Brücken zwischen Positionen – kooperativ und lösungsorientiert.",
+    "id": "biber",
+    "alternatives": [
+      {
+        "emoji": "🐬",
+        "name": "Delfin",
+        "title": "Diplomatische Rednerin",
+        "reason": "Aktiv im Parlament, aber respektvoll ohne viele Zwischenrufe.",
+        "id": "delfin",
+        "score": 0.95
+      },
+      {
+        "emoji": "🦔",
+        "name": "Igel",
+        "title": "Beharrliche Rednerin",
+        "reason": "Auch wenn du oft unterbrochen wirst – du lässt dich nicht beirren.",
+        "id": "igel",
+        "score": 0.95
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 75.0,
+      "aggression": 7.1,
+      "labeling": 7.1,
+      "solution_focus": 94.1,
+      "collaboration": 100.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 0.0,
+      "authority": 83.6,
+      "future_orientation": 88.5,
+      "emotional_intensity": 75.0,
+      "inclusivity": 51.6,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 8,
+      "words": 2240,
+      "adjectives": 14,
+      "verbs": 18
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 4.91,
+      "klima": 6.25,
+      "wirtschaft": 33.48,
+      "soziales": 2.68,
+      "sicherheit": 0.0,
+      "gesundheit": 0.0,
+      "europa": 1.34,
+      "digital": 0.45,
+      "bildung": 3.57,
+      "finanzen": 4.46,
+      "justiz": 0.45,
+      "arbeit": 4.46,
+      "mobilitaet": 2.68
+    },
+    "topTopics": [
+      {
+        "topic": "wirtschaft",
+        "score": 33.48,
+        "rank": 1
+      },
+      {
+        "topic": "klima",
+        "score": 6.25,
+        "rank": 2
+      },
+      {
+        "topic": "migration",
+        "score": 4.91,
+        "rank": 3
+      },
+      {
+        "topic": "finanzen",
+        "score": 4.46,
+        "rank": 4
+      },
+      {
+        "topic": "arbeit",
+        "score": 4.46,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "geflüchtete",
+          "count": 5
+        },
+        {
+          "word": "migration",
+          "count": 3
+        },
+        {
+          "word": "integration",
+          "count": 2
+        },
+        {
+          "word": "asylverfahren",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "energie",
+          "count": 7
+        },
+        {
+          "word": "klimaschutz",
+          "count": 3
+        },
+        {
+          "word": "klimawandel",
+          "count": 2
+        },
+        {
+          "word": "kreislaufwirtschaft",
+          "count": 1
+        },
+        {
+          "word": "klimapolitik",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "mittelstand",
+          "count": 13
+        },
+        {
+          "word": "unternehmen",
+          "count": 13
+        },
+        {
+          "word": "betriebe",
+          "count": 11
+        },
+        {
+          "word": "wettbewerbsfähigkeit",
+          "count": 7
+        },
+        {
+          "word": "handwerk",
+          "count": 7
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 3
+        },
+        {
+          "word": "bürgergeld",
+          "count": 1
+        },
+        {
+          "word": "sozialstaat",
+          "count": 1
+        },
+        {
+          "word": "rente",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "china",
+          "count": 2
+        },
+        {
+          "word": "europa",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "netz",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "hochschulen",
+          "count": 2
+        },
+        {
+          "word": "ausbildung",
+          "count": 2
+        },
+        {
+          "word": "universitäten",
+          "count": 1
+        },
+        {
+          "word": "schulen",
+          "count": 1
+        },
+        {
+          "word": "auszubildende",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "investitionen",
+          "count": 4
+        },
+        {
+          "word": "schulden",
+          "count": 2
+        },
+        {
+          "word": "haushalt",
+          "count": 1
+        },
+        {
+          "word": "bundeshaushalt",
+          "count": 1
+        },
+        {
+          "word": "kosten",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "urteil",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitsplätze",
+          "count": 3
+        },
+        {
+          "word": "sozialabgaben",
+          "count": 2
+        },
+        {
+          "word": "arbeitskräfte",
+          "count": 2
+        },
+        {
+          "word": "arbeitnehmerinnen",
+          "count": 1
+        },
+        {
+          "word": "arbeitnehmer",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 3
+        },
+        {
+          "word": "straße",
+          "count": 2
+        },
+        {
+          "word": "straßen",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

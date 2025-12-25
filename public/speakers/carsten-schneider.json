@@ -1,0 +1,477 @@
+{
+  "name": "Carsten Schneider",
+  "party": "SPD",
+  "slug": "carsten-schneider",
+  "academicTitle": null,
+  "speeches": 11,
+  "wortbeitraege": 37,
+  "befragungResponses": 37,
+  "totalWords": 11792,
+  "avgWords": 246,
+  "minWords": 14,
+  "maxWords": 1279,
+  "rankings": {
+    "speechRank": 111,
+    "wordsRank": 16,
+    "partySpeechRank": 29,
+    "partyWordsRank": 4,
+    "partySize": 109,
+    "totalSpeakers": 609,
+    "percentile": 81.8,
+    "verbosityRank": 495,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 87,
+    "longestSpeechRank": 27
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 24,
+    "interrupterRank": null,
+    "interruptedRank": 91
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "deutschland",
+        "count": 51
+      },
+      {
+        "word": "klimaschutz",
+        "count": 38
+      },
+      {
+        "word": "umwelt",
+        "count": 36
+      },
+      {
+        "word": "kollege",
+        "count": 27
+      },
+      {
+        "word": "natur",
+        "count": 26
+      },
+      {
+        "word": "bundesregierung",
+        "count": 24
+      },
+      {
+        "word": "habe",
+        "count": 22
+      },
+      {
+        "word": "unternehmen",
+        "count": 21
+      },
+      {
+        "word": "kollegin",
+        "count": 20
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "treibhausgasemissionen",
+        "count": 5,
+        "ratioParty": 111.5,
+        "ratioBundestag": 161.6
+      },
+      {
+        "word": "mooren",
+        "count": 5,
+        "ratioParty": 111.5,
+        "ratioBundestag": 141.4
+      },
+      {
+        "word": "klimaschutzpolitik",
+        "count": 6,
+        "ratioParty": 66.9,
+        "ratioBundestag": 50.3
+      },
+      {
+        "word": "naturschutz",
+        "count": 15,
+        "ratioParty": 47.8,
+        "ratioBundestag": 29.3
+      },
+      {
+        "word": "brasilien",
+        "count": 6,
+        "ratioParty": 44.6,
+        "ratioBundestag": 33.9
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "zentral",
+        "count": 4,
+        "ratioParty": 4.1,
+        "ratioBundestag": 7.5
+      },
+      {
+        "word": "geschützt",
+        "count": 3,
+        "ratioParty": 3.5,
+        "ratioBundestag": 4.9
+      },
+      {
+        "word": "nachhaltig",
+        "count": 3,
+        "ratioParty": 3.4,
+        "ratioBundestag": 4.0
+      },
+      {
+        "word": "erfolgreich",
+        "count": 3,
+        "ratioParty": 2.8,
+        "ratioBundestag": 3.0
+      },
+      {
+        "word": "wirtschaftlich",
+        "count": 3,
+        "ratioParty": 2.7,
+        "ratioBundestag": 3.0
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 246,
+    "partyAvgWords": 637,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.39,
+    "vsParliament": 0.4
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "11"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "11.792"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Carsten Schneider häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Verantwortung",
+        "isCorrect": false
+      },
+      {
+        "text": "Treibhausgasemissionen",
+        "isCorrect": true
+      },
+      {
+        "text": "Koalition",
+        "isCorrect": false
+      },
+      {
+        "text": "Kinder",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Treibhausgasemissionen\" nutzt Carsten Schneider 111.5× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "161.6× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Carsten Schneider häufiger als der Rest der SPD-Fraktion?",
+    "options": [
+      {
+        "text": "Alt",
+        "isCorrect": false
+      },
+      {
+        "text": "Richtig",
+        "isCorrect": false
+      },
+      {
+        "text": "Zentral",
+        "isCorrect": true
+      },
+      {
+        "text": "Schlecht",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Zentral\" nutzt Carsten Schneider 4.1× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "7.5× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐿️",
+    "name": "Eichhörnchen",
+    "title": "Themenhüter",
+    "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+    "id": "eichhoernchen",
+    "alternatives": [
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißiger Abgeordneter",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      },
+      {
+        "emoji": "🦔",
+        "name": "Igel",
+        "title": "Beharrlicher Redner",
+        "reason": "Auch wenn du oft unterbrochen wirst – du lässt dich nicht beirren.",
+        "id": "igel",
+        "score": 0.985
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 92.3,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 94.0,
+      "collaboration": 83.3,
+      "demand_intensity": 6.1,
+      "acknowledgment": 7.1,
+      "authority": 84.4,
+      "future_orientation": 89.3,
+      "emotional_intensity": 28.1,
+      "inclusivity": 53.9,
+      "discriminatory": 0.27
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 48,
+      "words": 7339,
+      "adjectives": 39,
+      "verbs": 98
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.14,
+      "klima": 24.53,
+      "wirtschaft": 6.54,
+      "soziales": 0.14,
+      "sicherheit": 0.0,
+      "gesundheit": 0.0,
+      "europa": 3.82,
+      "digital": 0.82,
+      "bildung": 1.09,
+      "finanzen": 3.68,
+      "justiz": 0.55,
+      "arbeit": 1.5,
+      "mobilitaet": 2.59
+    },
+    "topTopics": [
+      {
+        "topic": "klima",
+        "score": 24.53,
+        "rank": 1
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 6.54,
+        "rank": 2
+      },
+      {
+        "topic": "europa",
+        "score": 3.82,
+        "rank": 3
+      },
+      {
+        "topic": "finanzen",
+        "score": 3.68,
+        "rank": 4
+      },
+      {
+        "topic": "mobilitaet",
+        "score": 2.59,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "schutzstatus",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "klimaschutz",
+          "count": 38
+        },
+        {
+          "word": "umwelt",
+          "count": 36
+        },
+        {
+          "word": "naturschutz",
+          "count": 15
+        },
+        {
+          "word": "kreislaufwirtschaft",
+          "count": 8
+        },
+        {
+          "word": "wälder",
+          "count": 8
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 21
+        },
+        {
+          "word": "industrie",
+          "count": 9
+        },
+        {
+          "word": "wettbewerbsfähigkeit",
+          "count": 3
+        },
+        {
+          "word": "wachstum",
+          "count": 3
+        },
+        {
+          "word": "wettbewerb",
+          "count": 2
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 14
+        },
+        {
+          "word": "china",
+          "count": 5
+        },
+        {
+          "word": "abkommen",
+          "count": 3
+        },
+        {
+          "word": "bündnis",
+          "count": 2
+        },
+        {
+          "word": "nato",
+          "count": 2
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 2
+        },
+        {
+          "word": "plattform",
+          "count": 2
+        },
+        {
+          "word": "technologie",
+          "count": 2
+        }
+      ],
+      "bildung": [
+        {
+          "word": "forschung",
+          "count": 3
+        },
+        {
+          "word": "wissenschaft",
+          "count": 3
+        },
+        {
+          "word": "professor",
+          "count": 1
+        },
+        {
+          "word": "wissenschaftsfreiheit",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "investitionen",
+          "count": 8
+        },
+        {
+          "word": "haushalt",
+          "count": 5
+        },
+        {
+          "word": "sondervermögen",
+          "count": 4
+        },
+        {
+          "word": "haushaltsausschuss",
+          "count": 2
+        },
+        {
+          "word": "bundeshaushalt",
+          "count": 2
+        }
+      ],
+      "justiz": [
+        {
+          "word": "grundgesetz",
+          "count": 3
+        },
+        {
+          "word": "beschluss",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitsplätze",
+          "count": 5
+        },
+        {
+          "word": "einkommen",
+          "count": 4
+        },
+        {
+          "word": "gewerkschaften",
+          "count": 1
+        },
+        {
+          "word": "beschäftigte",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 5
+        },
+        {
+          "word": "autos",
+          "count": 4
+        },
+        {
+          "word": "verkehr",
+          "count": 2
+        },
+        {
+          "word": "fliegen",
+          "count": 1
+        },
+        {
+          "word": "fahrzeuge",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

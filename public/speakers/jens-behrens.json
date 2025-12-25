@@ -1,0 +1,385 @@
+{
+  "name": "Jens Behrens",
+  "party": "SPD",
+  "slug": "jens-behrens",
+  "academicTitle": null,
+  "speeches": 6,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 2890,
+  "avgWords": 482,
+  "minWords": 244,
+  "maxWords": 765,
+  "rankings": {
+    "speechRank": 335,
+    "wordsRank": 377,
+    "partySpeechRank": 69,
+    "partyWordsRank": 78,
+    "partySize": 109,
+    "totalSpeakers": 609,
+    "percentile": 45.0,
+    "verbosityRank": 188,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 39,
+    "longestSpeechRank": 229
+  },
+  "drama": {
+    "interruptionsGiven": 13,
+    "interruptionsReceived": 3,
+    "interrupterRank": 133,
+    "interruptedRank": 478
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "koalition",
+        "count": 9
+      },
+      {
+        "word": "tierwohl",
+        "count": 7
+      },
+      {
+        "word": "arbeit",
+        "count": 6
+      },
+      {
+        "word": "gemeinsam",
+        "count": 6
+      },
+      {
+        "word": "tierschutz",
+        "count": 6
+      },
+      {
+        "word": "erst",
+        "count": 6
+      },
+      {
+        "word": "stärken",
+        "count": 5
+      },
+      {
+        "word": "setzen",
+        "count": 5
+      },
+      {
+        "word": "gewerkschaften",
+        "count": 5
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "nutztierhaltung",
+        "count": 5,
+        "ratioParty": 434.1,
+        "ratioBundestag": 289.8
+      },
+      {
+        "word": "tierwohl",
+        "count": 7,
+        "ratioParty": 151.9,
+        "ratioBundestag": 148.4
+      },
+      {
+        "word": "tierschutz",
+        "count": 6,
+        "ratioParty": 130.2,
+        "ratioBundestag": 102.3
+      },
+      {
+        "word": "gewerkschaften",
+        "count": 5,
+        "ratioParty": 41.3,
+        "ratioBundestag": 53.0
+      },
+      {
+        "word": "neben",
+        "count": 5,
+        "ratioParty": 11.9,
+        "ratioBundestag": 14.3
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 482,
+    "partyAvgWords": 637,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.76,
+    "vsParliament": 0.79
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "6"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "2.890"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufe",
+      "value": "13"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Jens Behrens häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Energie",
+        "isCorrect": false
+      },
+      {
+        "text": "Nutztierhaltung",
+        "isCorrect": true
+      },
+      {
+        "text": "Reform",
+        "isCorrect": false
+      },
+      {
+        "text": "Migration",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Nutztierhaltung\" nutzt Jens Behrens 434.1× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "289.8× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🦦",
+    "name": "Otter",
+    "title": "Positiver Teamplayer",
+    "reason": "Du bringst gute Stimmung und konstruktive Beiträge ins Plenum.",
+    "id": "otter",
+    "alternatives": [
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Cleverer Stratege",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 0.88
+      },
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüter",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.841
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 83.3,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 85.7,
+      "collaboration": 100.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 5.7,
+      "authority": 58.8,
+      "future_orientation": 85.2,
+      "emotional_intensity": 28.6,
+      "inclusivity": 53.6,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 6,
+      "words": 1916,
+      "adjectives": 6,
+      "verbs": 35
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.52,
+      "wirtschaft": 2.09,
+      "soziales": 0.52,
+      "sicherheit": 0.0,
+      "gesundheit": 1.04,
+      "europa": 1.04,
+      "digital": 2.61,
+      "bildung": 1.57,
+      "finanzen": 8.35,
+      "justiz": 3.13,
+      "arbeit": 7.31,
+      "mobilitaet": 1.04
+    },
+    "topTopics": [
+      {
+        "topic": "finanzen",
+        "score": 8.35,
+        "rank": 1
+      },
+      {
+        "topic": "arbeit",
+        "score": 7.31,
+        "rank": 2
+      },
+      {
+        "topic": "justiz",
+        "score": 3.13,
+        "rank": 3
+      },
+      {
+        "topic": "digital",
+        "score": 2.61,
+        "rank": 4
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 2.09,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "umwelt",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "handel",
+          "count": 2
+        },
+        {
+          "word": "betrieb",
+          "count": 1
+        },
+        {
+          "word": "konzerne",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "familie",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "krankenhäuser",
+          "count": 2
+        }
+      ],
+      "europa": [
+        {
+          "word": "angriffskrieg",
+          "count": 1
+        },
+        {
+          "word": "ukraine",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "daten",
+          "count": 3
+        },
+        {
+          "word": "digital",
+          "count": 1
+        },
+        {
+          "word": "onlinehandel",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "schulen",
+          "count": 2
+        },
+        {
+          "word": "wissenschaft",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "steuergerechtigkeit",
+          "count": 3
+        },
+        {
+          "word": "steuern",
+          "count": 2
+        },
+        {
+          "word": "entlastung",
+          "count": 2
+        },
+        {
+          "word": "haushalt",
+          "count": 1
+        },
+        {
+          "word": "finanzierung",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "grundgesetz",
+          "count": 1
+        },
+        {
+          "word": "gesetzgebung",
+          "count": 1
+        },
+        {
+          "word": "novelle",
+          "count": 1
+        },
+        {
+          "word": "urteil",
+          "count": 1
+        },
+        {
+          "word": "bundesverfassungsgericht",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "gewerkschaften",
+          "count": 5
+        },
+        {
+          "word": "arbeitnehmerinnen",
+          "count": 4
+        },
+        {
+          "word": "einkommen",
+          "count": 2
+        },
+        {
+          "word": "arbeitnehmer",
+          "count": 2
+        },
+        {
+          "word": "gewerkschaft",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 2
+        }
+      ]
+    }
+  }
+}

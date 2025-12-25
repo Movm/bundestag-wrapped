@@ -1,0 +1,412 @@
+{
+  "name": "Martin Reichardt",
+  "party": "AfD",
+  "slug": "martin-reichardt",
+  "academicTitle": null,
+  "speeches": 8,
+  "wortbeitraege": 12,
+  "befragungResponses": 0,
+  "totalWords": 5029,
+  "avgWords": 251,
+  "minWords": 26,
+  "maxWords": 574,
+  "rankings": {
+    "speechRank": 228,
+    "wordsRank": 184,
+    "partySpeechRank": 52,
+    "partyWordsRank": 41,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 62.6,
+    "verbosityRank": 493,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 122,
+    "longestSpeechRank": 453
+  },
+  "drama": {
+    "interruptionsGiven": 159,
+    "interruptionsReceived": 14,
+    "interrupterRank": 7,
+    "interruptedRank": 199
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "deutschland",
+        "count": 35
+      },
+      {
+        "word": "kinder",
+        "count": 21
+      },
+      {
+        "word": "ministerin",
+        "count": 19
+      },
+      {
+        "word": "familien",
+        "count": 17
+      },
+      {
+        "word": "union",
+        "count": 15
+      },
+      {
+        "word": "kindern",
+        "count": 11
+      },
+      {
+        "word": "anwesende",
+        "count": 10
+      },
+      {
+        "word": "prien",
+        "count": 10
+      },
+      {
+        "word": "land",
+        "count": 10
+      },
+      {
+        "word": "demokratie",
+        "count": 10
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "anwesende",
+        "count": 10,
+        "ratioParty": 369.8,
+        "ratioBundestag": 493.4
+      },
+      {
+        "word": "demografischen",
+        "count": 6,
+        "ratioParty": 66.6,
+        "ratioBundestag": 52.9
+      },
+      {
+        "word": "geist",
+        "count": 6,
+        "ratioParty": 60.5,
+        "ratioBundestag": 61.7
+      },
+      {
+        "word": "jugendlichen",
+        "count": 5,
+        "ratioParty": 55.5,
+        "ratioBundestag": 21.3
+      },
+      {
+        "word": "trend",
+        "count": 5,
+        "ratioParty": 55.5,
+        "ratioBundestag": 60.2
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "stark",
+        "count": 3,
+        "ratioParty": 5.0,
+        "ratioBundestag": 3.6
+      },
+      {
+        "word": "links",
+        "count": 4,
+        "ratioParty": 2.3,
+        "ratioBundestag": 6.5
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 251,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.43,
+    "vsParliament": 0.41
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "8"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "5.029"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufer",
+      "value": "#7 (159x)"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Martin Reichardt häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Sicherheit",
+        "isCorrect": false
+      },
+      {
+        "text": "Haushalt",
+        "isCorrect": false
+      },
+      {
+        "text": "Anwesende",
+        "isCorrect": true
+      },
+      {
+        "text": "Kinder",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Anwesende\" nutzt Martin Reichardt 369.8× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "493.4× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Martin Reichardt häufiger als der Rest der AfD-Fraktion?",
+    "options": [
+      {
+        "text": "Europäisch",
+        "isCorrect": false
+      },
+      {
+        "text": "Stark",
+        "isCorrect": true
+      },
+      {
+        "text": "Schlecht",
+        "isCorrect": false
+      },
+      {
+        "text": "Gut",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Stark\" nutzt Martin Reichardt 5.0× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "3.6× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 77.8,
+      "aggression": 0.0,
+      "labeling": 43.8,
+      "solution_focus": 68.4,
+      "collaboration": 28.6,
+      "demand_intensity": 6.5,
+      "acknowledgment": 9.7,
+      "authority": 70.5,
+      "future_orientation": 92.5,
+      "emotional_intensity": 24.0,
+      "inclusivity": 53.7,
+      "discriminatory": 0.89
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 20,
+      "words": 3373,
+      "adjectives": 16,
+      "verbs": 31
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.59,
+      "klima": 0.0,
+      "wirtschaft": 0.59,
+      "soziales": 17.49,
+      "sicherheit": 2.67,
+      "gesundheit": 0.89,
+      "europa": 0.59,
+      "digital": 0.59,
+      "bildung": 2.08,
+      "finanzen": 3.85,
+      "justiz": 0.89,
+      "arbeit": 0.0,
+      "mobilitaet": 0.3
+    },
+    "topTopics": [
+      {
+        "topic": "soziales",
+        "score": 17.49,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 3.85,
+        "rank": 2
+      },
+      {
+        "topic": "sicherheit",
+        "score": 2.67,
+        "rank": 3
+      },
+      {
+        "topic": "bildung",
+        "score": 2.08,
+        "rank": 4
+      },
+      {
+        "topic": "gesundheit",
+        "score": 0.89,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "grenze",
+          "count": 1
+        },
+        {
+          "word": "einwanderung",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "betrieb",
+          "count": 2
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 21
+        },
+        {
+          "word": "familien",
+          "count": 17
+        },
+        {
+          "word": "familie",
+          "count": 8
+        },
+        {
+          "word": "kindergeld",
+          "count": 3
+        },
+        {
+          "word": "wohnungsmarkt",
+          "count": 2
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "gewalt",
+          "count": 3
+        },
+        {
+          "word": "streitkräfte",
+          "count": 2
+        },
+        {
+          "word": "verfassungsschutz",
+          "count": 1
+        },
+        {
+          "word": "radikalisierung",
+          "count": 1
+        },
+        {
+          "word": "täter",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "pflegenotstand",
+          "count": 2
+        },
+        {
+          "word": "pflege",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 1
+        },
+        {
+          "word": "krieg",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "netz",
+          "count": 1
+        },
+        {
+          "word": "rundfunk",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "professor",
+          "count": 2
+        },
+        {
+          "word": "bildung",
+          "count": 1
+        },
+        {
+          "word": "forschung",
+          "count": 1
+        },
+        {
+          "word": "studium",
+          "count": 1
+        },
+        {
+          "word": "abitur",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 5
+        },
+        {
+          "word": "haushaltsentwurf",
+          "count": 3
+        },
+        {
+          "word": "haushaltsplan",
+          "count": 1
+        },
+        {
+          "word": "steuerzahler",
+          "count": 1
+        },
+        {
+          "word": "schuldenbremse",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "gleichstellung",
+          "count": 2
+        },
+        {
+          "word": "straftaten",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "straßen",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

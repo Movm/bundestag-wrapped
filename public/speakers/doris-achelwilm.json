@@ -1,0 +1,461 @@
+{
+  "name": "Doris Achelwilm",
+  "party": "DIE LINKE",
+  "slug": "doris-achelwilm",
+  "academicTitle": null,
+  "speeches": 12,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 4725,
+  "avgWords": 363,
+  "minWords": 132,
+  "maxWords": 600,
+  "rankings": {
+    "speechRank": 83,
+    "wordsRank": 205,
+    "partySpeechRank": 13,
+    "partyWordsRank": 20,
+    "partySize": 63,
+    "totalSpeakers": 609,
+    "percentile": 86.4,
+    "verbosityRank": 393,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 37,
+    "longestSpeechRank": 424
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 11,
+    "interrupterRank": 216,
+    "interruptedRank": 263
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 19
+      },
+      {
+        "word": "kommunen",
+        "count": 13
+      },
+      {
+        "word": "einkommen",
+        "count": 12
+      },
+      {
+        "word": "mehrwertsteuer",
+        "count": 9
+      },
+      {
+        "word": "zahlen",
+        "count": 9
+      },
+      {
+        "word": "steuern",
+        "count": 9
+      },
+      {
+        "word": "linke",
+        "count": 8
+      },
+      {
+        "word": "unternehmen",
+        "count": 8
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "unteren",
+        "count": 6,
+        "ratioParty": 166.2,
+        "ratioBundestag": 153.8
+      },
+      {
+        "word": "besteuert",
+        "count": 5,
+        "ratioParty": 46.2,
+        "ratioBundestag": 86.8
+      },
+      {
+        "word": "mehrwertsteuer",
+        "count": 9,
+        "ratioParty": 45.3,
+        "ratioBundestag": 74.5
+      },
+      {
+        "word": "einnahmen",
+        "count": 6,
+        "ratioParty": 25.6,
+        "ratioBundestag": 16.6
+      },
+      {
+        "word": "verteilen",
+        "count": 5,
+        "ratioParty": 25.2,
+        "ratioBundestag": 36.4
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "gerecht",
+        "count": 4,
+        "ratioParty": 3.9,
+        "ratioBundestag": 5.1
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 363,
+    "partyAvgWords": 521,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.7,
+    "vsParliament": 0.59
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "12"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "4.725"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Doris Achelwilm häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Unteren",
+        "isCorrect": true
+      },
+      {
+        "text": "Steuern",
+        "isCorrect": false
+      },
+      {
+        "text": "Arbeit",
+        "isCorrect": false
+      },
+      {
+        "text": "Klima",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Unteren\" nutzt Doris Achelwilm 166.2× häufiger als der DIE LINKE-Durchschnitt.",
+    "explanationBundestag": "153.8× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Doris Achelwilm häufiger als der Rest der DIE LINKE-Fraktion?",
+    "options": [
+      {
+        "text": "Falsch",
+        "isCorrect": false
+      },
+      {
+        "text": "Gerecht",
+        "isCorrect": true
+      },
+      {
+        "text": "Klar",
+        "isCorrect": false
+      },
+      {
+        "text": "Wirtschaftlich",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Gerecht\" nutzt Doris Achelwilm 3.9× häufiger als der DIE LINKE-Durchschnitt.",
+    "explanationBundestag": "5.1× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐬",
+    "name": "Delfin",
+    "title": "Diplomatische Rednerin",
+    "reason": "Aktiv im Parlament, aber respektvoll ohne viele Zwischenrufe.",
+    "id": "delfin",
+    "alternatives": [
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißige Abgeordnete",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      },
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüterin",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.989
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 72.0,
+      "aggression": 10.0,
+      "labeling": 6.7,
+      "solution_focus": 72.7,
+      "collaboration": 100.0,
+      "demand_intensity": 15.0,
+      "acknowledgment": 15.0,
+      "authority": 78.4,
+      "future_orientation": 85.3,
+      "emotional_intensity": 50.0,
+      "inclusivity": 31.8,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 13,
+      "words": 3093,
+      "adjectives": 30,
+      "verbs": 20
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.65,
+      "klima": 0.32,
+      "wirtschaft": 4.85,
+      "soziales": 5.17,
+      "sicherheit": 0.97,
+      "gesundheit": 1.29,
+      "europa": 0.32,
+      "digital": 2.26,
+      "bildung": 0.65,
+      "finanzen": 20.05,
+      "justiz": 0.65,
+      "arbeit": 4.53,
+      "mobilitaet": 3.88
+    },
+    "topTopics": [
+      {
+        "topic": "finanzen",
+        "score": 20.05,
+        "rank": 1
+      },
+      {
+        "topic": "soziales",
+        "score": 5.17,
+        "rank": 2
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 4.85,
+        "rank": 3
+      },
+      {
+        "topic": "arbeit",
+        "score": 4.53,
+        "rank": 4
+      },
+      {
+        "topic": "mobilitaet",
+        "score": 3.88,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "integration",
+          "count": 1
+        },
+        {
+          "word": "zuwanderung",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "klimaschutz",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 8
+        },
+        {
+          "word": "betriebe",
+          "count": 2
+        },
+        {
+          "word": "wachstum",
+          "count": 2
+        },
+        {
+          "word": "kapital",
+          "count": 1
+        },
+        {
+          "word": "fachkräfte",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "sozialstaat",
+          "count": 3
+        },
+        {
+          "word": "kinder",
+          "count": 3
+        },
+        {
+          "word": "armut",
+          "count": 3
+        },
+        {
+          "word": "eltern",
+          "count": 2
+        },
+        {
+          "word": "mieten",
+          "count": 2
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "betrug",
+          "count": 1
+        },
+        {
+          "word": "verteidigung",
+          "count": 1
+        },
+        {
+          "word": "angriff",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "sucht",
+          "count": 2
+        },
+        {
+          "word": "pflegekräfte",
+          "count": 1
+        },
+        {
+          "word": "krankenhäuser",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "daten",
+          "count": 2
+        },
+        {
+          "word": "plattformen",
+          "count": 2
+        },
+        {
+          "word": "streaming",
+          "count": 1
+        },
+        {
+          "word": "netzwerk",
+          "count": 1
+        },
+        {
+          "word": "algorithmus",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "forschung",
+          "count": 1
+        },
+        {
+          "word": "bildung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "mehrwertsteuer",
+          "count": 9
+        },
+        {
+          "word": "steuern",
+          "count": 9
+        },
+        {
+          "word": "vermögensteuer",
+          "count": 6
+        },
+        {
+          "word": "entlastung",
+          "count": 5
+        },
+        {
+          "word": "kosten",
+          "count": 4
+        }
+      ],
+      "justiz": [
+        {
+          "word": "grundgesetz",
+          "count": 1
+        },
+        {
+          "word": "bundesverfassungsgericht",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "einkommen",
+          "count": 12
+        },
+        {
+          "word": "gewerkschaften",
+          "count": 1
+        },
+        {
+          "word": "angestellte",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "bahn",
+          "count": 7
+        },
+        {
+          "word": "öpnv",
+          "count": 2
+        },
+        {
+          "word": "infrastruktur",
+          "count": 1
+        },
+        {
+          "word": "straßen",
+          "count": 1
+        },
+        {
+          "word": "auto",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

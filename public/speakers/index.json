@@ -1,0 +1,5494 @@
+{
+  "speakers": [
+    {
+      "slug": "stefan-seidler",
+      "name": "Stefan Seidler",
+      "party": "fraktionslos",
+      "speeches": 26,
+      "wortbeitraege": 6,
+      "befragungResponses": 0,
+      "words": 9606
+    },
+    {
+      "slug": "stephan-brandner",
+      "name": "Stephan Brandner",
+      "party": "AfD",
+      "speeches": 26,
+      "wortbeitraege": 11,
+      "befragungResponses": 0,
+      "words": 14679
+    },
+    {
+      "slug": "sascha-wagner",
+      "name": "Sascha Wagner",
+      "party": "DIE LINKE",
+      "speeches": 24,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 10730
+    },
+    {
+      "slug": "frauke-heiligenstadt",
+      "name": "Frauke Heiligenstadt",
+      "party": "SPD",
+      "speeches": 23,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 9428
+    },
+    {
+      "slug": "konrad-koerner",
+      "name": "Dr. Konrad Körner",
+      "party": "CDU/CSU",
+      "speeches": 23,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 11236
+    },
+    {
+      "slug": "clara-buenger",
+      "name": "Clara Bünger",
+      "party": "DIE LINKE",
+      "speeches": 22,
+      "wortbeitraege": 6,
+      "befragungResponses": 0,
+      "words": 12007
+    },
+    {
+      "slug": "paula-piechotta",
+      "name": "Dr. Paula Piechotta",
+      "party": "GRÜNE",
+      "speeches": 22,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 15957
+    },
+    {
+      "slug": "helge-lindh",
+      "name": "Helge Lindh",
+      "party": "SPD",
+      "speeches": 20,
+      "wortbeitraege": 4,
+      "befragungResponses": 0,
+      "words": 12030
+    },
+    {
+      "slug": "kay-gottschalk",
+      "name": "Kay Gottschalk",
+      "party": "AfD",
+      "speeches": 19,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 11366
+    },
+    {
+      "slug": "wolfgang-wiehle",
+      "name": "Wolfgang Wiehle",
+      "party": "AfD",
+      "speeches": 19,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 11283
+    },
+    {
+      "slug": "markus-frohnmaier",
+      "name": "Markus Frohnmaier",
+      "party": "AfD",
+      "speeches": 19,
+      "wortbeitraege": 4,
+      "befragungResponses": 0,
+      "words": 11121
+    },
+    {
+      "slug": "christian-goerke",
+      "name": "Christian Görke",
+      "party": "DIE LINKE",
+      "speeches": 19,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 8349
+    },
+    {
+      "slug": "christian-moser",
+      "name": "Christian Moser",
+      "party": "CDU/CSU",
+      "speeches": 18,
+      "wortbeitraege": 5,
+      "befragungResponses": 0,
+      "words": 11621
+    },
+    {
+      "slug": "irene-mihalic",
+      "name": "Dr. Irene Mihalic",
+      "party": "GRÜNE",
+      "speeches": 18,
+      "wortbeitraege": 3,
+      "befragungResponses": 0,
+      "words": 7773
+    },
+    {
+      "slug": "juergen-hardt",
+      "name": "Jürgen Hardt",
+      "party": "CDU/CSU",
+      "speeches": 17,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 11721
+    },
+    {
+      "slug": "siemtje-moeller",
+      "name": "Siemtje Möller",
+      "party": "SPD",
+      "speeches": 17,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 11038
+    },
+    {
+      "slug": "dunja-kreiser",
+      "name": "Dunja Kreiser",
+      "party": "SPD",
+      "speeches": 17,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 7685
+    },
+    {
+      "slug": "hakan-demir",
+      "name": "Hakan Demir",
+      "party": "SPD",
+      "speeches": 17,
+      "wortbeitraege": 3,
+      "befragungResponses": 0,
+      "words": 8282
+    },
+    {
+      "slug": "leon-eckert",
+      "name": "Leon Eckert",
+      "party": "GRÜNE",
+      "speeches": 16,
+      "wortbeitraege": 7,
+      "befragungResponses": 0,
+      "words": 10569
+    },
+    {
+      "slug": "sonja-eichwede",
+      "name": "Sonja Eichwede",
+      "party": "SPD",
+      "speeches": 16,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 7015
+    },
+    {
+      "slug": "helge-limburg",
+      "name": "Helge Limburg",
+      "party": "GRÜNE",
+      "speeches": 16,
+      "wortbeitraege": 10,
+      "befragungResponses": 0,
+      "words": 9402
+    },
+    {
+      "slug": "marc-bernhard",
+      "name": "Marc Bernhard",
+      "party": "AfD",
+      "speeches": 16,
+      "wortbeitraege": 6,
+      "befragungResponses": 0,
+      "words": 9386
+    },
+    {
+      "slug": "jan-koestering",
+      "name": "Jan Köstering",
+      "party": "DIE LINKE",
+      "speeches": 16,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 8089
+    },
+    {
+      "slug": "sebastian-fiedler",
+      "name": "Sebastian Fiedler",
+      "party": "SPD",
+      "speeches": 16,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 10936
+    },
+    {
+      "slug": "klaus-wiener",
+      "name": "Dr. Klaus Wiener",
+      "party": "CDU/CSU",
+      "speeches": 15,
+      "wortbeitraege": 6,
+      "befragungResponses": 0,
+      "words": 10042
+    },
+    {
+      "slug": "hans-koller",
+      "name": "Hans Koller",
+      "party": "CDU/CSU",
+      "speeches": 15,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 6750
+    },
+    {
+      "slug": "florian-dorn",
+      "name": "Dr. Florian Dorn",
+      "party": "CDU/CSU",
+      "speeches": 15,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 9716
+    },
+    {
+      "slug": "luise-amtsberg",
+      "name": "Luise Amtsberg",
+      "party": "GRÜNE",
+      "speeches": 15,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 8958
+    },
+    {
+      "slug": "thomas-erndl",
+      "name": "Thomas Erndl",
+      "party": "CDU/CSU",
+      "speeches": 15,
+      "wortbeitraege": 3,
+      "befragungResponses": 0,
+      "words": 6747
+    },
+    {
+      "slug": "jamila-schaefer",
+      "name": "Jamila Schäfer",
+      "party": "GRÜNE",
+      "speeches": 15,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 10461
+    },
+    {
+      "slug": "alexander-dobrindt",
+      "name": "Alexander Dobrindt",
+      "party": "CDU/CSU",
+      "speeches": 14,
+      "wortbeitraege": 47,
+      "befragungResponses": 47,
+      "words": 16968
+    },
+    {
+      "slug": "marcel-emmerich",
+      "name": "Marcel Emmerich",
+      "party": "GRÜNE",
+      "speeches": 14,
+      "wortbeitraege": 6,
+      "befragungResponses": 0,
+      "words": 7456
+    },
+    {
+      "slug": "michael-espendiller",
+      "name": "Dr. Michael Espendiller",
+      "party": "AfD",
+      "speeches": 14,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 13504
+    },
+    {
+      "slug": "lars-klingbeil",
+      "name": "Lars Klingbeil",
+      "party": "SPD",
+      "speeches": 14,
+      "wortbeitraege": 79,
+      "befragungResponses": 79,
+      "words": 33810
+    },
+    {
+      "slug": "ralf-stegner",
+      "name": "Dr. Ralf Stegner",
+      "party": "SPD",
+      "speeches": 14,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 6847
+    },
+    {
+      "slug": "ottilie-klein",
+      "name": "Dr. Ottilie Klein",
+      "party": "CDU/CSU",
+      "speeches": 14,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 5804
+    },
+    {
+      "slug": "wiebke-esdar",
+      "name": "Dr. Wiebke Esdar",
+      "party": "SPD",
+      "speeches": 14,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 8503
+    },
+    {
+      "slug": "sonja-lemke",
+      "name": "Sonja Lemke",
+      "party": "DIE LINKE",
+      "speeches": 14,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 7820
+    },
+    {
+      "slug": "karsten-hilse",
+      "name": "Karsten Hilse",
+      "party": "AfD",
+      "speeches": 14,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 6856
+    },
+    {
+      "slug": "lars-rohwer",
+      "name": "Lars Rohwer",
+      "party": "CDU/CSU",
+      "speeches": 14,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 6317
+    },
+    {
+      "slug": "joerg-cezanne",
+      "name": "Jörg Cezanne",
+      "party": "DIE LINKE",
+      "speeches": 14,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 5092
+    },
+    {
+      "slug": "rasha-nasr",
+      "name": "Rasha Nasr",
+      "party": "SPD",
+      "speeches": 14,
+      "wortbeitraege": 5,
+      "befragungResponses": 0,
+      "words": 8929
+    },
+    {
+      "slug": "mechthilde-wittmann",
+      "name": "Mechthilde Wittmann",
+      "party": "CDU/CSU",
+      "speeches": 14,
+      "wortbeitraege": 3,
+      "befragungResponses": 0,
+      "words": 11915
+    },
+    {
+      "slug": "armand-zorn",
+      "name": "Armand Zorn",
+      "party": "SPD",
+      "speeches": 14,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 8416
+    },
+    {
+      "slug": "thorsten-rudolph",
+      "name": "Dr. Thorsten Rudolph",
+      "party": "SPD",
+      "speeches": 13,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 8080
+    },
+    {
+      "slug": "ines-schwerdtner",
+      "name": "Ines Schwerdtner",
+      "party": "DIE LINKE",
+      "speeches": 13,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 10770
+    },
+    {
+      "slug": "florian-ossner",
+      "name": "Florian Oßner",
+      "party": "CDU/CSU",
+      "speeches": 13,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 8058
+    },
+    {
+      "slug": "sebastian-schaefer",
+      "name": "Dr. Sebastian Schäfer",
+      "party": "GRÜNE",
+      "speeches": 13,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 6434
+    },
+    {
+      "slug": "johann-david-wadephul",
+      "name": "Dr. Johann David Wadephul",
+      "party": "CDU/CSU",
+      "speeches": 13,
+      "wortbeitraege": 54,
+      "befragungResponses": 54,
+      "words": 15089
+    },
+    {
+      "slug": "max-lucks",
+      "name": "Max Lucks",
+      "party": "GRÜNE",
+      "speeches": 13,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 5627
+    },
+    {
+      "slug": "norbert-roettgen",
+      "name": "Dr. Norbert Röttgen",
+      "party": "CDU/CSU",
+      "speeches": 13,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 9395
+    },
+    {
+      "slug": "beatrix-von-storch",
+      "name": "Beatrix von Storch",
+      "party": "AfD",
+      "speeches": 13,
+      "wortbeitraege": 6,
+      "befragungResponses": 0,
+      "words": 6570
+    },
+    {
+      "slug": "holger-mann",
+      "name": "Holger Mann",
+      "party": "SPD",
+      "speeches": 13,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 7029
+    },
+    {
+      "slug": "heiko-hain",
+      "name": "Heiko Hain",
+      "party": "CDU/CSU",
+      "speeches": 13,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 5566
+    },
+    {
+      "slug": "ricarda-lang",
+      "name": "Ricarda Lang",
+      "party": "GRÜNE",
+      "speeches": 13,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 9349
+    },
+    {
+      "slug": "andreas-audretsch",
+      "name": "Andreas Audretsch",
+      "party": "GRÜNE",
+      "speeches": 13,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 7593
+    },
+    {
+      "slug": "felix-doering",
+      "name": "Felix Döring",
+      "party": "SPD",
+      "speeches": 13,
+      "wortbeitraege": 5,
+      "befragungResponses": 0,
+      "words": 8664
+    },
+    {
+      "slug": "tamara-mazzi",
+      "name": "Tamara Mazzi",
+      "party": "DIE LINKE",
+      "speeches": 13,
+      "wortbeitraege": 3,
+      "befragungResponses": 0,
+      "words": 8164
+    },
+    {
+      "slug": "sergej-minich",
+      "name": "Sergej Minich",
+      "party": "AfD",
+      "speeches": 13,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 7330
+    },
+    {
+      "slug": "esra-limbacher",
+      "name": "Esra Limbacher",
+      "party": "SPD",
+      "speeches": 13,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 5545
+    },
+    {
+      "slug": "ates-guerpinar",
+      "name": "Ates Gürpinar",
+      "party": "DIE LINKE",
+      "speeches": 13,
+      "wortbeitraege": 4,
+      "befragungResponses": 0,
+      "words": 6193
+    },
+    {
+      "slug": "nina-warken",
+      "name": "Nina Warken",
+      "party": "CDU/CSU",
+      "speeches": 13,
+      "wortbeitraege": 45,
+      "befragungResponses": 45,
+      "words": 11534
+    },
+    {
+      "slug": "alexander-throm",
+      "name": "Alexander Throm",
+      "party": "CDU/CSU",
+      "speeches": 12,
+      "wortbeitraege": 3,
+      "befragungResponses": 0,
+      "words": 5528
+    },
+    {
+      "slug": "christian-wirth",
+      "name": "Dr. Christian Wirth",
+      "party": "AfD",
+      "speeches": 12,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 7493
+    },
+    {
+      "slug": "carmen-wegge",
+      "name": "Carmen Wegge",
+      "party": "SPD",
+      "speeches": 12,
+      "wortbeitraege": 3,
+      "befragungResponses": 0,
+      "words": 6315
+    },
+    {
+      "slug": "boris-mijatovic",
+      "name": "Boris Mijatović",
+      "party": "GRÜNE",
+      "speeches": 12,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 7425
+    },
+    {
+      "slug": "agnieszka-brugger",
+      "name": "Agnieszka Brugger",
+      "party": "GRÜNE",
+      "speeches": 12,
+      "wortbeitraege": 3,
+      "befragungResponses": 0,
+      "words": 7550
+    },
+    {
+      "slug": "soeren-pellmann",
+      "name": "Sören Pellmann",
+      "party": "DIE LINKE",
+      "speeches": 12,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 8155
+    },
+    {
+      "slug": "goetz-froemming",
+      "name": "Dr. Götz Frömming",
+      "party": "AfD",
+      "speeches": 12,
+      "wortbeitraege": 7,
+      "befragungResponses": 0,
+      "words": 8869
+    },
+    {
+      "slug": "bernd-ruetzel",
+      "name": "Bernd Rützel",
+      "party": "SPD",
+      "speeches": 12,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 4923
+    },
+    {
+      "slug": "friedrich-merz",
+      "name": "Friedrich Merz",
+      "party": "CDU/CSU",
+      "speeches": 12,
+      "wortbeitraege": 86,
+      "befragungResponses": 86,
+      "words": 37752
+    },
+    {
+      "slug": "heidi-reichinnek",
+      "name": "Heidi Reichinnek",
+      "party": "DIE LINKE",
+      "speeches": 12,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 13308
+    },
+    {
+      "slug": "adis-ahmetovic",
+      "name": "Adis Ahmetovic",
+      "party": "SPD",
+      "speeches": 12,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 6965
+    },
+    {
+      "slug": "andreas-lenz",
+      "name": "Dr. Andreas Lenz",
+      "party": "CDU/CSU",
+      "speeches": 12,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 6257
+    },
+    {
+      "slug": "sebastian-roloff",
+      "name": "Sebastian Roloff",
+      "party": "SPD",
+      "speeches": 12,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 6589
+    },
+    {
+      "slug": "michael-kellner",
+      "name": "Michael Kellner",
+      "party": "GRÜNE",
+      "speeches": 12,
+      "wortbeitraege": 7,
+      "befragungResponses": 0,
+      "words": 6516
+    },
+    {
+      "slug": "desiree-becker",
+      "name": "Desiree Becker",
+      "party": "DIE LINKE",
+      "speeches": 12,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 4332
+    },
+    {
+      "slug": "michael-kiessling",
+      "name": "Michael Kießling",
+      "party": "CDU/CSU",
+      "speeches": 12,
+      "wortbeitraege": 3,
+      "befragungResponses": 1,
+      "words": 8367
+    },
+    {
+      "slug": "fritz-guentzler",
+      "name": "Fritz Güntzler",
+      "party": "CDU/CSU",
+      "speeches": 12,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 8535
+    },
+    {
+      "slug": "parsa-marvi",
+      "name": "Parsa Marvi",
+      "party": "SPD",
+      "speeches": 12,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 5808
+    },
+    {
+      "slug": "carolin-wagner",
+      "name": "Dr. Carolin Wagner",
+      "party": "SPD",
+      "speeches": 12,
+      "wortbeitraege": 3,
+      "befragungResponses": 0,
+      "words": 6639
+    },
+    {
+      "slug": "georg-schroeter",
+      "name": "Georg Schroeter",
+      "party": "AfD",
+      "speeches": 12,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 5766
+    },
+    {
+      "slug": "doris-achelwilm",
+      "name": "Doris Achelwilm",
+      "party": "DIE LINKE",
+      "speeches": 12,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 4725
+    },
+    {
+      "slug": "joern-koenig",
+      "name": "Jörn König",
+      "party": "AfD",
+      "speeches": 12,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 5380
+    },
+    {
+      "slug": "anna-rathert",
+      "name": "Dr. Anna Rathert",
+      "party": "AfD",
+      "speeches": 12,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 5250
+    },
+    {
+      "slug": "peter-aumer",
+      "name": "Peter Aumer",
+      "party": "CDU/CSU",
+      "speeches": 12,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 6279
+    },
+    {
+      "slug": "jeanne-dillschneider",
+      "name": "Jeanne Dillschneider",
+      "party": "GRÜNE",
+      "speeches": 12,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 6049
+    },
+    {
+      "slug": "martin-gerster",
+      "name": "Martin Gerster",
+      "party": "SPD",
+      "speeches": 11,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 6175
+    },
+    {
+      "slug": "katrin-uhlig",
+      "name": "Katrin Uhlig",
+      "party": "GRÜNE",
+      "speeches": 11,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 5900
+    },
+    {
+      "slug": "lukas-krieger",
+      "name": "Lukas Krieger",
+      "party": "CDU/CSU",
+      "speeches": 11,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 4809
+    },
+    {
+      "slug": "nicolas-zippelius",
+      "name": "Nicolas Zippelius",
+      "party": "CDU/CSU",
+      "speeches": 11,
+      "wortbeitraege": 3,
+      "befragungResponses": 0,
+      "words": 8483
+    },
+    {
+      "slug": "schahina-gambir",
+      "name": "Schahina Gambir",
+      "party": "GRÜNE",
+      "speeches": 11,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 4198
+    },
+    {
+      "slug": "sara-nanni",
+      "name": "Sara Nanni",
+      "party": "GRÜNE",
+      "speeches": 11,
+      "wortbeitraege": 6,
+      "befragungResponses": 0,
+      "words": 5968
+    },
+    {
+      "slug": "maja-wallstein",
+      "name": "Maja Wallstein",
+      "party": "SPD",
+      "speeches": 11,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 5350
+    },
+    {
+      "slug": "alexander-hoffmann",
+      "name": "Alexander Hoffmann",
+      "party": "CDU/CSU",
+      "speeches": 11,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 8659
+    },
+    {
+      "slug": "isabelle-vandre",
+      "name": "Isabelle Vandre",
+      "party": "DIE LINKE",
+      "speeches": 11,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 4364
+    },
+    {
+      "slug": "nina-scheer",
+      "name": "Dr. Nina Scheer",
+      "party": "SPD",
+      "speeches": 11,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 5743
+    },
+    {
+      "slug": "claudia-moll",
+      "name": "Claudia Moll",
+      "party": "SPD",
+      "speeches": 11,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 3684
+    },
+    {
+      "slug": "johannes-volkmann",
+      "name": "Johannes Volkmann",
+      "party": "CDU/CSU",
+      "speeches": 11,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 5067
+    },
+    {
+      "slug": "thomas-silberhorn",
+      "name": "Thomas Silberhorn",
+      "party": "CDU/CSU",
+      "speeches": 11,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 4908
+    },
+    {
+      "slug": "martin-sichert",
+      "name": "Martin Sichert",
+      "party": "AfD",
+      "speeches": 11,
+      "wortbeitraege": 4,
+      "befragungResponses": 0,
+      "words": 8078
+    },
+    {
+      "slug": "luigi-pantisano",
+      "name": "Luigi Pantisano",
+      "party": "DIE LINKE",
+      "speeches": 11,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 5370
+    },
+    {
+      "slug": "angelika-gloeckner",
+      "name": "Angelika Glöckner",
+      "party": "SPD",
+      "speeches": 11,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 3805
+    },
+    {
+      "slug": "jan-marco-luczak",
+      "name": "Dr. Jan-Marco Luczak",
+      "party": "CDU/CSU",
+      "speeches": 11,
+      "wortbeitraege": 4,
+      "befragungResponses": 0,
+      "words": 9342
+    },
+    {
+      "slug": "jakob-blankenburg",
+      "name": "Jakob Blankenburg",
+      "party": "SPD",
+      "speeches": 11,
+      "wortbeitraege": 3,
+      "befragungResponses": 0,
+      "words": 6297
+    },
+    {
+      "slug": "mareike-hermeier",
+      "name": "Mareike Hermeier",
+      "party": "DIE LINKE",
+      "speeches": 11,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 4656
+    },
+    {
+      "slug": "ina-latendorf",
+      "name": "Ina Latendorf",
+      "party": "DIE LINKE",
+      "speeches": 11,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 4299
+    },
+    {
+      "slug": "sarah-vollath",
+      "name": "Sarah Vollath",
+      "party": "DIE LINKE",
+      "speeches": 11,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 4226
+    },
+    {
+      "slug": "huelya-dueber",
+      "name": "Dr. Hülya Düber",
+      "party": "CDU/CSU",
+      "speeches": 11,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 5031
+    },
+    {
+      "slug": "steffen-kotre",
+      "name": "Steffen Kotré",
+      "party": "AfD",
+      "speeches": 11,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 5583
+    },
+    {
+      "slug": "carsten-schneider",
+      "name": "Carsten Schneider",
+      "party": "SPD",
+      "speeches": 11,
+      "wortbeitraege": 37,
+      "befragungResponses": 37,
+      "words": 11792
+    },
+    {
+      "slug": "franziska-kersten",
+      "name": "Dr. Franziska Kersten",
+      "party": "SPD",
+      "speeches": 11,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 5528
+    },
+    {
+      "slug": "philipp-rottwilm",
+      "name": "Dr. Philipp Rottwilm",
+      "party": "SPD",
+      "speeches": 11,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 4860
+    },
+    {
+      "slug": "bernd-baumann",
+      "name": "Dr. Bernd Baumann",
+      "party": "AfD",
+      "speeches": 11,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 7146
+    },
+    {
+      "slug": "marcus-buehl",
+      "name": "Marcus Bühl",
+      "party": "AfD",
+      "speeches": 10,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 5175
+    },
+    {
+      "slug": "mirco-hanker",
+      "name": "Mirco Hanker",
+      "party": "AfD",
+      "speeches": 10,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 8633
+    },
+    {
+      "slug": "lamya-kaddor",
+      "name": "Lamya Kaddor",
+      "party": "GRÜNE",
+      "speeches": 10,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 5103
+    },
+    {
+      "slug": "mirze-edis",
+      "name": "Mirze Edis",
+      "party": "DIE LINKE",
+      "speeches": 10,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 4001
+    },
+    {
+      "slug": "bernd-schattner",
+      "name": "Bernd Schattner",
+      "party": "AfD",
+      "speeches": 10,
+      "wortbeitraege": 11,
+      "befragungResponses": 0,
+      "words": 7564
+    },
+    {
+      "slug": "nicole-gohlke",
+      "name": "Nicole Gohlke",
+      "party": "DIE LINKE",
+      "speeches": 10,
+      "wortbeitraege": 10,
+      "befragungResponses": 0,
+      "words": 6096
+    },
+    {
+      "slug": "lisa-badum",
+      "name": "Lisa Badum",
+      "party": "GRÜNE",
+      "speeches": 10,
+      "wortbeitraege": 6,
+      "befragungResponses": 0,
+      "words": 5081
+    },
+    {
+      "slug": "marc-henrichmann",
+      "name": "Marc Henrichmann",
+      "party": "CDU/CSU",
+      "speeches": 10,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 7124
+    },
+    {
+      "slug": "filiz-polat",
+      "name": "Filiz Polat",
+      "party": "GRÜNE",
+      "speeches": 10,
+      "wortbeitraege": 4,
+      "befragungResponses": 0,
+      "words": 4106
+    },
+    {
+      "slug": "peter-bohnhof",
+      "name": "Peter Bohnhof",
+      "party": "AfD",
+      "speeches": 10,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 5412
+    },
+    {
+      "slug": "janine-wissler",
+      "name": "Janine Wissler",
+      "party": "DIE LINKE",
+      "speeches": 10,
+      "wortbeitraege": 4,
+      "befragungResponses": 0,
+      "words": 7735
+    },
+    {
+      "slug": "adam-balten",
+      "name": "Adam Balten",
+      "party": "AfD",
+      "speeches": 10,
+      "wortbeitraege": 6,
+      "befragungResponses": 0,
+      "words": 4491
+    },
+    {
+      "slug": "steffen-janich",
+      "name": "Steffen Janich",
+      "party": "AfD",
+      "speeches": 10,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 4370
+    },
+    {
+      "slug": "gerold-otten",
+      "name": "Gerold Otten",
+      "party": "AfD",
+      "speeches": 10,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 5716
+    },
+    {
+      "slug": "dirk-brandes",
+      "name": "Dirk Brandes",
+      "party": "AfD",
+      "speeches": 10,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 4839
+    },
+    {
+      "slug": "stefan-schmidt",
+      "name": "Stefan Schmidt",
+      "party": "GRÜNE",
+      "speeches": 10,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 3878
+    },
+    {
+      "slug": "gottfried-curio",
+      "name": "Dr. Gottfried Curio",
+      "party": "AfD",
+      "speeches": 10,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 8288
+    },
+    {
+      "slug": "stephan-protschka",
+      "name": "Stephan Protschka",
+      "party": "AfD",
+      "speeches": 10,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 5235
+    },
+    {
+      "slug": "fabian-fahl",
+      "name": "Dr. Fabian Fahl",
+      "party": "DIE LINKE",
+      "speeches": 10,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 5467
+    },
+    {
+      "slug": "martin-rabanus",
+      "name": "Martin Rabanus",
+      "party": "SPD",
+      "speeches": 10,
+      "wortbeitraege": 3,
+      "befragungResponses": 0,
+      "words": 5425
+    },
+    {
+      "slug": "stefan-keuter",
+      "name": "Stefan Keuter",
+      "party": "AfD",
+      "speeches": 10,
+      "wortbeitraege": 3,
+      "befragungResponses": 0,
+      "words": 7252
+    },
+    {
+      "slug": "isabel-cademartori",
+      "name": "Isabel Cademartori",
+      "party": "SPD",
+      "speeches": 10,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 5750
+    },
+    {
+      "slug": "derya-tuerk-nachbaur",
+      "name": "Derya Türk-Nachbaur",
+      "party": "SPD",
+      "speeches": 10,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 5763
+    },
+    {
+      "slug": "ulle-schauws",
+      "name": "Ulle Schauws",
+      "party": "GRÜNE",
+      "speeches": 10,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 3356
+    },
+    {
+      "slug": "birgit-bessin",
+      "name": "Birgit Bessin",
+      "party": "AfD",
+      "speeches": 10,
+      "wortbeitraege": 3,
+      "befragungResponses": 0,
+      "words": 3660
+    },
+    {
+      "slug": "svenja-stadler",
+      "name": "Svenja Stadler",
+      "party": "SPD",
+      "speeches": 10,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 5506
+    },
+    {
+      "slug": "detlef-seif",
+      "name": "Detlef Seif",
+      "party": "CDU/CSU",
+      "speeches": 10,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 5338
+    },
+    {
+      "slug": "simone-borchardt",
+      "name": "Simone Borchardt",
+      "party": "CDU/CSU",
+      "speeches": 10,
+      "wortbeitraege": 4,
+      "befragungResponses": 1,
+      "words": 6383
+    },
+    {
+      "slug": "cansu-oezdemir",
+      "name": "Cansu Özdemir",
+      "party": "DIE LINKE",
+      "speeches": 10,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 4039
+    },
+    {
+      "slug": "baerbel-bas",
+      "name": "Bärbel Bas",
+      "party": "SPD",
+      "speeches": 10,
+      "wortbeitraege": 40,
+      "befragungResponses": 40,
+      "words": 9695
+    },
+    {
+      "slug": "rainer-galla",
+      "name": "Rainer Galla",
+      "party": "AfD",
+      "speeches": 10,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 3882
+    },
+    {
+      "slug": "tobias-matthias-peterka",
+      "name": "Tobias Matthias Peterka",
+      "party": "AfD",
+      "speeches": 9,
+      "wortbeitraege": 6,
+      "befragungResponses": 0,
+      "words": 6463
+    },
+    {
+      "slug": "thomas-fetsch",
+      "name": "Thomas Fetsch",
+      "party": "AfD",
+      "speeches": 9,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 3549
+    },
+    {
+      "slug": "lisa-paus",
+      "name": "Lisa Paus",
+      "party": "GRÜNE",
+      "speeches": 9,
+      "wortbeitraege": 3,
+      "befragungResponses": 0,
+      "words": 5812
+    },
+    {
+      "slug": "tilman-kuban",
+      "name": "Tilman Kuban",
+      "party": "CDU/CSU",
+      "speeches": 9,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 4484
+    },
+    {
+      "slug": "rainer-kraft",
+      "name": "Dr. Rainer Kraft",
+      "party": "AfD",
+      "speeches": 9,
+      "wortbeitraege": 31,
+      "befragungResponses": 0,
+      "words": 8297
+    },
+    {
+      "slug": "janosch-dahmen",
+      "name": "Dr. Janosch Dahmen",
+      "party": "GRÜNE",
+      "speeches": 9,
+      "wortbeitraege": 12,
+      "befragungResponses": 0,
+      "words": 4144
+    },
+    {
+      "slug": "sepp-mueller",
+      "name": "Sepp Müller",
+      "party": "CDU/CSU",
+      "speeches": 9,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 4833
+    },
+    {
+      "slug": "jan-dieren",
+      "name": "Jan Dieren",
+      "party": "SPD",
+      "speeches": 9,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 5138
+    },
+    {
+      "slug": "tino-chrupalla",
+      "name": "Tino Chrupalla",
+      "party": "AfD",
+      "speeches": 9,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 13087
+    },
+    {
+      "slug": "jens-spahn",
+      "name": "Jens Spahn",
+      "party": "CDU/CSU",
+      "speeches": 9,
+      "wortbeitraege": 3,
+      "befragungResponses": 0,
+      "words": 17911
+    },
+    {
+      "slug": "falko-drossmann",
+      "name": "Falko Droßmann",
+      "party": "SPD",
+      "speeches": 9,
+      "wortbeitraege": 3,
+      "befragungResponses": 0,
+      "words": 5076
+    },
+    {
+      "slug": "dorothee-baer",
+      "name": "Dorothee Bär",
+      "party": "CDU/CSU",
+      "speeches": 9,
+      "wortbeitraege": 34,
+      "befragungResponses": 34,
+      "words": 11244
+    },
+    {
+      "slug": "ayse-asar",
+      "name": "Ayse Asar",
+      "party": "GRÜNE",
+      "speeches": 9,
+      "wortbeitraege": 3,
+      "befragungResponses": 0,
+      "words": 2537
+    },
+    {
+      "slug": "claudia-mueller",
+      "name": "Claudia Müller",
+      "party": "GRÜNE",
+      "speeches": 9,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 5219
+    },
+    {
+      "slug": "alaa-alhamwi",
+      "name": "Dr. Alaa Alhamwi",
+      "party": "GRÜNE",
+      "speeches": 9,
+      "wortbeitraege": 3,
+      "befragungResponses": 0,
+      "words": 3059
+    },
+    {
+      "slug": "ingo-vogel",
+      "name": "Ingo Vogel",
+      "party": "SPD",
+      "speeches": 9,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 6218
+    },
+    {
+      "slug": "katharina-beck",
+      "name": "Katharina Beck",
+      "party": "GRÜNE",
+      "speeches": 9,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 5916
+    },
+    {
+      "slug": "ruben-rupp",
+      "name": "Ruben Rupp",
+      "party": "AfD",
+      "speeches": 9,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 6143
+    },
+    {
+      "slug": "leif-erik-holm",
+      "name": "Leif-Erik Holm",
+      "party": "AfD",
+      "speeches": 9,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 5402
+    },
+    {
+      "slug": "jens-peick",
+      "name": "Jens Peick",
+      "party": "SPD",
+      "speeches": 9,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 4901
+    },
+    {
+      "slug": "johannes-schaetzl",
+      "name": "Johannes Schätzl",
+      "party": "SPD",
+      "speeches": 9,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 3897
+    },
+    {
+      "slug": "johannes-fechner",
+      "name": "Dr. Johannes Fechner",
+      "party": "SPD",
+      "speeches": 9,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 4605
+    },
+    {
+      "slug": "lena-gumnior",
+      "name": "Dr. Lena Gumnior",
+      "party": "GRÜNE",
+      "speeches": 9,
+      "wortbeitraege": 6,
+      "befragungResponses": 0,
+      "words": 5120
+    },
+    {
+      "slug": "robin-wagener",
+      "name": "Robin Wagener",
+      "party": "GRÜNE",
+      "speeches": 9,
+      "wortbeitraege": 4,
+      "befragungResponses": 1,
+      "words": 7755
+    },
+    {
+      "slug": "michael-thews",
+      "name": "Michael Thews",
+      "party": "SPD",
+      "speeches": 9,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 4794
+    },
+    {
+      "slug": "alexander-engelhard",
+      "name": "Alexander Engelhard",
+      "party": "CDU/CSU",
+      "speeches": 9,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 3209
+    },
+    {
+      "slug": "gerrit-huy",
+      "name": "Gerrit Huy",
+      "party": "AfD",
+      "speeches": 9,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 5761
+    },
+    {
+      "slug": "armin-grau",
+      "name": "Dr. Armin Grau",
+      "party": "GRÜNE",
+      "speeches": 9,
+      "wortbeitraege": 5,
+      "befragungResponses": 0,
+      "words": 4964
+    },
+    {
+      "slug": "donata-vogtschmidt",
+      "name": "Donata Vogtschmidt",
+      "party": "DIE LINKE",
+      "speeches": 9,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 5932
+    },
+    {
+      "slug": "timon-dzienus",
+      "name": "Timon Dzienus",
+      "party": "GRÜNE",
+      "speeches": 9,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 5155
+    },
+    {
+      "slug": "fabian-jacobi",
+      "name": "Fabian Jacobi",
+      "party": "AfD",
+      "speeches": 9,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 5282
+    },
+    {
+      "slug": "tijen-ataoglu",
+      "name": "Tijen Ataoğlu",
+      "party": "CDU/CSU",
+      "speeches": 9,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 5708
+    },
+    {
+      "slug": "anna-aeikens",
+      "name": "Anna Aeikens",
+      "party": "CDU/CSU",
+      "speeches": 9,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 5107
+    },
+    {
+      "slug": "mathias-middelberg",
+      "name": "Dr. Mathias Middelberg",
+      "party": "CDU/CSU",
+      "speeches": 9,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 7050
+    },
+    {
+      "slug": "christian-haase",
+      "name": "Christian Haase",
+      "party": "CDU/CSU",
+      "speeches": 9,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 6648
+    },
+    {
+      "slug": "iris-nieland",
+      "name": "Iris Nieland",
+      "party": "AfD",
+      "speeches": 9,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 3257
+    },
+    {
+      "slug": "christoph-schmid",
+      "name": "Christoph Schmid",
+      "party": "SPD",
+      "speeches": 9,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 4933
+    },
+    {
+      "slug": "julian-schmidt",
+      "name": "Julian Schmidt",
+      "party": "AfD",
+      "speeches": 9,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 5170
+    },
+    {
+      "slug": "anja-weisgerber",
+      "name": "Dr. Anja Weisgerber",
+      "party": "CDU/CSU",
+      "speeches": 9,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 4550
+    },
+    {
+      "slug": "jasmina-hostert",
+      "name": "Jasmina Hostert",
+      "party": "SPD",
+      "speeches": 9,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 3084
+    },
+    {
+      "slug": "sebastian-maack",
+      "name": "Sebastian Maack",
+      "party": "AfD",
+      "speeches": 9,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 5480
+    },
+    {
+      "slug": "tobias-ebenberger",
+      "name": "Tobias Ebenberger",
+      "party": "AfD",
+      "speeches": 9,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 3686
+    },
+    {
+      "slug": "esther-dilcher",
+      "name": "Esther Dilcher",
+      "party": "SPD",
+      "speeches": 9,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 5925
+    },
+    {
+      "slug": "goekay-akbulut",
+      "name": "Gökay Akbulut",
+      "party": "DIE LINKE",
+      "speeches": 9,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 3689
+    },
+    {
+      "slug": "florian-oest",
+      "name": "Florian Oest",
+      "party": "CDU/CSU",
+      "speeches": 9,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 2980
+    },
+    {
+      "slug": "anja-troff-schaffarzyk",
+      "name": "Anja Troff-Schaffarzyk",
+      "party": "SPD",
+      "speeches": 9,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 4787
+    },
+    {
+      "slug": "simone-fischer",
+      "name": "Simone Fischer",
+      "party": "GRÜNE",
+      "speeches": 9,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 3493
+    },
+    {
+      "slug": "dirk-wiese",
+      "name": "Dirk Wiese",
+      "party": "SPD",
+      "speeches": 9,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 4098
+    },
+    {
+      "slug": "niklas-wagener",
+      "name": "Niklas Wagener",
+      "party": "GRÜNE",
+      "speeches": 9,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 3281
+    },
+    {
+      "slug": "svenja-schulze",
+      "name": "Svenja Schulze",
+      "party": "SPD",
+      "speeches": 8,
+      "wortbeitraege": 3,
+      "befragungResponses": 0,
+      "words": 5770
+    },
+    {
+      "slug": "christin-willnat",
+      "name": "Christin Willnat",
+      "party": "DIE LINKE",
+      "speeches": 8,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 3132
+    },
+    {
+      "slug": "martin-plum",
+      "name": "Dr. Martin Plum",
+      "party": "CDU/CSU",
+      "speeches": 8,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 4710
+    },
+    {
+      "slug": "matthias-hiller",
+      "name": "Dr. Matthias Hiller",
+      "party": "CDU/CSU",
+      "speeches": 8,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 4663
+    },
+    {
+      "slug": "philip-m-a-hoffmann",
+      "name": "Philip M. A. Hoffmann",
+      "party": "CDU/CSU",
+      "speeches": 8,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 3764
+    },
+    {
+      "slug": "katrin-fey",
+      "name": "Katrin Fey",
+      "party": "DIE LINKE",
+      "speeches": 8,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 2375
+    },
+    {
+      "slug": "alexander-wolf",
+      "name": "Dr. Alexander Wolf",
+      "party": "AfD",
+      "speeches": 8,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 4055
+    },
+    {
+      "slug": "martin-hess",
+      "name": "Martin Hess",
+      "party": "AfD",
+      "speeches": 8,
+      "wortbeitraege": 3,
+      "befragungResponses": 0,
+      "words": 6208
+    },
+    {
+      "slug": "nora-seitz",
+      "name": "Nora Seitz",
+      "party": "CDU/CSU",
+      "speeches": 8,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 4106
+    },
+    {
+      "slug": "hans-juergen-gossner",
+      "name": "Hans-Jürgen Goßner",
+      "party": "AfD",
+      "speeches": 8,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 3669
+    },
+    {
+      "slug": "matthias-miersch",
+      "name": "Dr. Matthias Miersch",
+      "party": "SPD",
+      "speeches": 8,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 8534
+    },
+    {
+      "slug": "alice-weidel",
+      "name": "Dr. Alice Weidel",
+      "party": "AfD",
+      "speeches": 8,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 10937
+    },
+    {
+      "slug": "christoph-birghan",
+      "name": "Dr. Christoph Birghan",
+      "party": "AfD",
+      "speeches": 8,
+      "wortbeitraege": 7,
+      "befragungResponses": 0,
+      "words": 5080
+    },
+    {
+      "slug": "helmut-kleebank",
+      "name": "Helmut Kleebank",
+      "party": "SPD",
+      "speeches": 8,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 4615
+    },
+    {
+      "slug": "fabian-gramling",
+      "name": "Fabian Gramling",
+      "party": "CDU/CSU",
+      "speeches": 8,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 4415
+    },
+    {
+      "slug": "nicklas-kappe",
+      "name": "Nicklas Kappe",
+      "party": "CDU/CSU",
+      "speeches": 8,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 4376
+    },
+    {
+      "slug": "tobias-winkler",
+      "name": "Tobias Winkler",
+      "party": "CDU/CSU",
+      "speeches": 8,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 5420
+    },
+    {
+      "slug": "ulrich-von-zons",
+      "name": "Ulrich von Zons",
+      "party": "AfD",
+      "speeches": 8,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 2426
+    },
+    {
+      "slug": "ralph-edelhaeusser",
+      "name": "Ralph Edelhäußer",
+      "party": "CDU/CSU",
+      "speeches": 8,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 3875
+    },
+    {
+      "slug": "michael-donth",
+      "name": "Michael Donth",
+      "party": "CDU/CSU",
+      "speeches": 8,
+      "wortbeitraege": 3,
+      "befragungResponses": 0,
+      "words": 3533
+    },
+    {
+      "slug": "matthias-gastel",
+      "name": "Matthias Gastel",
+      "party": "GRÜNE",
+      "speeches": 8,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 3079
+    },
+    {
+      "slug": "otto-strauss",
+      "name": "Otto Strauß",
+      "party": "AfD",
+      "speeches": 8,
+      "wortbeitraege": 3,
+      "befragungResponses": 0,
+      "words": 3511
+    },
+    {
+      "slug": "caren-lay",
+      "name": "Caren Lay",
+      "party": "DIE LINKE",
+      "speeches": 8,
+      "wortbeitraege": 3,
+      "befragungResponses": 0,
+      "words": 5528
+    },
+    {
+      "slug": "pascal-meiser",
+      "name": "Pascal Meiser",
+      "party": "DIE LINKE",
+      "speeches": 8,
+      "wortbeitraege": 11,
+      "befragungResponses": 0,
+      "words": 4914
+    },
+    {
+      "slug": "siegfried-walch",
+      "name": "Siegfried Walch",
+      "party": "CDU/CSU",
+      "speeches": 8,
+      "wortbeitraege": 4,
+      "befragungResponses": 0,
+      "words": 5231
+    },
+    {
+      "slug": "christian-douglas",
+      "name": "Christian Douglas",
+      "party": "AfD",
+      "speeches": 8,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 4539
+    },
+    {
+      "slug": "oliver-poepsel",
+      "name": "Oliver Pöpsel",
+      "party": "CDU/CSU",
+      "speeches": 8,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 4305
+    },
+    {
+      "slug": "ulrike-schielke-ziesing",
+      "name": "Ulrike Schielke-Ziesing",
+      "party": "AfD",
+      "speeches": 8,
+      "wortbeitraege": 4,
+      "befragungResponses": 0,
+      "words": 11058
+    },
+    {
+      "slug": "rebecca-lenhard",
+      "name": "Rebecca Lenhard",
+      "party": "GRÜNE",
+      "speeches": 8,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 3267
+    },
+    {
+      "slug": "mark-helfrich",
+      "name": "Mark Helfrich",
+      "party": "CDU/CSU",
+      "speeches": 8,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 4369
+    },
+    {
+      "slug": "thomas-gebhart",
+      "name": "Dr. Thomas Gebhart",
+      "party": "CDU/CSU",
+      "speeches": 8,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 4552
+    },
+    {
+      "slug": "kathrin-michel",
+      "name": "Kathrin Michel",
+      "party": "SPD",
+      "speeches": 8,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 3605
+    },
+    {
+      "slug": "violetta-bock",
+      "name": "Violetta Bock",
+      "party": "DIE LINKE",
+      "speeches": 8,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 3863
+    },
+    {
+      "slug": "martin-reichardt",
+      "name": "Martin Reichardt",
+      "party": "AfD",
+      "speeches": 8,
+      "wortbeitraege": 12,
+      "befragungResponses": 0,
+      "words": 5029
+    },
+    {
+      "slug": "truels-reichardt",
+      "name": "Truels Reichardt",
+      "party": "SPD",
+      "speeches": 8,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 4543
+    },
+    {
+      "slug": "christian-zaum",
+      "name": "Christian Zaum",
+      "party": "AfD",
+      "speeches": 8,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 4176
+    },
+    {
+      "slug": "maximilian-kneller",
+      "name": "Maximilian Kneller",
+      "party": "AfD",
+      "speeches": 8,
+      "wortbeitraege": 6,
+      "befragungResponses": 0,
+      "words": 3533
+    },
+    {
+      "slug": "katrin-goering-eckardt",
+      "name": "Katrin Göring-Eckardt",
+      "party": "GRÜNE",
+      "speeches": 8,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 4473
+    },
+    {
+      "slug": "thomas-ladzinski",
+      "name": "Thomas Ladzinski",
+      "party": "AfD",
+      "speeches": 8,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 7187
+    },
+    {
+      "slug": "karoline-otte",
+      "name": "Karoline Otte",
+      "party": "GRÜNE",
+      "speeches": 8,
+      "wortbeitraege": 3,
+      "befragungResponses": 0,
+      "words": 4018
+    },
+    {
+      "slug": "matthias-helferich",
+      "name": "Matthias Helferich",
+      "party": "AfD",
+      "speeches": 8,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 2550
+    },
+    {
+      "slug": "pascal-reddig",
+      "name": "Pascal Reddig",
+      "party": "CDU/CSU",
+      "speeches": 8,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 4735
+    },
+    {
+      "slug": "andreas-paul",
+      "name": "Andreas Paul",
+      "party": "AfD",
+      "speeches": 8,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 3741
+    },
+    {
+      "slug": "kai-whittaker",
+      "name": "Kai Whittaker",
+      "party": "CDU/CSU",
+      "speeches": 8,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 3778
+    },
+    {
+      "slug": "till-steffen",
+      "name": "Dr. Till Steffen",
+      "party": "GRÜNE",
+      "speeches": 8,
+      "wortbeitraege": 3,
+      "befragungResponses": 0,
+      "words": 6196
+    },
+    {
+      "slug": "christopher-droessler",
+      "name": "Christopher Drößler",
+      "party": "AfD",
+      "speeches": 8,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 3403
+    },
+    {
+      "slug": "lina-seitzl",
+      "name": "Dr. Lina Seitzl",
+      "party": "SPD",
+      "speeches": 8,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 4146
+    },
+    {
+      "slug": "cornell-anette-babendererde",
+      "name": "Dr. Cornell-Anette Babendererde",
+      "party": "CDU/CSU",
+      "speeches": 8,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 2895
+    },
+    {
+      "slug": "nicole-hess",
+      "name": "Nicole Hess",
+      "party": "AfD",
+      "speeches": 8,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 4383
+    },
+    {
+      "slug": "sandra-carstensen",
+      "name": "Sandra Carstensen",
+      "party": "CDU/CSU",
+      "speeches": 8,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 3697
+    },
+    {
+      "slug": "christos-pantazis",
+      "name": "Dr. Christos Pantazis",
+      "party": "SPD",
+      "speeches": 8,
+      "wortbeitraege": 3,
+      "befragungResponses": 0,
+      "words": 4285
+    },
+    {
+      "slug": "daniel-zerbin",
+      "name": "Dr. Daniel Zerbin",
+      "party": "AfD",
+      "speeches": 8,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 2950
+    },
+    {
+      "slug": "dietmar-bartsch",
+      "name": "Dr. Dietmar Bartsch",
+      "party": "DIE LINKE",
+      "speeches": 7,
+      "wortbeitraege": 9,
+      "befragungResponses": 0,
+      "words": 12122
+    },
+    {
+      "slug": "daniel-baldy",
+      "name": "Daniel Baldy",
+      "party": "SPD",
+      "speeches": 7,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 4775
+    },
+    {
+      "slug": "sascha-lensing",
+      "name": "Sascha Lensing",
+      "party": "AfD",
+      "speeches": 7,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 3178
+    },
+    {
+      "slug": "sebastian-schmidt",
+      "name": "Sebastian Schmidt",
+      "party": "CDU/CSU",
+      "speeches": 7,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 3156
+    },
+    {
+      "slug": "julia-schneider",
+      "name": "Julia Schneider",
+      "party": "GRÜNE",
+      "speeches": 7,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 4103
+    },
+    {
+      "slug": "uwe-feiler",
+      "name": "Uwe Feiler",
+      "party": "CDU/CSU",
+      "speeches": 7,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 5128
+    },
+    {
+      "slug": "jan-niclas-gesenhues",
+      "name": "Dr. Jan-Niclas Gesenhues",
+      "party": "GRÜNE",
+      "speeches": 7,
+      "wortbeitraege": 6,
+      "befragungResponses": 0,
+      "words": 4885
+    },
+    {
+      "slug": "peter-boehringer",
+      "name": "Peter Boehringer",
+      "party": "AfD",
+      "speeches": 7,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 3343
+    },
+    {
+      "slug": "johannes-schraps",
+      "name": "Johannes Schraps",
+      "party": "SPD",
+      "speeches": 7,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 4130
+    },
+    {
+      "slug": "juergen-cosse",
+      "name": "Jürgen Coße",
+      "party": "SPD",
+      "speeches": 7,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 3339
+    },
+    {
+      "slug": "britta-hasselmann",
+      "name": "Britta Haßelmann",
+      "party": "GRÜNE",
+      "speeches": 7,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 6136
+    },
+    {
+      "slug": "ellen-demuth",
+      "name": "Ellen Demuth",
+      "party": "CDU/CSU",
+      "speeches": 7,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 3813
+    },
+    {
+      "slug": "katharina-droege",
+      "name": "Katharina Dröge",
+      "party": "GRÜNE",
+      "speeches": 7,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 11192
+    },
+    {
+      "slug": "enrico-komning",
+      "name": "Enrico Komning",
+      "party": "AfD",
+      "speeches": 7,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 4117
+    },
+    {
+      "slug": "saskia-ludwig",
+      "name": "Dr. Saskia Ludwig",
+      "party": "CDU/CSU",
+      "speeches": 7,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 4062
+    },
+    {
+      "slug": "kurt-kleinschmidt",
+      "name": "Kurt Kleinschmidt",
+      "party": "AfD",
+      "speeches": 7,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 3836
+    },
+    {
+      "slug": "axel-mueller",
+      "name": "Axel Müller",
+      "party": "CDU/CSU",
+      "speeches": 7,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 3841
+    },
+    {
+      "slug": "agnes-conrad",
+      "name": "Agnes Conrad",
+      "party": "DIE LINKE",
+      "speeches": 7,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 2766
+    },
+    {
+      "slug": "stephan-stracke",
+      "name": "Stephan Stracke",
+      "party": "CDU/CSU",
+      "speeches": 7,
+      "wortbeitraege": 4,
+      "befragungResponses": 0,
+      "words": 4028
+    },
+    {
+      "slug": "verena-hubertz",
+      "name": "Verena Hubertz",
+      "party": "SPD",
+      "speeches": 7,
+      "wortbeitraege": 60,
+      "befragungResponses": 60,
+      "words": 10783
+    },
+    {
+      "slug": "hendrik-bollmann",
+      "name": "Hendrik Bollmann",
+      "party": "SPD",
+      "speeches": 7,
+      "wortbeitraege": 4,
+      "befragungResponses": 0,
+      "words": 4677
+    },
+    {
+      "slug": "sylvia-rietenberg",
+      "name": "Sylvia Rietenberg",
+      "party": "GRÜNE",
+      "speeches": 7,
+      "wortbeitraege": 3,
+      "befragungResponses": 0,
+      "words": 3595
+    },
+    {
+      "slug": "wilhelm-gebhard",
+      "name": "Wilhelm Gebhard",
+      "party": "CDU/CSU",
+      "speeches": 7,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 4499
+    },
+    {
+      "slug": "boris-pistorius",
+      "name": "Boris Pistorius",
+      "party": "SPD",
+      "speeches": 7,
+      "wortbeitraege": 41,
+      "befragungResponses": 41,
+      "words": 12930
+    },
+    {
+      "slug": "paul-schmidt",
+      "name": "Dr. Paul Schmidt",
+      "party": "AfD",
+      "speeches": 7,
+      "wortbeitraege": 4,
+      "befragungResponses": 0,
+      "words": 3152
+    },
+    {
+      "slug": "isabel-mackensen-geis",
+      "name": "Isabel Mackensen-Geis",
+      "party": "SPD",
+      "speeches": 7,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 3516
+    },
+    {
+      "slug": "sascha-mueller",
+      "name": "Sascha Müller",
+      "party": "GRÜNE",
+      "speeches": 7,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 3618
+    },
+    {
+      "slug": "diana-zimmer",
+      "name": "Diana Zimmer",
+      "party": "AfD",
+      "speeches": 7,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 3356
+    },
+    {
+      "slug": "daniel-rinkert",
+      "name": "Daniel Rinkert",
+      "party": "SPD",
+      "speeches": 7,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 3559
+    },
+    {
+      "slug": "nyke-slawik",
+      "name": "Nyke Slawik",
+      "party": "GRÜNE",
+      "speeches": 7,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 2990
+    },
+    {
+      "slug": "david-schliesing",
+      "name": "David Schliesing",
+      "party": "DIE LINKE",
+      "speeches": 7,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 3367
+    },
+    {
+      "slug": "ulrich-thoden",
+      "name": "Ulrich Thoden",
+      "party": "DIE LINKE",
+      "speeches": 7,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 2990
+    },
+    {
+      "slug": "maik-brueckner",
+      "name": "Maik Brückner",
+      "party": "DIE LINKE",
+      "speeches": 7,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 2292
+    },
+    {
+      "slug": "jonas-geissler",
+      "name": "Dr. Jonas Geissler",
+      "party": "CDU/CSU",
+      "speeches": 7,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 3918
+    },
+    {
+      "slug": "gabriela-heinrich",
+      "name": "Gabriela Heinrich",
+      "party": "SPD",
+      "speeches": 7,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 2919
+    },
+    {
+      "slug": "ruediger-lucassen",
+      "name": "Rüdiger Lucassen",
+      "party": "AfD",
+      "speeches": 7,
+      "wortbeitraege": 5,
+      "befragungResponses": 0,
+      "words": 4899
+    },
+    {
+      "slug": "julia-verlinden",
+      "name": "Dr. Julia Verlinden",
+      "party": "GRÜNE",
+      "speeches": 7,
+      "wortbeitraege": 8,
+      "befragungResponses": 0,
+      "words": 6028
+    },
+    {
+      "slug": "rainer-rothfuss",
+      "name": "Dr. Rainer Rothfuß",
+      "party": "AfD",
+      "speeches": 7,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 3344
+    },
+    {
+      "slug": "misbah-khan",
+      "name": "Misbah Khan",
+      "party": "GRÜNE",
+      "speeches": 7,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 4122
+    },
+    {
+      "slug": "alois-rainer",
+      "name": "Alois Rainer",
+      "party": "CDU/CSU",
+      "speeches": 7,
+      "wortbeitraege": 32,
+      "befragungResponses": 32,
+      "words": 9014
+    },
+    {
+      "slug": "mandy-eissing",
+      "name": "Mandy Eißing",
+      "party": "DIE LINKE",
+      "speeches": 7,
+      "wortbeitraege": 3,
+      "befragungResponses": 0,
+      "words": 3301
+    },
+    {
+      "slug": "rene-bochmann",
+      "name": "René Bochmann",
+      "party": "AfD",
+      "speeches": 7,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 3101
+    },
+    {
+      "slug": "anne-mieke-bremer",
+      "name": "Anne-Mieke Bremer",
+      "party": "DIE LINKE",
+      "speeches": 7,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 3379
+    },
+    {
+      "slug": "klaus-mack",
+      "name": "Klaus Mack",
+      "party": "CDU/CSU",
+      "speeches": 7,
+      "wortbeitraege": 3,
+      "befragungResponses": 0,
+      "words": 5069
+    },
+    {
+      "slug": "hans-theiss",
+      "name": "Dr. Hans Theiss",
+      "party": "CDU/CSU",
+      "speeches": 7,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 3155
+    },
+    {
+      "slug": "claudia-weiss",
+      "name": "Claudia Weiss",
+      "party": "AfD",
+      "speeches": 7,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 2748
+    },
+    {
+      "slug": "susanne-hierl",
+      "name": "Susanne Hierl",
+      "party": "CDU/CSU",
+      "speeches": 6,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 4065
+    },
+    {
+      "slug": "stefan-moeller",
+      "name": "Stefan Möller",
+      "party": "AfD",
+      "speeches": 6,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 3689
+    },
+    {
+      "slug": "yannick-bury",
+      "name": "Dr. Yannick Bury",
+      "party": "CDU/CSU",
+      "speeches": 6,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 5206
+    },
+    {
+      "slug": "bettina-hagedorn",
+      "name": "Bettina Hagedorn",
+      "party": "SPD",
+      "speeches": 6,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 3280
+    },
+    {
+      "slug": "deborah-duering",
+      "name": "Deborah Düring",
+      "party": "GRÜNE",
+      "speeches": 6,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 3205
+    },
+    {
+      "slug": "ronald-glaeser",
+      "name": "Ronald Gläser",
+      "party": "AfD",
+      "speeches": 6,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 4944
+    },
+    {
+      "slug": "ferat-kocak",
+      "name": "Ferat Koçak",
+      "party": "DIE LINKE",
+      "speeches": 6,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 2790
+    },
+    {
+      "slug": "christina-stumpp",
+      "name": "Christina Stumpp",
+      "party": "CDU/CSU",
+      "speeches": 6,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 2843
+    },
+    {
+      "slug": "ronja-kemmer",
+      "name": "Ronja Kemmer",
+      "party": "CDU/CSU",
+      "speeches": 6,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 3890
+    },
+    {
+      "slug": "reza-asghari",
+      "name": "Dr. Reza Asghari",
+      "party": "CDU/CSU",
+      "speeches": 6,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 2577
+    },
+    {
+      "slug": "maria-lena-weiss",
+      "name": "Dr. Maria-Lena Weiss",
+      "party": "CDU/CSU",
+      "speeches": 6,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 3561
+    },
+    {
+      "slug": "cem-ince",
+      "name": "Cem Ince",
+      "party": "DIE LINKE",
+      "speeches": 6,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 2316
+    },
+    {
+      "slug": "jan-wenzel-schmidt",
+      "name": "Jan Wenzel Schmidt",
+      "party": "AfD",
+      "speeches": 6,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 2548
+    },
+    {
+      "slug": "guenter-baumgartner",
+      "name": "Günter Baumgartner",
+      "party": "CDU/CSU",
+      "speeches": 6,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 2427
+    },
+    {
+      "slug": "serdar-yueksel",
+      "name": "Serdar Yüksel",
+      "party": "SPD",
+      "speeches": 6,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 2962
+    },
+    {
+      "slug": "sandra-stein",
+      "name": "Sandra Stein",
+      "party": "GRÜNE",
+      "speeches": 6,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 3497
+    },
+    {
+      "slug": "konstantin-von-notz",
+      "name": "Dr. Konstantin von Notz",
+      "party": "GRÜNE",
+      "speeches": 6,
+      "wortbeitraege": 5,
+      "befragungResponses": 0,
+      "words": 3858
+    },
+    {
+      "slug": "julian-joswig",
+      "name": "Julian Joswig",
+      "party": "GRÜNE",
+      "speeches": 6,
+      "wortbeitraege": 8,
+      "befragungResponses": 0,
+      "words": 3847
+    },
+    {
+      "slug": "luke-hoss",
+      "name": "Luke Hoß",
+      "party": "DIE LINKE",
+      "speeches": 6,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 2838
+    },
+    {
+      "slug": "malte-kaufmann",
+      "name": "Dr. Malte Kaufmann",
+      "party": "AfD",
+      "speeches": 6,
+      "wortbeitraege": 4,
+      "befragungResponses": 0,
+      "words": 3654
+    },
+    {
+      "slug": "stefan-korbach",
+      "name": "Dr. Stefan Korbach",
+      "party": "CDU/CSU",
+      "speeches": 6,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 2460
+    },
+    {
+      "slug": "josef-oster",
+      "name": "Josef Oster",
+      "party": "CDU/CSU",
+      "speeches": 6,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 2082
+    },
+    {
+      "slug": "hanna-steinmueller",
+      "name": "Hanna Steinmüller",
+      "party": "GRÜNE",
+      "speeches": 6,
+      "wortbeitraege": 6,
+      "befragungResponses": 0,
+      "words": 3858
+    },
+    {
+      "slug": "katalin-gennburg",
+      "name": "Katalin Gennburg",
+      "party": "DIE LINKE",
+      "speeches": 6,
+      "wortbeitraege": 3,
+      "befragungResponses": 0,
+      "words": 3677
+    },
+    {
+      "slug": "carolin-bachmann",
+      "name": "Carolin Bachmann",
+      "party": "AfD",
+      "speeches": 6,
+      "wortbeitraege": 4,
+      "befragungResponses": 0,
+      "words": 3508
+    },
+    {
+      "slug": "lukas-benner",
+      "name": "Lukas Benner",
+      "party": "GRÜNE",
+      "speeches": 6,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 3007
+    },
+    {
+      "slug": "karl-baer",
+      "name": "Karl Bär",
+      "party": "GRÜNE",
+      "speeches": 6,
+      "wortbeitraege": 5,
+      "befragungResponses": 0,
+      "words": 3138
+    },
+    {
+      "slug": "kerstin-vieregge",
+      "name": "Kerstin Vieregge",
+      "party": "CDU/CSU",
+      "speeches": 6,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 3407
+    },
+    {
+      "slug": "diana-herbstreuth",
+      "name": "Diana Herbstreuth",
+      "party": "CDU/CSU",
+      "speeches": 6,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 3013
+    },
+    {
+      "slug": "nadine-heselhaus",
+      "name": "Nadine Heselhaus",
+      "party": "SPD",
+      "speeches": 6,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 2527
+    },
+    {
+      "slug": "robin-juenger",
+      "name": "Robin Jünger",
+      "party": "AfD",
+      "speeches": 6,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 3471
+    },
+    {
+      "slug": "annika-klose",
+      "name": "Annika Klose",
+      "party": "SPD",
+      "speeches": 6,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 3089
+    },
+    {
+      "slug": "marcel-queckemeyer",
+      "name": "Marcel Queckemeyer",
+      "party": "AfD",
+      "speeches": 6,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 2819
+    },
+    {
+      "slug": "benedikt-buedenbender",
+      "name": "Benedikt Büdenbender",
+      "party": "CDU/CSU",
+      "speeches": 6,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 3700
+    },
+    {
+      "slug": "anja-reinalter",
+      "name": "Dr. Anja Reinalter",
+      "party": "GRÜNE",
+      "speeches": 6,
+      "wortbeitraege": 8,
+      "befragungResponses": 0,
+      "words": 4177
+    },
+    {
+      "slug": "franziska-hoppermann",
+      "name": "Franziska Hoppermann",
+      "party": "CDU/CSU",
+      "speeches": 6,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 4676
+    },
+    {
+      "slug": "hansjoerg-durz",
+      "name": "Hansjörg Durz",
+      "party": "CDU/CSU",
+      "speeches": 6,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 3399
+    },
+    {
+      "slug": "lea-reisner",
+      "name": "Lea Reisner",
+      "party": "DIE LINKE",
+      "speeches": 6,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 3143
+    },
+    {
+      "slug": "vinzenz-glaser",
+      "name": "Vinzenz Glaser",
+      "party": "DIE LINKE",
+      "speeches": 6,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 2450
+    },
+    {
+      "slug": "inge-graessle",
+      "name": "Dr. Inge Gräßle",
+      "party": "CDU/CSU",
+      "speeches": 6,
+      "wortbeitraege": 7,
+      "befragungResponses": 0,
+      "words": 8105
+    },
+    {
+      "slug": "andreas-mattfeldt",
+      "name": "Andreas Mattfeldt",
+      "party": "CDU/CSU",
+      "speeches": 6,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 5133
+    },
+    {
+      "slug": "denis-pauli",
+      "name": "Denis Pauli",
+      "party": "AfD",
+      "speeches": 6,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 2299
+    },
+    {
+      "slug": "jens-behrens",
+      "name": "Jens Behrens",
+      "party": "SPD",
+      "speeches": 6,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 2890
+    },
+    {
+      "slug": "ophelia-nick",
+      "name": "Dr. Ophelia Nick",
+      "party": "GRÜNE",
+      "speeches": 6,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 2723
+    },
+    {
+      "slug": "heinrich-koch",
+      "name": "Heinrich Koch",
+      "party": "AfD",
+      "speeches": 6,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 2076
+    },
+    {
+      "slug": "jan-feser",
+      "name": "Jan Feser",
+      "party": "AfD",
+      "speeches": 6,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 4083
+    },
+    {
+      "slug": "kassem-taher-saleh",
+      "name": "Kassem Taher Saleh",
+      "party": "GRÜNE",
+      "speeches": 6,
+      "wortbeitraege": 3,
+      "befragungResponses": 0,
+      "words": 2411
+    },
+    {
+      "slug": "arne-raue",
+      "name": "Arne Raue",
+      "party": "AfD",
+      "speeches": 6,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 3377
+    },
+    {
+      "slug": "johannes-wiegelmann",
+      "name": "Johannes Wiegelmann",
+      "party": "CDU/CSU",
+      "speeches": 6,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 3856
+    },
+    {
+      "slug": "steffen-bilger",
+      "name": "Steffen Bilger",
+      "party": "CDU/CSU",
+      "speeches": 6,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 2151
+    },
+    {
+      "slug": "christian-reck",
+      "name": "Christian Reck",
+      "party": "AfD",
+      "speeches": 6,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 2063
+    },
+    {
+      "slug": "hendrik-hoppenstedt",
+      "name": "Dr. Hendrik Hoppenstedt",
+      "party": "CDU/CSU",
+      "speeches": 6,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 3603
+    },
+    {
+      "slug": "stephan-albani",
+      "name": "Stephan Albani",
+      "party": "CDU/CSU",
+      "speeches": 6,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 2748
+    },
+    {
+      "slug": "evelyn-schoetz",
+      "name": "Evelyn Schötz",
+      "party": "DIE LINKE",
+      "speeches": 6,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 1728
+    },
+    {
+      "slug": "albert-stegemann",
+      "name": "Albert Stegemann",
+      "party": "CDU/CSU",
+      "speeches": 6,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 3516
+    },
+    {
+      "slug": "bjoern-simon",
+      "name": "Björn Simon",
+      "party": "CDU/CSU",
+      "speeches": 6,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 2300
+    },
+    {
+      "slug": "rene-springer",
+      "name": "René Springer",
+      "party": "AfD",
+      "speeches": 6,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 3797
+    },
+    {
+      "slug": "stefan-nacke",
+      "name": "Dr. Stefan Nacke",
+      "party": "CDU/CSU",
+      "speeches": 6,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 2926
+    },
+    {
+      "slug": "daniel-walter",
+      "name": "Daniel Walter",
+      "party": "SPD",
+      "speeches": 6,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 3635
+    },
+    {
+      "slug": "david-preisendanz",
+      "name": "Dr. David Preisendanz",
+      "party": "CDU/CSU",
+      "speeches": 6,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 3205
+    },
+    {
+      "slug": "volker-mayer-lay",
+      "name": "Volker Mayer-Lay",
+      "party": "CDU/CSU",
+      "speeches": 6,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 3197
+    },
+    {
+      "slug": "klaus-peter-willsch",
+      "name": "Klaus-Peter Willsch",
+      "party": "CDU/CSU",
+      "speeches": 5,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 3372
+    },
+    {
+      "slug": "rainer-gross",
+      "name": "Rainer Groß",
+      "party": "AfD",
+      "speeches": 5,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 2515
+    },
+    {
+      "slug": "sanae-abdi",
+      "name": "Sanae Abdi",
+      "party": "SPD",
+      "speeches": 5,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 3577
+    },
+    {
+      "slug": "janina-boettger",
+      "name": "Janina Böttger",
+      "party": "DIE LINKE",
+      "speeches": 5,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 1245
+    },
+    {
+      "slug": "wolfgang-stefinger",
+      "name": "Dr. Wolfgang Stefinger",
+      "party": "CDU/CSU",
+      "speeches": 5,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 3645
+    },
+    {
+      "slug": "nancy-faeser",
+      "name": "Nancy Faeser",
+      "party": "SPD",
+      "speeches": 5,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 2359
+    },
+    {
+      "slug": "knut-abraham",
+      "name": "Knut Abraham",
+      "party": "CDU/CSU",
+      "speeches": 5,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 2334
+    },
+    {
+      "slug": "gregor-gysi",
+      "name": "Dr. Gregor Gysi",
+      "party": "DIE LINKE",
+      "speeches": 5,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 2366
+    },
+    {
+      "slug": "wilfried-oellers",
+      "name": "Wilfried Oellers",
+      "party": "CDU/CSU",
+      "speeches": 5,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 2805
+    },
+    {
+      "slug": "florian-mueller",
+      "name": "Florian Müller",
+      "party": "CDU/CSU",
+      "speeches": 5,
+      "wortbeitraege": 4,
+      "befragungResponses": 0,
+      "words": 4847
+    },
+    {
+      "slug": "ingo-hahn",
+      "name": "Dr. Ingo Hahn",
+      "party": "AfD",
+      "speeches": 5,
+      "wortbeitraege": 12,
+      "befragungResponses": 1,
+      "words": 5437
+    },
+    {
+      "slug": "reinhard-mixl",
+      "name": "Reinhard Mixl",
+      "party": "AfD",
+      "speeches": 5,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 2167
+    },
+    {
+      "slug": "jan-van-aken",
+      "name": "Jan van Aken",
+      "party": "DIE LINKE",
+      "speeches": 5,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 2796
+    },
+    {
+      "slug": "sandra-detzer",
+      "name": "Dr. Sandra Detzer",
+      "party": "GRÜNE",
+      "speeches": 5,
+      "wortbeitraege": 13,
+      "befragungResponses": 0,
+      "words": 4895
+    },
+    {
+      "slug": "alexander-arpaschi",
+      "name": "Alexander Arpaschi",
+      "party": "AfD",
+      "speeches": 5,
+      "wortbeitraege": 4,
+      "befragungResponses": 0,
+      "words": 3721
+    },
+    {
+      "slug": "lars-haise",
+      "name": "Lars Haise",
+      "party": "AfD",
+      "speeches": 5,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 1587
+    },
+    {
+      "slug": "marlene-schoenberger",
+      "name": "Marlene Schönberger",
+      "party": "GRÜNE",
+      "speeches": 5,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 2188
+    },
+    {
+      "slug": "markus-matzerath",
+      "name": "Markus Matzerath",
+      "party": "AfD",
+      "speeches": 5,
+      "wortbeitraege": 3,
+      "befragungResponses": 0,
+      "words": 2655
+    },
+    {
+      "slug": "ansgar-heveling",
+      "name": "Ansgar Heveling",
+      "party": "CDU/CSU",
+      "speeches": 5,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 2263
+    },
+    {
+      "slug": "marvin-schulz",
+      "name": "Marvin Schulz",
+      "party": "CDU/CSU",
+      "speeches": 5,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 2588
+    },
+    {
+      "slug": "lars-ehm",
+      "name": "Lars Ehm",
+      "party": "CDU/CSU",
+      "speeches": 5,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 2128
+    },
+    {
+      "slug": "aaron-valent",
+      "name": "Aaron Valent",
+      "party": "DIE LINKE",
+      "speeches": 5,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 1262
+    },
+    {
+      "slug": "katherina-reiche",
+      "name": "Katherina Reiche",
+      "party": "CDU/CSU",
+      "speeches": 5,
+      "wortbeitraege": 34,
+      "befragungResponses": 34,
+      "words": 8840
+    },
+    {
+      "slug": "andreas-bleck",
+      "name": "Andreas Bleck",
+      "party": "AfD",
+      "speeches": 5,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 1940
+    },
+    {
+      "slug": "karsten-wildberger",
+      "name": "Dr. Karsten Wildberger",
+      "party": "CDU/CSU",
+      "speeches": 5,
+      "wortbeitraege": 22,
+      "befragungResponses": 22,
+      "words": 7532
+    },
+    {
+      "slug": "joachim-ebmeyer",
+      "name": "Joachim Ebmeyer",
+      "party": "CDU/CSU",
+      "speeches": 5,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 3692
+    },
+    {
+      "slug": "marcel-bauer",
+      "name": "Marcel Bauer",
+      "party": "DIE LINKE",
+      "speeches": 5,
+      "wortbeitraege": 3,
+      "befragungResponses": 0,
+      "words": 2943
+    },
+    {
+      "slug": "thomas-korell",
+      "name": "Thomas Korell",
+      "party": "AfD",
+      "speeches": 5,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 2060
+    },
+    {
+      "slug": "markus-reichel",
+      "name": "Dr. Markus Reichel",
+      "party": "CDU/CSU",
+      "speeches": 5,
+      "wortbeitraege": 3,
+      "befragungResponses": 0,
+      "words": 3147
+    },
+    {
+      "slug": "thomas-stephan",
+      "name": "Thomas Stephan",
+      "party": "AfD",
+      "speeches": 5,
+      "wortbeitraege": 4,
+      "befragungResponses": 0,
+      "words": 3715
+    },
+    {
+      "slug": "anne-koenig",
+      "name": "Anne König",
+      "party": "CDU/CSU",
+      "speeches": 5,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 2842
+    },
+    {
+      "slug": "guenter-krings",
+      "name": "Dr. Günter Krings",
+      "party": "CDU/CSU",
+      "speeches": 5,
+      "wortbeitraege": 4,
+      "befragungResponses": 0,
+      "words": 6073
+    },
+    {
+      "slug": "ralph-brinkhaus",
+      "name": "Ralph Brinkhaus",
+      "party": "CDU/CSU",
+      "speeches": 5,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 3623
+    },
+    {
+      "slug": "carsten-koerber",
+      "name": "Carsten Körber",
+      "party": "CDU/CSU",
+      "speeches": 5,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 3238
+    },
+    {
+      "slug": "ruppert-stuewe",
+      "name": "Ruppert Stüwe",
+      "party": "SPD",
+      "speeches": 5,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 2568
+    },
+    {
+      "slug": "johannes-steiniger",
+      "name": "Johannes Steiniger",
+      "party": "CDU/CSU",
+      "speeches": 5,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 3177
+    },
+    {
+      "slug": "zoe-mayer",
+      "name": "Dr. Zoe Mayer",
+      "party": "GRÜNE",
+      "speeches": 5,
+      "wortbeitraege": 8,
+      "befragungResponses": 0,
+      "words": 4278
+    },
+    {
+      "slug": "karin-prien",
+      "name": "Karin Prien",
+      "party": "CDU/CSU",
+      "speeches": 5,
+      "wortbeitraege": 54,
+      "befragungResponses": 53,
+      "words": 9080
+    },
+    {
+      "slug": "manuel-krauthausen",
+      "name": "Manuel Krauthausen",
+      "party": "AfD",
+      "speeches": 5,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 3114
+    },
+    {
+      "slug": "daniela-rump",
+      "name": "Daniela Rump",
+      "party": "SPD",
+      "speeches": 5,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 2657
+    },
+    {
+      "slug": "hauke-finger",
+      "name": "Hauke Finger",
+      "party": "AfD",
+      "speeches": 5,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 2153
+    },
+    {
+      "slug": "patrick-schnieder",
+      "name": "Patrick Schnieder",
+      "party": "CDU/CSU",
+      "speeches": 5,
+      "wortbeitraege": 42,
+      "befragungResponses": 41,
+      "words": 9281
+    },
+    {
+      "slug": "joerg-zirwes",
+      "name": "Jörg Zirwes",
+      "party": "AfD",
+      "speeches": 5,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 1978
+    },
+    {
+      "slug": "elisabeth-kaiser",
+      "name": "Elisabeth Kaiser",
+      "party": "SPD",
+      "speeches": 5,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 2120
+    },
+    {
+      "slug": "corinna-rueffer",
+      "name": "Corinna Rüffer",
+      "party": "GRÜNE",
+      "speeches": 5,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 2600
+    },
+    {
+      "slug": "christina-baum",
+      "name": "Dr. Christina Baum",
+      "party": "AfD",
+      "speeches": 5,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 2132
+    },
+    {
+      "slug": "stephan-pilsinger",
+      "name": "Dr. Stephan Pilsinger",
+      "party": "CDU/CSU",
+      "speeches": 5,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 3328
+    },
+    {
+      "slug": "katja-strauss-koester",
+      "name": "Dr. Katja Strauss-Köster",
+      "party": "CDU/CSU",
+      "speeches": 5,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 2587
+    },
+    {
+      "slug": "georg-guenther",
+      "name": "Georg Günther",
+      "party": "CDU/CSU",
+      "speeches": 5,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 3219
+    },
+    {
+      "slug": "linda-heitmann",
+      "name": "Linda Heitmann",
+      "party": "GRÜNE",
+      "speeches": 5,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 2047
+    },
+    {
+      "slug": "jochen-haug",
+      "name": "Jochen Haug",
+      "party": "AfD",
+      "speeches": 4,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 1938
+    },
+    {
+      "slug": "thomas-rachel",
+      "name": "Thomas Rachel",
+      "party": "CDU/CSU",
+      "speeches": 4,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 2779
+    },
+    {
+      "slug": "rocco-kever",
+      "name": "Rocco Kever",
+      "party": "AfD",
+      "speeches": 4,
+      "wortbeitraege": 4,
+      "befragungResponses": 0,
+      "words": 3935
+    },
+    {
+      "slug": "awet-tesfaiesus",
+      "name": "Awet Tesfaiesus",
+      "party": "GRÜNE",
+      "speeches": 4,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 1530
+    },
+    {
+      "slug": "carl-philipp-sassenrath",
+      "name": "Carl-Philipp Sassenrath",
+      "party": "CDU/CSU",
+      "speeches": 4,
+      "wortbeitraege": 8,
+      "befragungResponses": 0,
+      "words": 5624
+    },
+    {
+      "slug": "wolfram-weimer-cdu-csu",
+      "name": "Dr. Wolfram Weimer",
+      "party": "CDU/CSU",
+      "speeches": 4,
+      "wortbeitraege": 5,
+      "befragungResponses": 5,
+      "words": 3775
+    },
+    {
+      "slug": "michael-kaufmann",
+      "name": "Dr. Michael Kaufmann",
+      "party": "AfD",
+      "speeches": 4,
+      "wortbeitraege": 7,
+      "befragungResponses": 0,
+      "words": 3891
+    },
+    {
+      "slug": "oliver-kaczmarek",
+      "name": "Oliver Kaczmarek",
+      "party": "SPD",
+      "speeches": 4,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 2891
+    },
+    {
+      "slug": "andrea-luebcke",
+      "name": "Dr. Andrea Lübcke",
+      "party": "GRÜNE",
+      "speeches": 4,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 2065
+    },
+    {
+      "slug": "mathias-weiser",
+      "name": "Mathias Weiser",
+      "party": "AfD",
+      "speeches": 4,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 3446
+    },
+    {
+      "slug": "henri-schmidt",
+      "name": "Henri Schmidt",
+      "party": "CDU/CSU",
+      "speeches": 4,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 1832
+    },
+    {
+      "slug": "roderich-kiesewetter",
+      "name": "Roderich Kiesewetter",
+      "party": "CDU/CSU",
+      "speeches": 4,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 2380
+    },
+    {
+      "slug": "bastian-ernst",
+      "name": "Bastian Ernst",
+      "party": "CDU/CSU",
+      "speeches": 4,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 1668
+    },
+    {
+      "slug": "harald-ebner",
+      "name": "Harald Ebner",
+      "party": "GRÜNE",
+      "speeches": 4,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 1577
+    },
+    {
+      "slug": "thomas-pauls",
+      "name": "Dr. Thomas Pauls",
+      "party": "CDU/CSU",
+      "speeches": 4,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 2290
+    },
+    {
+      "slug": "caroline-bosbach",
+      "name": "Caroline Bosbach",
+      "party": "CDU/CSU",
+      "speeches": 4,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 2394
+    },
+    {
+      "slug": "thomas-bareiss",
+      "name": "Thomas Bareiß",
+      "party": "CDU/CSU",
+      "speeches": 4,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 3989
+    },
+    {
+      "slug": "frank-junge",
+      "name": "Frank Junge",
+      "party": "SPD",
+      "speeches": 4,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 3290
+    },
+    {
+      "slug": "daniel-bettermann",
+      "name": "Daniel Bettermann",
+      "party": "SPD",
+      "speeches": 4,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 2304
+    },
+    {
+      "slug": "andreas-jung",
+      "name": "Andreas Jung",
+      "party": "CDU/CSU",
+      "speeches": 4,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 4184
+    },
+    {
+      "slug": "melanie-bernstein",
+      "name": "Melanie Bernstein",
+      "party": "CDU/CSU",
+      "speeches": 4,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 2557
+    },
+    {
+      "slug": "kathrin-gebel",
+      "name": "Kathrin Gebel",
+      "party": "DIE LINKE",
+      "speeches": 4,
+      "wortbeitraege": 7,
+      "befragungResponses": 0,
+      "words": 2468
+    },
+    {
+      "slug": "gereon-bollmann",
+      "name": "Gereon Bollmann",
+      "party": "AfD",
+      "speeches": 4,
+      "wortbeitraege": 5,
+      "befragungResponses": 0,
+      "words": 3524
+    },
+    {
+      "slug": "moritz-heuberger",
+      "name": "Dr. Moritz Heuberger",
+      "party": "GRÜNE",
+      "speeches": 4,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 2132
+    },
+    {
+      "slug": "martin-erwin-renner",
+      "name": "Martin Erwin Renner",
+      "party": "AfD",
+      "speeches": 4,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 1824
+    },
+    {
+      "slug": "anna-luehrmann",
+      "name": "Dr. Anna Lührmann",
+      "party": "GRÜNE",
+      "speeches": 4,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 2607
+    },
+    {
+      "slug": "juergen-koegel",
+      "name": "Jürgen Koegel",
+      "party": "AfD",
+      "speeches": 4,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 3695
+    },
+    {
+      "slug": "johann-martel",
+      "name": "Johann Martel",
+      "party": "AfD",
+      "speeches": 4,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 1453
+    },
+    {
+      "slug": "christoph-ploss",
+      "name": "Dr. Christoph Ploß",
+      "party": "CDU/CSU",
+      "speeches": 4,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 1573
+    },
+    {
+      "slug": "johannes-wagner",
+      "name": "Johannes Wagner",
+      "party": "GRÜNE",
+      "speeches": 4,
+      "wortbeitraege": 9,
+      "befragungResponses": 0,
+      "words": 2171
+    },
+    {
+      "slug": "bettina-lugk",
+      "name": "Bettina Lugk",
+      "party": "SPD",
+      "speeches": 4,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 2040
+    },
+    {
+      "slug": "lars-schieske",
+      "name": "Lars Schieske",
+      "party": "AfD",
+      "speeches": 4,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 2080
+    },
+    {
+      "slug": "michael-hose",
+      "name": "Michael Hose",
+      "party": "CDU/CSU",
+      "speeches": 4,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 1778
+    },
+    {
+      "slug": "jan-ralf-nolte",
+      "name": "Jan Ralf Nolte",
+      "party": "AfD",
+      "speeches": 4,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 2824
+    },
+    {
+      "slug": "kerstin-przygodda",
+      "name": "Kerstin Przygodda",
+      "party": "AfD",
+      "speeches": 4,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 1536
+    },
+    {
+      "slug": "knuth-meyer-soltau",
+      "name": "Knuth Meyer-Soltau",
+      "party": "AfD",
+      "speeches": 4,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 1195
+    },
+    {
+      "slug": "matthias-david-mieves",
+      "name": "Matthias David Mieves",
+      "party": "SPD",
+      "speeches": 4,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 2611
+    },
+    {
+      "slug": "michael-blos",
+      "name": "Dr. Michael Blos",
+      "party": "AfD",
+      "speeches": 4,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 1854
+    },
+    {
+      "slug": "frederik-bouffier",
+      "name": "Frederik Bouffier",
+      "party": "CDU/CSU",
+      "speeches": 4,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 2420
+    },
+    {
+      "slug": "bastian-treuheit",
+      "name": "Bastian Treuheit",
+      "party": "AfD",
+      "speeches": 4,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 1711
+    },
+    {
+      "slug": "lorenz-goesta-beutin",
+      "name": "Lorenz Gösta Beutin",
+      "party": "DIE LINKE",
+      "speeches": 4,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 1740
+    },
+    {
+      "slug": "harald-orthey",
+      "name": "Harald Orthey",
+      "party": "CDU/CSU",
+      "speeches": 4,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 1193
+    },
+    {
+      "slug": "wolfgang-dahler",
+      "name": "Wolfgang Dahler",
+      "party": "CDU/CSU",
+      "speeches": 4,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 1777
+    },
+    {
+      "slug": "stefanie-hubig",
+      "name": "Dr. Stefanie Hubig",
+      "party": "SPD",
+      "speeches": 4,
+      "wortbeitraege": 30,
+      "befragungResponses": 29,
+      "words": 6980
+    },
+    {
+      "slug": "cansin-koektuerk",
+      "name": "Cansin Köktürk",
+      "party": "DIE LINKE",
+      "speeches": 4,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 1930
+    },
+    {
+      "slug": "sascha-van-beek",
+      "name": "Sascha van Beek",
+      "party": "CDU/CSU",
+      "speeches": 4,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 2667
+    },
+    {
+      "slug": "anne-janssen",
+      "name": "Anne Janssen",
+      "party": "CDU/CSU",
+      "speeches": 4,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 1598
+    },
+    {
+      "slug": "emmi-zeulner",
+      "name": "Emmi Zeulner",
+      "party": "CDU/CSU",
+      "speeches": 4,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 2210
+    },
+    {
+      "slug": "tanja-machalet",
+      "name": "Dr. Tanja Machalet",
+      "party": "SPD",
+      "speeches": 4,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 2872
+    },
+    {
+      "slug": "torben-braga",
+      "name": "Torben Braga",
+      "party": "AfD",
+      "speeches": 4,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 1566
+    },
+    {
+      "slug": "roland-theis",
+      "name": "Roland Theis",
+      "party": "CDU/CSU",
+      "speeches": 4,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 1504
+    },
+    {
+      "slug": "swantje-henrike-michaelsen",
+      "name": "Swantje Henrike Michaelsen",
+      "party": "GRÜNE",
+      "speeches": 4,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 1716
+    },
+    {
+      "slug": "jorrit-bosch",
+      "name": "Jorrit Bosch",
+      "party": "DIE LINKE",
+      "speeches": 4,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 2738
+    },
+    {
+      "slug": "tarek-al-wazir",
+      "name": "Tarek Al-Wazir",
+      "party": "GRÜNE",
+      "speeches": 4,
+      "wortbeitraege": 3,
+      "befragungResponses": 0,
+      "words": 2476
+    },
+    {
+      "slug": "sebastian-muenzenmaier",
+      "name": "Sebastian Münzenmaier",
+      "party": "AfD",
+      "speeches": 4,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 2941
+    },
+    {
+      "slug": "marc-biadacz",
+      "name": "Marc Biadacz",
+      "party": "CDU/CSU",
+      "speeches": 4,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 2214
+    },
+    {
+      "slug": "felix-banaszak",
+      "name": "Felix Banaszak",
+      "party": "GRÜNE",
+      "speeches": 4,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 3008
+    },
+    {
+      "slug": "carsten-linnemann",
+      "name": "Dr. Carsten Linnemann",
+      "party": "CDU/CSU",
+      "speeches": 4,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 2139
+    },
+    {
+      "slug": "florian-bilic",
+      "name": "Florian Bilic",
+      "party": "CDU/CSU",
+      "speeches": 4,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 1693
+    },
+    {
+      "slug": "robert-teske",
+      "name": "Robert Teske",
+      "party": "AfD",
+      "speeches": 4,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 1964
+    },
+    {
+      "slug": "gunther-krichbaum",
+      "name": "Gunther Krichbaum",
+      "party": "CDU/CSU",
+      "speeches": 4,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 1372
+    },
+    {
+      "slug": "peter-beyer",
+      "name": "Peter Beyer",
+      "party": "CDU/CSU",
+      "speeches": 4,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 1842
+    },
+    {
+      "slug": "olav-gutting",
+      "name": "Olav Gutting",
+      "party": "CDU/CSU",
+      "speeches": 4,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 1602
+    },
+    {
+      "slug": "david-gregosz",
+      "name": "David Gregosz",
+      "party": "CDU/CSU",
+      "speeches": 4,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 1857
+    },
+    {
+      "slug": "johannes-winkel",
+      "name": "Johannes Winkel",
+      "party": "CDU/CSU",
+      "speeches": 4,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 2181
+    },
+    {
+      "slug": "bernd-schuhmann",
+      "name": "Bernd Schuhmann",
+      "party": "AfD",
+      "speeches": 4,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 1548
+    },
+    {
+      "slug": "victoria-brossart",
+      "name": "Victoria Broßart",
+      "party": "GRÜNE",
+      "speeches": 4,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 2264
+    },
+    {
+      "slug": "chantal-kopf",
+      "name": "Chantal Kopf",
+      "party": "GRÜNE",
+      "speeches": 3,
+      "wortbeitraege": 4,
+      "befragungResponses": 0,
+      "words": 1303
+    },
+    {
+      "slug": "charlotte-antonia-neuhaeuser",
+      "name": "Charlotte Antonia Neuhäuser",
+      "party": "DIE LINKE",
+      "speeches": 3,
+      "wortbeitraege": 3,
+      "befragungResponses": 0,
+      "words": 1557
+    },
+    {
+      "slug": "florian-hahn",
+      "name": "Florian Hahn",
+      "party": "CDU/CSU",
+      "speeches": 3,
+      "wortbeitraege": 39,
+      "befragungResponses": 39,
+      "words": 7589
+    },
+    {
+      "slug": "pierre-lamely",
+      "name": "Pierre Lamely",
+      "party": "AfD",
+      "speeches": 3,
+      "wortbeitraege": 4,
+      "befragungResponses": 0,
+      "words": 1733
+    },
+    {
+      "slug": "metin-hakverdi",
+      "name": "Metin Hakverdi",
+      "party": "SPD",
+      "speeches": 3,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 1543
+    },
+    {
+      "slug": "anne-zerr",
+      "name": "Anne Zerr",
+      "party": "DIE LINKE",
+      "speeches": 3,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 1245
+    },
+    {
+      "slug": "omid-nouripour",
+      "name": "Omid Nouripour",
+      "party": "GRÜNE",
+      "speeches": 3,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 1335
+    },
+    {
+      "slug": "anja-karliczek",
+      "name": "Anja Karliczek",
+      "party": "CDU/CSU",
+      "speeches": 3,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 1042
+    },
+    {
+      "slug": "jens-lehmann",
+      "name": "Jens Lehmann",
+      "party": "CDU/CSU",
+      "speeches": 3,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 1641
+    },
+    {
+      "slug": "franziska-brantner",
+      "name": "Dr. Franziska Brantner",
+      "party": "GRÜNE",
+      "speeches": 3,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 1537
+    },
+    {
+      "slug": "carsten-brodesser",
+      "name": "Dr. Carsten Brodesser",
+      "party": "CDU/CSU",
+      "speeches": 3,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 1731
+    },
+    {
+      "slug": "lisa-schubert",
+      "name": "Lisa Schubert",
+      "party": "DIE LINKE",
+      "speeches": 3,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 1365
+    },
+    {
+      "slug": "sahra-mirow",
+      "name": "Sahra Mirow",
+      "party": "DIE LINKE",
+      "speeches": 3,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 2415
+    },
+    {
+      "slug": "daniela-ludwig",
+      "name": "Daniela Ludwig",
+      "party": "CDU/CSU",
+      "speeches": 3,
+      "wortbeitraege": 46,
+      "befragungResponses": 46,
+      "words": 4124
+    },
+    {
+      "slug": "hannes-gnauck",
+      "name": "Hannes Gnauck",
+      "party": "AfD",
+      "speeches": 3,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 2198
+    },
+    {
+      "slug": "rita-schwarzeluehr-sutter",
+      "name": "Rita Schwarzelühr-Sutter",
+      "party": "SPD",
+      "speeches": 3,
+      "wortbeitraege": 2,
+      "befragungResponses": 2,
+      "words": 1544
+    },
+    {
+      "slug": "kerstin-radomski",
+      "name": "Kerstin Radomski",
+      "party": "CDU/CSU",
+      "speeches": 3,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 1584
+    },
+    {
+      "slug": "tina-winklmann",
+      "name": "Tina Winklmann",
+      "party": "GRÜNE",
+      "speeches": 3,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 2151
+    },
+    {
+      "slug": "alexander-radwan",
+      "name": "Alexander Radwan",
+      "party": "CDU/CSU",
+      "speeches": 3,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 1830
+    },
+    {
+      "slug": "andreas-schwarz",
+      "name": "Andreas Schwarz",
+      "party": "SPD",
+      "speeches": 3,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 2975
+    },
+    {
+      "slug": "christiane-schenderlein",
+      "name": "Dr. Christiane Schenderlein",
+      "party": "CDU/CSU",
+      "speeches": 3,
+      "wortbeitraege": 4,
+      "befragungResponses": 4,
+      "words": 3183
+    },
+    {
+      "slug": "aydan-oezoguz",
+      "name": "Aydan Özoğuz",
+      "party": "SPD",
+      "speeches": 3,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 1819
+    },
+    {
+      "slug": "norbert-maria-altenkamp",
+      "name": "Norbert Maria Altenkamp",
+      "party": "CDU/CSU",
+      "speeches": 3,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 1837
+    },
+    {
+      "slug": "maren-kaminski",
+      "name": "Maren Kaminski",
+      "party": "DIE LINKE",
+      "speeches": 3,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 1779
+    },
+    {
+      "slug": "jan-wilhelm-pohlmann",
+      "name": "Jan-Wilhelm Pohlmann",
+      "party": "CDU/CSU",
+      "speeches": 3,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 945
+    },
+    {
+      "slug": "christoph-de-vries",
+      "name": "Christoph de Vries",
+      "party": "CDU/CSU",
+      "speeches": 3,
+      "wortbeitraege": 5,
+      "befragungResponses": 5,
+      "words": 2083
+    },
+    {
+      "slug": "martina-uhr",
+      "name": "Martina Uhr",
+      "party": "AfD",
+      "speeches": 3,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 1217
+    },
+    {
+      "slug": "nicole-hoechst",
+      "name": "Nicole Höchst",
+      "party": "AfD",
+      "speeches": 3,
+      "wortbeitraege": 5,
+      "befragungResponses": 0,
+      "words": 4343
+    },
+    {
+      "slug": "axel-knoerig",
+      "name": "Axel Knoerig",
+      "party": "CDU/CSU",
+      "speeches": 3,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 2136
+    },
+    {
+      "slug": "danny-meiners",
+      "name": "Danny Meiners",
+      "party": "AfD",
+      "speeches": 3,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 1232
+    },
+    {
+      "slug": "natalie-pawlik",
+      "name": "Natalie Pawlik",
+      "party": "SPD",
+      "speeches": 3,
+      "wortbeitraege": 1,
+      "befragungResponses": 1,
+      "words": 1517
+    },
+    {
+      "slug": "joachim-bloch",
+      "name": "Joachim Bloch",
+      "party": "AfD",
+      "speeches": 3,
+      "wortbeitraege": 4,
+      "befragungResponses": 0,
+      "words": 2276
+    },
+    {
+      "slug": "lars-castellucci",
+      "name": "Dr. Lars Castellucci",
+      "party": "SPD",
+      "speeches": 3,
+      "wortbeitraege": 3,
+      "befragungResponses": 0,
+      "words": 3223
+    },
+    {
+      "slug": "daniel-koelbl",
+      "name": "Daniel Kölbl",
+      "party": "CDU/CSU",
+      "speeches": 3,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 871
+    },
+    {
+      "slug": "stefan-henze",
+      "name": "Stefan Henze",
+      "party": "AfD",
+      "speeches": 3,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 1273
+    },
+    {
+      "slug": "mayra-vriesema",
+      "name": "Mayra Vriesema",
+      "party": "GRÜNE",
+      "speeches": 3,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 707
+    },
+    {
+      "slug": "volker-scheurell",
+      "name": "Volker Scheurell",
+      "party": "AfD",
+      "speeches": 3,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 1139
+    },
+    {
+      "slug": "artur-auernhammer",
+      "name": "Artur Auernhammer",
+      "party": "CDU/CSU",
+      "speeches": 3,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 2244
+    },
+    {
+      "slug": "claudia-roth",
+      "name": "Claudia Roth",
+      "party": "GRÜNE",
+      "speeches": 3,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 1625
+    },
+    {
+      "slug": "julia-christina-stange",
+      "name": "Julia-Christina Stange",
+      "party": "DIE LINKE",
+      "speeches": 3,
+      "wortbeitraege": 4,
+      "befragungResponses": 0,
+      "words": 1310
+    },
+    {
+      "slug": "kay-uwe-ziegler",
+      "name": "Kay-Uwe Ziegler",
+      "party": "AfD",
+      "speeches": 3,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 483
+    },
+    {
+      "slug": "georg-kippels",
+      "name": "Dr. Georg Kippels",
+      "party": "CDU/CSU",
+      "speeches": 3,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 512
+    },
+    {
+      "slug": "henning-rehbaum",
+      "name": "Henning Rehbaum",
+      "party": "CDU/CSU",
+      "speeches": 3,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 917
+    },
+    {
+      "slug": "nils-schmid",
+      "name": "Dr. Nils Schmid",
+      "party": "SPD",
+      "speeches": 3,
+      "wortbeitraege": 47,
+      "befragungResponses": 46,
+      "words": 4776
+    },
+    {
+      "slug": "paul-ziemiak",
+      "name": "Paul Ziemiak",
+      "party": "CDU/CSU",
+      "speeches": 3,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 1059
+    },
+    {
+      "slug": "christoph-grimm",
+      "name": "Christoph Grimm",
+      "party": "AfD",
+      "speeches": 3,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 1316
+    },
+    {
+      "slug": "thorsten-frei",
+      "name": "Thorsten Frei",
+      "party": "CDU/CSU",
+      "speeches": 3,
+      "wortbeitraege": 52,
+      "befragungResponses": 52,
+      "words": 6107
+    },
+    {
+      "slug": "sabine-dittmar",
+      "name": "Sabine Dittmar",
+      "party": "SPD",
+      "speeches": 3,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 1741
+    },
+    {
+      "slug": "catarina-dos-santos-wintz",
+      "name": "Catarina dos Santos-Wintz",
+      "party": "CDU/CSU",
+      "speeches": 3,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 958
+    },
+    {
+      "slug": "olaf-hilmer",
+      "name": "Olaf Hilmer",
+      "party": "AfD",
+      "speeches": 3,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 1670
+    },
+    {
+      "slug": "katja-mast",
+      "name": "Katja Mast",
+      "party": "SPD",
+      "speeches": 3,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 919
+    },
+    {
+      "slug": "sebastian-steineke",
+      "name": "Sebastian Steineke",
+      "party": "CDU/CSU",
+      "speeches": 2,
+      "wortbeitraege": 3,
+      "befragungResponses": 0,
+      "words": 2837
+    },
+    {
+      "slug": "markus-toens",
+      "name": "Markus Töns",
+      "party": "SPD",
+      "speeches": 2,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 983
+    },
+    {
+      "slug": "andreas-mayer",
+      "name": "Andreas Mayer",
+      "party": "AfD",
+      "speeches": 2,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 785
+    },
+    {
+      "slug": "gitta-connemann",
+      "name": "Gitta Connemann",
+      "party": "CDU/CSU",
+      "speeches": 2,
+      "wortbeitraege": 37,
+      "befragungResponses": 37,
+      "words": 4605
+    },
+    {
+      "slug": "vanessa-zobel",
+      "name": "Vanessa Zobel",
+      "party": "CDU/CSU",
+      "speeches": 2,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 1214
+    },
+    {
+      "slug": "macit-karaahmetoglu",
+      "name": "Macit Karaahmetoğlu",
+      "party": "SPD",
+      "speeches": 2,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 718
+    },
+    {
+      "slug": "uwe-schulz",
+      "name": "Uwe Schulz",
+      "party": "AfD",
+      "speeches": 2,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 1121
+    },
+    {
+      "slug": "bodo-ramelow",
+      "name": "Bodo Ramelow",
+      "party": "DIE LINKE",
+      "speeches": 2,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 513
+    },
+    {
+      "slug": "martin-kroeber",
+      "name": "Martin Kröber",
+      "party": "SPD",
+      "speeches": 2,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 1523
+    },
+    {
+      "slug": "stefan-schroeder",
+      "name": "Stefan Schröder",
+      "party": "AfD",
+      "speeches": 2,
+      "wortbeitraege": 17,
+      "befragungResponses": 0,
+      "words": 3538
+    },
+    {
+      "slug": "zada-salihovic",
+      "name": "Zada Salihović",
+      "party": "DIE LINKE",
+      "speeches": 2,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 1079
+    },
+    {
+      "slug": "christoph-frauenpreiss",
+      "name": "Christoph Frauenpreiß",
+      "party": "CDU/CSU",
+      "speeches": 2,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 958
+    },
+    {
+      "slug": "lutz-brinkmann",
+      "name": "Lutz Brinkmann",
+      "party": "CDU/CSU",
+      "speeches": 2,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 1234
+    },
+    {
+      "slug": "saskia-esken",
+      "name": "Saskia Esken",
+      "party": "SPD",
+      "speeches": 2,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 1631
+    },
+    {
+      "slug": "tim-kluessendorf",
+      "name": "Tim Klüssendorf",
+      "party": "SPD",
+      "speeches": 2,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 1587
+    },
+    {
+      "slug": "achim-koehler",
+      "name": "Achim Köhler",
+      "party": "AfD",
+      "speeches": 2,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 680
+    },
+    {
+      "slug": "thomas-roewekamp",
+      "name": "Thomas Röwekamp",
+      "party": "CDU/CSU",
+      "speeches": 2,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 1306
+    },
+    {
+      "slug": "michael-frieser",
+      "name": "Michael Frieser",
+      "party": "CDU/CSU",
+      "speeches": 2,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 596
+    },
+    {
+      "slug": "elisabeth-winkelmeier-becker",
+      "name": "Elisabeth Winkelmeier-Becker",
+      "party": "CDU/CSU",
+      "speeches": 2,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 1854
+    },
+    {
+      "slug": "marja-liisa-voellers",
+      "name": "Marja-Liisa Völlers",
+      "party": "SPD",
+      "speeches": 2,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 1238
+    },
+    {
+      "slug": "josephine-ortleb",
+      "name": "Josephine Ortleb",
+      "party": "SPD",
+      "speeches": 2,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 975
+    },
+    {
+      "slug": "raimond-scheirich",
+      "name": "Raimond Scheirich",
+      "party": "AfD",
+      "speeches": 2,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 1917
+    },
+    {
+      "slug": "martina-kempf",
+      "name": "Martina Kempf",
+      "party": "AfD",
+      "speeches": 2,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 885
+    },
+    {
+      "slug": "jan-metzler",
+      "name": "Jan Metzler",
+      "party": "CDU/CSU",
+      "speeches": 2,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 1660
+    },
+    {
+      "slug": "ulrich-lange",
+      "name": "Ulrich Lange",
+      "party": "CDU/CSU",
+      "speeches": 2,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 795
+    },
+    {
+      "slug": "adrian-grasse",
+      "name": "Adrian Grasse",
+      "party": "CDU/CSU",
+      "speeches": 2,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 1276
+    },
+    {
+      "slug": "denise-loop",
+      "name": "Denise Loop",
+      "party": "GRÜNE",
+      "speeches": 2,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 799
+    },
+    {
+      "slug": "leif-erik-bodin",
+      "name": "Leif Erik Bodin",
+      "party": "CDU/CSU",
+      "speeches": 2,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 1749
+    },
+    {
+      "slug": "thomas-dietz",
+      "name": "Thomas Dietz",
+      "party": "AfD",
+      "speeches": 2,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 1597
+    },
+    {
+      "slug": "hendrik-streeck",
+      "name": "Dr. Hendrik Streeck",
+      "party": "CDU/CSU",
+      "speeches": 2,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 987
+    },
+    {
+      "slug": "dario-seifert",
+      "name": "Dario Seifert",
+      "party": "AfD",
+      "speeches": 2,
+      "wortbeitraege": 2,
+      "befragungResponses": 0,
+      "words": 927
+    },
+    {
+      "slug": "udo-theodor-hemmelgarn",
+      "name": "Udo Theodor Hemmelgarn",
+      "party": "AfD",
+      "speeches": 2,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 709
+    },
+    {
+      "slug": "kirsten-kappert-gonther",
+      "name": "Dr. Kirsten Kappert-Gonther",
+      "party": "GRÜNE",
+      "speeches": 2,
+      "wortbeitraege": 4,
+      "befragungResponses": 0,
+      "words": 1081
+    },
+    {
+      "slug": "katrin-staffler",
+      "name": "Katrin Staffler",
+      "party": "CDU/CSU",
+      "speeches": 2,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 772
+    },
+    {
+      "slug": "manfred-schiller",
+      "name": "Manfred Schiller",
+      "party": "AfD",
+      "speeches": 2,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 1350
+    },
+    {
+      "slug": "sven-wendorf",
+      "name": "Sven Wendorf",
+      "party": "AfD",
+      "speeches": 2,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 948
+    },
+    {
+      "slug": "tobias-teich",
+      "name": "Tobias Teich",
+      "party": "AfD",
+      "speeches": 2,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 747
+    },
+    {
+      "slug": "marlon-broehr",
+      "name": "Dr. Marlon Bröhr",
+      "party": "CDU/CSU",
+      "speeches": 2,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 1207
+    },
+    {
+      "slug": "astrid-timmermann-fechter",
+      "name": "Astrid Timmermann-Fechter",
+      "party": "CDU/CSU",
+      "speeches": 2,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 889
+    },
+    {
+      "slug": "carsten-becker",
+      "name": "Carsten Becker",
+      "party": "AfD",
+      "speeches": 2,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 792
+    },
+    {
+      "slug": "armin-laschet",
+      "name": "Armin Laschet",
+      "party": "CDU/CSU",
+      "speeches": 2,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 1461
+    },
+    {
+      "slug": "alexander-gauland",
+      "name": "Dr. Alexander Gauland",
+      "party": "AfD",
+      "speeches": 2,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 1223
+    },
+    {
+      "slug": "henning-otte",
+      "name": "Henning Otte",
+      "party": "CDU/CSU",
+      "speeches": 1,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 21
+    },
+    {
+      "slug": "lukas-rehm",
+      "name": "Lukas Rehm",
+      "party": "AfD",
+      "speeches": 1,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 554
+    },
+    {
+      "slug": "micha-fehre",
+      "name": "Micha Fehre",
+      "party": "AfD",
+      "speeches": 1,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 415
+    },
+    {
+      "slug": "steffi-lemke",
+      "name": "Steffi Lemke",
+      "party": "GRÜNE",
+      "speeches": 1,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 1152
+    },
+    {
+      "slug": "michael-brand",
+      "name": "Michael Brand",
+      "party": "CDU/CSU",
+      "speeches": 1,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 751
+    },
+    {
+      "slug": "erhard-brucker",
+      "name": "Erhard Brucker",
+      "party": "AfD",
+      "speeches": 1,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 591
+    },
+    {
+      "slug": "oliver-vogt",
+      "name": "Dr. Oliver Vogt",
+      "party": "CDU/CSU",
+      "speeches": 1,
+      "wortbeitraege": 4,
+      "befragungResponses": 0,
+      "words": 3715
+    },
+    {
+      "slug": "peter-felser",
+      "name": "Peter Felser",
+      "party": "AfD",
+      "speeches": 1,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 919
+    },
+    {
+      "slug": "uwe-schmidt",
+      "name": "Uwe Schmidt",
+      "party": "SPD",
+      "speeches": 1,
+      "wortbeitraege": 3,
+      "befragungResponses": 0,
+      "words": 3468
+    },
+    {
+      "slug": "hermann-faerber",
+      "name": "Hermann Färber",
+      "party": "CDU/CSU",
+      "speeches": 1,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 393
+    },
+    {
+      "slug": "soeren-bartol",
+      "name": "Sören Bartol",
+      "party": "SPD",
+      "speeches": 1,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 344
+    },
+    {
+      "slug": "karl-lauterbach",
+      "name": "Dr. Karl Lauterbach",
+      "party": "SPD",
+      "speeches": 1,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 964
+    },
+    {
+      "slug": "annalena-baerbock",
+      "name": "Annalena Baerbock",
+      "party": "GRÜNE",
+      "speeches": 1,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 952
+    },
+    {
+      "slug": "reinhard-brandl",
+      "name": "Dr. Reinhard Brandl",
+      "party": "CDU/CSU",
+      "speeches": 1,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 248
+    },
+    {
+      "slug": "alexis-l-giersch",
+      "name": "Alexis L. Giersch",
+      "party": "AfD",
+      "speeches": 1,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 500
+    },
+    {
+      "slug": "stella-merendino",
+      "name": "Stella Merendino",
+      "party": "DIE LINKE",
+      "speeches": 1,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 753
+    },
+    {
+      "slug": "sven-lehmann",
+      "name": "Sven Lehmann",
+      "party": "GRÜNE",
+      "speeches": 1,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 1138
+    },
+    {
+      "slug": "matthias-rentzsch",
+      "name": "Matthias Rentzsch",
+      "party": "AfD",
+      "speeches": 1,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 517
+    },
+    {
+      "slug": "vivian-tauschwitz",
+      "name": "Vivian Tauschwitz",
+      "party": "CDU/CSU",
+      "speeches": 1,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 1473
+    },
+    {
+      "slug": "carina-schiessl",
+      "name": "Carina Schießl",
+      "party": "AfD",
+      "speeches": 1,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 328
+    },
+    {
+      "slug": "alexander-jordan",
+      "name": "Alexander Jordan",
+      "party": "CDU/CSU",
+      "speeches": 1,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 391
+    },
+    {
+      "slug": "frank-schwabe",
+      "name": "Frank Schwabe",
+      "party": "SPD",
+      "speeches": 1,
+      "wortbeitraege": 62,
+      "befragungResponses": 62,
+      "words": 7738
+    },
+    {
+      "slug": "mechthild-heil",
+      "name": "Mechthild Heil",
+      "party": "CDU/CSU",
+      "speeches": 1,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 669
+    },
+    {
+      "slug": "stefan-schwartze",
+      "name": "Stefan Schwartze",
+      "party": "SPD",
+      "speeches": 1,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 270
+    },
+    {
+      "slug": "johannes-rothenberger",
+      "name": "Johannes Rothenberger",
+      "party": "CDU/CSU",
+      "speeches": 1,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 496
+    },
+    {
+      "slug": "edgar-naujok",
+      "name": "Edgar Naujok",
+      "party": "AfD",
+      "speeches": 1,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 557
+    },
+    {
+      "slug": "matthias-moosdorf",
+      "name": "Matthias Moosdorf",
+      "party": "AfD",
+      "speeches": 1,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 695
+    },
+    {
+      "slug": "sebastian-hartmann",
+      "name": "Sebastian Hartmann",
+      "party": "SPD",
+      "speeches": 1,
+      "wortbeitraege": 1,
+      "befragungResponses": 1,
+      "words": 918
+    },
+    {
+      "slug": "dieter-stier",
+      "name": "Dieter Stier",
+      "party": "CDU/CSU",
+      "speeches": 1,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 53
+    },
+    {
+      "slug": "felix-schreiner",
+      "name": "Felix Schreiner",
+      "party": "CDU/CSU",
+      "speeches": 1,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 241
+    },
+    {
+      "slug": "philipp-amthor",
+      "name": "Philipp Amthor",
+      "party": "CDU/CSU",
+      "speeches": 1,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 171
+    },
+    {
+      "slug": "patricia-lips",
+      "name": "Patricia Lips",
+      "party": "CDU/CSU",
+      "speeches": 1,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 570
+    },
+    {
+      "slug": "stefan-zierke",
+      "name": "Stefan Zierke",
+      "party": "SPD",
+      "speeches": 1,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 461
+    },
+    {
+      "slug": "serap-gueler",
+      "name": "Serap Güler",
+      "party": "CDU/CSU",
+      "speeches": 1,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 1102
+    },
+    {
+      "slug": "markus-koob",
+      "name": "Markus Koob",
+      "party": "CDU/CSU",
+      "speeches": 1,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 643
+    },
+    {
+      "slug": "charlotte-neuhaeuser",
+      "name": "Charlotte Neuhäuser",
+      "party": "DIE LINKE",
+      "speeches": 1,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 364
+    },
+    {
+      "slug": "carsten-traeger",
+      "name": "Carsten Träger",
+      "party": "SPD",
+      "speeches": 1,
+      "wortbeitraege": 0,
+      "befragungResponses": 0,
+      "words": 1026
+    },
+    {
+      "slug": "reem-alabali-radovan",
+      "name": "Reem Alabali-Radovan",
+      "party": "SPD",
+      "speeches": 0,
+      "wortbeitraege": 17,
+      "befragungResponses": 17,
+      "words": 2586
+    },
+    {
+      "slug": "heike-heubach",
+      "name": "Heike Heubach",
+      "party": "SPD",
+      "speeches": 0,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 528
+    },
+    {
+      "slug": "albert-rupprecht",
+      "name": "Albert Rupprecht",
+      "party": "CDU/CSU",
+      "speeches": 0,
+      "wortbeitraege": 1,
+      "befragungResponses": 0,
+      "words": 902
+    },
+    {
+      "slug": "stefan-rouenhoff",
+      "name": "Stefan Rouenhoff",
+      "party": "CDU/CSU",
+      "speeches": 0,
+      "wortbeitraege": 63,
+      "befragungResponses": 61,
+      "words": 5646
+    },
+    {
+      "slug": "michael-schrodi",
+      "name": "Michael Schrodi",
+      "party": "SPD",
+      "speeches": 0,
+      "wortbeitraege": 4,
+      "befragungResponses": 4,
+      "words": 769
+    },
+    {
+      "slug": "silke-launert",
+      "name": "Dr. Silke Launert",
+      "party": "CDU/CSU",
+      "speeches": 0,
+      "wortbeitraege": 35,
+      "befragungResponses": 35,
+      "words": 3113
+    },
+    {
+      "slug": "wolfram-weimer-cdu-csu",
+      "name": "Wolfram Weimer",
+      "party": "CDU/CSU",
+      "speeches": 0,
+      "wortbeitraege": 1,
+      "befragungResponses": 1,
+      "words": 925
+    },
+    {
+      "slug": "johann-wadephul",
+      "name": "Dr. Johann Wadephul",
+      "party": "CDU/CSU",
+      "speeches": 0,
+      "wortbeitraege": 1,
+      "befragungResponses": 1,
+      "words": 1345
+    },
+    {
+      "slug": "michael-meister",
+      "name": "Dr. Michael Meister",
+      "party": "CDU/CSU",
+      "speeches": 0,
+      "wortbeitraege": 27,
+      "befragungResponses": 26,
+      "words": 1838
+    }
+  ],
+  "totalSpeakers": 609,
+  "parties": [
+    "AfD",
+    "CDU/CSU",
+    "DIE LINKE",
+    "GRÜNE",
+    "SPD",
+    "fraktionslos"
+  ]
+}

@@ -1,0 +1,388 @@
+{
+  "name": "Maren Kaminski",
+  "party": "DIE LINKE",
+  "slug": "maren-kaminski",
+  "academicTitle": null,
+  "speeches": 3,
+  "wortbeitraege": 2,
+  "befragungResponses": 0,
+  "totalWords": 1779,
+  "avgWords": 356,
+  "minWords": 172,
+  "maxWords": 416,
+  "rankings": {
+    "speechRank": 494,
+    "wordsRank": 477,
+    "partySpeechRank": 58,
+    "partyWordsRank": 51,
+    "partySize": 63,
+    "totalSpeakers": 609,
+    "percentile": 18.9,
+    "verbosityRank": 403,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 40,
+    "longestSpeechRank": 567
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 1,
+    "interrupterRank": null,
+    "interruptedRank": 543
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 9
+      },
+      {
+        "word": "deutschland",
+        "count": 7
+      },
+      {
+        "word": "globalen",
+        "count": 7
+      },
+      {
+        "word": "bildung",
+        "count": 7
+      },
+      {
+        "word": "kinder",
+        "count": 6
+      },
+      {
+        "word": "endlich",
+        "count": 6
+      },
+      {
+        "word": "jahren",
+        "count": 5
+      },
+      {
+        "word": "humanitäre",
+        "count": 4
+      },
+      {
+        "word": "schulen",
+        "count": 4
+      },
+      {
+        "word": "emirate",
+        "count": 4
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "globalen",
+        "count": 7,
+        "ratioParty": 22.3,
+        "ratioBundestag": 47.6
+      },
+      {
+        "word": "bildung",
+        "count": 7,
+        "ratioParty": 11.5,
+        "ratioBundestag": 16.6
+      },
+      {
+        "word": "kinder",
+        "count": 6,
+        "ratioParty": 4.3,
+        "ratioBundestag": 6.9
+      },
+      {
+        "word": "jahren",
+        "count": 5,
+        "ratioParty": 2.6,
+        "ratioBundestag": 2.6
+      },
+      {
+        "word": "deutschland",
+        "count": 7,
+        "ratioParty": 2.5,
+        "ratioBundestag": 1.4
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 356,
+    "partyAvgWords": 521,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.68,
+    "vsParliament": 0.58
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "3"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "1.779"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Maren Kaminski häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Globalen",
+        "isCorrect": true
+      },
+      {
+        "text": "Abstimmung",
+        "isCorrect": false
+      },
+      {
+        "text": "Fraktion",
+        "isCorrect": false
+      },
+      {
+        "text": "Steuern",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Globalen\" nutzt Maren Kaminski 22.3× häufiger als der DIE LINKE-Durchschnitt.",
+    "explanationBundestag": "47.6× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🦫",
+    "name": "Biber",
+    "title": "Konstruktive Brückenbauerin",
+    "reason": "Du baust Brücken zwischen Positionen – kooperativ und lösungsorientiert.",
+    "id": "biber",
+    "alternatives": [
+      {
+        "emoji": "🐬",
+        "name": "Delfin",
+        "title": "Diplomatische Rednerin",
+        "reason": "Aktiv im Parlament, aber respektvoll ohne viele Zwischenrufe.",
+        "id": "delfin",
+        "score": 0.875
+      },
+      {
+        "emoji": "🦦",
+        "name": "Otter",
+        "title": "Positive Teamplayerin",
+        "reason": "Du bringst gute Stimmung und konstruktive Beiträge ins Plenum.",
+        "id": "otter",
+        "score": 0.84
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 75.0,
+      "aggression": 16.7,
+      "labeling": 16.7,
+      "solution_focus": 80.0,
+      "collaboration": 100.0,
+      "demand_intensity": 18.2,
+      "acknowledgment": 18.2,
+      "authority": 81.8,
+      "future_orientation": 88.0,
+      "emotional_intensity": 75.0,
+      "inclusivity": 50.0,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 5,
+      "words": 1184,
+      "adjectives": 6,
+      "verbs": 11
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.0,
+      "wirtschaft": 0.0,
+      "soziales": 8.45,
+      "sicherheit": 4.22,
+      "gesundheit": 5.07,
+      "europa": 5.07,
+      "digital": 0.0,
+      "bildung": 16.05,
+      "finanzen": 8.45,
+      "justiz": 1.69,
+      "arbeit": 1.69,
+      "mobilitaet": 0.84
+    },
+    "topTopics": [
+      {
+        "topic": "bildung",
+        "score": 16.05,
+        "rank": 1
+      },
+      {
+        "topic": "soziales",
+        "score": 8.45,
+        "rank": 2
+      },
+      {
+        "topic": "finanzen",
+        "score": 8.45,
+        "rank": 3
+      },
+      {
+        "topic": "gesundheit",
+        "score": 5.07,
+        "rank": 4
+      },
+      {
+        "topic": "europa",
+        "score": 5.07,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 6
+        },
+        {
+          "word": "eltern",
+          "count": 1
+        },
+        {
+          "word": "jugendliche",
+          "count": 1
+        },
+        {
+          "word": "familie",
+          "count": 1
+        },
+        {
+          "word": "jugend",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "waffen",
+          "count": 3
+        },
+        {
+          "word": "angriff",
+          "count": 1
+        },
+        {
+          "word": "gewalt",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "medikamente",
+          "count": 3
+        },
+        {
+          "word": "pflegekräfte",
+          "count": 1
+        },
+        {
+          "word": "krankheit",
+          "count": 1
+        },
+        {
+          "word": "infektion",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "krieg",
+          "count": 3
+        },
+        {
+          "word": "waffenlieferungen",
+          "count": 1
+        },
+        {
+          "word": "partnerschaft",
+          "count": 1
+        },
+        {
+          "word": "waffenstillstand",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "bildung",
+          "count": 7
+        },
+        {
+          "word": "schulen",
+          "count": 4
+        },
+        {
+          "word": "lehrkräfte",
+          "count": 2
+        },
+        {
+          "word": "universität",
+          "count": 1
+        },
+        {
+          "word": "schule",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 3
+        },
+        {
+          "word": "investitionen",
+          "count": 2
+        },
+        {
+          "word": "haushaltsentwurf",
+          "count": 1
+        },
+        {
+          "word": "sondervermögen",
+          "count": 1
+        },
+        {
+          "word": "schuldenbremse",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "gericht",
+          "count": 1
+        },
+        {
+          "word": "grundgesetz",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "gewerkschaft",
+          "count": 1
+        },
+        {
+          "word": "einkommen",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "radwege",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,389 @@
+{
+  "name": "Lukas Benner",
+  "party": "GRÜNE",
+  "slug": "lukas-benner",
+  "academicTitle": null,
+  "speeches": 6,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 3007,
+  "avgWords": 430,
+  "minWords": 78,
+  "maxWords": 615,
+  "rankings": {
+    "speechRank": 318,
+    "wordsRank": 364,
+    "partySpeechRank": 55,
+    "partyWordsRank": 58,
+    "partySize": 85,
+    "totalSpeakers": 609,
+    "percentile": 47.8,
+    "verbosityRank": 280,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 33,
+    "longestSpeechRank": 403
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 24,
+    "interrupterRank": null,
+    "interruptedRank": 88
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 9
+      },
+      {
+        "word": "land",
+        "count": 7
+      },
+      {
+        "word": "deutschland",
+        "count": 6
+      },
+      {
+        "word": "dobrindt",
+        "count": 6
+      },
+      {
+        "word": "diesen",
+        "count": 6
+      },
+      {
+        "word": "entwurf",
+        "count": 6
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "dublin",
+        "count": 5,
+        "ratioParty": 26.3,
+        "ratioBundestag": 102.0
+      },
+      {
+        "word": "schreiben",
+        "count": 5,
+        "ratioParty": 19.6,
+        "ratioBundestag": 20.6
+      },
+      {
+        "word": "entwurf",
+        "count": 6,
+        "ratioParty": 13.5,
+        "ratioBundestag": 16.0
+      },
+      {
+        "word": "dobrindt",
+        "count": 6,
+        "ratioParty": 9.1,
+        "ratioBundestag": 15.7
+      },
+      {
+        "word": "schauen",
+        "count": 5,
+        "ratioParty": 5.8,
+        "ratioBundestag": 7.3
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "kritisch",
+        "count": 3,
+        "ratioParty": 26.9,
+        "ratioBundestag": 23.5
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 430,
+    "partyAvgWords": 567,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.76,
+    "vsParliament": 0.7
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "6"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "3.007"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Lukas Benner häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Migration",
+        "isCorrect": false
+      },
+      {
+        "text": "Bundesregierung",
+        "isCorrect": false
+      },
+      {
+        "text": "Dublin",
+        "isCorrect": true
+      },
+      {
+        "text": "Zukunft",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Dublin\" nutzt Lukas Benner 26.3× häufiger als der GRÜNE-Durchschnitt.",
+    "explanationBundestag": "102.0× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Lukas Benner häufiger als der Rest der GRÜNE-Fraktion?",
+    "options": [
+      {
+        "text": "National",
+        "isCorrect": false
+      },
+      {
+        "text": "Kritisch",
+        "isCorrect": true
+      },
+      {
+        "text": "Stark",
+        "isCorrect": false
+      },
+      {
+        "text": "Jung",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Kritisch\" nutzt Lukas Benner 26.9× häufiger als der GRÜNE-Durchschnitt.",
+    "explanationBundestag": "23.5× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐿️",
+    "name": "Eichhörnchen",
+    "title": "Themenhüter",
+    "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+    "id": "eichhoernchen",
+    "alternatives": [
+      {
+        "emoji": "🐻",
+        "name": "Bär",
+        "title": "Standhafter Debattierer",
+        "reason": "Trotz 24× unterbrochen zu werden, bleibst du standhaft.",
+        "id": "baer",
+        "score": 0.88
+      },
+      {
+        "emoji": "🦔",
+        "name": "Igel",
+        "title": "Beharrlicher Redner",
+        "reason": "Auch wenn du oft unterbrochen wirst – du lässt dich nicht beirren.",
+        "id": "igel",
+        "score": 0.82
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 28.6,
+      "aggression": 22.2,
+      "labeling": 0.0,
+      "solution_focus": 83.3,
+      "collaboration": 30.0,
+      "demand_intensity": 11.1,
+      "acknowledgment": 0.0,
+      "authority": 91.2,
+      "future_orientation": 72.7,
+      "emotional_intensity": 40.0,
+      "inclusivity": 35.5,
+      "discriminatory": 1.05
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 7,
+      "words": 1899,
+      "adjectives": 9,
+      "verbs": 18
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 7.37,
+      "klima": 0.0,
+      "wirtschaft": 0.53,
+      "soziales": 1.58,
+      "sicherheit": 5.79,
+      "gesundheit": 0.53,
+      "europa": 7.37,
+      "digital": 1.58,
+      "bildung": 0.0,
+      "finanzen": 0.0,
+      "justiz": 12.11,
+      "arbeit": 0.0,
+      "mobilitaet": 1.58
+    },
+    "topTopics": [
+      {
+        "topic": "justiz",
+        "score": 12.11,
+        "rank": 1
+      },
+      {
+        "topic": "migration",
+        "score": 7.37,
+        "rank": 2
+      },
+      {
+        "topic": "europa",
+        "score": 7.37,
+        "rank": 3
+      },
+      {
+        "topic": "sicherheit",
+        "score": 5.79,
+        "rank": 4
+      },
+      {
+        "topic": "soziales",
+        "score": 1.58,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "dublin",
+          "count": 5
+        },
+        {
+          "word": "schutzsuchende",
+          "count": 3
+        },
+        {
+          "word": "asylverfahren",
+          "count": 2
+        },
+        {
+          "word": "asylsuchende",
+          "count": 1
+        },
+        {
+          "word": "asyl",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "kartell",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 2
+        },
+        {
+          "word": "familien",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "gewalt",
+          "count": 2
+        },
+        {
+          "word": "überwachung",
+          "count": 2
+        },
+        {
+          "word": "angriff",
+          "count": 1
+        },
+        {
+          "word": "täter",
+          "count": 1
+        },
+        {
+          "word": "islamismus",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "prävention",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "russland",
+          "count": 4
+        },
+        {
+          "word": "putin",
+          "count": 2
+        },
+        {
+          "word": "europa",
+          "count": 2
+        },
+        {
+          "word": "china",
+          "count": 2
+        },
+        {
+          "word": "ukraine",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "datenverarbeitung",
+          "count": 2
+        },
+        {
+          "word": "daten",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "haft",
+          "count": 5
+        },
+        {
+          "word": "haftung",
+          "count": 4
+        },
+        {
+          "word": "rechtsstaat",
+          "count": 3
+        },
+        {
+          "word": "urteil",
+          "count": 2
+        },
+        {
+          "word": "grundrechte",
+          "count": 2
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 2
+        },
+        {
+          "word": "verkehrsminister",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

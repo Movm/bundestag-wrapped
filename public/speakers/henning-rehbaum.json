@@ -1,0 +1,290 @@
+{
+  "name": "Henning Rehbaum",
+  "party": "CDU/CSU",
+  "slug": "henning-rehbaum",
+  "academicTitle": null,
+  "speeches": 3,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 917,
+  "avgWords": 306,
+  "minWords": 62,
+  "maxWords": 493,
+  "rankings": {
+    "speechRank": 513,
+    "wordsRank": 564,
+    "partySpeechRank": 162,
+    "partyWordsRank": 184,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 15.8,
+    "verbosityRank": 458,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 147,
+    "longestSpeechRank": 531
+  },
+  "drama": {
+    "interruptionsGiven": 15,
+    "interruptionsReceived": 1,
+    "interrupterRank": 123,
+    "interruptedRank": 547
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "ampel",
+        "count": 6
+      },
+      {
+        "word": "geld",
+        "count": 6
+      },
+      {
+        "word": "bahn",
+        "count": 5
+      },
+      {
+        "word": "jahren",
+        "count": 4
+      },
+      {
+        "word": "münster",
+        "count": 4
+      },
+      {
+        "word": "deutschlandticket",
+        "count": 4
+      },
+      {
+        "word": "ticket",
+        "count": 4
+      },
+      {
+        "word": "deutlich",
+        "count": 3
+      },
+      {
+        "word": "besser",
+        "count": 3
+      },
+      {
+        "word": "bund",
+        "count": 3
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "ampel",
+        "count": 6,
+        "ratioParty": 60.4,
+        "ratioBundestag": 53.1
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 306,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.44,
+    "vsParliament": 0.5
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "3"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufe",
+      "value": "15"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Henning Rehbaum häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Energie",
+        "isCorrect": false
+      },
+      {
+        "text": "Klima",
+        "isCorrect": false
+      },
+      {
+        "text": "Kanzler",
+        "isCorrect": false
+      },
+      {
+        "text": "Ampel",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Ampel\" nutzt Henning Rehbaum 60.4× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "53.1× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🐺",
+    "name": "Wolf",
+    "title": "Mutiger Einwerfer",
+    "reason": "Mit 15 Zwischenrufen mischst du aktiv in Debatten mit.",
+    "id": "wolf",
+    "alternatives": [
+      {
+        "emoji": "🦜",
+        "name": "Papagei",
+        "title": "Neugieriger Fragesteller",
+        "reason": "Mit vielen Fragen bringst du wichtige Themen auf den Tisch.",
+        "id": "papagei",
+        "score": 0.316
+      },
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüter",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.316
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 0.0,
+      "aggression": 0.0,
+      "labeling": 50.0,
+      "solution_focus": 0.0,
+      "collaboration": 50.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 50.0,
+      "authority": 69.2,
+      "future_orientation": 91.7,
+      "emotional_intensity": 60.0,
+      "inclusivity": 15.4,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 3,
+      "words": 576,
+      "adjectives": 2,
+      "verbs": 2
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 1.74,
+      "wirtschaft": 1.74,
+      "soziales": 0.0,
+      "sicherheit": 0.0,
+      "gesundheit": 1.74,
+      "europa": 0.0,
+      "digital": 1.74,
+      "bildung": 0.0,
+      "finanzen": 15.62,
+      "justiz": 0.0,
+      "arbeit": 0.0,
+      "mobilitaet": 34.72
+    },
+    "topTopics": [
+      {
+        "topic": "mobilitaet",
+        "score": 34.72,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 15.62,
+        "rank": 2
+      },
+      {
+        "topic": "klima",
+        "score": 1.74,
+        "rank": 3
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 1.74,
+        "rank": 4
+      },
+      {
+        "topic": "gesundheit",
+        "score": 1.74,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "klimaschutz",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "konzern",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "krankenhaus",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "finanzierung",
+          "count": 3
+        },
+        {
+          "word": "steuern",
+          "count": 2
+        },
+        {
+          "word": "haushalt",
+          "count": 1
+        },
+        {
+          "word": "steuerzahler",
+          "count": 1
+        },
+        {
+          "word": "investitionen",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "bahn",
+          "count": 5
+        },
+        {
+          "word": "deutschlandticket",
+          "count": 4
+        },
+        {
+          "word": "nahverkehr",
+          "count": 3
+        },
+        {
+          "word": "schiene",
+          "count": 2
+        },
+        {
+          "word": "öpnv",
+          "count": 2
+        }
+      ]
+    }
+  }
+}

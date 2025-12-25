@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Fallback SEO (overridden by react-helmet-async) -->
+    <title>Bundestag Wrapped 2025 - Deine Bundestagsstatistiken</title>
+    <meta name="description" content="Entdecke die Sprache des Bundestags: 2,5 Millionen Worter, 4.200 Reden, 600 Abgeordnete. Interaktive Statistiken zur 21. Wahlperiode." />
+
+    <!-- Open Graph Fallbacks -->
+    <meta property="og:title" content="Bundestag Wrapped 2025 - Deine Bundestagsstatistiken" />
+    <meta property="og:description" content="Entdecke die Sprache des Bundestags: 2,5 Millionen Worter, 4.200 Reden, 600 Abgeordnete." />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="de_DE" />
+    <meta property="og:site_name" content="Bundestag Wrapped 2025" />
+    <meta property="og:image" content="https://bundestag-wrapped.de/logo.png" />
+    <meta property="og:url" content="https://bundestag-wrapped.de" />
+
+    <!-- Twitter Card Fallbacks -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Bundestag Wrapped 2025 - Deine Bundestagsstatistiken" />
+    <meta name="twitter:description" content="Entdecke die Sprache des Bundestags: 2,5 Millionen Worter, 4.200 Reden, 600 Abgeordnete." />
+    <meta name="twitter:image" content="https://bundestag-wrapped.de/logo.png" />
+
+    <!-- Preload critical fonts (GDPR-compliant local fonts) -->
+    <link rel="preload" href="/fonts/Roboto-latin.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="/fonts/NotoSans-latin.woff2" as="font" type="font/woff2" crossorigin />
+
+    <!-- Preload critical assets -->
+    <link rel="preload" href="/wrapped.json" as="fetch" crossorigin />
+    <link rel="preload" href="/logo.png" as="image" />
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

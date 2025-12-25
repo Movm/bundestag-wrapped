@@ -1,0 +1,261 @@
+{
+  "name": "Andreas Mayer",
+  "party": "AfD",
+  "slug": "andreas-mayer",
+  "academicTitle": null,
+  "speeches": 2,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 785,
+  "avgWords": 392,
+  "minWords": 379,
+  "maxWords": 406,
+  "rankings": {
+    "speechRank": 524,
+    "wordsRank": 572,
+    "partySpeechRank": 126,
+    "partyWordsRank": 136,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 14.0,
+    "verbosityRank": null,
+    "verbosityTotal": null,
+    "partyVerbosityRank": null,
+    "longestSpeechRank": 575
+  },
+  "drama": {
+    "interruptionsGiven": 9,
+    "interruptionsReceived": 3,
+    "interrupterRank": 166,
+    "interruptedRank": 449
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "beide",
+        "count": 5
+      },
+      {
+        "word": "deutschland",
+        "count": 4
+      },
+      {
+        "word": "endlich",
+        "count": 4
+      },
+      {
+        "word": "richtlinie",
+        "count": 4
+      },
+      {
+        "word": "böse",
+        "count": 4
+      },
+      {
+        "word": "hightech",
+        "count": 3
+      },
+      {
+        "word": "agenda",
+        "count": 3
+      },
+      {
+        "word": "unternehmen",
+        "count": 3
+      },
+      {
+        "word": "innovation",
+        "count": 3
+      },
+      {
+        "word": "merz",
+        "count": 3
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "beide",
+        "count": 5,
+        "ratioParty": 76.7,
+        "ratioBundestag": 83.9
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 392,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.67,
+    "vsParliament": 0.64
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "2"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Andreas Mayer häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Minister",
+        "isCorrect": false
+      },
+      {
+        "text": "Wirtschaft",
+        "isCorrect": false
+      },
+      {
+        "text": "Haushalt",
+        "isCorrect": false
+      },
+      {
+        "text": "Beide",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Beide\" nutzt Andreas Mayer 76.7× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "83.9× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 50.0,
+      "aggression": 50.0,
+      "labeling": 50.0,
+      "solution_focus": 100.0,
+      "collaboration": 50.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 0.0,
+      "authority": 81.8,
+      "future_orientation": 71.4,
+      "emotional_intensity": 100.0,
+      "inclusivity": 64.0,
+      "discriminatory": 0.0
+    },
+    "confidence": "low",
+    "sampleSize": {
+      "speeches": 2,
+      "words": 546,
+      "adjectives": 2,
+      "verbs": 4
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 7.33,
+      "wirtschaft": 18.32,
+      "soziales": 0.0,
+      "sicherheit": 1.83,
+      "gesundheit": 0.0,
+      "europa": 1.83,
+      "digital": 0.0,
+      "bildung": 1.83,
+      "finanzen": 1.83,
+      "justiz": 0.0,
+      "arbeit": 3.66,
+      "mobilitaet": 1.83
+    },
+    "topTopics": [
+      {
+        "topic": "wirtschaft",
+        "score": 18.32,
+        "rank": 1
+      },
+      {
+        "topic": "klima",
+        "score": 7.33,
+        "rank": 2
+      },
+      {
+        "topic": "arbeit",
+        "score": 3.66,
+        "rank": 3
+      },
+      {
+        "topic": "sicherheit",
+        "score": 1.83,
+        "rank": 4
+      },
+      {
+        "topic": "europa",
+        "score": 1.83,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "klimaneutral",
+          "count": 2
+        },
+        {
+          "word": "energie",
+          "count": 2
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 3
+        },
+        {
+          "word": "industrie",
+          "count": 2
+        },
+        {
+          "word": "maschinenbau",
+          "count": 1
+        },
+        {
+          "word": "insolvenzen",
+          "count": 1
+        },
+        {
+          "word": "handelspartner",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "betrug",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "israel",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "forschung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "steuern",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitsplätze",
+          "count": 2
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "fliegen",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

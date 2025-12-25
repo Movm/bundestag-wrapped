@@ -1,0 +1,492 @@
+{
+  "name": "Svenja Schulze",
+  "party": "SPD",
+  "slug": "svenja-schulze",
+  "academicTitle": null,
+  "speeches": 8,
+  "wortbeitraege": 3,
+  "befragungResponses": 0,
+  "totalWords": 5770,
+  "avgWords": 525,
+  "minWords": 367,
+  "maxWords": 750,
+  "rankings": {
+    "speechRank": 195,
+    "wordsRank": 133,
+    "partySpeechRank": 49,
+    "partyWordsRank": 32,
+    "partySize": 109,
+    "totalSpeakers": 609,
+    "percentile": 68.0,
+    "verbosityRank": 134,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 25,
+    "longestSpeechRank": 250
+  },
+  "drama": {
+    "interruptionsGiven": 20,
+    "interruptionsReceived": 14,
+    "interrupterRank": 103,
+    "interruptedRank": 196
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 37
+      },
+      {
+        "word": "deutschland",
+        "count": 22
+      },
+      {
+        "word": "haushalt",
+        "count": 20
+      },
+      {
+        "word": "land",
+        "count": 19
+      },
+      {
+        "word": "bafög",
+        "count": 18
+      },
+      {
+        "word": "gewalt",
+        "count": 17
+      },
+      {
+        "word": "investieren",
+        "count": 15
+      },
+      {
+        "word": "junge",
+        "count": 15
+      },
+      {
+        "word": "beispiel",
+        "count": 12
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "häusliche",
+        "count": 5,
+        "ratioParty": 81.6,
+        "ratioBundestag": 107.0
+      },
+      {
+        "word": "talente",
+        "count": 5,
+        "ratioParty": 70.0,
+        "ratioBundestag": 107.0
+      },
+      {
+        "word": "studium",
+        "count": 5,
+        "ratioParty": 40.8,
+        "ratioBundestag": 52.3
+      },
+      {
+        "word": "bafög",
+        "count": 18,
+        "ratioParty": 32.1,
+        "ratioBundestag": 49.8
+      },
+      {
+        "word": "betroffenen",
+        "count": 9,
+        "ratioParty": 25.9,
+        "ratioBundestag": 20.3
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "erfolgreich",
+        "count": 3,
+        "ratioParty": 6.3,
+        "ratioBundestag": 6.6
+      },
+      {
+        "word": "stark",
+        "count": 3,
+        "ratioParty": 2.6,
+        "ratioBundestag": 3.6
+      },
+      {
+        "word": "sicher",
+        "count": 5,
+        "ratioParty": 2.5,
+        "ratioBundestag": 3.3
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 525,
+    "partyAvgWords": 637,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.82,
+    "vsParliament": 0.86
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "8"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "5.770"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufe",
+      "value": "20"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Svenja Schulze häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Freiheit",
+        "isCorrect": false
+      },
+      {
+        "text": "Haushalt",
+        "isCorrect": false
+      },
+      {
+        "text": "Zukunft",
+        "isCorrect": false
+      },
+      {
+        "text": "Häusliche",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Häusliche\" nutzt Svenja Schulze 81.6× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "107.0× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Svenja Schulze häufiger als der Rest der SPD-Fraktion?",
+    "options": [
+      {
+        "text": "Gut",
+        "isCorrect": false
+      },
+      {
+        "text": "Erfolgreich",
+        "isCorrect": true
+      },
+      {
+        "text": "Wirtschaftlich",
+        "isCorrect": false
+      },
+      {
+        "text": "Notwendig",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Erfolgreich\" nutzt Svenja Schulze 6.3× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "6.6× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐿️",
+    "name": "Eichhörnchen",
+    "title": "Themenhüterin",
+    "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+    "id": "eichhoernchen",
+    "alternatives": [
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißige Abgeordnete",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      },
+      {
+        "emoji": "🦦",
+        "name": "Otter",
+        "title": "Positive Teamplayerin",
+        "reason": "Du bringst gute Stimmung und konstruktive Beiträge ins Plenum.",
+        "id": "otter",
+        "score": 0.87
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 86.4,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 91.4,
+      "collaboration": 83.3,
+      "demand_intensity": 2.3,
+      "acknowledgment": 2.3,
+      "authority": 73.5,
+      "future_orientation": 97.7,
+      "emotional_intensity": 30.4,
+      "inclusivity": 71.6,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 11,
+      "words": 3382,
+      "adjectives": 22,
+      "verbs": 43
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 1.48,
+      "wirtschaft": 2.37,
+      "soziales": 3.55,
+      "sicherheit": 6.51,
+      "gesundheit": 0.59,
+      "europa": 0.59,
+      "digital": 4.14,
+      "bildung": 14.19,
+      "finanzen": 10.94,
+      "justiz": 5.91,
+      "arbeit": 1.18,
+      "mobilitaet": 0.59
+    },
+    "topTopics": [
+      {
+        "topic": "bildung",
+        "score": 14.19,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 10.94,
+        "rank": 2
+      },
+      {
+        "topic": "sicherheit",
+        "score": 6.51,
+        "rank": 3
+      },
+      {
+        "topic": "justiz",
+        "score": 5.91,
+        "rank": 4
+      },
+      {
+        "topic": "digital",
+        "score": 4.14,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "klimawandel",
+          "count": 2
+        },
+        {
+          "word": "energie",
+          "count": 2
+        },
+        {
+          "word": "nachhaltig",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "wettbewerb",
+          "count": 3
+        },
+        {
+          "word": "fachkräfte",
+          "count": 2
+        },
+        {
+          "word": "fachkräftemangel",
+          "count": 1
+        },
+        {
+          "word": "industriestandort",
+          "count": 1
+        },
+        {
+          "word": "wettbewerbsfähigkeit",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "familie",
+          "count": 4
+        },
+        {
+          "word": "familien",
+          "count": 3
+        },
+        {
+          "word": "kinder",
+          "count": 2
+        },
+        {
+          "word": "jugendliche",
+          "count": 1
+        },
+        {
+          "word": "eltern",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "gewalt",
+          "count": 17
+        },
+        {
+          "word": "täter",
+          "count": 4
+        },
+        {
+          "word": "rüstung",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "therapie",
+          "count": 1
+        },
+        {
+          "word": "covid",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 1
+        },
+        {
+          "word": "kooperation",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "online",
+          "count": 3
+        },
+        {
+          "word": "internet",
+          "count": 2
+        },
+        {
+          "word": "daten",
+          "count": 2
+        },
+        {
+          "word": "technologie",
+          "count": 2
+        },
+        {
+          "word": "netzwerk",
+          "count": 2
+        }
+      ],
+      "bildung": [
+        {
+          "word": "bafög",
+          "count": 18
+        },
+        {
+          "word": "forschung",
+          "count": 8
+        },
+        {
+          "word": "studium",
+          "count": 5
+        },
+        {
+          "word": "bildung",
+          "count": 4
+        },
+        {
+          "word": "ausbildung",
+          "count": 2
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 20
+        },
+        {
+          "word": "investitionen",
+          "count": 4
+        },
+        {
+          "word": "schulden",
+          "count": 4
+        },
+        {
+          "word": "investition",
+          "count": 4
+        },
+        {
+          "word": "haushaltsausschuss",
+          "count": 3
+        }
+      ],
+      "justiz": [
+        {
+          "word": "rechtsstaat",
+          "count": 8
+        },
+        {
+          "word": "gericht",
+          "count": 5
+        },
+        {
+          "word": "verbraucherschutz",
+          "count": 3
+        },
+        {
+          "word": "menschenrechte",
+          "count": 1
+        },
+        {
+          "word": "gerichte",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "einkommen",
+          "count": 2
+        },
+        {
+          "word": "arbeitsplätze",
+          "count": 1
+        },
+        {
+          "word": "arbeitsplatz",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "flughafen",
+          "count": 1
+        },
+        {
+          "word": "flug",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

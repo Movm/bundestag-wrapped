@@ -1,0 +1,524 @@
+{
+  "name": "Dr. Matthias Miersch",
+  "party": "SPD",
+  "slug": "matthias-miersch",
+  "academicTitle": "Dr",
+  "speeches": 8,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 8534,
+  "avgWords": 1067,
+  "minWords": 533,
+  "maxWords": 1558,
+  "rankings": {
+    "speechRank": 205,
+    "wordsRank": 56,
+    "partySpeechRank": 50,
+    "partyWordsRank": 12,
+    "partySize": 109,
+    "totalSpeakers": 609,
+    "percentile": 66.3,
+    "verbosityRank": 5,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 1,
+    "longestSpeechRank": 14
+  },
+  "drama": {
+    "interruptionsGiven": 1,
+    "interruptionsReceived": 51,
+    "interrupterRank": 328,
+    "interruptedRank": 18
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 29
+      },
+      {
+        "word": "land",
+        "count": 26
+      },
+      {
+        "word": "investieren",
+        "count": 25
+      },
+      {
+        "word": "bundeskanzler",
+        "count": 23
+      },
+      {
+        "word": "diesen",
+        "count": 23
+      },
+      {
+        "word": "gehört",
+        "count": 21
+      },
+      {
+        "word": "deutschland",
+        "count": 21
+      },
+      {
+        "word": "sicherheit",
+        "count": 21
+      },
+      {
+        "word": "haushalt",
+        "count": 20
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "augenblicklich",
+        "count": 10,
+        "ratioParty": 608.3,
+        "ratioBundestag": 1535.7
+      },
+      {
+        "word": "britta",
+        "count": 5,
+        "ratioParty": 304.2,
+        "ratioBundestag": 307.1
+      },
+      {
+        "word": "weidel",
+        "count": 7,
+        "ratioParty": 47.3,
+        "ratioBundestag": 33.1
+      },
+      {
+        "word": "generaldebatte",
+        "count": 5,
+        "ratioParty": 33.8,
+        "ratioBundestag": 76.8
+      },
+      {
+        "word": "chrupalla",
+        "count": 5,
+        "ratioParty": 30.4,
+        "ratioBundestag": 48.0
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "zentral",
+        "count": 9,
+        "ratioParty": 14.0,
+        "ratioBundestag": 23.8
+      },
+      {
+        "word": "entscheidend",
+        "count": 5,
+        "ratioParty": 4.7,
+        "ratioBundestag": 5.7
+      },
+      {
+        "word": "sicher",
+        "count": 11,
+        "ratioParty": 3.5,
+        "ratioBundestag": 4.6
+      },
+      {
+        "word": "gerecht",
+        "count": 6,
+        "ratioParty": 3.1,
+        "ratioBundestag": 4.4
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 1067,
+    "partyAvgWords": 637,
+    "parliamentAvgWords": 613,
+    "vsParty": 1.68,
+    "vsParliament": 1.74
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "8"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "8.534"
+    },
+    {
+      "emoji": "📚",
+      "label": "Wortreichster",
+      "value": "#5 von 521"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Dr. Matthias Miersch häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Migration",
+        "isCorrect": false
+      },
+      {
+        "text": "Freiheit",
+        "isCorrect": false
+      },
+      {
+        "text": "Zukunft",
+        "isCorrect": false
+      },
+      {
+        "text": "Augenblicklich",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Augenblicklich\" nutzt Dr. Matthias Miersch 608.3× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "1535.7× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Dr. Matthias Miersch häufiger als der Rest der SPD-Fraktion?",
+    "options": [
+      {
+        "text": "Europäisch",
+        "isCorrect": false
+      },
+      {
+        "text": "Zentral",
+        "isCorrect": true
+      },
+      {
+        "text": "Neu",
+        "isCorrect": false
+      },
+      {
+        "text": "Gut",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Zentral\" nutzt Dr. Matthias Miersch 14.0× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "23.8× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐿️",
+    "name": "Eichhörnchen",
+    "title": "Themenhüter",
+    "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+    "id": "eichhoernchen",
+    "alternatives": [
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißiger Abgeordneter",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      },
+      {
+        "emoji": "🦔",
+        "name": "Igel",
+        "title": "Beharrlicher Redner",
+        "reason": "Auch wenn du oft unterbrochen wirst – du lässt dich nicht beirren.",
+        "id": "igel",
+        "score": 0.986
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 93.2,
+      "aggression": 0.0,
+      "labeling": 2.2,
+      "solution_focus": 93.3,
+      "collaboration": 84.2,
+      "demand_intensity": 1.4,
+      "acknowledgment": 7.1,
+      "authority": 82.7,
+      "future_orientation": 87.5,
+      "emotional_intensity": 34.6,
+      "inclusivity": 47.0,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 8,
+      "words": 5412,
+      "adjectives": 45,
+      "verbs": 70
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.18,
+      "klima": 3.33,
+      "wirtschaft": 4.25,
+      "soziales": 2.22,
+      "sicherheit": 2.4,
+      "gesundheit": 1.11,
+      "europa": 7.21,
+      "digital": 0.74,
+      "bildung": 0.92,
+      "finanzen": 7.39,
+      "justiz": 1.85,
+      "arbeit": 1.29,
+      "mobilitaet": 1.48
+    },
+    "topTopics": [
+      {
+        "topic": "finanzen",
+        "score": 7.39,
+        "rank": 1
+      },
+      {
+        "topic": "europa",
+        "score": 7.21,
+        "rank": 2
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 4.25,
+        "rank": 3
+      },
+      {
+        "topic": "klima",
+        "score": 3.33,
+        "rank": 4
+      },
+      {
+        "topic": "sicherheit",
+        "score": 2.4,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "migration",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "klimaschutz",
+          "count": 8
+        },
+        {
+          "word": "emissionshandel",
+          "count": 3
+        },
+        {
+          "word": "klimaziel",
+          "count": 2
+        },
+        {
+          "word": "energie",
+          "count": 1
+        },
+        {
+          "word": "kohle",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "industrie",
+          "count": 6
+        },
+        {
+          "word": "unternehmen",
+          "count": 5
+        },
+        {
+          "word": "markt",
+          "count": 4
+        },
+        {
+          "word": "märkte",
+          "count": 3
+        },
+        {
+          "word": "standort",
+          "count": 2
+        }
+      ],
+      "soziales": [
+        {
+          "word": "rente",
+          "count": 4
+        },
+        {
+          "word": "sozialstaat",
+          "count": 3
+        },
+        {
+          "word": "familien",
+          "count": 2
+        },
+        {
+          "word": "rentenniveau",
+          "count": 1
+        },
+        {
+          "word": "sozialsystem",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "verteidigungsfähigkeit",
+          "count": 6
+        },
+        {
+          "word": "verteidigung",
+          "count": 4
+        },
+        {
+          "word": "bundeswehr",
+          "count": 2
+        },
+        {
+          "word": "soldaten",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "gesundheitssystem",
+          "count": 3
+        },
+        {
+          "word": "corona",
+          "count": 1
+        },
+        {
+          "word": "vorsorge",
+          "count": 1
+        },
+        {
+          "word": "facharzt",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 9
+        },
+        {
+          "word": "diplomatie",
+          "count": 7
+        },
+        {
+          "word": "ukraine",
+          "count": 6
+        },
+        {
+          "word": "russland",
+          "count": 4
+        },
+        {
+          "word": "angriffskrieg",
+          "count": 2
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 2
+        },
+        {
+          "word": "daten",
+          "count": 1
+        },
+        {
+          "word": "medienkompetenz",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "bildung",
+          "count": 4
+        },
+        {
+          "word": "forschung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 20
+        },
+        {
+          "word": "sondervermögen",
+          "count": 6
+        },
+        {
+          "word": "investitionen",
+          "count": 4
+        },
+        {
+          "word": "kosten",
+          "count": 3
+        },
+        {
+          "word": "einkommensteuer",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "verfassung",
+          "count": 6
+        },
+        {
+          "word": "gericht",
+          "count": 1
+        },
+        {
+          "word": "rechtsstaat",
+          "count": 1
+        },
+        {
+          "word": "bundesverfassungsgericht",
+          "count": 1
+        },
+        {
+          "word": "rechtsprechung",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitsplätze",
+          "count": 3
+        },
+        {
+          "word": "arbeitsplatz",
+          "count": 1
+        },
+        {
+          "word": "lohndumping",
+          "count": 1
+        },
+        {
+          "word": "mindestlohn",
+          "count": 1
+        },
+        {
+          "word": "gewerkschaften",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 7
+        },
+        {
+          "word": "bahn",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

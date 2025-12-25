@@ -1,0 +1,457 @@
+{
+  "name": "Timon Dzienus",
+  "party": "GRÜNE",
+  "slug": "timon-dzienus",
+  "academicTitle": null,
+  "speeches": 9,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 5155,
+  "avgWords": 573,
+  "minWords": 194,
+  "maxWords": 873,
+  "rankings": {
+    "speechRank": 175,
+    "wordsRank": 170,
+    "partySpeechRank": 33,
+    "partyWordsRank": 26,
+    "partySize": 85,
+    "totalSpeakers": 609,
+    "percentile": 71.3,
+    "verbosityRank": 90,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 11,
+    "longestSpeechRank": 123
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 13,
+    "interrupterRank": null,
+    "interruptedRank": 213
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 59
+      },
+      {
+        "word": "endlich",
+        "count": 21
+      },
+      {
+        "word": "bürgergeld",
+        "count": 21
+      },
+      {
+        "word": "jahr",
+        "count": 16
+      },
+      {
+        "word": "land",
+        "count": 15
+      },
+      {
+        "word": "armut",
+        "count": 15
+      },
+      {
+        "word": "geld",
+        "count": 13
+      },
+      {
+        "word": "problem",
+        "count": 13
+      },
+      {
+        "word": "ukraine",
+        "count": 12
+      },
+      {
+        "word": "fraktion",
+        "count": 12
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "wohngeld",
+        "count": 7,
+        "ratioParty": 502.5,
+        "ratioBundestag": 110.3
+      },
+      {
+        "word": "haftbefehl",
+        "count": 8,
+        "ratioParty": 191.4,
+        "ratioBundestag": 130.1
+      },
+      {
+        "word": "asylbewerberleistungsgesetz",
+        "count": 5,
+        "ratioParty": 179.5,
+        "ratioBundestag": 157.5
+      },
+      {
+        "word": "gesucht",
+        "count": 5,
+        "ratioParty": 89.7,
+        "ratioBundestag": 72.0
+      },
+      {
+        "word": "unsinn",
+        "count": 7,
+        "ratioParty": 71.8,
+        "ratioBundestag": 51.1
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "peinlich",
+        "count": 3,
+        "ratioParty": 17.9,
+        "ratioBundestag": 28.0
+      },
+      {
+        "word": "schlecht",
+        "count": 4,
+        "ratioParty": 5.3,
+        "ratioBundestag": 9.6
+      },
+      {
+        "word": "sicher",
+        "count": 4,
+        "ratioParty": 3.5,
+        "ratioBundestag": 2.7
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 573,
+    "partyAvgWords": 567,
+    "parliamentAvgWords": 613,
+    "vsParty": 1.01,
+    "vsParliament": 0.93
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "9"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "5.155"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Timon Dzienus häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Verantwortung",
+        "isCorrect": false
+      },
+      {
+        "text": "Wirtschaft",
+        "isCorrect": false
+      },
+      {
+        "text": "Wohngeld",
+        "isCorrect": true
+      },
+      {
+        "text": "Haushalt",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Wohngeld\" nutzt Timon Dzienus 502.5× häufiger als der GRÜNE-Durchschnitt.",
+    "explanationBundestag": "110.3× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Timon Dzienus häufiger als der Rest der GRÜNE-Fraktion?",
+    "options": [
+      {
+        "text": "Politisch",
+        "isCorrect": false
+      },
+      {
+        "text": "Peinlich",
+        "isCorrect": true
+      },
+      {
+        "text": "Neu",
+        "isCorrect": false
+      },
+      {
+        "text": "Gefährlich",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Peinlich\" nutzt Timon Dzienus 17.9× häufiger als der GRÜNE-Durchschnitt.",
+    "explanationBundestag": "28.0× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐿️",
+    "name": "Eichhörnchen",
+    "title": "Themenhüter",
+    "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+    "id": "eichhoernchen",
+    "alternatives": [
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißiger Abgeordneter",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      },
+      {
+        "emoji": "🐬",
+        "name": "Delfin",
+        "title": "Diplomatischer Redner",
+        "reason": "Aktiv im Parlament, aber respektvoll ohne viele Zwischenrufe.",
+        "id": "delfin",
+        "score": 0.975
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 50.0,
+      "aggression": 24.0,
+      "labeling": 12.0,
+      "solution_focus": 87.0,
+      "collaboration": 100.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 6.7,
+      "authority": 79.4,
+      "future_orientation": 88.0,
+      "emotional_intensity": 50.0,
+      "inclusivity": 44.3,
+      "discriminatory": 0.3
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 9,
+      "words": 3302,
+      "adjectives": 25,
+      "verbs": 30
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 3.03,
+      "klima": 0.3,
+      "wirtschaft": 1.21,
+      "soziales": 30.28,
+      "sicherheit": 0.61,
+      "gesundheit": 0.91,
+      "europa": 6.66,
+      "digital": 0.0,
+      "bildung": 2.73,
+      "finanzen": 0.61,
+      "justiz": 0.0,
+      "arbeit": 2.73,
+      "mobilitaet": 0.91
+    },
+    "topTopics": [
+      {
+        "topic": "soziales",
+        "score": 30.28,
+        "rank": 1
+      },
+      {
+        "topic": "europa",
+        "score": 6.66,
+        "rank": 2
+      },
+      {
+        "topic": "migration",
+        "score": 3.03,
+        "rank": 3
+      },
+      {
+        "topic": "bildung",
+        "score": 2.73,
+        "rank": 4
+      },
+      {
+        "topic": "arbeit",
+        "score": 2.73,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "migration",
+          "count": 4
+        },
+        {
+          "word": "geflüchtete",
+          "count": 2
+        },
+        {
+          "word": "integration",
+          "count": 2
+        },
+        {
+          "word": "familiennachzug",
+          "count": 1
+        },
+        {
+          "word": "sammelunterkunft",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "klimaschutz",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "konzerne",
+          "count": 3
+        },
+        {
+          "word": "markt",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "bürgergeld",
+          "count": 21
+        },
+        {
+          "word": "armut",
+          "count": 15
+        },
+        {
+          "word": "kinder",
+          "count": 10
+        },
+        {
+          "word": "rente",
+          "count": 9
+        },
+        {
+          "word": "miete",
+          "count": 7
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "terror",
+          "count": 1
+        },
+        {
+          "word": "kriminalität",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "prävention",
+          "count": 2
+        },
+        {
+          "word": "pflege",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "ukraine",
+          "count": 12
+        },
+        {
+          "word": "ukrainer",
+          "count": 3
+        },
+        {
+          "word": "sanktionen",
+          "count": 3
+        },
+        {
+          "word": "putin",
+          "count": 1
+        },
+        {
+          "word": "china",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "bildung",
+          "count": 4
+        },
+        {
+          "word": "kinderbetreuung",
+          "count": 1
+        },
+        {
+          "word": "abitur",
+          "count": 1
+        },
+        {
+          "word": "studierende",
+          "count": 1
+        },
+        {
+          "word": "bafög",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "kosten",
+          "count": 1
+        },
+        {
+          "word": "haushalt",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "jobcenter",
+          "count": 3
+        },
+        {
+          "word": "gesundheitsschutz",
+          "count": 2
+        },
+        {
+          "word": "arbeitslose",
+          "count": 1
+        },
+        {
+          "word": "arbeitszeit",
+          "count": 1
+        },
+        {
+          "word": "vereinbarkeit",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "straßen",
+          "count": 1
+        },
+        {
+          "word": "straße",
+          "count": 1
+        },
+        {
+          "word": "deutschlandticket",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

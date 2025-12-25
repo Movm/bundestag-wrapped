@@ -1,0 +1,334 @@
+{
+  "name": "Johann Martel",
+  "party": "AfD",
+  "slug": "johann-martel",
+  "academicTitle": null,
+  "speeches": 4,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 1453,
+  "avgWords": 291,
+  "minWords": 283,
+  "maxWords": 296,
+  "rankings": {
+    "speechRank": 431,
+    "wordsRank": 516,
+    "partySpeechRank": 104,
+    "partyWordsRank": 121,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 29.2,
+    "verbosityRank": 470,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 117,
+    "longestSpeechRank": 599
+  },
+  "drama": {
+    "interruptionsGiven": 1,
+    "interruptionsReceived": 4,
+    "interrupterRank": 311,
+    "interruptedRank": 425
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "deutschland",
+        "count": 13
+      },
+      {
+        "word": "deutschen",
+        "count": 9
+      },
+      {
+        "word": "geld",
+        "count": 8
+      },
+      {
+        "word": "projekte",
+        "count": 8
+      },
+      {
+        "word": "vietnam",
+        "count": 8
+      },
+      {
+        "word": "bund",
+        "count": 7
+      },
+      {
+        "word": "merz",
+        "count": 7
+      },
+      {
+        "word": "soll",
+        "count": 6
+      },
+      {
+        "word": "agenda",
+        "count": 6
+      },
+      {
+        "word": "bundesministerin",
+        "count": 5
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "vietnam",
+        "count": 8,
+        "ratioParty": 1017.4,
+        "ratioBundestag": 1125.7
+      },
+      {
+        "word": "bundesministerin",
+        "count": 5,
+        "ratioParty": 212.0,
+        "ratioBundestag": 79.6
+      },
+      {
+        "word": "steuerreformen",
+        "count": 5,
+        "ratioParty": 50.7,
+        "ratioBundestag": 2814.3
+      },
+      {
+        "word": "agenda",
+        "count": 6,
+        "ratioParty": 30.9,
+        "ratioBundestag": 24.2
+      },
+      {
+        "word": "projekte",
+        "count": 8,
+        "ratioParty": 23.8,
+        "ratioBundestag": 33.5
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 291,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.5,
+    "vsParliament": 0.47
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "4"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "1.453"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Johann Martel häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Freiheit",
+        "isCorrect": false
+      },
+      {
+        "text": "Vietnam",
+        "isCorrect": true
+      },
+      {
+        "text": "Verantwortung",
+        "isCorrect": false
+      },
+      {
+        "text": "Familie",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Vietnam\" nutzt Johann Martel 1017.4× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "1125.7× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 66.7,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 66.7,
+      "collaboration": 50.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 0.0,
+      "authority": 75.0,
+      "future_orientation": 85.7,
+      "emotional_intensity": 0.0,
+      "inclusivity": 36.0,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 5,
+      "words": 987,
+      "adjectives": 3,
+      "verbs": 3
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 4.05,
+      "wirtschaft": 5.07,
+      "soziales": 1.01,
+      "sicherheit": 2.03,
+      "gesundheit": 0.0,
+      "europa": 4.05,
+      "digital": 1.01,
+      "bildung": 2.03,
+      "finanzen": 9.12,
+      "justiz": 1.01,
+      "arbeit": 1.01,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "finanzen",
+        "score": 9.12,
+        "rank": 1
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 5.07,
+        "rank": 2
+      },
+      {
+        "topic": "klima",
+        "score": 4.05,
+        "rank": 3
+      },
+      {
+        "topic": "europa",
+        "score": 4.05,
+        "rank": 4
+      },
+      {
+        "topic": "sicherheit",
+        "score": 2.03,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "klimawandel",
+          "count": 2
+        },
+        {
+          "word": "nachhaltig",
+          "count": 1
+        },
+        {
+          "word": "wasserstoff",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "handelspartner",
+          "count": 2
+        },
+        {
+          "word": "produktion",
+          "count": 1
+        },
+        {
+          "word": "wirtschaftswachstum",
+          "count": 1
+        },
+        {
+          "word": "freihandel",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "armut",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "geldwäsche",
+          "count": 1
+        },
+        {
+          "word": "terrorismus",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "china",
+          "count": 2
+        },
+        {
+          "word": "israel",
+          "count": 1
+        },
+        {
+          "word": "afrika",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "ausbildung",
+          "count": 1
+        },
+        {
+          "word": "bildung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "bundeshaushalt",
+          "count": 2
+        },
+        {
+          "word": "zuschuss",
+          "count": 2
+        },
+        {
+          "word": "finanzierung",
+          "count": 2
+        },
+        {
+          "word": "haushalt",
+          "count": 1
+        },
+        {
+          "word": "neuverschuldung",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "gleichberechtigung",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitsschutz",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,354 @@
+{
+  "name": "Dr. Rainer Rothfuß",
+  "party": "AfD",
+  "slug": "rainer-rothfuss",
+  "academicTitle": "Dr",
+  "speeches": 7,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 3344,
+  "avgWords": 478,
+  "minWords": 238,
+  "maxWords": 642,
+  "rankings": {
+    "speechRank": 284,
+    "wordsRank": 328,
+    "partySpeechRank": 68,
+    "partyWordsRank": 79,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 53.4,
+    "verbosityRank": 200,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 49,
+    "longestSpeechRank": 373
+  },
+  "drama": {
+    "interruptionsGiven": 4,
+    "interruptionsReceived": 6,
+    "interrupterRank": 230,
+    "interruptedRank": 372
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "hilfe",
+        "count": 17
+      },
+      {
+        "word": "humanitäre",
+        "count": 17
+      },
+      {
+        "word": "syrien",
+        "count": 16
+      },
+      {
+        "word": "sanktionen",
+        "count": 13
+      },
+      {
+        "word": "menschenrechte",
+        "count": 11
+      },
+      {
+        "word": "deutschland",
+        "count": 11
+      },
+      {
+        "word": "erklärung",
+        "count": 9
+      },
+      {
+        "word": "jahre",
+        "count": 8
+      },
+      {
+        "word": "sanktionspolitik",
+        "count": 8
+      },
+      {
+        "word": "menschen",
+        "count": 7
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "sanktionspolitik",
+        "count": 8,
+        "ratioParty": 232.8,
+        "ratioBundestag": 885.3
+      },
+      {
+        "word": "regime",
+        "count": 5,
+        "ratioParty": 174.6,
+        "ratioBundestag": 39.5
+      },
+      {
+        "word": "humanitären",
+        "count": 6,
+        "ratioParty": 174.6,
+        "ratioBundestag": 28.0
+      },
+      {
+        "word": "humanitäre",
+        "count": 17,
+        "ratioParty": 114.2,
+        "ratioBundestag": 36.8
+      },
+      {
+        "word": "erklärung",
+        "count": 9,
+        "ratioParty": 87.3,
+        "ratioBundestag": 120.2
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 478,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.81,
+    "vsParliament": 0.78
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "7"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "3.344"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Dr. Rainer Rothfuß häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Sanktionspolitik",
+        "isCorrect": true
+      },
+      {
+        "text": "Debatte",
+        "isCorrect": false
+      },
+      {
+        "text": "Freiheit",
+        "isCorrect": false
+      },
+      {
+        "text": "Sicherheit",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Sanktionspolitik\" nutzt Dr. Rainer Rothfuß 232.8× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "885.3× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 71.4,
+      "aggression": 18.2,
+      "labeling": 18.2,
+      "solution_focus": 71.4,
+      "collaboration": 50.0,
+      "demand_intensity": 27.3,
+      "acknowledgment": 9.1,
+      "authority": 84.6,
+      "future_orientation": 73.0,
+      "emotional_intensity": 50.0,
+      "inclusivity": 33.3,
+      "discriminatory": 0.93
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 7,
+      "words": 2150,
+      "adjectives": 11,
+      "verbs": 22
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 1.4,
+      "klima": 0.0,
+      "wirtschaft": 0.0,
+      "soziales": 1.4,
+      "sicherheit": 2.33,
+      "gesundheit": 0.47,
+      "europa": 16.28,
+      "digital": 0.47,
+      "bildung": 0.93,
+      "finanzen": 4.65,
+      "justiz": 6.98,
+      "arbeit": 0.0,
+      "mobilitaet": 0.47
+    },
+    "topTopics": [
+      {
+        "topic": "europa",
+        "score": 16.28,
+        "rank": 1
+      },
+      {
+        "topic": "justiz",
+        "score": 6.98,
+        "rank": 2
+      },
+      {
+        "topic": "finanzen",
+        "score": 4.65,
+        "rank": 3
+      },
+      {
+        "topic": "sicherheit",
+        "score": 2.33,
+        "rank": 4
+      },
+      {
+        "topic": "migration",
+        "score": 1.4,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "flüchtlinge",
+          "count": 3
+        }
+      ],
+      "soziales": [
+        {
+          "word": "familie",
+          "count": 1
+        },
+        {
+          "word": "kinder",
+          "count": 1
+        },
+        {
+          "word": "kind",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "terroristen",
+          "count": 1
+        },
+        {
+          "word": "diebstahl",
+          "count": 1
+        },
+        {
+          "word": "terrorismus",
+          "count": 1
+        },
+        {
+          "word": "deradikalisierung",
+          "count": 1
+        },
+        {
+          "word": "gewalt",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "ärzte",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "sanktionen",
+          "count": 13
+        },
+        {
+          "word": "europa",
+          "count": 6
+        },
+        {
+          "word": "iran",
+          "count": 3
+        },
+        {
+          "word": "außenpolitik",
+          "count": 2
+        },
+        {
+          "word": "waffenstillstand",
+          "count": 2
+        }
+      ],
+      "digital": [
+        {
+          "word": "pressefreiheit",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "professor",
+          "count": 2
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 3
+        },
+        {
+          "word": "etat",
+          "count": 2
+        },
+        {
+          "word": "finanzminister",
+          "count": 2
+        },
+        {
+          "word": "sondervermögen",
+          "count": 1
+        },
+        {
+          "word": "kosten",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "menschenrechte",
+          "count": 11
+        },
+        {
+          "word": "rechtsprechung",
+          "count": 1
+        },
+        {
+          "word": "strafen",
+          "count": 1
+        },
+        {
+          "word": "justizminister",
+          "count": 1
+        },
+        {
+          "word": "richter",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "straßen",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

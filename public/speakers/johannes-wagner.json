@@ -1,0 +1,378 @@
+{
+  "name": "Johannes Wagner",
+  "party": "GRÜNE",
+  "slug": "johannes-wagner",
+  "academicTitle": null,
+  "speeches": 4,
+  "wortbeitraege": 9,
+  "befragungResponses": 0,
+  "totalWords": 2171,
+  "avgWords": 167,
+  "minWords": 47,
+  "maxWords": 518,
+  "rankings": {
+    "speechRank": 433,
+    "wordsRank": 441,
+    "partySpeechRank": 70,
+    "partyWordsRank": 68,
+    "partySize": 85,
+    "totalSpeakers": 609,
+    "percentile": 28.9,
+    "verbosityRank": 515,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 80,
+    "longestSpeechRank": 511
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 7,
+    "interrupterRank": null,
+    "interruptedRank": 360
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 12
+      },
+      {
+        "word": "geld",
+        "count": 10
+      },
+      {
+        "word": "worden",
+        "count": 9
+      },
+      {
+        "word": "kommission",
+        "count": 8
+      },
+      {
+        "word": "minister",
+        "count": 7
+      },
+      {
+        "word": "jahr",
+        "count": 6
+      },
+      {
+        "word": "enquete",
+        "count": 6
+      },
+      {
+        "word": "angesprochen",
+        "count": 5
+      },
+      {
+        "word": "warum",
+        "count": 5
+      },
+      {
+        "word": "union",
+        "count": 5
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "superreiche",
+        "count": 5,
+        "ratioParty": 206.7,
+        "ratioBundestag": 240.2
+      },
+      {
+        "word": "enquete",
+        "count": 6,
+        "ratioParty": 76.3,
+        "ratioBundestag": 104.8
+      },
+      {
+        "word": "schützt",
+        "count": 5,
+        "ratioParty": 30.6,
+        "ratioBundestag": 25.7
+      },
+      {
+        "word": "kommission",
+        "count": 8,
+        "ratioParty": 19.2,
+        "ratioBundestag": 19.4
+      },
+      {
+        "word": "indem",
+        "count": 5,
+        "ratioParty": 12.0,
+        "ratioBundestag": 11.3
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 167,
+    "partyAvgWords": 567,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.29,
+    "vsParliament": 0.27
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "4"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "2.171"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Johannes Wagner häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Koalition",
+        "isCorrect": false
+      },
+      {
+        "text": "Steuern",
+        "isCorrect": false
+      },
+      {
+        "text": "Abstimmung",
+        "isCorrect": false
+      },
+      {
+        "text": "Superreiche",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Superreiche\" nutzt Johannes Wagner 206.7× häufiger als der GRÜNE-Durchschnitt.",
+    "explanationBundestag": "240.2× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🦊",
+    "name": "Fuchs",
+    "title": "Cleverer Stratege",
+    "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+    "id": "fuchs",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüter",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.887
+      },
+      {
+        "emoji": "🦜",
+        "name": "Papagei",
+        "title": "Neugieriger Fragesteller",
+        "reason": "Mit vielen Fragen bringst du wichtige Themen auf den Tisch.",
+        "id": "papagei",
+        "score": 0.875
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 100.0,
+      "aggression": 42.9,
+      "labeling": 28.6,
+      "solution_focus": 18.2,
+      "collaboration": 0.0,
+      "demand_intensity": 7.1,
+      "acknowledgment": 7.1,
+      "authority": 82.8,
+      "future_orientation": 82.4,
+      "emotional_intensity": 16.7,
+      "inclusivity": 30.6,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 13,
+      "words": 1445,
+      "adjectives": 7,
+      "verbs": 14
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 2.08,
+      "wirtschaft": 0.69,
+      "soziales": 5.54,
+      "sicherheit": 1.38,
+      "gesundheit": 6.92,
+      "europa": 4.15,
+      "digital": 1.38,
+      "bildung": 0.0,
+      "finanzen": 6.92,
+      "justiz": 2.77,
+      "arbeit": 0.0,
+      "mobilitaet": 2.77
+    },
+    "topTopics": [
+      {
+        "topic": "gesundheit",
+        "score": 6.92,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 6.92,
+        "rank": 2
+      },
+      {
+        "topic": "soziales",
+        "score": 5.54,
+        "rank": 3
+      },
+      {
+        "topic": "europa",
+        "score": 4.15,
+        "rank": 4
+      },
+      {
+        "topic": "justiz",
+        "score": 2.77,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "klimaschutz",
+          "count": 3
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "insolvenz",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "bürgergeld",
+          "count": 2
+        },
+        {
+          "word": "grundsicherung",
+          "count": 2
+        },
+        {
+          "word": "hartz",
+          "count": 1
+        },
+        {
+          "word": "kinder",
+          "count": 1
+        },
+        {
+          "word": "wohnung",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "verfassungsschutz",
+          "count": 1
+        },
+        {
+          "word": "gewalt",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "prävention",
+          "count": 4
+        },
+        {
+          "word": "gesundheitswesen",
+          "count": 1
+        },
+        {
+          "word": "krankenhäuser",
+          "count": 1
+        },
+        {
+          "word": "pflegegrad",
+          "count": 1
+        },
+        {
+          "word": "medikamente",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "sanktionen",
+          "count": 4
+        },
+        {
+          "word": "allianz",
+          "count": 1
+        },
+        {
+          "word": "europa",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "software",
+          "count": 2
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "kosten",
+          "count": 2
+        },
+        {
+          "word": "banken",
+          "count": 2
+        },
+        {
+          "word": "steuergerechtigkeit",
+          "count": 2
+        },
+        {
+          "word": "sondervermögen",
+          "count": 2
+        },
+        {
+          "word": "steuerzahler",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "bundesverfassungsgericht",
+          "count": 3
+        },
+        {
+          "word": "verfassungskonform",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "auto",
+          "count": 2
+        },
+        {
+          "word": "infrastruktur",
+          "count": 1
+        },
+        {
+          "word": "fußgänger",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

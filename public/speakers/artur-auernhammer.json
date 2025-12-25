@@ -1,0 +1,304 @@
+{
+  "name": "Artur Auernhammer",
+  "party": "CDU/CSU",
+  "slug": "artur-auernhammer",
+  "academicTitle": null,
+  "speeches": 3,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 2244,
+  "avgWords": 561,
+  "minWords": 134,
+  "maxWords": 972,
+  "rankings": {
+    "speechRank": 508,
+    "wordsRank": 435,
+    "partySpeechRank": 160,
+    "partyWordsRank": 136,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 16.6,
+    "verbosityRank": 102,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 42,
+    "longestSpeechRank": 75
+  },
+  "drama": {
+    "interruptionsGiven": 8,
+    "interruptionsReceived": 5,
+    "interrupterRank": 180,
+    "interruptedRank": 402
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "landwirtschaft",
+        "count": 8
+      },
+      {
+        "word": "bauernfamilien",
+        "count": 7
+      },
+      {
+        "word": "bürokratie",
+        "count": 7
+      },
+      {
+        "word": "agrarpolitik",
+        "count": 6
+      },
+      {
+        "word": "sollten",
+        "count": 6
+      },
+      {
+        "word": "regelungen",
+        "count": 6
+      },
+      {
+        "word": "ländlichen",
+        "count": 6
+      },
+      {
+        "word": "arbeiten",
+        "count": 5
+      },
+      {
+        "word": "diesen",
+        "count": 5
+      },
+      {
+        "word": "unterwegs",
+        "count": 5
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "bauernfamilien",
+        "count": 7,
+        "ratioParty": 424.3,
+        "ratioBundestag": 1137.3
+      },
+      {
+        "word": "agrarpolitik",
+        "count": 6,
+        "ratioParty": 155.9,
+        "ratioBundestag": 166.4
+      },
+      {
+        "word": "unterwegs",
+        "count": 5,
+        "ratioParty": 27.6,
+        "ratioBundestag": 34.9
+      },
+      {
+        "word": "regelungen",
+        "count": 6,
+        "ratioParty": 26.3,
+        "ratioBundestag": 29.8
+      },
+      {
+        "word": "landwirtschaft",
+        "count": 8,
+        "ratioParty": 21.2,
+        "ratioBundestag": 23.5
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 561,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.82,
+    "vsParliament": 0.92
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "3"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "2.244"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Artur Auernhammer häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Verantwortung",
+        "isCorrect": false
+      },
+      {
+        "text": "Fraktion",
+        "isCorrect": false
+      },
+      {
+        "text": "Bauernfamilien",
+        "isCorrect": true
+      },
+      {
+        "text": "Antrag",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Bauernfamilien\" nutzt Artur Auernhammer 424.3× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "1137.3× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🦊",
+    "name": "Fuchs",
+    "title": "Cleverer Stratege",
+    "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+    "id": "fuchs",
+    "alternatives": [
+      {
+        "emoji": "🦀",
+        "name": "Krabbe",
+        "title": "Hartnäckiger Debattierer",
+        "reason": "Du hältst an deinen Positionen fest und lässt nicht locker.",
+        "id": "krabbe",
+        "score": 0.751
+      },
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüter",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.74
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 66.7,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 85.7,
+      "collaboration": 50.0,
+      "demand_intensity": 22.2,
+      "acknowledgment": 0.0,
+      "authority": 93.3,
+      "future_orientation": 70.0,
+      "emotional_intensity": 0.0,
+      "inclusivity": 52.3,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 4,
+      "words": 1465,
+      "adjectives": 3,
+      "verbs": 9
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 1.37,
+      "wirtschaft": 2.05,
+      "soziales": 0.0,
+      "sicherheit": 0.0,
+      "gesundheit": 0.0,
+      "europa": 0.68,
+      "digital": 0.0,
+      "bildung": 0.68,
+      "finanzen": 3.41,
+      "justiz": 1.37,
+      "arbeit": 0.68,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "finanzen",
+        "score": 3.41,
+        "rank": 1
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 2.05,
+        "rank": 2
+      },
+      {
+        "topic": "klima",
+        "score": 1.37,
+        "rank": 3
+      },
+      {
+        "topic": "justiz",
+        "score": 1.37,
+        "rank": 4
+      },
+      {
+        "topic": "europa",
+        "score": 0.68,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "erneuerbare",
+          "count": 1
+        },
+        {
+          "word": "klimaneutral",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "betriebe",
+          "count": 2
+        },
+        {
+          "word": "märkte",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "brüssel",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "forschung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 3
+        },
+        {
+          "word": "investition",
+          "count": 1
+        },
+        {
+          "word": "bundeshaushalt",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "verordnung",
+          "count": 2
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "einkommen",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

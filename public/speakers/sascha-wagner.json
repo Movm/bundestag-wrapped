@@ -1,0 +1,559 @@
+{
+  "name": "Sascha Wagner",
+  "party": "DIE LINKE",
+  "slug": "sascha-wagner",
+  "academicTitle": null,
+  "speeches": 24,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 10730,
+  "avgWords": 447,
+  "minWords": 313,
+  "maxWords": 839,
+  "rankings": {
+    "speechRank": 3,
+    "wordsRank": 32,
+    "partySpeechRank": 1,
+    "partyWordsRank": 5,
+    "partySize": 63,
+    "totalSpeakers": 609,
+    "percentile": 99.5,
+    "verbosityRank": 253,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 19,
+    "longestSpeechRank": 149
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 20,
+    "interrupterRank": 152,
+    "interruptedRank": 127
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 47
+      },
+      {
+        "word": "kommunen",
+        "count": 36
+      },
+      {
+        "word": "mittel",
+        "count": 29
+      },
+      {
+        "word": "bundesregierung",
+        "count": 26
+      },
+      {
+        "word": "endlich",
+        "count": 25
+      },
+      {
+        "word": "haushalt",
+        "count": 21
+      },
+      {
+        "word": "jahr",
+        "count": 20
+      },
+      {
+        "word": "infrastruktur",
+        "count": 19
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "satte",
+        "count": 5,
+        "ratioParty": 115.0,
+        "ratioBundestag": 76.2
+      },
+      {
+        "word": "ländliche",
+        "count": 5,
+        "ratioParty": 57.5,
+        "ratioBundestag": 32.6
+      },
+      {
+        "word": "gleichwertige",
+        "count": 6,
+        "ratioParty": 46.0,
+        "ratioBundestag": 45.7
+      },
+      {
+        "word": "räume",
+        "count": 9,
+        "ratioParty": 34.5,
+        "ratioBundestag": 26.4
+      },
+      {
+        "word": "lebensverhältnisse",
+        "count": 9,
+        "ratioParty": 25.9,
+        "ratioBundestag": 38.1
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "solide",
+        "count": 3,
+        "ratioParty": 23.0,
+        "ratioBundestag": 6.5
+      },
+      {
+        "word": "stark",
+        "count": 4,
+        "ratioParty": 4.8,
+        "ratioBundestag": 2.2
+      },
+      {
+        "word": "leistungsfähig",
+        "count": 3,
+        "ratioParty": 4.1,
+        "ratioBundestag": 57.1
+      },
+      {
+        "word": "gerecht",
+        "count": 7,
+        "ratioParty": 3.0,
+        "ratioBundestag": 3.8
+      },
+      {
+        "word": "sozial",
+        "count": 6,
+        "ratioParty": 2.7,
+        "ratioBundestag": 6.9
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 447,
+    "partyAvgWords": 521,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.86,
+    "vsParliament": 0.73
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "24"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "10.730"
+    },
+    {
+      "emoji": "🏆",
+      "label": "Rang (Reden)",
+      "value": "#3 von 609"
+    },
+    {
+      "emoji": "🥇",
+      "label": "Rang in DIE LINKE",
+      "value": "#1 von 63"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Sascha Wagner häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Migration",
+        "isCorrect": false
+      },
+      {
+        "text": "Satte",
+        "isCorrect": true
+      },
+      {
+        "text": "Bürger",
+        "isCorrect": false
+      },
+      {
+        "text": "Haushalt",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Satte\" nutzt Sascha Wagner 115.0× häufiger als der DIE LINKE-Durchschnitt.",
+    "explanationBundestag": "76.2× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Sascha Wagner häufiger als der Rest der DIE LINKE-Fraktion?",
+    "options": [
+      {
+        "text": "Solide",
+        "isCorrect": true
+      },
+      {
+        "text": "Jung",
+        "isCorrect": false
+      },
+      {
+        "text": "Politisch",
+        "isCorrect": false
+      },
+      {
+        "text": "Sicher",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Solide\" nutzt Sascha Wagner 23.0× häufiger als der DIE LINKE-Durchschnitt.",
+    "explanationBundestag": "6.5× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🦁",
+    "name": "Löwe",
+    "title": "Fraktionsstimme",
+    "reason": "Als #1 in der DIE LINKE-Fraktion bist du eine führende Stimme.",
+    "id": "loewe",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüter",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 1.0
+      },
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißiger Abgeordneter",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 81.8,
+      "aggression": 11.1,
+      "labeling": 7.4,
+      "solution_focus": 80.0,
+      "collaboration": 57.1,
+      "demand_intensity": 7.9,
+      "acknowledgment": 3.9,
+      "authority": 80.4,
+      "future_orientation": 94.5,
+      "emotional_intensity": 43.3,
+      "inclusivity": 51.6,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 24,
+      "words": 7266,
+      "adjectives": 54,
+      "verbs": 76
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.41,
+      "klima": 2.89,
+      "wirtschaft": 1.38,
+      "soziales": 2.2,
+      "sicherheit": 1.65,
+      "gesundheit": 1.38,
+      "europa": 3.58,
+      "digital": 3.3,
+      "bildung": 1.93,
+      "finanzen": 11.84,
+      "justiz": 2.48,
+      "arbeit": 0.28,
+      "mobilitaet": 7.71
+    },
+    "topTopics": [
+      {
+        "topic": "finanzen",
+        "score": 11.84,
+        "rank": 1
+      },
+      {
+        "topic": "mobilitaet",
+        "score": 7.71,
+        "rank": 2
+      },
+      {
+        "topic": "europa",
+        "score": 3.58,
+        "rank": 3
+      },
+      {
+        "topic": "digital",
+        "score": 3.3,
+        "rank": 4
+      },
+      {
+        "topic": "klima",
+        "score": 2.89,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "migration",
+          "count": 3
+        }
+      ],
+      "klima": [
+        {
+          "word": "klimaschutz",
+          "count": 4
+        },
+        {
+          "word": "nachhaltigkeit",
+          "count": 2
+        },
+        {
+          "word": "umweltschutz",
+          "count": 2
+        },
+        {
+          "word": "klimawandel",
+          "count": 2
+        },
+        {
+          "word": "klimaneutralität",
+          "count": 2
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "markt",
+          "count": 3
+        },
+        {
+          "word": "konzerne",
+          "count": 2
+        },
+        {
+          "word": "unternehmen",
+          "count": 2
+        },
+        {
+          "word": "firma",
+          "count": 1
+        },
+        {
+          "word": "wettbewerb",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "armut",
+          "count": 4
+        },
+        {
+          "word": "familien",
+          "count": 3
+        },
+        {
+          "word": "wohnungen",
+          "count": 2
+        },
+        {
+          "word": "mieten",
+          "count": 2
+        },
+        {
+          "word": "barrierefreiheit",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "gewalt",
+          "count": 5
+        },
+        {
+          "word": "rüstung",
+          "count": 2
+        },
+        {
+          "word": "verteidigungsetat",
+          "count": 1
+        },
+        {
+          "word": "angriff",
+          "count": 1
+        },
+        {
+          "word": "panzer",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "behandlung",
+          "count": 2
+        },
+        {
+          "word": "prävention",
+          "count": 2
+        },
+        {
+          "word": "krankenhäuser",
+          "count": 2
+        },
+        {
+          "word": "therapie",
+          "count": 1
+        },
+        {
+          "word": "medikamente",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "frieden",
+          "count": 10
+        },
+        {
+          "word": "außenpolitik",
+          "count": 8
+        },
+        {
+          "word": "diplomatie",
+          "count": 3
+        },
+        {
+          "word": "krieg",
+          "count": 2
+        },
+        {
+          "word": "wiederaufbau",
+          "count": 2
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 12
+        },
+        {
+          "word": "digital",
+          "count": 3
+        },
+        {
+          "word": "internet",
+          "count": 3
+        },
+        {
+          "word": "onlinezugangsgesetz",
+          "count": 1
+        },
+        {
+          "word": "online",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "bildung",
+          "count": 6
+        },
+        {
+          "word": "forschung",
+          "count": 3
+        },
+        {
+          "word": "schulen",
+          "count": 2
+        },
+        {
+          "word": "ausbildungsplätze",
+          "count": 1
+        },
+        {
+          "word": "schule",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 21
+        },
+        {
+          "word": "investitionen",
+          "count": 17
+        },
+        {
+          "word": "sondervermögen",
+          "count": 16
+        },
+        {
+          "word": "kosten",
+          "count": 9
+        },
+        {
+          "word": "bundeshaushalt",
+          "count": 5
+        }
+      ],
+      "justiz": [
+        {
+          "word": "verbraucherschutz",
+          "count": 5
+        },
+        {
+          "word": "menschenrechte",
+          "count": 2
+        },
+        {
+          "word": "urteile",
+          "count": 2
+        },
+        {
+          "word": "rechtsstaat",
+          "count": 2
+        },
+        {
+          "word": "gerichte",
+          "count": 2
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "homeoffice",
+          "count": 1
+        },
+        {
+          "word": "gesundheitsschutz",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 19
+        },
+        {
+          "word": "bahn",
+          "count": 7
+        },
+        {
+          "word": "verkehr",
+          "count": 4
+        },
+        {
+          "word": "straßen",
+          "count": 4
+        },
+        {
+          "word": "schiene",
+          "count": 4
+        }
+      ]
+    }
+  }
+}

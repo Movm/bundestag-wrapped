@@ -1,0 +1,465 @@
+{
+  "name": "Christin Willnat",
+  "party": "DIE LINKE",
+  "slug": "christin-willnat",
+  "academicTitle": null,
+  "speeches": 8,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 3132,
+  "avgWords": 348,
+  "minWords": 46,
+  "maxWords": 653,
+  "rankings": {
+    "speechRank": 196,
+    "wordsRank": 354,
+    "partySpeechRank": 26,
+    "partyWordsRank": 35,
+    "partySize": 63,
+    "totalSpeakers": 609,
+    "percentile": 67.8,
+    "verbosityRank": 415,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 42,
+    "longestSpeechRank": 355
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 3,
+    "interrupterRank": 252,
+    "interruptedRank": 456
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 23
+      },
+      {
+        "word": "verbraucherschutz",
+        "count": 14
+      },
+      {
+        "word": "schuldnerberatung",
+        "count": 10
+      },
+      {
+        "word": "verbraucher",
+        "count": 9
+      },
+      {
+        "word": "werte",
+        "count": 8
+      },
+      {
+        "word": "justiz",
+        "count": 8
+      },
+      {
+        "word": "sicherheit",
+        "count": 8
+      },
+      {
+        "word": "innen",
+        "count": 8
+      },
+      {
+        "word": "gesetz",
+        "count": 7
+      },
+      {
+        "word": "schuldnerberatungsdienste",
+        "count": 7
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "schuldnerberatung",
+        "count": 10,
+        "ratioParty": 801.9,
+        "ratioBundestag": 176.2
+      },
+      {
+        "word": "verbraucherschutz",
+        "count": 14,
+        "ratioParty": 160.4,
+        "ratioBundestag": 84.1
+      },
+      {
+        "word": "beratung",
+        "count": 5,
+        "ratioParty": 57.3,
+        "ratioBundestag": 27.5
+      },
+      {
+        "word": "schuldnerberatungsdienste",
+        "count": 7,
+        "ratioParty": 32.6,
+        "ratioBundestag": 32.6
+      },
+      {
+        "word": "verbraucherkreditrichtlinie",
+        "count": 6,
+        "ratioParty": 27.9,
+        "ratioBundestag": 357.9
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "geschützt",
+        "count": 3,
+        "ratioParty": 12.0,
+        "ratioBundestag": 16.9
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 348,
+    "partyAvgWords": 521,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.67,
+    "vsParliament": 0.57
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "8"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "3.132"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Christin Willnat häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Freiheit",
+        "isCorrect": false
+      },
+      {
+        "text": "Schuldnerberatung",
+        "isCorrect": true
+      },
+      {
+        "text": "Familie",
+        "isCorrect": false
+      },
+      {
+        "text": "Steuern",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Schuldnerberatung\" nutzt Christin Willnat 801.9× häufiger als der DIE LINKE-Durchschnitt.",
+    "explanationBundestag": "176.2× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Christin Willnat häufiger als der Rest der DIE LINKE-Fraktion?",
+    "options": [
+      {
+        "text": "Alt",
+        "isCorrect": false
+      },
+      {
+        "text": "Erfolgreich",
+        "isCorrect": false
+      },
+      {
+        "text": "Geschützt",
+        "isCorrect": true
+      },
+      {
+        "text": "Politisch",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Geschützt\" nutzt Christin Willnat 12.0× häufiger als der DIE LINKE-Durchschnitt.",
+    "explanationBundestag": "16.9× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐿️",
+    "name": "Eichhörnchen",
+    "title": "Themenhüterin",
+    "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+    "id": "eichhoernchen",
+    "alternatives": [
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Clevere Strategin",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 0.92
+      },
+      {
+        "emoji": "🦦",
+        "name": "Otter",
+        "title": "Positive Teamplayerin",
+        "reason": "Du bringst gute Stimmung und konstruktive Beiträge ins Plenum.",
+        "id": "otter",
+        "score": 0.918
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 100.0,
+      "aggression": 8.3,
+      "labeling": 0.0,
+      "solution_focus": 92.6,
+      "collaboration": 80.0,
+      "demand_intensity": 13.5,
+      "acknowledgment": 0.0,
+      "authority": 79.2,
+      "future_orientation": 95.8,
+      "emotional_intensity": 33.3,
+      "inclusivity": 50.0,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 9,
+      "words": 2148,
+      "adjectives": 12,
+      "verbs": 37
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 2.33,
+      "wirtschaft": 3.26,
+      "soziales": 1.86,
+      "sicherheit": 7.45,
+      "gesundheit": 1.86,
+      "europa": 2.33,
+      "digital": 0.93,
+      "bildung": 1.4,
+      "finanzen": 11.17,
+      "justiz": 11.64,
+      "arbeit": 0.0,
+      "mobilitaet": 0.93
+    },
+    "topTopics": [
+      {
+        "topic": "justiz",
+        "score": 11.64,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 11.17,
+        "rank": 2
+      },
+      {
+        "topic": "sicherheit",
+        "score": 7.45,
+        "rank": 3
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 3.26,
+        "rank": 4
+      },
+      {
+        "topic": "klima",
+        "score": 2.33,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "nachhaltig",
+          "count": 1
+        },
+        {
+          "word": "umwelt",
+          "count": 1
+        },
+        {
+          "word": "naturschutz",
+          "count": 1
+        },
+        {
+          "word": "wälder",
+          "count": 1
+        },
+        {
+          "word": "nachhaltigkeit",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "konzerne",
+          "count": 4
+        },
+        {
+          "word": "unternehmen",
+          "count": 1
+        },
+        {
+          "word": "handwerk",
+          "count": 1
+        },
+        {
+          "word": "marktwirtschaft",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "familien",
+          "count": 1
+        },
+        {
+          "word": "alleinerziehende",
+          "count": 1
+        },
+        {
+          "word": "rentner",
+          "count": 1
+        },
+        {
+          "word": "sozialleistungen",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "waffen",
+          "count": 4
+        },
+        {
+          "word": "panzer",
+          "count": 2
+        },
+        {
+          "word": "extremismus",
+          "count": 2
+        },
+        {
+          "word": "terror",
+          "count": 2
+        },
+        {
+          "word": "bundeswehr",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "prävention",
+          "count": 2
+        },
+        {
+          "word": "krankheit",
+          "count": 1
+        },
+        {
+          "word": "psychisch",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "frieden",
+          "count": 2
+        },
+        {
+          "word": "krieg",
+          "count": 1
+        },
+        {
+          "word": "europa",
+          "count": 1
+        },
+        {
+          "word": "kooperation",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "daten",
+          "count": 1
+        },
+        {
+          "word": "netz",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "schulen",
+          "count": 1
+        },
+        {
+          "word": "professor",
+          "count": 1
+        },
+        {
+          "word": "universität",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "finanzierung",
+          "count": 6
+        },
+        {
+          "word": "haushalt",
+          "count": 5
+        },
+        {
+          "word": "etat",
+          "count": 3
+        },
+        {
+          "word": "kosten",
+          "count": 3
+        },
+        {
+          "word": "haushaltsplan",
+          "count": 2
+        }
+      ],
+      "justiz": [
+        {
+          "word": "verbraucherschutz",
+          "count": 14
+        },
+        {
+          "word": "rechtsstaat",
+          "count": 4
+        },
+        {
+          "word": "gerichte",
+          "count": 3
+        },
+        {
+          "word": "richterin",
+          "count": 1
+        },
+        {
+          "word": "richter",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "stau",
+          "count": 1
+        },
+        {
+          "word": "infrastruktur",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

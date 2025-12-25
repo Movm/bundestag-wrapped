@@ -1,0 +1,440 @@
+{
+  "name": "Simone Borchardt",
+  "party": "CDU/CSU",
+  "slug": "simone-borchardt",
+  "academicTitle": null,
+  "speeches": 10,
+  "wortbeitraege": 4,
+  "befragungResponses": 1,
+  "totalWords": 6383,
+  "avgWords": 456,
+  "minWords": 30,
+  "maxWords": 814,
+  "rankings": {
+    "speechRank": 142,
+    "wordsRank": 107,
+    "partySpeechRank": 32,
+    "partyWordsRank": 32,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 76.7,
+    "verbosityRank": 234,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 86,
+    "longestSpeechRank": 186
+  },
+  "drama": {
+    "interruptionsGiven": 22,
+    "interruptionsReceived": 9,
+    "interrupterRank": 98,
+    "interruptedRank": 307
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "pflege",
+        "count": 36
+      },
+      {
+        "word": "system",
+        "count": 18
+      },
+      {
+        "word": "menschen",
+        "count": 17
+      },
+      {
+        "word": "versorgung",
+        "count": 14
+      },
+      {
+        "word": "geld",
+        "count": 13
+      },
+      {
+        "word": "reformen",
+        "count": 13
+      },
+      {
+        "word": "digitalisierung",
+        "count": 13
+      },
+      {
+        "word": "strukturen",
+        "count": 12
+      },
+      {
+        "word": "ressourcen",
+        "count": 12
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "pflegeeinrichtungen",
+        "count": 5,
+        "ratioParty": 91.8,
+        "ratioBundestag": 126.1
+      },
+      {
+        "word": "rettungsdienst",
+        "count": 5,
+        "ratioParty": 71.4,
+        "ratioBundestag": 67.2
+      },
+      {
+        "word": "angehörige",
+        "count": 6,
+        "ratioParty": 64.3,
+        "ratioBundestag": 43.2
+      },
+      {
+        "word": "ressourcen",
+        "count": 12,
+        "ratioParty": 44.1,
+        "ratioBundestag": 39.7
+      },
+      {
+        "word": "systems",
+        "count": 5,
+        "ratioParty": 42.8,
+        "ratioBundestag": 42.9
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "vernünftig",
+        "count": 3,
+        "ratioParty": 13.3,
+        "ratioBundestag": 15.5
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 456,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.66,
+    "vsParliament": 0.74
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "10"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "6.383"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufe",
+      "value": "22"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Simone Borchardt häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Sicherheit",
+        "isCorrect": false
+      },
+      {
+        "text": "Energie",
+        "isCorrect": false
+      },
+      {
+        "text": "Bildung",
+        "isCorrect": false
+      },
+      {
+        "text": "Pflegeeinrichtungen",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Pflegeeinrichtungen\" nutzt Simone Borchardt 91.8× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "126.1× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Simone Borchardt häufiger als der Rest der CDU/CSU-Fraktion?",
+    "options": [
+      {
+        "text": "Europäisch",
+        "isCorrect": false
+      },
+      {
+        "text": "Richtig",
+        "isCorrect": false
+      },
+      {
+        "text": "National",
+        "isCorrect": false
+      },
+      {
+        "text": "Vernünftig",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Vernünftig\" nutzt Simone Borchardt 13.3× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "15.5× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐿️",
+    "name": "Eichhörnchen",
+    "title": "Themenhüterin",
+    "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+    "id": "eichhoernchen",
+    "alternatives": [
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißige Abgeordnete",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      },
+      {
+        "emoji": "🐴",
+        "name": "Pferd",
+        "title": "Fleißige Debattiererin",
+        "reason": "Mit 14 Reden gehörst du zu den aktivsten Abgeordneten.",
+        "id": "pferd",
+        "score": 0.906
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 87.5,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 84.1,
+      "collaboration": 80.0,
+      "demand_intensity": 9.1,
+      "acknowledgment": 1.8,
+      "authority": 89.9,
+      "future_orientation": 91.7,
+      "emotional_intensity": 41.2,
+      "inclusivity": 61.1,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 14,
+      "words": 4124,
+      "adjectives": 16,
+      "verbs": 55
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.48,
+      "wirtschaft": 2.18,
+      "soziales": 1.21,
+      "sicherheit": 0.48,
+      "gesundheit": 24.49,
+      "europa": 0.73,
+      "digital": 3.39,
+      "bildung": 0.97,
+      "finanzen": 6.55,
+      "justiz": 0.24,
+      "arbeit": 0.73,
+      "mobilitaet": 0.48
+    },
+    "topTopics": [
+      {
+        "topic": "gesundheit",
+        "score": 24.49,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 6.55,
+        "rank": 2
+      },
+      {
+        "topic": "digital",
+        "score": 3.39,
+        "rank": 3
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 2.18,
+        "rank": 4
+      },
+      {
+        "topic": "soziales",
+        "score": 1.21,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "nachhaltig",
+          "count": 1
+        },
+        {
+          "word": "umweltschutz",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "fachkräftemangel",
+          "count": 3
+        },
+        {
+          "word": "betriebe",
+          "count": 1
+        },
+        {
+          "word": "wirtschaftspolitik",
+          "count": 1
+        },
+        {
+          "word": "automobilindustrie",
+          "count": 1
+        },
+        {
+          "word": "maschinenbau",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "familien",
+          "count": 3
+        },
+        {
+          "word": "kinder",
+          "count": 1
+        },
+        {
+          "word": "jugendliche",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "gewalt",
+          "count": 1
+        },
+        {
+          "word": "angriff",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "pflege",
+          "count": 36
+        },
+        {
+          "word": "prävention",
+          "count": 8
+        },
+        {
+          "word": "pflegekräfte",
+          "count": 7
+        },
+        {
+          "word": "gesundheitssystem",
+          "count": 6
+        },
+        {
+          "word": "pflegeversicherung",
+          "count": 5
+        }
+      ],
+      "europa": [
+        {
+          "word": "vertrag",
+          "count": 2
+        },
+        {
+          "word": "europa",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 13
+        },
+        {
+          "word": "daten",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "schulen",
+          "count": 2
+        },
+        {
+          "word": "ausbildung",
+          "count": 1
+        },
+        {
+          "word": "bildungspolitik",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "kosten",
+          "count": 8
+        },
+        {
+          "word": "haushalt",
+          "count": 5
+        },
+        {
+          "word": "entlastung",
+          "count": 4
+        },
+        {
+          "word": "bundeshaushalt",
+          "count": 3
+        },
+        {
+          "word": "steuern",
+          "count": 3
+        }
+      ],
+      "justiz": [
+        {
+          "word": "verurteilung",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "beschäftigung",
+          "count": 1
+        },
+        {
+          "word": "beitragssatz",
+          "count": 1
+        },
+        {
+          "word": "arbeitnehmer",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "straße",
+          "count": 1
+        },
+        {
+          "word": "infrastruktur",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,384 @@
+{
+  "name": "Dr. Janosch Dahmen",
+  "party": "GRÜNE",
+  "slug": "janosch-dahmen",
+  "academicTitle": "Dr",
+  "speeches": 9,
+  "wortbeitraege": 12,
+  "befragungResponses": 0,
+  "totalWords": 4144,
+  "avgWords": 197,
+  "minWords": 31,
+  "maxWords": 718,
+  "rankings": {
+    "speechRank": 151,
+    "wordsRank": 240,
+    "partySpeechRank": 25,
+    "partyWordsRank": 37,
+    "partySize": 85,
+    "totalSpeakers": 609,
+    "percentile": 75.2,
+    "verbosityRank": 507,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 77,
+    "longestSpeechRank": 279
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 4,
+    "interrupterRank": null,
+    "interruptedRank": 418
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 21
+      },
+      {
+        "word": "jahr",
+        "count": 11
+      },
+      {
+        "word": "gesetz",
+        "count": 11
+      },
+      {
+        "word": "geld",
+        "count": 10
+      },
+      {
+        "word": "land",
+        "count": 9
+      },
+      {
+        "word": "deutschland",
+        "count": 8
+      },
+      {
+        "word": "zeit",
+        "count": 8
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "strukturreformen",
+        "count": 5,
+        "ratioParty": 222.7,
+        "ratioBundestag": 32.5
+      },
+      {
+        "word": "notfallversorgung",
+        "count": 5,
+        "ratioParty": 222.7,
+        "ratioBundestag": 65.0
+      },
+      {
+        "word": "fertig",
+        "count": 7,
+        "ratioParty": 103.9,
+        "ratioBundestag": 75.3
+      },
+      {
+        "word": "gesundheitswesen",
+        "count": 8,
+        "ratioParty": 101.8,
+        "ratioBundestag": 75.6
+      },
+      {
+        "word": "insofern",
+        "count": 5,
+        "ratioParty": 63.6,
+        "ratioBundestag": 17.1
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 197,
+    "partyAvgWords": 567,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.35,
+    "vsParliament": 0.32
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "9"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "4.144"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Dr. Janosch Dahmen häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Minister",
+        "isCorrect": false
+      },
+      {
+        "text": "Strukturreformen",
+        "isCorrect": true
+      },
+      {
+        "text": "Wirtschaft",
+        "isCorrect": false
+      },
+      {
+        "text": "Familie",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Strukturreformen\" nutzt Dr. Janosch Dahmen 222.7× häufiger als der GRÜNE-Durchschnitt.",
+    "explanationBundestag": "32.5× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🐬",
+    "name": "Delfin",
+    "title": "Diplomatischer Redner",
+    "reason": "Aktiv im Parlament, aber respektvoll ohne viele Zwischenrufe.",
+    "id": "delfin",
+    "alternatives": [
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Cleverer Stratege",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 1.0
+      },
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißiger Abgeordneter",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 66.7,
+      "aggression": 7.7,
+      "labeling": 0.0,
+      "solution_focus": 92.3,
+      "collaboration": 100.0,
+      "demand_intensity": 10.5,
+      "acknowledgment": 15.8,
+      "authority": 75.0,
+      "future_orientation": 82.1,
+      "emotional_intensity": 25.0,
+      "inclusivity": 51.5,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 21,
+      "words": 2668,
+      "adjectives": 13,
+      "verbs": 19
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.0,
+      "wirtschaft": 1.12,
+      "soziales": 1.87,
+      "sicherheit": 1.5,
+      "gesundheit": 16.87,
+      "europa": 3.37,
+      "digital": 1.12,
+      "bildung": 1.5,
+      "finanzen": 4.5,
+      "justiz": 0.37,
+      "arbeit": 0.37,
+      "mobilitaet": 0.75
+    },
+    "topTopics": [
+      {
+        "topic": "gesundheit",
+        "score": 16.87,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 4.5,
+        "rank": 2
+      },
+      {
+        "topic": "europa",
+        "score": 3.37,
+        "rank": 3
+      },
+      {
+        "topic": "soziales",
+        "score": 1.87,
+        "rank": 4
+      },
+      {
+        "topic": "sicherheit",
+        "score": 1.5,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "wirtschaft": [
+        {
+          "word": "insolvenzen",
+          "count": 1
+        },
+        {
+          "word": "betriebe",
+          "count": 1
+        },
+        {
+          "word": "wettbewerbsfähigkeit",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 2
+        },
+        {
+          "word": "alleinerziehende",
+          "count": 1
+        },
+        {
+          "word": "kind",
+          "count": 1
+        },
+        {
+          "word": "eltern",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "soldaten",
+          "count": 2
+        },
+        {
+          "word": "bundeswehr",
+          "count": 2
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "gesundheitswesen",
+          "count": 8
+        },
+        {
+          "word": "pflege",
+          "count": 7
+        },
+        {
+          "word": "krankenversicherung",
+          "count": 5
+        },
+        {
+          "word": "notfall",
+          "count": 4
+        },
+        {
+          "word": "krankenkassen",
+          "count": 4
+        }
+      ],
+      "europa": [
+        {
+          "word": "ukraine",
+          "count": 3
+        },
+        {
+          "word": "europa",
+          "count": 2
+        },
+        {
+          "word": "putin",
+          "count": 1
+        },
+        {
+          "word": "angriffskrieg",
+          "count": 1
+        },
+        {
+          "word": "bündnis",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 2
+        },
+        {
+          "word": "digital",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "schulen",
+          "count": 3
+        },
+        {
+          "word": "forschung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 4
+        },
+        {
+          "word": "kosten",
+          "count": 2
+        },
+        {
+          "word": "defizit",
+          "count": 2
+        },
+        {
+          "word": "haushaltsausschuss",
+          "count": 1
+        },
+        {
+          "word": "finanzierung",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "vorschrift",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "sozialabgaben",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 1
+        },
+        {
+          "word": "fernverkehr",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

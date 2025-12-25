@@ -1,0 +1,458 @@
+{
+  "name": "Dr. Ottilie Klein",
+  "party": "CDU/CSU",
+  "slug": "ottilie-klein",
+  "academicTitle": "Dr",
+  "speeches": 14,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 5804,
+  "avgWords": 415,
+  "minWords": 333,
+  "maxWords": 527,
+  "rankings": {
+    "speechRank": 36,
+    "wordsRank": 132,
+    "partySpeechRank": 9,
+    "partyWordsRank": 38,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 94.1,
+    "verbosityRank": 311,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 113,
+    "longestSpeechRank": 507
+  },
+  "drama": {
+    "interruptionsGiven": 4,
+    "interruptionsReceived": 13,
+    "interrupterRank": 235,
+    "interruptedRank": 219
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 23
+      },
+      {
+        "word": "deutschland",
+        "count": 19
+      },
+      {
+        "word": "klar",
+        "count": 19
+      },
+      {
+        "word": "deutschen",
+        "count": 15
+      },
+      {
+        "word": "neue",
+        "count": 14
+      },
+      {
+        "word": "arbeit",
+        "count": 14
+      },
+      {
+        "word": "kultur",
+        "count": 12
+      },
+      {
+        "word": "freiheit",
+        "count": 11
+      },
+      {
+        "word": "opfer",
+        "count": 11
+      },
+      {
+        "word": "bundesregierung",
+        "count": 11
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "verlagspreis",
+        "count": 6,
+        "ratioParty": 137.9,
+        "ratioBundestag": 144.2
+      },
+      {
+        "word": "nationalsozialismus",
+        "count": 5,
+        "ratioParty": 98.5,
+        "ratioBundestag": 54.1
+      },
+      {
+        "word": "gedenken",
+        "count": 8,
+        "ratioParty": 84.9,
+        "ratioBundestag": 54.9
+      },
+      {
+        "word": "kulturpolitik",
+        "count": 6,
+        "ratioParty": 46.0,
+        "ratioBundestag": 66.6
+      },
+      {
+        "word": "diktatur",
+        "count": 7,
+        "ratioParty": 38.6,
+        "ratioBundestag": 51.3
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "wirtschaftlich",
+        "count": 3,
+        "ratioParty": 4.8,
+        "ratioBundestag": 5.7
+      },
+      {
+        "word": "sicher",
+        "count": 4,
+        "ratioParty": 2.0,
+        "ratioBundestag": 2.3
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 415,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.6,
+    "vsParliament": 0.68
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "14"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "5.804"
+    },
+    {
+      "emoji": "📊",
+      "label": "Top-Redner",
+      "value": "Top 6%"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Dr. Ottilie Klein häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Rente",
+        "isCorrect": false
+      },
+      {
+        "text": "Antrag",
+        "isCorrect": false
+      },
+      {
+        "text": "Verlagspreis",
+        "isCorrect": true
+      },
+      {
+        "text": "Bürger",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Verlagspreis\" nutzt Dr. Ottilie Klein 137.9× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "144.2× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Dr. Ottilie Klein häufiger als der Rest der CDU/CSU-Fraktion?",
+    "options": [
+      {
+        "text": "Wirtschaftlich",
+        "isCorrect": true
+      },
+      {
+        "text": "Gefährlich",
+        "isCorrect": false
+      },
+      {
+        "text": "Sozial",
+        "isCorrect": false
+      },
+      {
+        "text": "Notwendig",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Wirtschaftlich\" nutzt Dr. Ottilie Klein 4.8× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "5.7× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐿️",
+    "name": "Eichhörnchen",
+    "title": "Themenhüterin",
+    "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+    "id": "eichhoernchen",
+    "alternatives": [
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißige Abgeordnete",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      },
+      {
+        "emoji": "🦦",
+        "name": "Otter",
+        "title": "Positive Teamplayerin",
+        "reason": "Du bringst gute Stimmung und konstruktive Beiträge ins Plenum.",
+        "id": "otter",
+        "score": 0.976
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 100.0,
+      "aggression": 0.0,
+      "labeling": 15.8,
+      "solution_focus": 91.9,
+      "collaboration": 100.0,
+      "demand_intensity": 2.3,
+      "acknowledgment": 6.8,
+      "authority": 55.0,
+      "future_orientation": 92.9,
+      "emotional_intensity": 83.3,
+      "inclusivity": 65.7,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 14,
+      "words": 3845,
+      "adjectives": 19,
+      "verbs": 44
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.26,
+      "wirtschaft": 4.16,
+      "soziales": 5.72,
+      "sicherheit": 3.38,
+      "gesundheit": 0.0,
+      "europa": 0.52,
+      "digital": 0.26,
+      "bildung": 1.82,
+      "finanzen": 2.6,
+      "justiz": 1.56,
+      "arbeit": 11.18,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "arbeit",
+        "score": 11.18,
+        "rank": 1
+      },
+      {
+        "topic": "soziales",
+        "score": 5.72,
+        "rank": 2
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 4.16,
+        "rank": 3
+      },
+      {
+        "topic": "sicherheit",
+        "score": 3.38,
+        "rank": 4
+      },
+      {
+        "topic": "finanzen",
+        "score": 2.6,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "nachhaltig",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "marktwirtschaft",
+          "count": 4
+        },
+        {
+          "word": "unternehmen",
+          "count": 3
+        },
+        {
+          "word": "betriebe",
+          "count": 2
+        },
+        {
+          "word": "fachkräftemangel",
+          "count": 2
+        },
+        {
+          "word": "werke",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "armut",
+          "count": 4
+        },
+        {
+          "word": "familien",
+          "count": 3
+        },
+        {
+          "word": "familie",
+          "count": 3
+        },
+        {
+          "word": "grundsicherung",
+          "count": 2
+        },
+        {
+          "word": "sozialstaat",
+          "count": 2
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "verbrechen",
+          "count": 7
+        },
+        {
+          "word": "spionage",
+          "count": 1
+        },
+        {
+          "word": "betrug",
+          "count": 1
+        },
+        {
+          "word": "terror",
+          "count": 1
+        },
+        {
+          "word": "waffen",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 1
+        },
+        {
+          "word": "nato",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "pressefreiheit",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "bildung",
+          "count": 3
+        },
+        {
+          "word": "schülerin",
+          "count": 1
+        },
+        {
+          "word": "schüler",
+          "count": 1
+        },
+        {
+          "word": "ausbildung",
+          "count": 1
+        },
+        {
+          "word": "wissenschaft",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 4
+        },
+        {
+          "word": "haushaltsentwurf",
+          "count": 2
+        },
+        {
+          "word": "investitionen",
+          "count": 2
+        },
+        {
+          "word": "investition",
+          "count": 1
+        },
+        {
+          "word": "steuern",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "urteile",
+          "count": 2
+        },
+        {
+          "word": "novelle",
+          "count": 2
+        },
+        {
+          "word": "verordnung",
+          "count": 1
+        },
+        {
+          "word": "strafrecht",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitnehmer",
+          "count": 5
+        },
+        {
+          "word": "tarifbindung",
+          "count": 5
+        },
+        {
+          "word": "löhne",
+          "count": 5
+        },
+        {
+          "word": "arbeitszeit",
+          "count": 4
+        },
+        {
+          "word": "gewerkschaften",
+          "count": 4
+        }
+      ]
+    }
+  }
+}

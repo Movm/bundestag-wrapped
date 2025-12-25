@@ -1,0 +1,392 @@
+{
+  "name": "Stephan Stracke",
+  "party": "CDU/CSU",
+  "slug": "stephan-stracke",
+  "academicTitle": null,
+  "speeches": 7,
+  "wortbeitraege": 4,
+  "befragungResponses": 0,
+  "totalWords": 4028,
+  "avgWords": 366,
+  "minWords": 52,
+  "maxWords": 731,
+  "rankings": {
+    "speechRank": 265,
+    "wordsRank": 254,
+    "partySpeechRank": 66,
+    "partyWordsRank": 76,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 56.5,
+    "verbosityRank": 386,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 133,
+    "longestSpeechRank": 266
+  },
+  "drama": {
+    "interruptionsGiven": 11,
+    "interruptionsReceived": 3,
+    "interrupterRank": 153,
+    "interruptedRank": 453
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "bauen",
+        "count": 25
+      },
+      {
+        "word": "koalition",
+        "count": 14
+      },
+      {
+        "word": "kommunen",
+        "count": 14
+      },
+      {
+        "word": "sorgen",
+        "count": 13
+      },
+      {
+        "word": "jahr",
+        "count": 13
+      },
+      {
+        "word": "land",
+        "count": 13
+      },
+      {
+        "word": "schneller",
+        "count": 11
+      },
+      {
+        "word": "verlässlichkeit",
+        "count": 11
+      },
+      {
+        "word": "geld",
+        "count": 10
+      },
+      {
+        "word": "infrastruktur",
+        "count": 10
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "highlight",
+        "count": 5,
+        "ratioParty": 517.4,
+        "ratioBundestag": 405.1
+      },
+      {
+        "word": "bundesverkehrsminister",
+        "count": 6,
+        "ratioParty": 248.4,
+        "ratioBundestag": 324.1
+      },
+      {
+        "word": "verkehrspolitik",
+        "count": 5,
+        "ratioParty": 64.7,
+        "ratioBundestag": 52.3
+      },
+      {
+        "word": "kunden",
+        "count": 5,
+        "ratioParty": 43.1,
+        "ratioBundestag": 41.0
+      },
+      {
+        "word": "verkehrsinfrastruktur",
+        "count": 5,
+        "ratioParty": 37.0,
+        "ratioBundestag": 42.6
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "solide",
+        "count": 6,
+        "ratioParty": 32.7,
+        "ratioBundestag": 38.1
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 366,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.53,
+    "vsParliament": 0.6
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "7"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "4.028"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufe",
+      "value": "11"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Stephan Stracke häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Minister",
+        "isCorrect": false
+      },
+      {
+        "text": "Highlight",
+        "isCorrect": true
+      },
+      {
+        "text": "Migration",
+        "isCorrect": false
+      },
+      {
+        "text": "Kinder",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Highlight\" nutzt Stephan Stracke 517.4× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "405.1× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Stephan Stracke häufiger als der Rest der CDU/CSU-Fraktion?",
+    "options": [
+      {
+        "text": "Jung",
+        "isCorrect": false
+      },
+      {
+        "text": "Gut",
+        "isCorrect": false
+      },
+      {
+        "text": "Sicher",
+        "isCorrect": false
+      },
+      {
+        "text": "Solide",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Solide\" nutzt Stephan Stracke 32.7× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "38.1× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐝",
+    "name": "Biene",
+    "title": "Fleißiger Abgeordneter",
+    "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+    "id": "biene",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüter",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.961
+      },
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Cleverer Stratege",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 0.947
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 84.2,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 100.0,
+      "collaboration": 100.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 2.9,
+      "authority": 74.5,
+      "future_orientation": 83.1,
+      "emotional_intensity": 66.7,
+      "inclusivity": 64.8,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 11,
+      "words": 2569,
+      "adjectives": 19,
+      "verbs": 35
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.0,
+      "wirtschaft": 2.72,
+      "soziales": 2.34,
+      "sicherheit": 0.0,
+      "gesundheit": 0.0,
+      "europa": 0.39,
+      "digital": 0.39,
+      "bildung": 0.0,
+      "finanzen": 8.17,
+      "justiz": 0.78,
+      "arbeit": 1.17,
+      "mobilitaet": 22.58
+    },
+    "topTopics": [
+      {
+        "topic": "mobilitaet",
+        "score": 22.58,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 8.17,
+        "rank": 2
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 2.72,
+        "rank": 3
+      },
+      {
+        "topic": "soziales",
+        "score": 2.34,
+        "rank": 4
+      },
+      {
+        "topic": "arbeit",
+        "score": 1.17,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "wirtschaft": [
+        {
+          "word": "wettbewerbsfähigkeit",
+          "count": 3
+        },
+        {
+          "word": "unternehmen",
+          "count": 2
+        },
+        {
+          "word": "wirtschaftswachstum",
+          "count": 1
+        },
+        {
+          "word": "standort",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "familien",
+          "count": 2
+        },
+        {
+          "word": "mieten",
+          "count": 1
+        },
+        {
+          "word": "altersvorsorge",
+          "count": 1
+        },
+        {
+          "word": "wohnungen",
+          "count": 1
+        },
+        {
+          "word": "wohngeld",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "frieden",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "netz",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "sondervermögen",
+          "count": 7
+        },
+        {
+          "word": "finanzierung",
+          "count": 5
+        },
+        {
+          "word": "haushalt",
+          "count": 5
+        },
+        {
+          "word": "investitionen",
+          "count": 1
+        },
+        {
+          "word": "fördermittel",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "straftaten",
+          "count": 1
+        },
+        {
+          "word": "mietrecht",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitsplätze",
+          "count": 3
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 10
+        },
+        {
+          "word": "bahn",
+          "count": 8
+        },
+        {
+          "word": "schiene",
+          "count": 7
+        },
+        {
+          "word": "straße",
+          "count": 6
+        },
+        {
+          "word": "verkehrsinfrastruktur",
+          "count": 5
+        }
+      ]
+    }
+  }
+}

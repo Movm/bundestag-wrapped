@@ -1,0 +1,240 @@
+{
+  "name": "Edgar Naujok",
+  "party": "AfD",
+  "slug": "edgar-naujok",
+  "academicTitle": null,
+  "speeches": 1,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 557,
+  "avgWords": 557,
+  "minWords": 557,
+  "maxWords": 557,
+  "rankings": {
+    "speechRank": 589,
+    "wordsRank": 588,
+    "partySpeechRank": 147,
+    "partyWordsRank": 142,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 3.3,
+    "verbosityRank": null,
+    "verbosityTotal": null,
+    "partyVerbosityRank": null,
+    "longestSpeechRank": 477
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 0,
+    "interrupterRank": null,
+    "interruptedRank": null
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "bundesregierung",
+        "count": 3
+      },
+      {
+        "word": "endlich",
+        "count": 3
+      },
+      {
+        "word": "darf",
+        "count": 3
+      },
+      {
+        "word": "lassen",
+        "count": 3
+      },
+      {
+        "word": "digitale",
+        "count": 3
+      },
+      {
+        "word": "festhalten",
+        "count": 2
+      },
+      {
+        "word": "schritt",
+        "count": 2
+      },
+      {
+        "word": "richtung",
+        "count": 2
+      },
+      {
+        "word": "zeit",
+        "count": 2
+      },
+      {
+        "word": "digitalisierung",
+        "count": 2
+      }
+    ],
+    "signatureWords": [],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 557,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.95,
+    "vsParliament": 0.91
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "1"
+    }
+  ],
+  "signatureQuiz": null,
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 75.0,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 100.0,
+      "collaboration": 100.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 0.0,
+      "authority": 81.8,
+      "future_orientation": 84.6,
+      "emotional_intensity": 100.0,
+      "inclusivity": 86.7,
+      "discriminatory": 0.0
+    },
+    "confidence": "low",
+    "sampleSize": {
+      "speeches": 1,
+      "words": 408,
+      "adjectives": 4,
+      "verbs": 5
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 4.9,
+      "wirtschaft": 9.8,
+      "soziales": 0.0,
+      "sicherheit": 2.45,
+      "gesundheit": 2.45,
+      "europa": 2.45,
+      "digital": 12.25,
+      "bildung": 4.9,
+      "finanzen": 0.0,
+      "justiz": 0.0,
+      "arbeit": 0.0,
+      "mobilitaet": 4.9
+    },
+    "topTopics": [
+      {
+        "topic": "digital",
+        "score": 12.25,
+        "rank": 1
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 9.8,
+        "rank": 2
+      },
+      {
+        "topic": "klima",
+        "score": 4.9,
+        "rank": 3
+      },
+      {
+        "topic": "bildung",
+        "score": 4.9,
+        "rank": 4
+      },
+      {
+        "topic": "mobilitaet",
+        "score": 4.9,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "energie",
+          "count": 1
+        },
+        {
+          "word": "energiewende",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "wettbewerb",
+          "count": 2
+        },
+        {
+          "word": "wettbewerbsfähigkeit",
+          "count": 1
+        },
+        {
+          "word": "betrieb",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "polizei",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "gesundheitswesen",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 2
+        },
+        {
+          "word": "daten",
+          "count": 1
+        },
+        {
+          "word": "technologie",
+          "count": 1
+        },
+        {
+          "word": "netz",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "ausbildung",
+          "count": 1
+        },
+        {
+          "word": "schulen",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 2
+        }
+      ]
+    }
+  }
+}

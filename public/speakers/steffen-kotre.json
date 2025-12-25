@@ -1,0 +1,484 @@
+{
+  "name": "Steffen Kotré",
+  "party": "AfD",
+  "slug": "steffen-kotre",
+  "academicTitle": null,
+  "speeches": 11,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 5583,
+  "avgWords": 465,
+  "minWords": 74,
+  "maxWords": 635,
+  "rankings": {
+    "speechRank": 110,
+    "wordsRank": 144,
+    "partySpeechRank": 16,
+    "partyWordsRank": 29,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 81.9,
+    "verbosityRank": 214,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 52,
+    "longestSpeechRank": 380
+  },
+  "drama": {
+    "interruptionsGiven": 11,
+    "interruptionsReceived": 36,
+    "interrupterRank": 154,
+    "interruptedRank": 38
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "energiewende",
+        "count": 27
+      },
+      {
+        "word": "deutschland",
+        "count": 19
+      },
+      {
+        "word": "bundesregierung",
+        "count": 18
+      },
+      {
+        "word": "politik",
+        "count": 18
+      },
+      {
+        "word": "kernenergie",
+        "count": 16
+      },
+      {
+        "word": "russland",
+        "count": 12
+      },
+      {
+        "word": "unternehmen",
+        "count": 12
+      },
+      {
+        "word": "energieversorgung",
+        "count": 11
+      },
+      {
+        "word": "bürger",
+        "count": 11
+      },
+      {
+        "word": "menschen",
+        "count": 11
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "russen",
+        "count": 7,
+        "ratioParty": 90.7,
+        "ratioBundestag": 201.7
+      },
+      {
+        "word": "kernenergie",
+        "count": 16,
+        "ratioParty": 33.8,
+        "ratioBundestag": 105.4
+      },
+      {
+        "word": "energiewende",
+        "count": 27,
+        "ratioParty": 28.0,
+        "ratioBundestag": 46.3
+      },
+      {
+        "word": "energieversorgung",
+        "count": 11,
+        "ratioParty": 25.3,
+        "ratioBundestag": 40.9
+      },
+      {
+        "word": "stream",
+        "count": 6,
+        "ratioParty": 22.2,
+        "ratioBundestag": 49.4
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "gescheitert",
+        "count": 5,
+        "ratioParty": 11.8,
+        "ratioBundestag": 22.0
+      },
+      {
+        "word": "teuer",
+        "count": 3,
+        "ratioParty": 4.0,
+        "ratioBundestag": 6.3
+      },
+      {
+        "word": "links",
+        "count": 7,
+        "ratioParty": 3.8,
+        "ratioBundestag": 10.7
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 465,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.79,
+    "vsParliament": 0.76
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "11"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "5.583"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufe",
+      "value": "11"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Steffen Kotré häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Haushalt",
+        "isCorrect": false
+      },
+      {
+        "text": "Russen",
+        "isCorrect": true
+      },
+      {
+        "text": "Reform",
+        "isCorrect": false
+      },
+      {
+        "text": "Bildung",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Russen\" nutzt Steffen Kotré 90.7× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "201.7× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Steffen Kotré häufiger als der Rest der AfD-Fraktion?",
+    "options": [
+      {
+        "text": "Gescheitert",
+        "isCorrect": true
+      },
+      {
+        "text": "Groß",
+        "isCorrect": false
+      },
+      {
+        "text": "Jung",
+        "isCorrect": false
+      },
+      {
+        "text": "Erfolgreich",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Gescheitert\" nutzt Steffen Kotré 11.8× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "22.0× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 16.7,
+      "aggression": 16.7,
+      "labeling": 33.3,
+      "solution_focus": 54.8,
+      "collaboration": 66.7,
+      "demand_intensity": 5.6,
+      "acknowledgment": 0.0,
+      "authority": 79.5,
+      "future_orientation": 81.5,
+      "emotional_intensity": 58.3,
+      "inclusivity": 56.4,
+      "discriminatory": 2.22
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 12,
+      "words": 3609,
+      "adjectives": 24,
+      "verbs": 36
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 1.39,
+      "klima": 16.9,
+      "wirtschaft": 9.42,
+      "soziales": 0.83,
+      "sicherheit": 1.11,
+      "gesundheit": 0.0,
+      "europa": 12.19,
+      "digital": 0.83,
+      "bildung": 1.39,
+      "finanzen": 6.37,
+      "justiz": 0.55,
+      "arbeit": 0.83,
+      "mobilitaet": 1.94
+    },
+    "topTopics": [
+      {
+        "topic": "klima",
+        "score": 16.9,
+        "rank": 1
+      },
+      {
+        "topic": "europa",
+        "score": 12.19,
+        "rank": 2
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 9.42,
+        "rank": 3
+      },
+      {
+        "topic": "finanzen",
+        "score": 6.37,
+        "rank": 4
+      },
+      {
+        "topic": "mobilitaet",
+        "score": 1.94,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "zuwanderung",
+          "count": 1
+        },
+        {
+          "word": "asyl",
+          "count": 1
+        },
+        {
+          "word": "migration",
+          "count": 1
+        },
+        {
+          "word": "migranten",
+          "count": 1
+        },
+        {
+          "word": "flüchtlinge",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "energiewende",
+          "count": 27
+        },
+        {
+          "word": "kernenergie",
+          "count": 16
+        },
+        {
+          "word": "kohle",
+          "count": 4
+        },
+        {
+          "word": "energie",
+          "count": 3
+        },
+        {
+          "word": "wasserstoff",
+          "count": 3
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 12
+        },
+        {
+          "word": "industrie",
+          "count": 6
+        },
+        {
+          "word": "produktion",
+          "count": 6
+        },
+        {
+          "word": "marktwirtschaft",
+          "count": 2
+        },
+        {
+          "word": "automobilindustrie",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "rentner",
+          "count": 1
+        },
+        {
+          "word": "renten",
+          "count": 1
+        },
+        {
+          "word": "kindergeld",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "diebstahl",
+          "count": 1
+        },
+        {
+          "word": "täter",
+          "count": 1
+        },
+        {
+          "word": "angriff",
+          "count": 1
+        },
+        {
+          "word": "verteidigung",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "russland",
+          "count": 12
+        },
+        {
+          "word": "sanktionen",
+          "count": 6
+        },
+        {
+          "word": "diplomatie",
+          "count": 5
+        },
+        {
+          "word": "ukraine",
+          "count": 5
+        },
+        {
+          "word": "außenminister",
+          "count": 3
+        }
+      ],
+      "digital": [
+        {
+          "word": "halbleiter",
+          "count": 1
+        },
+        {
+          "word": "digitalisierung",
+          "count": 1
+        },
+        {
+          "word": "netz",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "wissenschaft",
+          "count": 2
+        },
+        {
+          "word": "wissenschaftler",
+          "count": 1
+        },
+        {
+          "word": "schulen",
+          "count": 1
+        },
+        {
+          "word": "bildung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "kosten",
+          "count": 6
+        },
+        {
+          "word": "steuerzahler",
+          "count": 5
+        },
+        {
+          "word": "subventionen",
+          "count": 5
+        },
+        {
+          "word": "steuer",
+          "count": 3
+        },
+        {
+          "word": "haushalt",
+          "count": 2
+        }
+      ],
+      "justiz": [
+        {
+          "word": "grundgesetz",
+          "count": 1
+        },
+        {
+          "word": "richter",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitsplätze",
+          "count": 2
+        },
+        {
+          "word": "einkommen",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 2
+        },
+        {
+          "word": "straße",
+          "count": 1
+        },
+        {
+          "word": "autos",
+          "count": 1
+        },
+        {
+          "word": "schiff",
+          "count": 1
+        },
+        {
+          "word": "fliegen",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

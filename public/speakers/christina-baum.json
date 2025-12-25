@@ -1,0 +1,349 @@
+{
+  "name": "Dr. Christina Baum",
+  "party": "AfD",
+  "slug": "christina-baum",
+  "academicTitle": "Dr",
+  "speeches": 5,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 2132,
+  "avgWords": 426,
+  "minWords": 367,
+  "maxWords": 536,
+  "rankings": {
+    "speechRank": 399,
+    "wordsRank": 449,
+    "partySpeechRank": 96,
+    "partyWordsRank": 101,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 34.5,
+    "verbosityRank": 290,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 67,
+    "longestSpeechRank": 494
+  },
+  "drama": {
+    "interruptionsGiven": 24,
+    "interruptionsReceived": 8,
+    "interrupterRank": 89,
+    "interruptedRank": 339
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "masken",
+        "count": 7
+      },
+      {
+        "word": "somit",
+        "count": 6
+      },
+      {
+        "word": "leben",
+        "count": 6
+      },
+      {
+        "word": "system",
+        "count": 5
+      },
+      {
+        "word": "menschen",
+        "count": 5
+      },
+      {
+        "word": "jahren",
+        "count": 4
+      },
+      {
+        "word": "verantwortung",
+        "count": 4
+      },
+      {
+        "word": "ärzte",
+        "count": 4
+      },
+      {
+        "word": "gesundheitsversorgung",
+        "count": 4
+      },
+      {
+        "word": "reform",
+        "count": 4
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "masken",
+        "count": 7,
+        "ratioParty": 366.7,
+        "ratioBundestag": 162.4
+      },
+      {
+        "word": "somit",
+        "count": 6,
+        "ratioParty": 60.4,
+        "ratioBundestag": 62.2
+      },
+      {
+        "word": "system",
+        "count": 5,
+        "ratioParty": 12.5,
+        "ratioBundestag": 12.6
+      },
+      {
+        "word": "leben",
+        "count": 6,
+        "ratioParty": 4.7,
+        "ratioBundestag": 3.8
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 426,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.73,
+    "vsParliament": 0.69
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "5"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "2.132"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufe",
+      "value": "24"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Dr. Christina Baum häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Zukunft",
+        "isCorrect": false
+      },
+      {
+        "text": "Verantwortung",
+        "isCorrect": false
+      },
+      {
+        "text": "Masken",
+        "isCorrect": true
+      },
+      {
+        "text": "Haushalt",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Masken\" nutzt Dr. Christina Baum 366.7× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "162.4× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 62.5,
+      "aggression": 10.0,
+      "labeling": 10.0,
+      "solution_focus": 66.7,
+      "collaboration": 50.0,
+      "demand_intensity": 14.3,
+      "acknowledgment": 7.1,
+      "authority": 66.7,
+      "future_orientation": 92.0,
+      "emotional_intensity": 100.0,
+      "inclusivity": 68.9,
+      "discriminatory": 1.39
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 5,
+      "words": 1436,
+      "adjectives": 10,
+      "verbs": 14
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 2.79,
+      "klima": 0.0,
+      "wirtschaft": 1.39,
+      "soziales": 8.36,
+      "sicherheit": 1.39,
+      "gesundheit": 14.62,
+      "europa": 0.0,
+      "digital": 0.7,
+      "bildung": 2.79,
+      "finanzen": 4.18,
+      "justiz": 2.09,
+      "arbeit": 0.7,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "gesundheit",
+        "score": 14.62,
+        "rank": 1
+      },
+      {
+        "topic": "soziales",
+        "score": 8.36,
+        "rank": 2
+      },
+      {
+        "topic": "finanzen",
+        "score": 4.18,
+        "rank": 3
+      },
+      {
+        "topic": "migration",
+        "score": 2.79,
+        "rank": 4
+      },
+      {
+        "topic": "bildung",
+        "score": 2.79,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "migration",
+          "count": 2
+        },
+        {
+          "word": "flüchtlinge",
+          "count": 1
+        },
+        {
+          "word": "einwanderer",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "standort",
+          "count": 1
+        },
+        {
+          "word": "firma",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 4
+        },
+        {
+          "word": "rentner",
+          "count": 2
+        },
+        {
+          "word": "armut",
+          "count": 1
+        },
+        {
+          "word": "sozialsystem",
+          "count": 1
+        },
+        {
+          "word": "sozialpolitik",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "gewalt",
+          "count": 2
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "ärzte",
+          "count": 4
+        },
+        {
+          "word": "arzt",
+          "count": 2
+        },
+        {
+          "word": "kliniken",
+          "count": 2
+        },
+        {
+          "word": "krankenhäuser",
+          "count": 2
+        },
+        {
+          "word": "rettungsdienst",
+          "count": 2
+        }
+      ],
+      "digital": [
+        {
+          "word": "online",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "wissenschaft",
+          "count": 2
+        },
+        {
+          "word": "ausbildung",
+          "count": 1
+        },
+        {
+          "word": "schule",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "steuerzahler",
+          "count": 2
+        },
+        {
+          "word": "kosten",
+          "count": 2
+        },
+        {
+          "word": "finanzierung",
+          "count": 1
+        },
+        {
+          "word": "investitionen",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "grundrechte",
+          "count": 2
+        },
+        {
+          "word": "strafen",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeiter",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

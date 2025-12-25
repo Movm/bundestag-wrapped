@@ -1,0 +1,509 @@
+{
+  "name": "Janine Wissler",
+  "party": "DIE LINKE",
+  "slug": "janine-wissler",
+  "academicTitle": null,
+  "speeches": 10,
+  "wortbeitraege": 4,
+  "befragungResponses": 0,
+  "totalWords": 7735,
+  "avgWords": 552,
+  "minWords": 32,
+  "maxWords": 954,
+  "rankings": {
+    "speechRank": 125,
+    "wordsRank": 76,
+    "partySpeechRank": 21,
+    "partyWordsRank": 11,
+    "partySize": 63,
+    "totalSpeakers": 609,
+    "percentile": 79.5,
+    "verbosityRank": 109,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 8,
+    "longestSpeechRank": 82
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 29,
+    "interrupterRank": 97,
+    "interruptedRank": 57
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 46
+      },
+      {
+        "word": "reiche",
+        "count": 24
+      },
+      {
+        "word": "ministerin",
+        "count": 22
+      },
+      {
+        "word": "klimaschutz",
+        "count": 16
+      },
+      {
+        "word": "arbeiten",
+        "count": 15
+      },
+      {
+        "word": "soll",
+        "count": 14
+      },
+      {
+        "word": "deutschland",
+        "count": 14
+      },
+      {
+        "word": "bundesregierung",
+        "count": 13
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "lufthansa",
+        "count": 6,
+        "ratioParty": 206.3,
+        "ratioBundestag": 119.1
+      },
+      {
+        "word": "karenzzeit",
+        "count": 5,
+        "ratioParty": 86.0,
+        "ratioBundestag": 421.7
+      },
+      {
+        "word": "steuergeld",
+        "count": 5,
+        "ratioParty": 57.3,
+        "ratioBundestag": 7.4
+      },
+      {
+        "word": "wirtschaftsministerin",
+        "count": 10,
+        "ratioParty": 31.3,
+        "ratioBundestag": 53.5
+      },
+      {
+        "word": "höhere",
+        "count": 8,
+        "ratioParty": 17.2,
+        "ratioBundestag": 16.0
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "teuer",
+        "count": 6,
+        "ratioParty": 9.0,
+        "ratioBundestag": 9.4
+      },
+      {
+        "word": "absurd",
+        "count": 4,
+        "ratioParty": 3.4,
+        "ratioBundestag": 12.0
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 552,
+    "partyAvgWords": 521,
+    "parliamentAvgWords": 613,
+    "vsParty": 1.06,
+    "vsParliament": 0.9
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "10"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "7.735"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Janine Wissler häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Bundesregierung",
+        "isCorrect": false
+      },
+      {
+        "text": "Lufthansa",
+        "isCorrect": true
+      },
+      {
+        "text": "Europa",
+        "isCorrect": false
+      },
+      {
+        "text": "Investitionen",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Lufthansa\" nutzt Janine Wissler 206.3× häufiger als der DIE LINKE-Durchschnitt.",
+    "explanationBundestag": "119.1× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Janine Wissler häufiger als der Rest der DIE LINKE-Fraktion?",
+    "options": [
+      {
+        "text": "National",
+        "isCorrect": false
+      },
+      {
+        "text": "Wirtschaftlich",
+        "isCorrect": false
+      },
+      {
+        "text": "Teuer",
+        "isCorrect": true
+      },
+      {
+        "text": "Politisch",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Teuer\" nutzt Janine Wissler 9.0× häufiger als der DIE LINKE-Durchschnitt.",
+    "explanationBundestag": "9.4× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐿️",
+    "name": "Eichhörnchen",
+    "title": "Themenhüterin",
+    "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+    "id": "eichhoernchen",
+    "alternatives": [
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißige Abgeordnete",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      },
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Clevere Strategin",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 0.987
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 45.0,
+      "aggression": 23.3,
+      "labeling": 10.0,
+      "solution_focus": 58.6,
+      "collaboration": 38.5,
+      "demand_intensity": 4.3,
+      "acknowledgment": 4.3,
+      "authority": 85.4,
+      "future_orientation": 87.8,
+      "emotional_intensity": 54.2,
+      "inclusivity": 40.2,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 14,
+      "words": 4929,
+      "adjectives": 30,
+      "verbs": 46
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 13.19,
+      "wirtschaft": 9.54,
+      "soziales": 12.38,
+      "sicherheit": 2.43,
+      "gesundheit": 1.62,
+      "europa": 1.62,
+      "digital": 0.41,
+      "bildung": 1.22,
+      "finanzen": 9.33,
+      "justiz": 1.22,
+      "arbeit": 9.74,
+      "mobilitaet": 1.83
+    },
+    "topTopics": [
+      {
+        "topic": "klima",
+        "score": 13.19,
+        "rank": 1
+      },
+      {
+        "topic": "soziales",
+        "score": 12.38,
+        "rank": 2
+      },
+      {
+        "topic": "arbeit",
+        "score": 9.74,
+        "rank": 3
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 9.54,
+        "rank": 4
+      },
+      {
+        "topic": "finanzen",
+        "score": 9.33,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "klimaschutz",
+          "count": 16
+        },
+        {
+          "word": "energiewende",
+          "count": 7
+        },
+        {
+          "word": "energie",
+          "count": 6
+        },
+        {
+          "word": "klimawandel",
+          "count": 4
+        },
+        {
+          "word": "erneuerbare",
+          "count": 3
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "industrie",
+          "count": 9
+        },
+        {
+          "word": "unternehmen",
+          "count": 7
+        },
+        {
+          "word": "konzerne",
+          "count": 5
+        },
+        {
+          "word": "wettbewerb",
+          "count": 3
+        },
+        {
+          "word": "konzern",
+          "count": 3
+        }
+      ],
+      "soziales": [
+        {
+          "word": "rente",
+          "count": 12
+        },
+        {
+          "word": "bürgergeld",
+          "count": 10
+        },
+        {
+          "word": "sozialstaat",
+          "count": 5
+        },
+        {
+          "word": "mieten",
+          "count": 4
+        },
+        {
+          "word": "miete",
+          "count": 4
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "bundeswehr",
+          "count": 5
+        },
+        {
+          "word": "angriff",
+          "count": 3
+        },
+        {
+          "word": "rüstung",
+          "count": 2
+        },
+        {
+          "word": "armee",
+          "count": 1
+        },
+        {
+          "word": "militär",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "pflege",
+          "count": 4
+        },
+        {
+          "word": "pflegekraft",
+          "count": 1
+        },
+        {
+          "word": "rezept",
+          "count": 1
+        },
+        {
+          "word": "krankenhäuser",
+          "count": 1
+        },
+        {
+          "word": "pandemie",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "brüssel",
+          "count": 2
+        },
+        {
+          "word": "sanktionen",
+          "count": 2
+        },
+        {
+          "word": "china",
+          "count": 1
+        },
+        {
+          "word": "russland",
+          "count": 1
+        },
+        {
+          "word": "gipfel",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "netz",
+          "count": 1
+        },
+        {
+          "word": "daten",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "qualifizierung",
+          "count": 2
+        },
+        {
+          "word": "ausbildung",
+          "count": 1
+        },
+        {
+          "word": "erzieherin",
+          "count": 1
+        },
+        {
+          "word": "bildung",
+          "count": 1
+        },
+        {
+          "word": "weiterbildung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "kosten",
+          "count": 12
+        },
+        {
+          "word": "investitionen",
+          "count": 7
+        },
+        {
+          "word": "steuern",
+          "count": 3
+        },
+        {
+          "word": "banken",
+          "count": 3
+        },
+        {
+          "word": "körperschaftsteuer",
+          "count": 3
+        }
+      ],
+      "justiz": [
+        {
+          "word": "grundgesetz",
+          "count": 3
+        },
+        {
+          "word": "anwalt",
+          "count": 2
+        },
+        {
+          "word": "urteil",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "löhne",
+          "count": 8
+        },
+        {
+          "word": "beschäftigte",
+          "count": 6
+        },
+        {
+          "word": "arbeitsplätze",
+          "count": 6
+        },
+        {
+          "word": "einkommen",
+          "count": 5
+        },
+        {
+          "word": "mindestlohn",
+          "count": 5
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 7
+        },
+        {
+          "word": "bahn",
+          "count": 1
+        },
+        {
+          "word": "fahrzeuge",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

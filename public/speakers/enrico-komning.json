@@ -1,0 +1,394 @@
+{
+  "name": "Enrico Komning",
+  "party": "AfD",
+  "slug": "enrico-komning",
+  "academicTitle": null,
+  "speeches": 7,
+  "wortbeitraege": 2,
+  "befragungResponses": 0,
+  "totalWords": 4117,
+  "avgWords": 457,
+  "minWords": 354,
+  "maxWords": 645,
+  "rankings": {
+    "speechRank": 260,
+    "wordsRank": 244,
+    "partySpeechRank": 63,
+    "partyWordsRank": 51,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 57.3,
+    "verbosityRank": 228,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 55,
+    "longestSpeechRank": 368
+  },
+  "drama": {
+    "interruptionsGiven": 149,
+    "interruptionsReceived": 7,
+    "interrupterRank": 8,
+    "interruptedRank": 346
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "deutschland",
+        "count": 19
+      },
+      {
+        "word": "politik",
+        "count": 17
+      },
+      {
+        "word": "land",
+        "count": 15
+      },
+      {
+        "word": "grünen",
+        "count": 12
+      },
+      {
+        "word": "freiheit",
+        "count": 12
+      },
+      {
+        "word": "unternehmen",
+        "count": 11
+      },
+      {
+        "word": "grüne",
+        "count": 11
+      },
+      {
+        "word": "links",
+        "count": 10
+      },
+      {
+        "word": "schluss",
+        "count": 10
+      },
+      {
+        "word": "weniger",
+        "count": 9
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "wiener",
+        "count": 5,
+        "ratioParty": 234.0,
+        "ratioBundestag": 222.7
+      },
+      {
+        "word": "beschleunigung",
+        "count": 6,
+        "ratioParty": 84.2,
+        "ratioBundestag": 45.1
+      },
+      {
+        "word": "verteidigt",
+        "count": 5,
+        "ratioParty": 43.9,
+        "ratioBundestag": 35.0
+      },
+      {
+        "word": "wirtschaftspolitik",
+        "count": 5,
+        "ratioParty": 24.2,
+        "ratioBundestag": 21.4
+      },
+      {
+        "word": "reiche",
+        "count": 9,
+        "ratioParty": 23.0,
+        "ratioBundestag": 19.1
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "links",
+        "count": 10,
+        "ratioParty": 7.4,
+        "ratioBundestag": 20.9
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 457,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.78,
+    "vsParliament": 0.75
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "7"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "4.117"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufer",
+      "value": "#8 (149x)"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Enrico Komning häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Investitionen",
+        "isCorrect": false
+      },
+      {
+        "text": "Wiener",
+        "isCorrect": true
+      },
+      {
+        "text": "Kinder",
+        "isCorrect": false
+      },
+      {
+        "text": "Ausschuss",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Wiener\" nutzt Enrico Komning 234.0× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "222.7× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Enrico Komning häufiger als der Rest der AfD-Fraktion?",
+    "options": [
+      {
+        "text": "Wirtschaftlich",
+        "isCorrect": false
+      },
+      {
+        "text": "Links",
+        "isCorrect": true
+      },
+      {
+        "text": "Erfolgreich",
+        "isCorrect": false
+      },
+      {
+        "text": "Falsch",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Links\" nutzt Enrico Komning 7.4× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "20.9× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 66.7,
+      "aggression": 5.9,
+      "labeling": 76.5,
+      "solution_focus": 58.8,
+      "collaboration": 0.0,
+      "demand_intensity": 13.6,
+      "acknowledgment": 4.5,
+      "authority": 96.4,
+      "future_orientation": 71.0,
+      "emotional_intensity": 37.5,
+      "inclusivity": 50.5,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 9,
+      "words": 2670,
+      "adjectives": 17,
+      "verbs": 22
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 3.37,
+      "wirtschaft": 16.48,
+      "soziales": 0.37,
+      "sicherheit": 0.0,
+      "gesundheit": 0.37,
+      "europa": 3.0,
+      "digital": 0.37,
+      "bildung": 0.0,
+      "finanzen": 12.73,
+      "justiz": 0.0,
+      "arbeit": 3.0,
+      "mobilitaet": 2.25
+    },
+    "topTopics": [
+      {
+        "topic": "wirtschaft",
+        "score": 16.48,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 12.73,
+        "rank": 2
+      },
+      {
+        "topic": "klima",
+        "score": 3.37,
+        "rank": 3
+      },
+      {
+        "topic": "europa",
+        "score": 3.0,
+        "rank": 4
+      },
+      {
+        "topic": "arbeit",
+        "score": 3.0,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "klimaneutralität",
+          "count": 2
+        },
+        {
+          "word": "energie",
+          "count": 2
+        },
+        {
+          "word": "energiewende",
+          "count": 2
+        },
+        {
+          "word": "kohle",
+          "count": 1
+        },
+        {
+          "word": "kohleausstieg",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 11
+        },
+        {
+          "word": "wirtschaftspolitik",
+          "count": 5
+        },
+        {
+          "word": "industrie",
+          "count": 4
+        },
+        {
+          "word": "mittelstand",
+          "count": 4
+        },
+        {
+          "word": "markt",
+          "count": 4
+        }
+      ],
+      "soziales": [
+        {
+          "word": "familien",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "depression",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 2
+        },
+        {
+          "word": "krieg",
+          "count": 2
+        },
+        {
+          "word": "brüssel",
+          "count": 2
+        },
+        {
+          "word": "frieden",
+          "count": 1
+        },
+        {
+          "word": "putin",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "kosten",
+          "count": 7
+        },
+        {
+          "word": "entlastung",
+          "count": 6
+        },
+        {
+          "word": "subventionen",
+          "count": 5
+        },
+        {
+          "word": "schulden",
+          "count": 4
+        },
+        {
+          "word": "steuern",
+          "count": 3
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitsplätze",
+          "count": 4
+        },
+        {
+          "word": "arbeitnehmer",
+          "count": 2
+        },
+        {
+          "word": "arbeiter",
+          "count": 1
+        },
+        {
+          "word": "arbeitslosigkeit",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 3
+        },
+        {
+          "word": "autos",
+          "count": 2
+        },
+        {
+          "word": "fahrzeuge",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

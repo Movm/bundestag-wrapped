@@ -1,0 +1,496 @@
+{
+  "name": "Desiree Becker",
+  "party": "DIE LINKE",
+  "slug": "desiree-becker",
+  "academicTitle": null,
+  "speeches": 12,
+  "wortbeitraege": 2,
+  "befragungResponses": 0,
+  "totalWords": 4332,
+  "avgWords": 309,
+  "minWords": 24,
+  "maxWords": 734,
+  "rankings": {
+    "speechRank": 77,
+    "wordsRank": 229,
+    "partySpeechRank": 12,
+    "partyWordsRank": 23,
+    "partySize": 63,
+    "totalSpeakers": 609,
+    "percentile": 87.4,
+    "verbosityRank": 455,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 48,
+    "longestSpeechRank": 260
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 14,
+    "interrupterRank": 94,
+    "interruptedRank": 197
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 30
+      },
+      {
+        "word": "wehrpflicht",
+        "count": 20
+      },
+      {
+        "word": "junge",
+        "count": 13
+      },
+      {
+        "word": "jungen",
+        "count": 11
+      },
+      {
+        "word": "euch",
+        "count": 11
+      },
+      {
+        "word": "leben",
+        "count": 9
+      },
+      {
+        "word": "bundesregierung",
+        "count": 9
+      },
+      {
+        "word": "zwang",
+        "count": 9
+      },
+      {
+        "word": "kinder",
+        "count": 8
+      },
+      {
+        "word": "soll",
+        "count": 8
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "zwang",
+        "count": 9,
+        "ratioParty": 135.7,
+        "ratioBundestag": 107.5
+      },
+      {
+        "word": "wehrpflicht",
+        "count": 20,
+        "ratioParty": 100.5,
+        "ratioBundestag": 71.8
+      },
+      {
+        "word": "wiedereinführung",
+        "count": 5,
+        "ratioParty": 100.5,
+        "ratioBundestag": 94.4
+      },
+      {
+        "word": "schiffe",
+        "count": 5,
+        "ratioParty": 75.4,
+        "ratioBundestag": 43.0
+      },
+      {
+        "word": "wehrdienst",
+        "count": 6,
+        "ratioParty": 60.3,
+        "ratioBundestag": 25.6
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 309,
+    "partyAvgWords": 521,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.59,
+    "vsParliament": 0.5
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "12"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "4.332"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Desiree Becker häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Politik",
+        "isCorrect": false
+      },
+      {
+        "text": "Zukunft",
+        "isCorrect": false
+      },
+      {
+        "text": "Gesetz",
+        "isCorrect": false
+      },
+      {
+        "text": "Zwang",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Zwang\" nutzt Desiree Becker 135.7× häufiger als der DIE LINKE-Durchschnitt.",
+    "explanationBundestag": "107.5× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🐝",
+    "name": "Biene",
+    "title": "Fleißige Abgeordnete",
+    "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+    "id": "biene",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüterin",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.973
+      },
+      {
+        "emoji": "🦀",
+        "name": "Krabbe",
+        "title": "Hartnäckige Debattiererin",
+        "reason": "Du hältst an deinen Positionen fest und lässt nicht locker.",
+        "id": "krabbe",
+        "score": 0.891
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 54.5,
+      "aggression": 6.7,
+      "labeling": 20.0,
+      "solution_focus": 85.0,
+      "collaboration": 60.0,
+      "demand_intensity": 21.2,
+      "acknowledgment": 3.0,
+      "authority": 83.7,
+      "future_orientation": 76.9,
+      "emotional_intensity": 100.0,
+      "inclusivity": 43.5,
+      "discriminatory": 0.7
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 14,
+      "words": 2844,
+      "adjectives": 15,
+      "verbs": 33
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 4.22,
+      "klima": 1.41,
+      "wirtschaft": 3.52,
+      "soziales": 7.03,
+      "sicherheit": 10.9,
+      "gesundheit": 2.11,
+      "europa": 5.98,
+      "digital": 0.35,
+      "bildung": 3.16,
+      "finanzen": 2.46,
+      "justiz": 3.87,
+      "arbeit": 1.41,
+      "mobilitaet": 3.16
+    },
+    "topTopics": [
+      {
+        "topic": "sicherheit",
+        "score": 10.9,
+        "rank": 1
+      },
+      {
+        "topic": "soziales",
+        "score": 7.03,
+        "rank": 2
+      },
+      {
+        "topic": "europa",
+        "score": 5.98,
+        "rank": 3
+      },
+      {
+        "topic": "migration",
+        "score": 4.22,
+        "rank": 4
+      },
+      {
+        "topic": "justiz",
+        "score": 3.87,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "mittelmeer",
+          "count": 7
+        },
+        {
+          "word": "frontex",
+          "count": 2
+        },
+        {
+          "word": "geflüchtete",
+          "count": 1
+        },
+        {
+          "word": "migration",
+          "count": 1
+        },
+        {
+          "word": "migranten",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "klimapolitik",
+          "count": 1
+        },
+        {
+          "word": "klimakrise",
+          "count": 1
+        },
+        {
+          "word": "umwelt",
+          "count": 1
+        },
+        {
+          "word": "klimaschutz",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 5
+        },
+        {
+          "word": "bruttoinlandsprodukt",
+          "count": 1
+        },
+        {
+          "word": "kapital",
+          "count": 1
+        },
+        {
+          "word": "fachkräfte",
+          "count": 1
+        },
+        {
+          "word": "wirtschaftskrise",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 8
+        },
+        {
+          "word": "jugend",
+          "count": 6
+        },
+        {
+          "word": "bürgergeld",
+          "count": 2
+        },
+        {
+          "word": "existenzminimum",
+          "count": 1
+        },
+        {
+          "word": "familie",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "bundeswehr",
+          "count": 7
+        },
+        {
+          "word": "soldaten",
+          "count": 6
+        },
+        {
+          "word": "militär",
+          "count": 2
+        },
+        {
+          "word": "gewalt",
+          "count": 2
+        },
+        {
+          "word": "waffen",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "pflege",
+          "count": 2
+        },
+        {
+          "word": "operation",
+          "count": 1
+        },
+        {
+          "word": "krankenhäuser",
+          "count": 1
+        },
+        {
+          "word": "arzt",
+          "count": 1
+        },
+        {
+          "word": "corona",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "nato",
+          "count": 7
+        },
+        {
+          "word": "frieden",
+          "count": 4
+        },
+        {
+          "word": "krieg",
+          "count": 3
+        },
+        {
+          "word": "gipfel",
+          "count": 1
+        },
+        {
+          "word": "russland",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "daten",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "schulen",
+          "count": 6
+        },
+        {
+          "word": "bildung",
+          "count": 2
+        },
+        {
+          "word": "ausbildung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "kosten",
+          "count": 2
+        },
+        {
+          "word": "haushalt",
+          "count": 2
+        },
+        {
+          "word": "sondervermögen",
+          "count": 1
+        },
+        {
+          "word": "vermögensteuer",
+          "count": 1
+        },
+        {
+          "word": "etat",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "menschenrechte",
+          "count": 3
+        },
+        {
+          "word": "grundgesetz",
+          "count": 3
+        },
+        {
+          "word": "gleichberechtigung",
+          "count": 2
+        },
+        {
+          "word": "beschluss",
+          "count": 1
+        },
+        {
+          "word": "verfassung",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "einkommen",
+          "count": 1
+        },
+        {
+          "word": "arbeitnehmer",
+          "count": 1
+        },
+        {
+          "word": "löhne",
+          "count": 1
+        },
+        {
+          "word": "mitbestimmung",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "schiffe",
+          "count": 5
+        },
+        {
+          "word": "straße",
+          "count": 2
+        },
+        {
+          "word": "infrastruktur",
+          "count": 1
+        },
+        {
+          "word": "nahverkehr",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

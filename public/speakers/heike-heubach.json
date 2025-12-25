@@ -1,0 +1,102 @@
+{
+  "name": "Heike Heubach",
+  "party": "SPD",
+  "slug": "heike-heubach",
+  "academicTitle": null,
+  "speeches": 0,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 528,
+  "avgWords": 528,
+  "minWords": 528,
+  "maxWords": 528,
+  "rankings": {
+    "speechRank": 602,
+    "wordsRank": 590,
+    "partySpeechRank": 108,
+    "partyWordsRank": 106,
+    "partySize": 109,
+    "totalSpeakers": 609,
+    "percentile": 1.1,
+    "verbosityRank": null,
+    "verbosityTotal": null,
+    "partyVerbosityRank": null,
+    "longestSpeechRank": 506
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 0,
+    "interrupterRank": null,
+    "interruptedRank": null
+  },
+  "words": {
+    "topWords": [],
+    "signatureWords": [],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 528,
+    "partyAvgWords": 637,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.83,
+    "vsParliament": 0.86
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "0"
+    }
+  ],
+  "signatureQuiz": null,
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🐢",
+    "name": "Schildkröte",
+    "title": "Gründliche Analystin",
+    "reason": "Wenige Reden, aber wenn, dann richtig ausführlich.",
+    "id": "schildkroete",
+    "alternatives": [
+      {
+        "emoji": "🦫",
+        "name": "Biber",
+        "title": "Konstruktive Brückenbauerin",
+        "reason": "Du baust Brücken zwischen Positionen – kooperativ und lösungsorientiert.",
+        "id": "biber",
+        "score": 0.65
+      },
+      {
+        "emoji": "🦢",
+        "name": "Schwan",
+        "title": "Bedächtige Rednerin",
+        "reason": "Wenige, aber durchdachte und ausführliche Reden.",
+        "id": "schwan",
+        "score": 0.618
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 50.0,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 50.0,
+      "collaboration": 50.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 0.0,
+      "authority": 50.0,
+      "future_orientation": 50.0,
+      "emotional_intensity": 50.0,
+      "inclusivity": 50.0,
+      "discriminatory": 0.0
+    },
+    "confidence": "low",
+    "sampleSize": {
+      "speeches": 1,
+      "words": 0,
+      "adjectives": 0,
+      "verbs": 0
+    }
+  },
+  "topics": null
+}

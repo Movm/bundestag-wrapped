@@ -1,0 +1,364 @@
+{
+  "name": "Dr. Tanja Machalet",
+  "party": "SPD",
+  "slug": "tanja-machalet",
+  "academicTitle": "Dr",
+  "speeches": 4,
+  "wortbeitraege": 2,
+  "befragungResponses": 0,
+  "totalWords": 2872,
+  "avgWords": 479,
+  "minWords": 58,
+  "maxWords": 990,
+  "rankings": {
+    "speechRank": 452,
+    "wordsRank": 378,
+    "partySpeechRank": 82,
+    "partyWordsRank": 79,
+    "partySize": 109,
+    "totalSpeakers": 609,
+    "percentile": 25.8,
+    "verbosityRank": 197,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 43,
+    "longestSpeechRank": 69
+  },
+  "drama": {
+    "interruptionsGiven": 1,
+    "interruptionsReceived": 2,
+    "interrupterRank": 318,
+    "interruptedRank": 514
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "aussetzung",
+        "count": 9
+      },
+      {
+        "word": "menschen",
+        "count": 8
+      },
+      {
+        "word": "letzten",
+        "count": 7
+      },
+      {
+        "word": "reform",
+        "count": 7
+      },
+      {
+        "word": "reden",
+        "count": 6
+      },
+      {
+        "word": "prävention",
+        "count": 6
+      },
+      {
+        "word": "wissen",
+        "count": 5
+      },
+      {
+        "word": "familiennachzugs",
+        "count": 5
+      },
+      {
+        "word": "zwei",
+        "count": 5
+      },
+      {
+        "word": "jahre",
+        "count": 5
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "aussetzung",
+        "count": 9,
+        "ratioParty": 61.0,
+        "ratioBundestag": 113.0
+      },
+      {
+        "word": "familiennachzugs",
+        "count": 5,
+        "ratioParty": 50.9,
+        "ratioBundestag": 83.3
+      },
+      {
+        "word": "prävention",
+        "count": 6,
+        "ratioParty": 24.4,
+        "ratioBundestag": 36.2
+      },
+      {
+        "word": "reform",
+        "count": 7,
+        "ratioParty": 10.5,
+        "ratioBundestag": 13.4
+      },
+      {
+        "word": "reden",
+        "count": 6,
+        "ratioParty": 4.0,
+        "ratioBundestag": 4.6
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 479,
+    "partyAvgWords": 637,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.75,
+    "vsParliament": 0.78
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "4"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "2.872"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Dr. Tanja Machalet häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Gesellschaft",
+        "isCorrect": false
+      },
+      {
+        "text": "Gesetzentwurf",
+        "isCorrect": false
+      },
+      {
+        "text": "Opposition",
+        "isCorrect": false
+      },
+      {
+        "text": "Aussetzung",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Aussetzung\" nutzt Dr. Tanja Machalet 61.0× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "113.0× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🦦",
+    "name": "Otter",
+    "title": "Positive Teamplayerin",
+    "reason": "Du bringst gute Stimmung und konstruktive Beiträge ins Plenum.",
+    "id": "otter",
+    "alternatives": [
+      {
+        "emoji": "🦫",
+        "name": "Biber",
+        "title": "Konstruktive Brückenbauerin",
+        "reason": "Du baust Brücken zwischen Positionen – kooperativ und lösungsorientiert.",
+        "id": "biber",
+        "score": 0.953
+      },
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüterin",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.84
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 100.0,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 90.9,
+      "collaboration": 100.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 3.6,
+      "authority": 81.4,
+      "future_orientation": 88.5,
+      "emotional_intensity": 60.0,
+      "inclusivity": 65.1,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 6,
+      "words": 1818,
+      "adjectives": 3,
+      "verbs": 28
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 5.5,
+      "klima": 0.0,
+      "wirtschaft": 1.1,
+      "soziales": 7.7,
+      "sicherheit": 0.0,
+      "gesundheit": 11.0,
+      "europa": 0.0,
+      "digital": 1.1,
+      "bildung": 0.0,
+      "finanzen": 3.3,
+      "justiz": 0.0,
+      "arbeit": 1.65,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "gesundheit",
+        "score": 11.0,
+        "rank": 1
+      },
+      {
+        "topic": "soziales",
+        "score": 7.7,
+        "rank": 2
+      },
+      {
+        "topic": "migration",
+        "score": 5.5,
+        "rank": 3
+      },
+      {
+        "topic": "finanzen",
+        "score": 3.3,
+        "rank": 4
+      },
+      {
+        "topic": "arbeit",
+        "score": 1.65,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "subsidiär",
+          "count": 2
+        },
+        {
+          "word": "familiennachzug",
+          "count": 2
+        },
+        {
+          "word": "aufenthaltsgesetz",
+          "count": 2
+        },
+        {
+          "word": "aufenthaltsstatus",
+          "count": 1
+        },
+        {
+          "word": "aufenthaltstitel",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "insolvenzen",
+          "count": 1
+        },
+        {
+          "word": "wachstum",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "eltern",
+          "count": 3
+        },
+        {
+          "word": "sozialstaat",
+          "count": 2
+        },
+        {
+          "word": "rente",
+          "count": 2
+        },
+        {
+          "word": "familien",
+          "count": 1
+        },
+        {
+          "word": "mietpreisbremse",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "prävention",
+          "count": 6
+        },
+        {
+          "word": "krankenhausreform",
+          "count": 4
+        },
+        {
+          "word": "krankenhäuser",
+          "count": 2
+        },
+        {
+          "word": "notaufnahme",
+          "count": 2
+        },
+        {
+          "word": "rettungsdienst",
+          "count": 2
+        }
+      ],
+      "digital": [
+        {
+          "word": "daten",
+          "count": 1
+        },
+        {
+          "word": "digitalisierung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "kosten",
+          "count": 2
+        },
+        {
+          "word": "finanzierung",
+          "count": 1
+        },
+        {
+          "word": "sondervermögen",
+          "count": 1
+        },
+        {
+          "word": "entlastung",
+          "count": 1
+        },
+        {
+          "word": "finanzminister",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "befristung",
+          "count": 2
+        },
+        {
+          "word": "tarifbindung",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

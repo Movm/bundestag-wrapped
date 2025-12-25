@@ -1,0 +1,256 @@
+{
+  "name": "Martina Kempf",
+  "party": "AfD",
+  "slug": "martina-kempf",
+  "academicTitle": null,
+  "speeches": 2,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 885,
+  "avgWords": 442,
+  "minWords": 365,
+  "maxWords": 520,
+  "rankings": {
+    "speechRank": 544,
+    "wordsRank": 567,
+    "partySpeechRank": 131,
+    "partyWordsRank": 134,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 10.7,
+    "verbosityRank": null,
+    "verbosityTotal": null,
+    "partyVerbosityRank": null,
+    "longestSpeechRank": 510
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 6,
+    "interrupterRank": null,
+    "interruptedRank": 374
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "frauen",
+        "count": 6
+      },
+      {
+        "word": "studie",
+        "count": 5
+      },
+      {
+        "word": "abtreibung",
+        "count": 5
+      },
+      {
+        "word": "abtreibungen",
+        "count": 4
+      },
+      {
+        "word": "jahr",
+        "count": 4
+      },
+      {
+        "word": "deutschland",
+        "count": 4
+      },
+      {
+        "word": "ungeborene",
+        "count": 4
+      },
+      {
+        "word": "linken",
+        "count": 3
+      },
+      {
+        "word": "wohl",
+        "count": 3
+      },
+      {
+        "word": "sollte",
+        "count": 3
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "abtreibung",
+        "count": 5,
+        "ratioParty": 512.4,
+        "ratioBundestag": 1942.4
+      },
+      {
+        "word": "studie",
+        "count": 5,
+        "ratioParty": 118.3,
+        "ratioBundestag": 103.8
+      },
+      {
+        "word": "frauen",
+        "count": 6,
+        "ratioParty": 25.1,
+        "ratioBundestag": 17.4
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 442,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.75,
+    "vsParliament": 0.72
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "2"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Martina Kempf häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Debatte",
+        "isCorrect": false
+      },
+      {
+        "text": "Kanzler",
+        "isCorrect": false
+      },
+      {
+        "text": "Abtreibung",
+        "isCorrect": true
+      },
+      {
+        "text": "Sicherheit",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Abtreibung\" nutzt Martina Kempf 512.4× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "1942.4× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 100.0,
+      "aggression": 0.0,
+      "labeling": 50.0,
+      "solution_focus": 100.0,
+      "collaboration": 50.0,
+      "demand_intensity": 16.7,
+      "acknowledgment": 0.0,
+      "authority": 57.1,
+      "future_orientation": 92.9,
+      "emotional_intensity": 33.3,
+      "inclusivity": 12.5,
+      "discriminatory": 0.0
+    },
+    "confidence": "low",
+    "sampleSize": {
+      "speeches": 2,
+      "words": 613,
+      "adjectives": 2,
+      "verbs": 6
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.0,
+      "wirtschaft": 0.0,
+      "soziales": 11.42,
+      "sicherheit": 0.0,
+      "gesundheit": 8.16,
+      "europa": 0.0,
+      "digital": 0.0,
+      "bildung": 6.53,
+      "finanzen": 0.0,
+      "justiz": 3.26,
+      "arbeit": 0.0,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "soziales",
+        "score": 11.42,
+        "rank": 1
+      },
+      {
+        "topic": "gesundheit",
+        "score": 8.16,
+        "rank": 2
+      },
+      {
+        "topic": "bildung",
+        "score": 6.53,
+        "rank": 3
+      },
+      {
+        "topic": "justiz",
+        "score": 3.26,
+        "rank": 4
+      }
+    ],
+    "topicWords": {
+      "soziales": [
+        {
+          "word": "kind",
+          "count": 3
+        },
+        {
+          "word": "kinder",
+          "count": 2
+        },
+        {
+          "word": "eltern",
+          "count": 1
+        },
+        {
+          "word": "familie",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "kliniken",
+          "count": 2
+        },
+        {
+          "word": "ärzte",
+          "count": 1
+        },
+        {
+          "word": "arzt",
+          "count": 1
+        },
+        {
+          "word": "infektion",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "ausbildung",
+          "count": 2
+        },
+        {
+          "word": "universität",
+          "count": 1
+        },
+        {
+          "word": "professorin",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "bundesverfassungsgericht",
+          "count": 2
+        }
+      ]
+    }
+  }
+}

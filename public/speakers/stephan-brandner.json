@@ -1,0 +1,478 @@
+{
+  "name": "Stephan Brandner",
+  "party": "AfD",
+  "slug": "stephan-brandner",
+  "academicTitle": null,
+  "speeches": 26,
+  "wortbeitraege": 11,
+  "befragungResponses": 0,
+  "totalWords": 14679,
+  "avgWords": 397,
+  "minWords": 65,
+  "maxWords": 892,
+  "rankings": {
+    "speechRank": 2,
+    "wordsRank": 7,
+    "partySpeechRank": 1,
+    "partyWordsRank": 1,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 99.7,
+    "verbosityRank": 345,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 83,
+    "longestSpeechRank": 109
+  },
+  "drama": {
+    "interruptionsGiven": 777,
+    "interruptionsReceived": 96,
+    "interrupterRank": 1,
+    "interruptedRank": 3
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "deutschland",
+        "count": 99
+      },
+      {
+        "word": "alternative",
+        "count": 39
+      },
+      {
+        "word": "bürger",
+        "count": 33
+      },
+      {
+        "word": "habe",
+        "count": 30
+      },
+      {
+        "word": "debatte",
+        "count": 25
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "scheuer",
+        "count": 6,
+        "ratioParty": 237.8,
+        "ratioBundestag": 153.0
+      },
+      {
+        "word": "kartellparteien",
+        "count": 10,
+        "ratioParty": 198.1,
+        "ratioBundestag": 594.8
+      },
+      {
+        "word": "regierenden",
+        "count": 10,
+        "ratioParty": 79.3,
+        "ratioBundestag": 254.9
+      },
+      {
+        "word": "geschäftsordnung",
+        "count": 7,
+        "ratioParty": 39.6,
+        "ratioBundestag": 17.3
+      },
+      {
+        "word": "ansatzweise",
+        "count": 7,
+        "ratioParty": 34.7,
+        "ratioBundestag": 59.5
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "geschützt",
+        "count": 3,
+        "ratioParty": 5.9,
+        "ratioBundestag": 3.9
+      },
+      {
+        "word": "wirtschaftlich",
+        "count": 4,
+        "ratioParty": 3.4,
+        "ratioBundestag": 3.2
+      },
+      {
+        "word": "rechts",
+        "count": 5,
+        "ratioParty": 3.0,
+        "ratioBundestag": 2.8
+      },
+      {
+        "word": "links",
+        "count": 13,
+        "ratioParty": 2.8,
+        "ratioBundestag": 7.8
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 397,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.68,
+    "vsParliament": 0.65
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "26"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "14.679"
+    },
+    {
+      "emoji": "🏆",
+      "label": "Rang (Reden)",
+      "value": "#2 von 609"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufer",
+      "value": "#1 (777x)"
+    },
+    {
+      "emoji": "🥇",
+      "label": "Rang in AfD",
+      "value": "#1 von 148"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Stephan Brandner häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Opposition",
+        "isCorrect": false
+      },
+      {
+        "text": "Bürger",
+        "isCorrect": false
+      },
+      {
+        "text": "Steuern",
+        "isCorrect": false
+      },
+      {
+        "text": "Scheuer",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Scheuer\" nutzt Stephan Brandner 237.8× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "153.0× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Stephan Brandner häufiger als der Rest der AfD-Fraktion?",
+    "options": [
+      {
+        "text": "Geschützt",
+        "isCorrect": true
+      },
+      {
+        "text": "Sicher",
+        "isCorrect": false
+      },
+      {
+        "text": "Groß",
+        "isCorrect": false
+      },
+      {
+        "text": "Alt",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Geschützt\" nutzt Stephan Brandner 5.9× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "3.9× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 76.7,
+      "aggression": 5.7,
+      "labeling": 37.7,
+      "solution_focus": 44.8,
+      "collaboration": 39.1,
+      "demand_intensity": 6.3,
+      "acknowledgment": 11.1,
+      "authority": 83.6,
+      "future_orientation": 70.4,
+      "emotional_intensity": 33.3,
+      "inclusivity": 46.7,
+      "discriminatory": 1.08
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 37,
+      "words": 9293,
+      "adjectives": 53,
+      "verbs": 63
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.0,
+      "wirtschaft": 1.18,
+      "soziales": 1.08,
+      "sicherheit": 2.8,
+      "gesundheit": 0.43,
+      "europa": 2.58,
+      "digital": 0.22,
+      "bildung": 0.32,
+      "finanzen": 2.8,
+      "justiz": 5.92,
+      "arbeit": 0.97,
+      "mobilitaet": 1.08
+    },
+    "topTopics": [
+      {
+        "topic": "justiz",
+        "score": 5.92,
+        "rank": 1
+      },
+      {
+        "topic": "sicherheit",
+        "score": 2.8,
+        "rank": 2
+      },
+      {
+        "topic": "finanzen",
+        "score": 2.8,
+        "rank": 3
+      },
+      {
+        "topic": "europa",
+        "score": 2.58,
+        "rank": 4
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 1.18,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "wirtschaft": [
+        {
+          "word": "fachkräftemangel",
+          "count": 3
+        },
+        {
+          "word": "unternehmen",
+          "count": 2
+        },
+        {
+          "word": "wachstum",
+          "count": 1
+        },
+        {
+          "word": "industrie",
+          "count": 1
+        },
+        {
+          "word": "produktion",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "wohnungen",
+          "count": 2
+        },
+        {
+          "word": "rentenanspruch",
+          "count": 2
+        },
+        {
+          "word": "kind",
+          "count": 1
+        },
+        {
+          "word": "familien",
+          "count": 1
+        },
+        {
+          "word": "mieten",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "bundeswehr",
+          "count": 5
+        },
+        {
+          "word": "waffen",
+          "count": 4
+        },
+        {
+          "word": "verbrechen",
+          "count": 3
+        },
+        {
+          "word": "polizisten",
+          "count": 2
+        },
+        {
+          "word": "verteidigung",
+          "count": 2
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "krankenhäuser",
+          "count": 1
+        },
+        {
+          "word": "behandlung",
+          "count": 1
+        },
+        {
+          "word": "psychisch",
+          "count": 1
+        },
+        {
+          "word": "krankenversicherung",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "russland",
+          "count": 7
+        },
+        {
+          "word": "putin",
+          "count": 5
+        },
+        {
+          "word": "ukraine",
+          "count": 5
+        },
+        {
+          "word": "krieg",
+          "count": 2
+        },
+        {
+          "word": "diplomatie",
+          "count": 2
+        }
+      ],
+      "digital": [
+        {
+          "word": "internet",
+          "count": 1
+        },
+        {
+          "word": "hardware",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "bildung",
+          "count": 2
+        },
+        {
+          "word": "unterricht",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 4
+        },
+        {
+          "word": "steuerzahler",
+          "count": 4
+        },
+        {
+          "word": "schulden",
+          "count": 4
+        },
+        {
+          "word": "bundeshaushalt",
+          "count": 3
+        },
+        {
+          "word": "kosten",
+          "count": 3
+        }
+      ],
+      "justiz": [
+        {
+          "word": "grundgesetz",
+          "count": 8
+        },
+        {
+          "word": "bundesverfassungsgericht",
+          "count": 7
+        },
+        {
+          "word": "rechtsstaat",
+          "count": 7
+        },
+        {
+          "word": "gerichte",
+          "count": 6
+        },
+        {
+          "word": "richter",
+          "count": 5
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "rentenversicherung",
+          "count": 3
+        },
+        {
+          "word": "gewerkschaften",
+          "count": 2
+        },
+        {
+          "word": "arbeitslosigkeit",
+          "count": 1
+        },
+        {
+          "word": "arbeitszeit",
+          "count": 1
+        },
+        {
+          "word": "arbeitnehmer",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "straßen",
+          "count": 4
+        },
+        {
+          "word": "bahn",
+          "count": 2
+        },
+        {
+          "word": "fliegen",
+          "count": 1
+        },
+        {
+          "word": "infrastruktur",
+          "count": 1
+        },
+        {
+          "word": "inlandsflüge",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

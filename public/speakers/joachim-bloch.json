@@ -1,0 +1,398 @@
+{
+  "name": "Joachim Bloch",
+  "party": "AfD",
+  "slug": "joachim-bloch",
+  "academicTitle": null,
+  "speeches": 3,
+  "wortbeitraege": 4,
+  "befragungResponses": 0,
+  "totalWords": 2276,
+  "avgWords": 325,
+  "minWords": 235,
+  "maxWords": 411,
+  "rankings": {
+    "speechRank": 502,
+    "wordsRank": 432,
+    "partySpeechRank": 120,
+    "partyWordsRank": 97,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 17.6,
+    "verbosityRank": 442,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 108,
+    "longestSpeechRank": 572
+  },
+  "drama": {
+    "interruptionsGiven": 4,
+    "interruptionsReceived": 6,
+    "interrupterRank": 239,
+    "interruptedRank": 380
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "deutschland",
+        "count": 18
+      },
+      {
+        "word": "dies",
+        "count": 7
+      },
+      {
+        "word": "circa",
+        "count": 6
+      },
+      {
+        "word": "herzlichen",
+        "count": 6
+      },
+      {
+        "word": "waren",
+        "count": 6
+      },
+      {
+        "word": "pflegekräfte",
+        "count": 5
+      },
+      {
+        "word": "ministerin",
+        "count": 5
+      },
+      {
+        "word": "leistungen",
+        "count": 5
+      },
+      {
+        "word": "senken",
+        "count": 5
+      },
+      {
+        "word": "abschaffen",
+        "count": 5
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "pflegekräfte",
+        "count": 5,
+        "ratioParty": 65.0,
+        "ratioBundestag": 65.2
+      },
+      {
+        "word": "senkung",
+        "count": 5,
+        "ratioParty": 41.2,
+        "ratioBundestag": 32.0
+      },
+      {
+        "word": "circa",
+        "count": 6,
+        "ratioParty": 25.6,
+        "ratioBundestag": 46.9
+      },
+      {
+        "word": "abschaffen",
+        "count": 5,
+        "ratioParty": 19.0,
+        "ratioBundestag": 25.8
+      },
+      {
+        "word": "herzlichen",
+        "count": 6,
+        "ratioParty": 17.4,
+        "ratioBundestag": 7.0
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 325,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.55,
+    "vsParliament": 0.53
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "3"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "2.276"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Joachim Bloch häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Pflegekräfte",
+        "isCorrect": true
+      },
+      {
+        "text": "Abstimmung",
+        "isCorrect": false
+      },
+      {
+        "text": "Bürger",
+        "isCorrect": false
+      },
+      {
+        "text": "Antrag",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Pflegekräfte\" nutzt Joachim Bloch 65.0× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "65.2× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 50.0,
+      "aggression": 0.0,
+      "labeling": 20.0,
+      "solution_focus": 93.3,
+      "collaboration": 75.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 0.0,
+      "authority": 83.3,
+      "future_orientation": 97.1,
+      "emotional_intensity": 50.0,
+      "inclusivity": 50.0,
+      "discriminatory": 1.31
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 7,
+      "words": 1522,
+      "adjectives": 5,
+      "verbs": 19
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 3.29,
+      "klima": 0.66,
+      "wirtschaft": 3.29,
+      "soziales": 1.97,
+      "sicherheit": 1.97,
+      "gesundheit": 24.97,
+      "europa": 6.57,
+      "digital": 1.31,
+      "bildung": 1.31,
+      "finanzen": 11.83,
+      "justiz": 0.0,
+      "arbeit": 1.97,
+      "mobilitaet": 1.97
+    },
+    "topTopics": [
+      {
+        "topic": "gesundheit",
+        "score": 24.97,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 11.83,
+        "rank": 2
+      },
+      {
+        "topic": "europa",
+        "score": 6.57,
+        "rank": 3
+      },
+      {
+        "topic": "migration",
+        "score": 3.29,
+        "rank": 4
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 3.29,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "asylbewerber",
+          "count": 2
+        },
+        {
+          "word": "asylsuchende",
+          "count": 1
+        },
+        {
+          "word": "migration",
+          "count": 1
+        },
+        {
+          "word": "integration",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "emissionshandel",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 1
+        },
+        {
+          "word": "wachstum",
+          "count": 1
+        },
+        {
+          "word": "industrie",
+          "count": 1
+        },
+        {
+          "word": "pleite",
+          "count": 1
+        },
+        {
+          "word": "werk",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "sozialstaat",
+          "count": 2
+        },
+        {
+          "word": "familien",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "verteidigung",
+          "count": 1
+        },
+        {
+          "word": "täter",
+          "count": 1
+        },
+        {
+          "word": "polizei",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "pflegekräfte",
+          "count": 5
+        },
+        {
+          "word": "pflege",
+          "count": 4
+        },
+        {
+          "word": "krankenkassen",
+          "count": 4
+        },
+        {
+          "word": "ärzte",
+          "count": 4
+        },
+        {
+          "word": "pflegepersonal",
+          "count": 3
+        }
+      ],
+      "europa": [
+        {
+          "word": "ukraine",
+          "count": 3
+        },
+        {
+          "word": "ukrainer",
+          "count": 3
+        },
+        {
+          "word": "brüssel",
+          "count": 2
+        },
+        {
+          "word": "waffenlieferungen",
+          "count": 1
+        },
+        {
+          "word": "europa",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "hardware",
+          "count": 1
+        },
+        {
+          "word": "digitalisierung",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "schulen",
+          "count": 1
+        },
+        {
+          "word": "schüler",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "entlastung",
+          "count": 3
+        },
+        {
+          "word": "steuer",
+          "count": 3
+        },
+        {
+          "word": "kosten",
+          "count": 3
+        },
+        {
+          "word": "einkommensteuer",
+          "count": 2
+        },
+        {
+          "word": "körperschaftsteuer",
+          "count": 2
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "löhne",
+          "count": 2
+        },
+        {
+          "word": "beschäftigung",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "bahn",
+          "count": 2
+        },
+        {
+          "word": "infrastruktur",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

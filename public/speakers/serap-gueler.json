@@ -1,0 +1,294 @@
+{
+  "name": "Serap Güler",
+  "party": "CDU/CSU",
+  "slug": "serap-gueler",
+  "academicTitle": null,
+  "speeches": 1,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 1102,
+  "avgWords": 1102,
+  "minWords": 1102,
+  "maxWords": 1102,
+  "rankings": {
+    "speechRank": 597,
+    "wordsRank": 544,
+    "partySpeechRank": 196,
+    "partyWordsRank": 176,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 2.0,
+    "verbosityRank": null,
+    "verbosityTotal": null,
+    "partyVerbosityRank": null,
+    "longestSpeechRank": 45
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 0,
+    "interrupterRank": null,
+    "interruptedRank": null
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "sudan",
+        "count": 14
+      },
+      {
+        "word": "habe",
+        "count": 7
+      },
+      {
+        "word": "region",
+        "count": 6
+      },
+      {
+        "word": "deutlich",
+        "count": 5
+      },
+      {
+        "word": "waffenstillstand",
+        "count": 5
+      },
+      {
+        "word": "milizen",
+        "count": 4
+      },
+      {
+        "word": "faschir",
+        "count": 4
+      },
+      {
+        "word": "gräueltaten",
+        "count": 4
+      },
+      {
+        "word": "verhandlungen",
+        "count": 4
+      },
+      {
+        "word": "seiten",
+        "count": 4
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "sudan",
+        "count": 14,
+        "ratioParty": 227.4,
+        "ratioBundestag": 176.6
+      },
+      {
+        "word": "waffenstillstand",
+        "count": 5,
+        "ratioParty": 101.5,
+        "ratioBundestag": 158.6
+      },
+      {
+        "word": "region",
+        "count": 6,
+        "ratioParty": 33.5,
+        "ratioBundestag": 45.7
+      },
+      {
+        "word": "deutlich",
+        "count": 5,
+        "ratioParty": 6.4,
+        "ratioBundestag": 7.7
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 1102,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 1.6,
+    "vsParliament": 1.8
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "1"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "1.102"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Serap Güler häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Zukunft",
+        "isCorrect": false
+      },
+      {
+        "text": "Sudan",
+        "isCorrect": true
+      },
+      {
+        "text": "Kanzler",
+        "isCorrect": false
+      },
+      {
+        "text": "Europa",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Sudan\" nutzt Serap Güler 227.4× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "176.6× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🦫",
+    "name": "Biber",
+    "title": "Konstruktive Brückenbauerin",
+    "reason": "Du baust Brücken zwischen Positionen – kooperativ und lösungsorientiert.",
+    "id": "biber",
+    "alternatives": [
+      {
+        "emoji": "🐢",
+        "name": "Schildkröte",
+        "title": "Gründliche Analystin",
+        "reason": "Wenige Reden, aber wenn, dann richtig ausführlich.",
+        "id": "schildkroete",
+        "score": 0.94
+      },
+      {
+        "emoji": "🦢",
+        "name": "Schwan",
+        "title": "Bedächtige Rednerin",
+        "reason": "Wenige, aber durchdachte und ausführliche Reden.",
+        "id": "schwan",
+        "score": 0.925
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 50.0,
+      "aggression": 100.0,
+      "labeling": 0.0,
+      "solution_focus": 100.0,
+      "collaboration": 100.0,
+      "demand_intensity": 14.3,
+      "acknowledgment": 14.3,
+      "authority": 89.3,
+      "future_orientation": 87.5,
+      "emotional_intensity": 60.0,
+      "inclusivity": 42.9,
+      "discriminatory": 0.0
+    },
+    "confidence": "low",
+    "sampleSize": {
+      "speeches": 1,
+      "words": 730,
+      "adjectives": 1,
+      "verbs": 14
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 1.37,
+      "klima": 0.0,
+      "wirtschaft": 0.0,
+      "soziales": 0.0,
+      "sicherheit": 2.74,
+      "gesundheit": 2.74,
+      "europa": 27.4,
+      "digital": 0.0,
+      "bildung": 0.0,
+      "finanzen": 1.37,
+      "justiz": 0.0,
+      "arbeit": 0.0,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "europa",
+        "score": 27.4,
+        "rank": 1
+      },
+      {
+        "topic": "sicherheit",
+        "score": 2.74,
+        "rank": 2
+      },
+      {
+        "topic": "gesundheit",
+        "score": 2.74,
+        "rank": 3
+      },
+      {
+        "topic": "migration",
+        "score": 1.37,
+        "rank": 4
+      },
+      {
+        "topic": "finanzen",
+        "score": 1.37,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "geflüchtete",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "verbrechen",
+          "count": 1
+        },
+        {
+          "word": "täter",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "klinik",
+          "count": 1
+        },
+        {
+          "word": "arzt",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "waffenstillstand",
+          "count": 5
+        },
+        {
+          "word": "afrika",
+          "count": 3
+        },
+        {
+          "word": "europa",
+          "count": 3
+        },
+        {
+          "word": "außenminister",
+          "count": 2
+        },
+        {
+          "word": "diplomatie",
+          "count": 2
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

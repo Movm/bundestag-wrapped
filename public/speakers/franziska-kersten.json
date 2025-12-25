@@ -1,0 +1,424 @@
+{
+  "name": "Dr. Franziska Kersten",
+  "party": "SPD",
+  "slug": "franziska-kersten",
+  "academicTitle": "Dr",
+  "speeches": 11,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 5528,
+  "avgWords": 461,
+  "minWords": 33,
+  "maxWords": 703,
+  "rankings": {
+    "speechRank": 112,
+    "wordsRank": 149,
+    "partySpeechRank": 30,
+    "partyWordsRank": 37,
+    "partySize": 109,
+    "totalSpeakers": 609,
+    "percentile": 81.6,
+    "verbosityRank": 219,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 47,
+    "longestSpeechRank": 299
+  },
+  "drama": {
+    "interruptionsGiven": 2,
+    "interruptionsReceived": 7,
+    "interrupterRank": 293,
+    "interruptedRank": 352
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "landwirtschaft",
+        "count": 17
+      },
+      {
+        "word": "menschen",
+        "count": 13
+      },
+      {
+        "word": "ländlichen",
+        "count": 12
+      },
+      {
+        "word": "habe",
+        "count": 11
+      },
+      {
+        "word": "werte",
+        "count": 10
+      },
+      {
+        "word": "gemeinsam",
+        "count": 10
+      },
+      {
+        "word": "raum",
+        "count": 9
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "agrarpolitik",
+        "count": 6,
+        "ratioParty": 553.9,
+        "ratioBundestag": 67.9
+      },
+      {
+        "word": "tierschutz",
+        "count": 8,
+        "ratioParty": 123.1,
+        "ratioBundestag": 75.8
+      },
+      {
+        "word": "biodiversität",
+        "count": 6,
+        "ratioParty": 69.2,
+        "ratioBundestag": 67.9
+      },
+      {
+        "word": "ländliche",
+        "count": 5,
+        "ratioParty": 65.9,
+        "ratioBundestag": 66.3
+      },
+      {
+        "word": "tiere",
+        "count": 5,
+        "ratioParty": 65.9,
+        "ratioBundestag": 35.2
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 461,
+    "partyAvgWords": 637,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.72,
+    "vsParliament": 0.75
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "11"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "5.528"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Dr. Franziska Kersten häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Bürger",
+        "isCorrect": false
+      },
+      {
+        "text": "Agrarpolitik",
+        "isCorrect": true
+      },
+      {
+        "text": "Demokratie",
+        "isCorrect": false
+      },
+      {
+        "text": "Opposition",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Agrarpolitik\" nutzt Dr. Franziska Kersten 553.9× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "67.9× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🐿️",
+    "name": "Eichhörnchen",
+    "title": "Themenhüterin",
+    "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+    "id": "eichhoernchen",
+    "alternatives": [
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißige Abgeordnete",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      },
+      {
+        "emoji": "🦦",
+        "name": "Otter",
+        "title": "Positive Teamplayerin",
+        "reason": "Du bringst gute Stimmung und konstruktive Beiträge ins Plenum.",
+        "id": "otter",
+        "score": 0.961
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 94.4,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 94.6,
+      "collaboration": 100.0,
+      "demand_intensity": 2.3,
+      "acknowledgment": 9.1,
+      "authority": 75.3,
+      "future_orientation": 89.4,
+      "emotional_intensity": 37.5,
+      "inclusivity": 63.2,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 12,
+      "words": 3586,
+      "adjectives": 18,
+      "verbs": 44
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.56,
+      "klima": 6.97,
+      "wirtschaft": 2.79,
+      "soziales": 1.12,
+      "sicherheit": 0.56,
+      "gesundheit": 0.28,
+      "europa": 0.56,
+      "digital": 1.39,
+      "bildung": 1.12,
+      "finanzen": 4.74,
+      "justiz": 1.95,
+      "arbeit": 1.12,
+      "mobilitaet": 0.28
+    },
+    "topTopics": [
+      {
+        "topic": "klima",
+        "score": 6.97,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 4.74,
+        "rank": 2
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 2.79,
+        "rank": 3
+      },
+      {
+        "topic": "justiz",
+        "score": 1.95,
+        "rank": 4
+      },
+      {
+        "topic": "digital",
+        "score": 1.39,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "grenze",
+          "count": 2
+        }
+      ],
+      "klima": [
+        {
+          "word": "biodiversität",
+          "count": 6
+        },
+        {
+          "word": "umwelt",
+          "count": 5
+        },
+        {
+          "word": "naturschutz",
+          "count": 3
+        },
+        {
+          "word": "nachhaltigkeit",
+          "count": 2
+        },
+        {
+          "word": "klimawandel",
+          "count": 2
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "betriebe",
+          "count": 4
+        },
+        {
+          "word": "produktion",
+          "count": 1
+        },
+        {
+          "word": "betrieb",
+          "count": 1
+        },
+        {
+          "word": "märkte",
+          "count": 1
+        },
+        {
+          "word": "wettbewerb",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "familien",
+          "count": 1
+        },
+        {
+          "word": "sozialpolitik",
+          "count": 1
+        },
+        {
+          "word": "kinder",
+          "count": 1
+        },
+        {
+          "word": "renten",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "videoüberwachung",
+          "count": 2
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "operation",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "brüssel",
+          "count": 1
+        },
+        {
+          "word": "kooperation",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "daten",
+          "count": 2
+        },
+        {
+          "word": "digitalisierung",
+          "count": 2
+        },
+        {
+          "word": "digital",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "forschung",
+          "count": 1
+        },
+        {
+          "word": "professor",
+          "count": 1
+        },
+        {
+          "word": "ausbildung",
+          "count": 1
+        },
+        {
+          "word": "forschungsförderung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 6
+        },
+        {
+          "word": "investitionen",
+          "count": 4
+        },
+        {
+          "word": "kosten",
+          "count": 2
+        },
+        {
+          "word": "steuern",
+          "count": 1
+        },
+        {
+          "word": "haushaltsentwurf",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "grundgesetz",
+          "count": 2
+        },
+        {
+          "word": "verordnung",
+          "count": 2
+        },
+        {
+          "word": "gefängnis",
+          "count": 1
+        },
+        {
+          "word": "gericht",
+          "count": 1
+        },
+        {
+          "word": "verbraucherschutz",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitsplätze",
+          "count": 1
+        },
+        {
+          "word": "sozialversicherung",
+          "count": 1
+        },
+        {
+          "word": "rentenversicherung",
+          "count": 1
+        },
+        {
+          "word": "unfallversicherung",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

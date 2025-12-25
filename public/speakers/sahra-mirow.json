@@ -1,0 +1,407 @@
+{
+  "name": "Sahra Mirow",
+  "party": "DIE LINKE",
+  "slug": "sahra-mirow",
+  "academicTitle": null,
+  "speeches": 3,
+  "wortbeitraege": 2,
+  "befragungResponses": 0,
+  "totalWords": 2415,
+  "avgWords": 483,
+  "minWords": 31,
+  "maxWords": 1193,
+  "rankings": {
+    "speechRank": 483,
+    "wordsRank": 418,
+    "partySpeechRank": 57,
+    "partyWordsRank": 45,
+    "partySize": 63,
+    "totalSpeakers": 609,
+    "percentile": 20.7,
+    "verbosityRank": 185,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 13,
+    "longestSpeechRank": 32
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 5,
+    "interrupterRank": 337,
+    "interruptedRank": 414
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 18
+      },
+      {
+        "word": "kommunen",
+        "count": 17
+      },
+      {
+        "word": "linke",
+        "count": 12
+      },
+      {
+        "word": "bundesregierung",
+        "count": 9
+      },
+      {
+        "word": "sozialen",
+        "count": 9
+      },
+      {
+        "word": "gesellschaft",
+        "count": 8
+      },
+      {
+        "word": "sozialwohnungen",
+        "count": 8
+      },
+      {
+        "word": "soziale",
+        "count": 7
+      },
+      {
+        "word": "wohnungslosigkeit",
+        "count": 6
+      },
+      {
+        "word": "endlich",
+        "count": 6
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "wohnungslosigkeit",
+        "count": 6,
+        "ratioParty": 661.3,
+        "ratioBundestag": 579.6
+      },
+      {
+        "word": "sozialwohnungen",
+        "count": 8,
+        "ratioParty": 67.8,
+        "ratioBundestag": 283.3
+      },
+      {
+        "word": "wohnraum",
+        "count": 6,
+        "ratioParty": 22.8,
+        "ratioBundestag": 22.4
+      },
+      {
+        "word": "kommunen",
+        "count": 17,
+        "ratioParty": 10.8,
+        "ratioBundestag": 13.6
+      },
+      {
+        "word": "sozialen",
+        "count": 9,
+        "ratioParty": 10.2,
+        "ratioBundestag": 16.8
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "gerecht",
+        "count": 3,
+        "ratioParty": 5.7,
+        "ratioBundestag": 7.5
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 483,
+    "partyAvgWords": 521,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.93,
+    "vsParliament": 0.79
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "3"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "2.415"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Sahra Mirow häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Minister",
+        "isCorrect": false
+      },
+      {
+        "text": "Bundesregierung",
+        "isCorrect": false
+      },
+      {
+        "text": "Wohnungslosigkeit",
+        "isCorrect": true
+      },
+      {
+        "text": "Migration",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Wohnungslosigkeit\" nutzt Sahra Mirow 661.3× häufiger als der DIE LINKE-Durchschnitt.",
+    "explanationBundestag": "579.6× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Sahra Mirow häufiger als der Rest der DIE LINKE-Fraktion?",
+    "options": [
+      {
+        "text": "Alt",
+        "isCorrect": false
+      },
+      {
+        "text": "Schlecht",
+        "isCorrect": false
+      },
+      {
+        "text": "Sicher",
+        "isCorrect": false
+      },
+      {
+        "text": "Gerecht",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Gerecht\" nutzt Sahra Mirow 5.7× häufiger als der DIE LINKE-Durchschnitt.",
+    "explanationBundestag": "7.5× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🦫",
+    "name": "Biber",
+    "title": "Konstruktive Brückenbauerin",
+    "reason": "Du baust Brücken zwischen Positionen – kooperativ und lösungsorientiert.",
+    "id": "biber",
+    "alternatives": [
+      {
+        "emoji": "🦦",
+        "name": "Otter",
+        "title": "Positive Teamplayerin",
+        "reason": "Du bringst gute Stimmung und konstruktive Beiträge ins Plenum.",
+        "id": "otter",
+        "score": 0.915
+      },
+      {
+        "emoji": "🐬",
+        "name": "Delfin",
+        "title": "Diplomatische Rednerin",
+        "reason": "Aktiv im Parlament, aber respektvoll ohne viele Zwischenrufe.",
+        "id": "delfin",
+        "score": 0.875
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 83.3,
+      "aggression": 12.5,
+      "labeling": 12.5,
+      "solution_focus": 94.1,
+      "collaboration": 100.0,
+      "demand_intensity": 20.0,
+      "acknowledgment": 4.0,
+      "authority": 71.9,
+      "future_orientation": 86.7,
+      "emotional_intensity": 100.0,
+      "inclusivity": 57.7,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 5,
+      "words": 1568,
+      "adjectives": 8,
+      "verbs": 25
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 1.91,
+      "klima": 0.0,
+      "wirtschaft": 1.28,
+      "soziales": 12.12,
+      "sicherheit": 0.64,
+      "gesundheit": 0.0,
+      "europa": 0.64,
+      "digital": 0.0,
+      "bildung": 3.83,
+      "finanzen": 8.29,
+      "justiz": 0.64,
+      "arbeit": 1.28,
+      "mobilitaet": 3.83
+    },
+    "topTopics": [
+      {
+        "topic": "soziales",
+        "score": 12.12,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 8.29,
+        "rank": 2
+      },
+      {
+        "topic": "bildung",
+        "score": 3.83,
+        "rank": 3
+      },
+      {
+        "topic": "mobilitaet",
+        "score": 3.83,
+        "rank": 4
+      },
+      {
+        "topic": "migration",
+        "score": 1.91,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "staatsangehörigkeit",
+          "count": 1
+        },
+        {
+          "word": "sprachkurs",
+          "count": 1
+        },
+        {
+          "word": "geflüchtete",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "markt",
+          "count": 1
+        },
+        {
+          "word": "fachkräfte",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "wohnungen",
+          "count": 4
+        },
+        {
+          "word": "wohnungsnot",
+          "count": 3
+        },
+        {
+          "word": "miete",
+          "count": 2
+        },
+        {
+          "word": "wohnung",
+          "count": 2
+        },
+        {
+          "word": "familien",
+          "count": 2
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "waffen",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "frieden",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "studierende",
+          "count": 2
+        },
+        {
+          "word": "universitäten",
+          "count": 1
+        },
+        {
+          "word": "schulen",
+          "count": 1
+        },
+        {
+          "word": "volkshochschule",
+          "count": 1
+        },
+        {
+          "word": "erzieher",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushaltsplan",
+          "count": 3
+        },
+        {
+          "word": "haushalt",
+          "count": 3
+        },
+        {
+          "word": "bundeshaushalt",
+          "count": 1
+        },
+        {
+          "word": "fördermittel",
+          "count": 1
+        },
+        {
+          "word": "steuerzahler",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "grundgesetz",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "einkommen",
+          "count": 2
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 2
+        },
+        {
+          "word": "straße",
+          "count": 2
+        },
+        {
+          "word": "radwege",
+          "count": 1
+        },
+        {
+          "word": "nahverkehr",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

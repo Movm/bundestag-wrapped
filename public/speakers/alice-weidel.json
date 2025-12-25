@@ -1,0 +1,532 @@
+{
+  "name": "Dr. Alice Weidel",
+  "party": "AfD",
+  "slug": "alice-weidel",
+  "academicTitle": "Dr",
+  "speeches": 8,
+  "wortbeitraege": 2,
+  "befragungResponses": 0,
+  "totalWords": 10937,
+  "avgWords": 1094,
+  "minWords": 104,
+  "maxWords": 2186,
+  "rankings": {
+    "speechRank": 206,
+    "wordsRank": 28,
+    "partySpeechRank": 46,
+    "partyWordsRank": 8,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 66.2,
+    "verbosityRank": 4,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 2,
+    "longestSpeechRank": 8
+  },
+  "drama": {
+    "interruptionsGiven": 119,
+    "interruptionsReceived": 52,
+    "interrupterRank": 14,
+    "interruptedRank": 15
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "land",
+        "count": 43
+      },
+      {
+        "word": "deutschland",
+        "count": 42
+      },
+      {
+        "word": "weiter",
+        "count": 34
+      },
+      {
+        "word": "politik",
+        "count": 29
+      },
+      {
+        "word": "bürger",
+        "count": 28
+      },
+      {
+        "word": "merz",
+        "count": 24
+      },
+      {
+        "word": "deutschen",
+        "count": 20
+      },
+      {
+        "word": "geld",
+        "count": 20
+      },
+      {
+        "word": "jahr",
+        "count": 19
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "extremist",
+        "count": 8,
+        "ratioParty": 136.8,
+        "ratioBundestag": 460.1
+      },
+      {
+        "word": "abgesagt",
+        "count": 7,
+        "ratioParty": 51.3,
+        "ratioBundestag": 115.0
+      },
+      {
+        "word": "abgewählten",
+        "count": 5,
+        "ratioParty": 32.1,
+        "ratioBundestag": 143.8
+      },
+      {
+        "word": "beseitigen",
+        "count": 6,
+        "ratioParty": 22.0,
+        "ratioBundestag": 25.1
+      },
+      {
+        "word": "staatsausgaben",
+        "count": 5,
+        "ratioParty": 21.4,
+        "ratioBundestag": 63.9
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "willkürlich",
+        "count": 3,
+        "ratioParty": 17.1,
+        "ratioBundestag": 36.3
+      },
+      {
+        "word": "sozial",
+        "count": 3,
+        "ratioParty": 5.3,
+        "ratioBundestag": 3.4
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 1094,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 1.86,
+    "vsParliament": 1.78
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "8"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "10.937"
+    },
+    {
+      "emoji": "📚",
+      "label": "Wortreichster",
+      "value": "#4 von 521"
+    },
+    {
+      "emoji": "📏",
+      "label": "Längste Rede",
+      "value": "#8 (2.186 Wörter)"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufer",
+      "value": "#14 (119x)"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Dr. Alice Weidel häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Familie",
+        "isCorrect": false
+      },
+      {
+        "text": "Extremist",
+        "isCorrect": true
+      },
+      {
+        "text": "Steuern",
+        "isCorrect": false
+      },
+      {
+        "text": "Gesellschaft",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Extremist\" nutzt Dr. Alice Weidel 136.8× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "460.1× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Dr. Alice Weidel häufiger als der Rest der AfD-Fraktion?",
+    "options": [
+      {
+        "text": "Willkürlich",
+        "isCorrect": true
+      },
+      {
+        "text": "Alt",
+        "isCorrect": false
+      },
+      {
+        "text": "Sicher",
+        "isCorrect": false
+      },
+      {
+        "text": "Erfolgreich",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Willkürlich\" nutzt Dr. Alice Weidel 17.1× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "36.3× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 54.5,
+      "aggression": 20.5,
+      "labeling": 23.1,
+      "solution_focus": 51.3,
+      "collaboration": 71.4,
+      "demand_intensity": 6.1,
+      "acknowledgment": 0.0,
+      "authority": 83.7,
+      "future_orientation": 86.6,
+      "emotional_intensity": 66.7,
+      "inclusivity": 53.8,
+      "discriminatory": 0.97
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 10,
+      "words": 7218,
+      "adjectives": 39,
+      "verbs": 49
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 5.54,
+      "klima": 3.88,
+      "wirtschaft": 6.51,
+      "soziales": 5.82,
+      "sicherheit": 3.88,
+      "gesundheit": 0.83,
+      "europa": 7.48,
+      "digital": 0.0,
+      "bildung": 1.52,
+      "finanzen": 12.47,
+      "justiz": 2.77,
+      "arbeit": 1.66,
+      "mobilitaet": 1.25
+    },
+    "topTopics": [
+      {
+        "topic": "finanzen",
+        "score": 12.47,
+        "rank": 1
+      },
+      {
+        "topic": "europa",
+        "score": 7.48,
+        "rank": 2
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 6.51,
+        "rank": 3
+      },
+      {
+        "topic": "soziales",
+        "score": 5.82,
+        "rank": 4
+      },
+      {
+        "topic": "migration",
+        "score": 5.54,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "familiennachzug",
+          "count": 6
+        },
+        {
+          "word": "flüchtlinge",
+          "count": 5
+        },
+        {
+          "word": "abschiebung",
+          "count": 5
+        },
+        {
+          "word": "grenzkontrollen",
+          "count": 4
+        },
+        {
+          "word": "asylbewerber",
+          "count": 4
+        }
+      ],
+      "klima": [
+        {
+          "word": "energiewende",
+          "count": 6
+        },
+        {
+          "word": "energie",
+          "count": 4
+        },
+        {
+          "word": "klimaschutz",
+          "count": 4
+        },
+        {
+          "word": "klimapolitik",
+          "count": 3
+        },
+        {
+          "word": "klimaneutralität",
+          "count": 2
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 10
+        },
+        {
+          "word": "industrie",
+          "count": 5
+        },
+        {
+          "word": "automobilindustrie",
+          "count": 5
+        },
+        {
+          "word": "mittelstand",
+          "count": 4
+        },
+        {
+          "word": "rezession",
+          "count": 3
+        }
+      ],
+      "soziales": [
+        {
+          "word": "bürgergeld",
+          "count": 10
+        },
+        {
+          "word": "kinder",
+          "count": 5
+        },
+        {
+          "word": "grundsicherung",
+          "count": 4
+        },
+        {
+          "word": "sozialstaat",
+          "count": 4
+        },
+        {
+          "word": "rentner",
+          "count": 3
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "angriff",
+          "count": 4
+        },
+        {
+          "word": "mord",
+          "count": 4
+        },
+        {
+          "word": "betrug",
+          "count": 3
+        },
+        {
+          "word": "gewalt",
+          "count": 3
+        },
+        {
+          "word": "waffen",
+          "count": 2
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "gesundheitssystem",
+          "count": 2
+        },
+        {
+          "word": "pflegeversicherung",
+          "count": 1
+        },
+        {
+          "word": "krankenkassen",
+          "count": 1
+        },
+        {
+          "word": "epidemie",
+          "count": 1
+        },
+        {
+          "word": "rezept",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "russland",
+          "count": 13
+        },
+        {
+          "word": "ukraine",
+          "count": 7
+        },
+        {
+          "word": "frieden",
+          "count": 6
+        },
+        {
+          "word": "außenminister",
+          "count": 4
+        },
+        {
+          "word": "israel",
+          "count": 3
+        }
+      ],
+      "bildung": [
+        {
+          "word": "schulen",
+          "count": 5
+        },
+        {
+          "word": "bildung",
+          "count": 2
+        },
+        {
+          "word": "forschung",
+          "count": 1
+        },
+        {
+          "word": "lehrer",
+          "count": 1
+        },
+        {
+          "word": "hochschulen",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "schulden",
+          "count": 17
+        },
+        {
+          "word": "kosten",
+          "count": 12
+        },
+        {
+          "word": "steuerzahler",
+          "count": 6
+        },
+        {
+          "word": "steuern",
+          "count": 6
+        },
+        {
+          "word": "schuldenbremse",
+          "count": 5
+        }
+      ],
+      "justiz": [
+        {
+          "word": "rechtsstaatlichkeit",
+          "count": 3
+        },
+        {
+          "word": "grundgesetz",
+          "count": 3
+        },
+        {
+          "word": "verteidiger",
+          "count": 2
+        },
+        {
+          "word": "bundesverfassungsgericht",
+          "count": 2
+        },
+        {
+          "word": "gericht",
+          "count": 2
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitsplätze",
+          "count": 4
+        },
+        {
+          "word": "arbeitnehmer",
+          "count": 3
+        },
+        {
+          "word": "belegschaft",
+          "count": 1
+        },
+        {
+          "word": "arbeiter",
+          "count": 1
+        },
+        {
+          "word": "rentenversicherung",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 4
+        },
+        {
+          "word": "flugzeug",
+          "count": 2
+        },
+        {
+          "word": "straßen",
+          "count": 1
+        },
+        {
+          "word": "straße",
+          "count": 1
+        },
+        {
+          "word": "auto",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

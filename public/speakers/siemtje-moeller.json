@@ -1,0 +1,494 @@
+{
+  "name": "Siemtje Möller",
+  "party": "SPD",
+  "slug": "siemtje-moeller",
+  "academicTitle": null,
+  "speeches": 17,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 11038,
+  "avgWords": 613,
+  "minWords": 225,
+  "maxWords": 989,
+  "rankings": {
+    "speechRank": 16,
+    "wordsRank": 27,
+    "partySpeechRank": 3,
+    "partyWordsRank": 5,
+    "partySize": 109,
+    "totalSpeakers": 609,
+    "percentile": 97.4,
+    "verbosityRank": 58,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 7,
+    "longestSpeechRank": 70
+  },
+  "drama": {
+    "interruptionsGiven": 21,
+    "interruptionsReceived": 18,
+    "interrupterRank": 102,
+    "interruptedRank": 150
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "ukraine",
+        "count": 59
+      },
+      {
+        "word": "sicherheit",
+        "count": 34
+      },
+      {
+        "word": "russland",
+        "count": 33
+      },
+      {
+        "word": "europa",
+        "count": 33
+      },
+      {
+        "word": "frieden",
+        "count": 31
+      },
+      {
+        "word": "land",
+        "count": 30
+      },
+      {
+        "word": "klar",
+        "count": 29
+      },
+      {
+        "word": "deutschland",
+        "count": 28
+      },
+      {
+        "word": "krieg",
+        "count": 23
+      },
+      {
+        "word": "verantwortung",
+        "count": 23
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "friedensplan",
+        "count": 7,
+        "ratioParty": 317.6,
+        "ratioBundestag": 76.7
+      },
+      {
+        "word": "verknappung",
+        "count": 5,
+        "ratioParty": 226.9,
+        "ratioBundestag": 230.1
+      },
+      {
+        "word": "friedensordnung",
+        "count": 6,
+        "ratioParty": 136.1,
+        "ratioBundestag": 65.7
+      },
+      {
+        "word": "jüdinnen",
+        "count": 7,
+        "ratioParty": 63.5,
+        "ratioBundestag": 33.6
+      },
+      {
+        "word": "aggression",
+        "count": 5,
+        "ratioParty": 56.7,
+        "ratioBundestag": 26.8
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "wirtschaftlich",
+        "count": 4,
+        "ratioParty": 3.7,
+        "ratioBundestag": 4.1
+      },
+      {
+        "word": "entscheidend",
+        "count": 3,
+        "ratioParty": 2.0,
+        "ratioBundestag": 2.5
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 613,
+    "partyAvgWords": 637,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.96,
+    "vsParliament": 1.0
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "17"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "11.038"
+    },
+    {
+      "emoji": "🏆",
+      "label": "Rang (Reden)",
+      "value": "#16 von 609"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufe",
+      "value": "21"
+    },
+    {
+      "emoji": "🥇",
+      "label": "Rang in SPD",
+      "value": "#3 von 109"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Siemtje Möller häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Ausschuss",
+        "isCorrect": false
+      },
+      {
+        "text": "Friedensplan",
+        "isCorrect": true
+      },
+      {
+        "text": "Wirtschaft",
+        "isCorrect": false
+      },
+      {
+        "text": "Migration",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Friedensplan\" nutzt Siemtje Möller 317.6× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "76.7× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Siemtje Möller häufiger als der Rest der SPD-Fraktion?",
+    "options": [
+      {
+        "text": "National",
+        "isCorrect": false
+      },
+      {
+        "text": "Wirtschaftlich",
+        "isCorrect": true
+      },
+      {
+        "text": "Schlecht",
+        "isCorrect": false
+      },
+      {
+        "text": "Wichtig",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Wirtschaftlich\" nutzt Siemtje Möller 3.7× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "4.1× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🦁",
+    "name": "Löwe",
+    "title": "Fraktionsstimme",
+    "reason": "Als #3 in der SPD-Fraktion bist du eine führende Stimme.",
+    "id": "loewe",
+    "alternatives": [
+      {
+        "emoji": "🐴",
+        "name": "Pferd",
+        "title": "Fleißige Debattiererin",
+        "reason": "Mit 18 Reden gehörst du zu den aktivsten Abgeordneten.",
+        "id": "pferd",
+        "score": 1.0
+      },
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Clevere Strategin",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 1.0
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 93.3,
+      "aggression": 11.1,
+      "labeling": 5.6,
+      "solution_focus": 89.7,
+      "collaboration": 62.5,
+      "demand_intensity": 7.0,
+      "acknowledgment": 4.7,
+      "authority": 77.7,
+      "future_orientation": 79.5,
+      "emotional_intensity": 76.9,
+      "inclusivity": 75.7,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 18,
+      "words": 7216,
+      "adjectives": 36,
+      "verbs": 86
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.28,
+      "klima": 0.28,
+      "wirtschaft": 1.52,
+      "soziales": 1.11,
+      "sicherheit": 8.59,
+      "gesundheit": 0.28,
+      "europa": 37.69,
+      "digital": 0.14,
+      "bildung": 1.25,
+      "finanzen": 3.19,
+      "justiz": 1.52,
+      "arbeit": 0.28,
+      "mobilitaet": 1.66
+    },
+    "topTopics": [
+      {
+        "topic": "europa",
+        "score": 37.69,
+        "rank": 1
+      },
+      {
+        "topic": "sicherheit",
+        "score": 8.59,
+        "rank": 2
+      },
+      {
+        "topic": "finanzen",
+        "score": 3.19,
+        "rank": 3
+      },
+      {
+        "topic": "mobilitaet",
+        "score": 1.66,
+        "rank": 4
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 1.52,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "grenze",
+          "count": 2
+        }
+      ],
+      "klima": [
+        {
+          "word": "nachhaltig",
+          "count": 1
+        },
+        {
+          "word": "wälder",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "betriebe",
+          "count": 5
+        },
+        {
+          "word": "unternehmen",
+          "count": 5
+        },
+        {
+          "word": "produktion",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 4
+        },
+        {
+          "word": "familien",
+          "count": 2
+        },
+        {
+          "word": "jugend",
+          "count": 1
+        },
+        {
+          "word": "familie",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "bundeswehr",
+          "count": 13
+        },
+        {
+          "word": "verteidigung",
+          "count": 9
+        },
+        {
+          "word": "angriff",
+          "count": 9
+        },
+        {
+          "word": "soldaten",
+          "count": 7
+        },
+        {
+          "word": "gewalt",
+          "count": 6
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "sucht",
+          "count": 2
+        }
+      ],
+      "europa": [
+        {
+          "word": "ukraine",
+          "count": 59
+        },
+        {
+          "word": "russland",
+          "count": 33
+        },
+        {
+          "word": "europa",
+          "count": 33
+        },
+        {
+          "word": "frieden",
+          "count": 31
+        },
+        {
+          "word": "krieg",
+          "count": 23
+        }
+      ],
+      "digital": [
+        {
+          "word": "netz",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "schulen",
+          "count": 2
+        },
+        {
+          "word": "schülerinnen",
+          "count": 2
+        },
+        {
+          "word": "schüler",
+          "count": 2
+        },
+        {
+          "word": "lehrerin",
+          "count": 1
+        },
+        {
+          "word": "ausbildung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 8
+        },
+        {
+          "word": "investitionen",
+          "count": 5
+        },
+        {
+          "word": "entlastung",
+          "count": 2
+        },
+        {
+          "word": "sondervermögen",
+          "count": 1
+        },
+        {
+          "word": "kosten",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "gerichte",
+          "count": 2
+        },
+        {
+          "word": "menschenrechte",
+          "count": 2
+        },
+        {
+          "word": "rechtsstaatlichkeit",
+          "count": 2
+        },
+        {
+          "word": "gleichberechtigung",
+          "count": 2
+        },
+        {
+          "word": "straftaten",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitsplätze",
+          "count": 1
+        },
+        {
+          "word": "einkommen",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 8
+        },
+        {
+          "word": "fahrzeug",
+          "count": 2
+        },
+        {
+          "word": "deutschlandticket",
+          "count": 1
+        },
+        {
+          "word": "führerschein",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

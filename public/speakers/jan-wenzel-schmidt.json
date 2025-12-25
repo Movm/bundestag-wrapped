@@ -1,0 +1,429 @@
+{
+  "name": "Jan Wenzel Schmidt",
+  "party": "AfD",
+  "slug": "jan-wenzel-schmidt",
+  "academicTitle": null,
+  "speeches": 6,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 2548,
+  "avgWords": 425,
+  "minWords": 317,
+  "maxWords": 617,
+  "rankings": {
+    "speechRank": 305,
+    "wordsRank": 407,
+    "partySpeechRank": 73,
+    "partyWordsRank": 93,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 49.9,
+    "verbosityRank": 292,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 68,
+    "longestSpeechRank": 399
+  },
+  "drama": {
+    "interruptionsGiven": 7,
+    "interruptionsReceived": 9,
+    "interrupterRank": 184,
+    "interruptedRank": 292
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "deutschland",
+        "count": 14
+      },
+      {
+        "word": "steuern",
+        "count": 11
+      },
+      {
+        "word": "staat",
+        "count": 10
+      },
+      {
+        "word": "bürger",
+        "count": 9
+      },
+      {
+        "word": "wirtschaft",
+        "count": 9
+      },
+      {
+        "word": "weniger",
+        "count": 8
+      },
+      {
+        "word": "land",
+        "count": 8
+      },
+      {
+        "word": "bundesregierung",
+        "count": 8
+      },
+      {
+        "word": "arbeit",
+        "count": 7
+      },
+      {
+        "word": "endlich",
+        "count": 6
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "schwarzarbeit",
+        "count": 5,
+        "ratioParty": 94.0,
+        "ratioBundestag": 49.5
+      },
+      {
+        "word": "steuern",
+        "count": 11,
+        "ratioParty": 12.0,
+        "ratioBundestag": 22.9
+      },
+      {
+        "word": "arbeit",
+        "count": 7,
+        "ratioParty": 8.7,
+        "ratioBundestag": 4.9
+      },
+      {
+        "word": "wirtschaft",
+        "count": 9,
+        "ratioParty": 6.1,
+        "ratioBundestag": 5.7
+      },
+      {
+        "word": "weniger",
+        "count": 8,
+        "ratioParty": 5.7,
+        "ratioBundestag": 6.5
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "gerecht",
+        "count": 3,
+        "ratioParty": 16.5,
+        "ratioBundestag": 7.1
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 425,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.72,
+    "vsParliament": 0.69
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "6"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "2.548"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Jan Wenzel Schmidt häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Minister",
+        "isCorrect": false
+      },
+      {
+        "text": "Politik",
+        "isCorrect": false
+      },
+      {
+        "text": "Kinder",
+        "isCorrect": false
+      },
+      {
+        "text": "Schwarzarbeit",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Schwarzarbeit\" nutzt Jan Wenzel Schmidt 94.0× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "49.5× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Jan Wenzel Schmidt häufiger als der Rest der AfD-Fraktion?",
+    "options": [
+      {
+        "text": "Gerecht",
+        "isCorrect": true
+      },
+      {
+        "text": "Sicher",
+        "isCorrect": false
+      },
+      {
+        "text": "National",
+        "isCorrect": false
+      },
+      {
+        "text": "Richtig",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Gerecht\" nutzt Jan Wenzel Schmidt 16.5× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "7.1× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 85.7,
+      "aggression": 0.0,
+      "labeling": 22.2,
+      "solution_focus": 75.0,
+      "collaboration": 50.0,
+      "demand_intensity": 7.1,
+      "acknowledgment": 7.1,
+      "authority": 90.0,
+      "future_orientation": 72.0,
+      "emotional_intensity": 66.7,
+      "inclusivity": 59.0,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 6,
+      "words": 1666,
+      "adjectives": 9,
+      "verbs": 14
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 1.2,
+      "klima": 2.4,
+      "wirtschaft": 4.2,
+      "soziales": 4.2,
+      "sicherheit": 1.8,
+      "gesundheit": 0.6,
+      "europa": 5.4,
+      "digital": 0.6,
+      "bildung": 1.2,
+      "finanzen": 15.01,
+      "justiz": 1.2,
+      "arbeit": 0.6,
+      "mobilitaet": 3.0
+    },
+    "topTopics": [
+      {
+        "topic": "finanzen",
+        "score": 15.01,
+        "rank": 1
+      },
+      {
+        "topic": "europa",
+        "score": 5.4,
+        "rank": 2
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 4.2,
+        "rank": 3
+      },
+      {
+        "topic": "soziales",
+        "score": 4.2,
+        "rank": 4
+      },
+      {
+        "topic": "mobilitaet",
+        "score": 3.0,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "grenze",
+          "count": 1
+        },
+        {
+          "word": "abschiebung",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "klimaschutz",
+          "count": 2
+        },
+        {
+          "word": "energie",
+          "count": 1
+        },
+        {
+          "word": "atomkraft",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "mittelstand",
+          "count": 3
+        },
+        {
+          "word": "betriebe",
+          "count": 2
+        },
+        {
+          "word": "unternehmen",
+          "count": 1
+        },
+        {
+          "word": "zoll",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 3
+        },
+        {
+          "word": "rentnerin",
+          "count": 1
+        },
+        {
+          "word": "umverteilung",
+          "count": 1
+        },
+        {
+          "word": "familien",
+          "count": 1
+        },
+        {
+          "word": "sozialhilfe",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "terrorist",
+          "count": 1
+        },
+        {
+          "word": "terror",
+          "count": 1
+        },
+        {
+          "word": "waffen",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "kranke",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "israel",
+          "count": 4
+        },
+        {
+          "word": "sanktionen",
+          "count": 1
+        },
+        {
+          "word": "russland",
+          "count": 1
+        },
+        {
+          "word": "diplomatie",
+          "count": 1
+        },
+        {
+          "word": "frieden",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "algorithmen",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "abitur",
+          "count": 1
+        },
+        {
+          "word": "schulen",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "steuern",
+          "count": 11
+        },
+        {
+          "word": "steuerzahler",
+          "count": 5
+        },
+        {
+          "word": "entlastung",
+          "count": 2
+        },
+        {
+          "word": "kosten",
+          "count": 2
+        },
+        {
+          "word": "steuerpolitik",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "datenschutz",
+          "count": 1
+        },
+        {
+          "word": "menschenrechte",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeiter",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "auto",
+          "count": 2
+        },
+        {
+          "word": "autos",
+          "count": 1
+        },
+        {
+          "word": "bahn",
+          "count": 1
+        },
+        {
+          "word": "straßen",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

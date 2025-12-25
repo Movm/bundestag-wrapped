@@ -1,0 +1,382 @@
+{
+  "name": "Misbah Khan",
+  "party": "GRÜNE",
+  "slug": "misbah-khan",
+  "academicTitle": null,
+  "speeches": 7,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 4122,
+  "avgWords": 589,
+  "minWords": 438,
+  "maxWords": 820,
+  "rankings": {
+    "speechRank": 285,
+    "wordsRank": 243,
+    "partySpeechRank": 49,
+    "partyWordsRank": 38,
+    "partySize": 85,
+    "totalSpeakers": 609,
+    "percentile": 53.2,
+    "verbosityRank": 78,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 9,
+    "longestSpeechRank": 175
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 11,
+    "interrupterRank": null,
+    "interruptedRank": 260
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "eltern",
+        "count": 13
+      },
+      {
+        "word": "kinder",
+        "count": 12
+      },
+      {
+        "word": "land",
+        "count": 11
+      },
+      {
+        "word": "verantwortung",
+        "count": 11
+      },
+      {
+        "word": "zivilgesellschaft",
+        "count": 9
+      },
+      {
+        "word": "gleichstellung",
+        "count": 9
+      },
+      {
+        "word": "deutschland",
+        "count": 8
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "sorgearbeit",
+        "count": 5,
+        "ratioParty": 447.6,
+        "ratioBundestag": 285.0
+      },
+      {
+        "word": "väter",
+        "count": 5,
+        "ratioParty": 149.2,
+        "ratioBundestag": 61.5
+      },
+      {
+        "word": "geburt",
+        "count": 7,
+        "ratioParty": 104.4,
+        "ratioBundestag": 79.8
+      },
+      {
+        "word": "faktisch",
+        "count": 6,
+        "ratioParty": 67.1,
+        "ratioBundestag": 64.9
+      },
+      {
+        "word": "gleichstellung",
+        "count": 9,
+        "ratioParty": 57.6,
+        "ratioBundestag": 104.5
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 589,
+    "partyAvgWords": 567,
+    "parliamentAvgWords": 613,
+    "vsParty": 1.04,
+    "vsParliament": 0.96
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "7"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "4.122"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Misbah Khan häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Demokratie",
+        "isCorrect": false
+      },
+      {
+        "text": "Zukunft",
+        "isCorrect": false
+      },
+      {
+        "text": "Familie",
+        "isCorrect": false
+      },
+      {
+        "text": "Sorgearbeit",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Sorgearbeit\" nutzt Misbah Khan 447.6× häufiger als der GRÜNE-Durchschnitt.",
+    "explanationBundestag": "285.0× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🐝",
+    "name": "Biene",
+    "title": "Fleißige Abgeordnete",
+    "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+    "id": "biene",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüterin",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.927
+      },
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Clevere Strategin",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 0.893
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 81.8,
+      "aggression": 6.7,
+      "labeling": 20.0,
+      "solution_focus": 72.7,
+      "collaboration": 12.5,
+      "demand_intensity": 9.5,
+      "acknowledgment": 0.0,
+      "authority": 69.4,
+      "future_orientation": 90.7,
+      "emotional_intensity": 57.1,
+      "inclusivity": 51.2,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 7,
+      "words": 2655,
+      "adjectives": 15,
+      "verbs": 21
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.38,
+      "klima": 0.0,
+      "wirtschaft": 0.38,
+      "soziales": 21.85,
+      "sicherheit": 1.13,
+      "gesundheit": 2.26,
+      "europa": 0.75,
+      "digital": 0.38,
+      "bildung": 3.01,
+      "finanzen": 2.64,
+      "justiz": 4.52,
+      "arbeit": 0.75,
+      "mobilitaet": 1.51
+    },
+    "topTopics": [
+      {
+        "topic": "soziales",
+        "score": 21.85,
+        "rank": 1
+      },
+      {
+        "topic": "justiz",
+        "score": 4.52,
+        "rank": 2
+      },
+      {
+        "topic": "bildung",
+        "score": 3.01,
+        "rank": 3
+      },
+      {
+        "topic": "finanzen",
+        "score": 2.64,
+        "rank": 4
+      },
+      {
+        "topic": "gesundheit",
+        "score": 2.26,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "integration",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "qualifikation",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "eltern",
+          "count": 13
+        },
+        {
+          "word": "kinder",
+          "count": 12
+        },
+        {
+          "word": "armut",
+          "count": 7
+        },
+        {
+          "word": "familien",
+          "count": 5
+        },
+        {
+          "word": "kind",
+          "count": 4
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "angriff",
+          "count": 1
+        },
+        {
+          "word": "verteidigung",
+          "count": 1
+        },
+        {
+          "word": "extremismus",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "gesundheitssystem",
+          "count": 2
+        },
+        {
+          "word": "psychisch",
+          "count": 2
+        },
+        {
+          "word": "behandlung",
+          "count": 1
+        },
+        {
+          "word": "krankenhaus",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "krieg",
+          "count": 1
+        },
+        {
+          "word": "moskau",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "daten",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "bildung",
+          "count": 5
+        },
+        {
+          "word": "schule",
+          "count": 1
+        },
+        {
+          "word": "lehrer",
+          "count": 1
+        },
+        {
+          "word": "unterricht",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushaltsentwurf",
+          "count": 4
+        },
+        {
+          "word": "finanzierung",
+          "count": 1
+        },
+        {
+          "word": "kosten",
+          "count": 1
+        },
+        {
+          "word": "sondervermögen",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "gleichstellung",
+          "count": 9
+        },
+        {
+          "word": "verwaltungsgericht",
+          "count": 2
+        },
+        {
+          "word": "urteil",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "einkommen",
+          "count": 1
+        },
+        {
+          "word": "vereinbarkeit",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 4
+        }
+      ]
+    }
+  }
+}

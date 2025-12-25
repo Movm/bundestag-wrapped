@@ -1,0 +1,380 @@
+{
+  "name": "Nyke Slawik",
+  "party": "GRÜNE",
+  "slug": "nyke-slawik",
+  "academicTitle": null,
+  "speeches": 7,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 2990,
+  "avgWords": 374,
+  "minWords": 81,
+  "maxWords": 618,
+  "rankings": {
+    "speechRank": 276,
+    "wordsRank": 365,
+    "partySpeechRank": 47,
+    "partyWordsRank": 59,
+    "partySize": 85,
+    "totalSpeakers": 609,
+    "percentile": 54.7,
+    "verbosityRank": 376,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 44,
+    "longestSpeechRank": 397
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 16,
+    "interrupterRank": null,
+    "interruptedRank": 181
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 42
+      },
+      {
+        "word": "queere",
+        "count": 15
+      },
+      {
+        "word": "csds",
+        "count": 13
+      },
+      {
+        "word": "lassen",
+        "count": 11
+      },
+      {
+        "word": "schützen",
+        "count": 11
+      },
+      {
+        "word": "deutschland",
+        "count": 10
+      },
+      {
+        "word": "bundesregierung",
+        "count": 9
+      },
+      {
+        "word": "endlich",
+        "count": 9
+      },
+      {
+        "word": "land",
+        "count": 9
+      },
+      {
+        "word": "selbstbestimmungsgesetz",
+        "count": 8
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "queere",
+        "count": 15,
+        "ratioParty": 94.5,
+        "ratioBundestag": 169.6
+      },
+      {
+        "word": "selbstbestimmungsgesetz",
+        "count": 8,
+        "ratioParty": 40.2,
+        "ratioBundestag": 196.8
+      },
+      {
+        "word": "vielfalt",
+        "count": 6,
+        "ratioParty": 23.9,
+        "ratioBundestag": 31.6
+      },
+      {
+        "word": "grundgesetz",
+        "count": 7,
+        "ratioParty": 17.8,
+        "ratioBundestag": 17.5
+      },
+      {
+        "word": "schützen",
+        "count": 11,
+        "ratioParty": 11.4,
+        "ratioBundestag": 13.5
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 374,
+    "partyAvgWords": 567,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.66,
+    "vsParliament": 0.61
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "7"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "2.990"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Nyke Slawik häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Kanzler",
+        "isCorrect": false
+      },
+      {
+        "text": "Bundesregierung",
+        "isCorrect": false
+      },
+      {
+        "text": "Queere",
+        "isCorrect": true
+      },
+      {
+        "text": "Klima",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Queere\" nutzt Nyke Slawik 94.5× häufiger als der GRÜNE-Durchschnitt.",
+    "explanationBundestag": "169.6× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🐿️",
+    "name": "Eichhörnchen",
+    "title": "Themenhüterin",
+    "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+    "id": "eichhoernchen",
+    "alternatives": [
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißige Abgeordnete",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 0.874
+      },
+      {
+        "emoji": "🦔",
+        "name": "Igel",
+        "title": "Beharrliche Rednerin",
+        "reason": "Auch wenn du oft unterbrochen wirst – du lässt dich nicht beirren.",
+        "id": "igel",
+        "score": 0.871
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 85.7,
+      "aggression": 20.0,
+      "labeling": 10.0,
+      "solution_focus": 94.4,
+      "collaboration": 16.7,
+      "demand_intensity": 11.8,
+      "acknowledgment": 17.6,
+      "authority": 71.0,
+      "future_orientation": 90.9,
+      "emotional_intensity": 50.0,
+      "inclusivity": 64.4,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 8,
+      "words": 1991,
+      "adjectives": 10,
+      "verbs": 34
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 1.0,
+      "klima": 2.51,
+      "wirtschaft": 0.0,
+      "soziales": 9.54,
+      "sicherheit": 5.02,
+      "gesundheit": 0.0,
+      "europa": 2.51,
+      "digital": 0.0,
+      "bildung": 2.51,
+      "finanzen": 1.0,
+      "justiz": 9.54,
+      "arbeit": 0.0,
+      "mobilitaet": 1.51
+    },
+    "topTopics": [
+      {
+        "topic": "soziales",
+        "score": 9.54,
+        "rank": 1
+      },
+      {
+        "topic": "justiz",
+        "score": 9.54,
+        "rank": 2
+      },
+      {
+        "topic": "sicherheit",
+        "score": 5.02,
+        "rank": 3
+      },
+      {
+        "topic": "klima",
+        "score": 2.51,
+        "rank": 4
+      },
+      {
+        "topic": "europa",
+        "score": 2.51,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "geflüchtete",
+          "count": 2
+        }
+      ],
+      "klima": [
+        {
+          "word": "klimaschutz",
+          "count": 2
+        },
+        {
+          "word": "klimakrise",
+          "count": 2
+        },
+        {
+          "word": "nachhaltig",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "jugend",
+          "count": 4
+        },
+        {
+          "word": "kinder",
+          "count": 4
+        },
+        {
+          "word": "eltern",
+          "count": 3
+        },
+        {
+          "word": "mieten",
+          "count": 2
+        },
+        {
+          "word": "kind",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "angriff",
+          "count": 4
+        },
+        {
+          "word": "bundeswehr",
+          "count": 2
+        },
+        {
+          "word": "gewalt",
+          "count": 2
+        },
+        {
+          "word": "verfassungsschutz",
+          "count": 1
+        },
+        {
+          "word": "militär",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "ukraine",
+          "count": 2
+        },
+        {
+          "word": "europa",
+          "count": 2
+        },
+        {
+          "word": "krieg",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "schule",
+          "count": 2
+        },
+        {
+          "word": "schulen",
+          "count": 2
+        },
+        {
+          "word": "lehrer",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 2
+        }
+      ],
+      "justiz": [
+        {
+          "word": "grundgesetz",
+          "count": 7
+        },
+        {
+          "word": "menschenrechte",
+          "count": 3
+        },
+        {
+          "word": "verfassung",
+          "count": 3
+        },
+        {
+          "word": "diskriminierung",
+          "count": 2
+        },
+        {
+          "word": "gleichstellung",
+          "count": 2
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "deutschlandticket",
+          "count": 1
+        },
+        {
+          "word": "straße",
+          "count": 1
+        },
+        {
+          "word": "öpnv",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

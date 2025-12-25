@@ -1,0 +1,547 @@
+{
+  "name": "Heidi Reichinnek",
+  "party": "DIE LINKE",
+  "slug": "heidi-reichinnek",
+  "academicTitle": null,
+  "speeches": 12,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 13308,
+  "avgWords": 1024,
+  "minWords": 32,
+  "maxWords": 2581,
+  "rankings": {
+    "speechRank": 72,
+    "wordsRank": 9,
+    "partySpeechRank": 11,
+    "partyWordsRank": 1,
+    "partySize": 63,
+    "totalSpeakers": 609,
+    "percentile": 88.2,
+    "verbosityRank": 6,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 1,
+    "longestSpeechRank": 4
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 16,
+    "interrupterRank": 130,
+    "interruptedRank": 173
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 84
+      },
+      {
+        "word": "land",
+        "count": 38
+      },
+      {
+        "word": "union",
+        "count": 37
+      },
+      {
+        "word": "einfach",
+        "count": 36
+      },
+      {
+        "word": "haushalt",
+        "count": 31
+      },
+      {
+        "word": "endlich",
+        "count": 30
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "jugendarbeit",
+        "count": 5,
+        "ratioParty": 96.4,
+        "ratioBundestag": 35.7
+      },
+      {
+        "word": "abschluss",
+        "count": 5,
+        "ratioParty": 32.1,
+        "ratioBundestag": 10.3
+      },
+      {
+        "word": "armutsfesten",
+        "count": 5,
+        "ratioParty": 32.1,
+        "ratioBundestag": 241.2
+      },
+      {
+        "word": "monats",
+        "count": 10,
+        "ratioParty": 27.6,
+        "ratioBundestag": 55.1
+      },
+      {
+        "word": "generationengerechtigkeit",
+        "count": 5,
+        "ratioParty": 24.1,
+        "ratioBundestag": 12.9
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "scheinheilig",
+        "count": 3,
+        "ratioParty": 14.5,
+        "ratioBundestag": 44.5
+      },
+      {
+        "word": "schlimm",
+        "count": 3,
+        "ratioParty": 14.5,
+        "ratioBundestag": 13.2
+      },
+      {
+        "word": "unfassbar",
+        "count": 5,
+        "ratioParty": 8.8,
+        "ratioBundestag": 19.7
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 1024,
+    "partyAvgWords": 521,
+    "parliamentAvgWords": 613,
+    "vsParty": 1.97,
+    "vsParliament": 1.67
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "12"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "13.308"
+    },
+    {
+      "emoji": "📚",
+      "label": "Wortreichster",
+      "value": "#6 von 521"
+    },
+    {
+      "emoji": "📏",
+      "label": "Längste Rede",
+      "value": "#4 (2.581 Wörter)"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Heidi Reichinnek häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Steuern",
+        "isCorrect": false
+      },
+      {
+        "text": "Jugendarbeit",
+        "isCorrect": true
+      },
+      {
+        "text": "Migration",
+        "isCorrect": false
+      },
+      {
+        "text": "Ausschuss",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Jugendarbeit\" nutzt Heidi Reichinnek 96.4× häufiger als der DIE LINKE-Durchschnitt.",
+    "explanationBundestag": "35.7× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Heidi Reichinnek häufiger als der Rest der DIE LINKE-Fraktion?",
+    "options": [
+      {
+        "text": "Sicher",
+        "isCorrect": false
+      },
+      {
+        "text": "Wichtig",
+        "isCorrect": false
+      },
+      {
+        "text": "Scheinheilig",
+        "isCorrect": true
+      },
+      {
+        "text": "Richtig",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Scheinheilig\" nutzt Heidi Reichinnek 14.5× häufiger als der DIE LINKE-Durchschnitt.",
+    "explanationBundestag": "44.5× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐅",
+    "name": "Tiger",
+    "title": "Wortgewaltige Kämpferin",
+    "reason": "Mit 13.308 Wörtern und klarer Kante dominierst du Debatten.",
+    "id": "tiger",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüterin",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 1.0
+      },
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißige Abgeordnete",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 62.5,
+      "aggression": 40.0,
+      "labeling": 6.7,
+      "solution_focus": 64.8,
+      "collaboration": 50.0,
+      "demand_intensity": 10.4,
+      "acknowledgment": 3.9,
+      "authority": 77.5,
+      "future_orientation": 69.0,
+      "emotional_intensity": 40.4,
+      "inclusivity": 38.1,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 13,
+      "words": 8597,
+      "adjectives": 45,
+      "verbs": 77
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 1.4,
+      "klima": 1.63,
+      "wirtschaft": 1.86,
+      "soziales": 17.33,
+      "sicherheit": 1.98,
+      "gesundheit": 1.51,
+      "europa": 6.4,
+      "digital": 0.35,
+      "bildung": 3.49,
+      "finanzen": 10.82,
+      "justiz": 1.98,
+      "arbeit": 3.37,
+      "mobilitaet": 1.05
+    },
+    "topTopics": [
+      {
+        "topic": "soziales",
+        "score": 17.33,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 10.82,
+        "rank": 2
+      },
+      {
+        "topic": "europa",
+        "score": 6.4,
+        "rank": 3
+      },
+      {
+        "topic": "bildung",
+        "score": 3.49,
+        "rank": 4
+      },
+      {
+        "topic": "arbeit",
+        "score": 3.37,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "familiennachzug",
+          "count": 2
+        },
+        {
+          "word": "asylrecht",
+          "count": 2
+        },
+        {
+          "word": "geflüchtete",
+          "count": 2
+        },
+        {
+          "word": "schutzsuchende",
+          "count": 1
+        },
+        {
+          "word": "migration",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "klimaschutz",
+          "count": 9
+        },
+        {
+          "word": "energie",
+          "count": 2
+        },
+        {
+          "word": "nachhaltig",
+          "count": 2
+        },
+        {
+          "word": "klimapolitik",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 7
+        },
+        {
+          "word": "fachkräfte",
+          "count": 5
+        },
+        {
+          "word": "konzerne",
+          "count": 1
+        },
+        {
+          "word": "firma",
+          "count": 1
+        },
+        {
+          "word": "betriebe",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 22
+        },
+        {
+          "word": "bürgergeld",
+          "count": 15
+        },
+        {
+          "word": "rente",
+          "count": 9
+        },
+        {
+          "word": "rentner",
+          "count": 8
+        },
+        {
+          "word": "armut",
+          "count": 7
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "rüstung",
+          "count": 6
+        },
+        {
+          "word": "gewalt",
+          "count": 5
+        },
+        {
+          "word": "angriff",
+          "count": 1
+        },
+        {
+          "word": "betrug",
+          "count": 1
+        },
+        {
+          "word": "armee",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "pflegeheim",
+          "count": 2
+        },
+        {
+          "word": "gesundheitssystem",
+          "count": 2
+        },
+        {
+          "word": "krankenhäuser",
+          "count": 2
+        },
+        {
+          "word": "sucht",
+          "count": 1
+        },
+        {
+          "word": "krankenversicherung",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "ukraine",
+          "count": 12
+        },
+        {
+          "word": "europa",
+          "count": 5
+        },
+        {
+          "word": "israel",
+          "count": 4
+        },
+        {
+          "word": "diplomatie",
+          "count": 4
+        },
+        {
+          "word": "frieden",
+          "count": 3
+        }
+      ],
+      "digital": [
+        {
+          "word": "digital",
+          "count": 2
+        },
+        {
+          "word": "internet",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "schulen",
+          "count": 6
+        },
+        {
+          "word": "kita",
+          "count": 4
+        },
+        {
+          "word": "bildung",
+          "count": 4
+        },
+        {
+          "word": "schule",
+          "count": 3
+        },
+        {
+          "word": "qualifizierung",
+          "count": 2
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 31
+        },
+        {
+          "word": "investitionen",
+          "count": 18
+        },
+        {
+          "word": "sondervermögen",
+          "count": 8
+        },
+        {
+          "word": "schuldenbremse",
+          "count": 7
+        },
+        {
+          "word": "kosten",
+          "count": 6
+        }
+      ],
+      "justiz": [
+        {
+          "word": "bundesverfassungsgericht",
+          "count": 5
+        },
+        {
+          "word": "rechtsstaat",
+          "count": 2
+        },
+        {
+          "word": "richter",
+          "count": 2
+        },
+        {
+          "word": "verwaltungsgericht",
+          "count": 1
+        },
+        {
+          "word": "rechtsprechung",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "mindestlohn",
+          "count": 7
+        },
+        {
+          "word": "einkommen",
+          "count": 5
+        },
+        {
+          "word": "gewerkschaften",
+          "count": 3
+        },
+        {
+          "word": "arbeitsplätze",
+          "count": 2
+        },
+        {
+          "word": "löhne",
+          "count": 2
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "deutschlandticket",
+          "count": 5
+        },
+        {
+          "word": "öpnv",
+          "count": 2
+        },
+        {
+          "word": "bahn",
+          "count": 1
+        },
+        {
+          "word": "autos",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

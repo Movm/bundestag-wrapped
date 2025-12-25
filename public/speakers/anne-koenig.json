@@ -1,0 +1,443 @@
+{
+  "name": "Anne König",
+  "party": "CDU/CSU",
+  "slug": "anne-koenig",
+  "academicTitle": null,
+  "speeches": 5,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 2842,
+  "avgWords": 568,
+  "minWords": 346,
+  "maxWords": 767,
+  "rankings": {
+    "speechRank": 384,
+    "wordsRank": 380,
+    "partySpeechRank": 109,
+    "partyWordsRank": 117,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 36.9,
+    "verbosityRank": 93,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 39,
+    "longestSpeechRank": 225
+  },
+  "drama": {
+    "interruptionsGiven": 2,
+    "interruptionsReceived": 3,
+    "interrupterRank": 265,
+    "interruptedRank": 462
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "frauen",
+        "count": 14
+      },
+      {
+        "word": "gewalt",
+        "count": 13
+      },
+      {
+        "word": "bildung",
+        "count": 13
+      },
+      {
+        "word": "kinder",
+        "count": 12
+      },
+      {
+        "word": "familie",
+        "count": 9
+      },
+      {
+        "word": "stärken",
+        "count": 7
+      },
+      {
+        "word": "ganztagsbetreuung",
+        "count": 7
+      },
+      {
+        "word": "kommunen",
+        "count": 7
+      },
+      {
+        "word": "endlich",
+        "count": 6
+      },
+      {
+        "word": "familien",
+        "count": 6
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "ganztagsbetreuung",
+        "count": 7,
+        "ratioParty": 119.1,
+        "ratioBundestag": 147.3
+      },
+      {
+        "word": "kitas",
+        "count": 5,
+        "ratioParty": 48.2,
+        "ratioBundestag": 26.2
+      },
+      {
+        "word": "familie",
+        "count": 9,
+        "ratioParty": 28.0,
+        "ratioBundestag": 19.6
+      },
+      {
+        "word": "gewalt",
+        "count": 13,
+        "ratioParty": 25.2,
+        "ratioBundestag": 17.2
+      },
+      {
+        "word": "frauen",
+        "count": 14,
+        "ratioParty": 22.5,
+        "ratioBundestag": 13.6
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "wirksam",
+        "count": 4,
+        "ratioParty": 19.3,
+        "ratioBundestag": 26.2
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 568,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.83,
+    "vsParliament": 0.93
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "5"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "2.842"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Anne König häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Ganztagsbetreuung",
+        "isCorrect": true
+      },
+      {
+        "text": "Ausschuss",
+        "isCorrect": false
+      },
+      {
+        "text": "Freiheit",
+        "isCorrect": false
+      },
+      {
+        "text": "Koalition",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Ganztagsbetreuung\" nutzt Anne König 119.1× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "147.3× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Anne König häufiger als der Rest der CDU/CSU-Fraktion?",
+    "options": [
+      {
+        "text": "Erfolgreich",
+        "isCorrect": false
+      },
+      {
+        "text": "Sicher",
+        "isCorrect": false
+      },
+      {
+        "text": "Wirksam",
+        "isCorrect": true
+      },
+      {
+        "text": "Falsch",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Wirksam\" nutzt Anne König 19.3× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "26.2× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐇",
+    "name": "Hase",
+    "title": "Wendige Optimistin",
+    "reason": "Mit positivem Blick reagierst du schnell auf neue Themen.",
+    "id": "hase",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüterin",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.801
+      },
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Clevere Strategin",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 0.745
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 100.0,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 97.3,
+      "collaboration": 0.0,
+      "demand_intensity": 4.8,
+      "acknowledgment": 2.4,
+      "authority": 78.1,
+      "future_orientation": 85.3,
+      "emotional_intensity": 60.0,
+      "inclusivity": 57.6,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 5,
+      "words": 1841,
+      "adjectives": 13,
+      "verbs": 42
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 1.09,
+      "wirtschaft": 2.17,
+      "soziales": 21.73,
+      "sicherheit": 12.49,
+      "gesundheit": 1.09,
+      "europa": 1.09,
+      "digital": 0.54,
+      "bildung": 11.95,
+      "finanzen": 5.43,
+      "justiz": 2.72,
+      "arbeit": 1.09,
+      "mobilitaet": 0.54
+    },
+    "topTopics": [
+      {
+        "topic": "soziales",
+        "score": 21.73,
+        "rank": 1
+      },
+      {
+        "topic": "sicherheit",
+        "score": 12.49,
+        "rank": 2
+      },
+      {
+        "topic": "bildung",
+        "score": 11.95,
+        "rank": 3
+      },
+      {
+        "topic": "finanzen",
+        "score": 5.43,
+        "rank": 4
+      },
+      {
+        "topic": "justiz",
+        "score": 2.72,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "nachhaltig",
+          "count": 2
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "selbstständige",
+          "count": 2
+        },
+        {
+          "word": "werke",
+          "count": 1
+        },
+        {
+          "word": "wettbewerbsfähigkeit",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 12
+        },
+        {
+          "word": "familie",
+          "count": 9
+        },
+        {
+          "word": "familien",
+          "count": 6
+        },
+        {
+          "word": "eltern",
+          "count": 4
+        },
+        {
+          "word": "jugendliche",
+          "count": 3
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "gewalt",
+          "count": 13
+        },
+        {
+          "word": "täter",
+          "count": 4
+        },
+        {
+          "word": "angriff",
+          "count": 2
+        },
+        {
+          "word": "verbrechen",
+          "count": 2
+        },
+        {
+          "word": "überwachung",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "prävention",
+          "count": 1
+        },
+        {
+          "word": "pflege",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "sanktionen",
+          "count": 1
+        },
+        {
+          "word": "krieg",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "online",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "bildung",
+          "count": 13
+        },
+        {
+          "word": "schulen",
+          "count": 6
+        },
+        {
+          "word": "fortbildung",
+          "count": 1
+        },
+        {
+          "word": "kita",
+          "count": 1
+        },
+        {
+          "word": "bildungspolitik",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "investitionen",
+          "count": 3
+        },
+        {
+          "word": "finanzierung",
+          "count": 2
+        },
+        {
+          "word": "haushalt",
+          "count": 2
+        },
+        {
+          "word": "haushaltsplan",
+          "count": 1
+        },
+        {
+          "word": "sondervermögen",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "grundgesetz",
+          "count": 2
+        },
+        {
+          "word": "strafen",
+          "count": 1
+        },
+        {
+          "word": "verurteilung",
+          "count": 1
+        },
+        {
+          "word": "rechtsstaat",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "vereinbarkeit",
+          "count": 1
+        },
+        {
+          "word": "arbeitsvertrag",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "straße",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

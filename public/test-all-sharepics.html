@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>All Sharepics Test</title>
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      padding: 20px;
+      background: #0a0a0f;
+      min-height: 100vh;
+      font-family: system-ui, sans-serif;
+      color: white;
+    }
+    h1 { margin: 0 0 20px; text-align: center; }
+    .tabs {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      justify-content: center;
+      margin-bottom: 20px;
+    }
+    .tab {
+      padding: 10px 18px;
+      border-radius: 8px;
+      border: none;
+      background: #2a2a3e;
+      color: white;
+      cursor: pointer;
+      font-weight: 500;
+      font-size: 14px;
+      transition: all 0.2s;
+    }
+    .tab:hover { background: #3a3a4e; }
+    .tab.active {
+      background: linear-gradient(135deg, #be185d, #db2777);
+      font-weight: bold;
+    }
+    .main {
+      display: flex;
+      gap: 30px;
+      justify-content: center;
+      align-items: flex-start;
+      flex-wrap: wrap;
+    }
+    .canvas-container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 15px;
+    }
+    canvas {
+      max-width: 500px;
+      width: 100%;
+      border-radius: 16px;
+      box-shadow: 0 10px 40px rgba(0,0,0,0.5);
+    }
+    .controls { display: flex; gap: 10px; }
+    button.action {
+      padding: 10px 20px;
+      border-radius: 8px;
+      border: none;
+      background: #db2777;
+      color: white;
+      cursor: pointer;
+      font-weight: bold;
+    }
+    button.action:hover { background: #be185d; }
+    .info {
+      background: #1a1a24;
+      padding: 16px;
+      border-radius: 12px;
+      max-width: 400px;
+      font-size: 14px;
+      line-height: 1.6;
+    }
+    .info h3 { margin: 0 0 10px; color: #f472b6; }
+    .status { color: #22c55e; font-size: 12px; margin-bottom: 10px; }
+    .data-preview {
+      background: #12121a;
+      padding: 10px;
+      border-radius: 8px;
+      font-size: 12px;
+      max-height: 200px;
+      overflow: auto;
+      white-space: pre-wrap;
+      color: #888;
+    }
+  </style>
+</head>
+<body>
+  <h1>🎨 Bundestag Wrapped Sharepics</h1>
+
+  <div class="tabs" id="tabs"></div>
+
+  <div class="main">
+    <div class="canvas-container">
+      <canvas id="canvas"></canvas>
+      <div class="controls">
+        <button class="action" onclick="download()">Download PNG</button>
+      </div>
+    </div>
+    <div class="info">
+      <h3 id="slideTitle">Loading...</h3>
+      <div class="status" id="status"></div>
+      <div class="data-preview" id="dataPreview"></div>
+    </div>
+  </div>
+
+  <script type="module">
+    // Import from production module
+    import {
+      preloadLogo,
+      renderMoinSharepic,
+      renderTopSpeakersSharepic,
+      renderDramaSharepic,
+      renderGenderSharepic,
+      downloadSharepic,
+    } from '/src/lib/slide-sharepics.ts';
+
+    const SLIDES = {
+      moin: {
+        name: '👋 Moin',
+        render: (canvas, data) => renderMoinSharepic(canvas, data.moinSpeakers || []),
+        dataKey: 'moinSpeakers',
+      },
+      topSpeakers: {
+        name: '🏆 Top Speakers',
+        render: (canvas, data) => renderTopSpeakersSharepic(canvas, {
+          speakers: data.topSpeakers || [],
+          byWords: data.topSpeakersByWords || [],
+          byAvgWords: data.topSpeakersByAvgWords || [],
+        }),
+        dataKey: 'topSpeakers',
+      },
+      drama: {
+        name: '🎭 Drama',
+        render: (canvas, data) => renderDramaSharepic(canvas, data.drama || {}),
+        dataKey: 'drama',
+      },
+      gender: {
+        name: '👩‍💼 Gender',
+        render: (canvas, data) => renderGenderSharepic(canvas, data.genderAnalysis || {}),
+        dataKey: 'genderAnalysis',
+      },
+    };
+
+    let currentSlide = 'moin';
+    let wrappedData = {};
+
+    function renderCurrentSlide() {
+      const canvas = document.getElementById('canvas');
+      const slide = SLIDES[currentSlide];
+      slide.render(canvas, wrappedData);
+
+      document.getElementById('slideTitle').textContent = slide.name;
+      const previewData = wrappedData[slide.dataKey];
+      document.getElementById('dataPreview').textContent =
+        JSON.stringify(previewData, null, 2).slice(0, 500) + '...';
+    }
+
+    function selectSlide(key) {
+      currentSlide = key;
+      document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+      document.querySelector(`[data-slide="${key}"]`).classList.add('active');
+      renderCurrentSlide();
+    }
+
+    window.download = function() {
+      const canvas = document.getElementById('canvas');
+      downloadSharepic(canvas, `bundestag-wrapped-${currentSlide}.png`);
+    };
+
+    async function init() {
+      document.getElementById('status').textContent = 'Loading...';
+
+      await preloadLogo();
+      wrappedData = await fetch('/wrapped.json').then(r => r.json());
+
+      document.getElementById('status').textContent =
+        '✓ Using production module: slide-sharepics.ts';
+
+      // Build tabs
+      const tabsEl = document.getElementById('tabs');
+      Object.entries(SLIDES).forEach(([key, slide]) => {
+        const btn = document.createElement('button');
+        btn.className = 'tab' + (key === currentSlide ? ' active' : '');
+        btn.textContent = slide.name;
+        btn.dataset.slide = key;
+        btn.onclick = () => selectSlide(key);
+        tabsEl.appendChild(btn);
+      });
+
+      renderCurrentSlide();
+    }
+
+    init();
+  </script>
+</body>
+</html>

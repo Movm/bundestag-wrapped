@@ -1,0 +1,239 @@
+{
+  "name": "Catarina dos Santos-Wintz",
+  "party": "CDU/CSU",
+  "slug": "catarina-dos-santos-wintz",
+  "academicTitle": null,
+  "speeches": 3,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 958,
+  "avgWords": 319,
+  "minWords": 40,
+  "maxWords": 497,
+  "rankings": {
+    "speechRank": 519,
+    "wordsRank": 555,
+    "partySpeechRank": 165,
+    "partyWordsRank": 181,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 14.8,
+    "verbosityRank": 448,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 145,
+    "longestSpeechRank": 526
+  },
+  "drama": {
+    "interruptionsGiven": 19,
+    "interruptionsReceived": 1,
+    "interrupterRank": 105,
+    "interruptedRank": 551
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "resilienz",
+        "count": 4
+      },
+      {
+        "word": "letzten",
+        "count": 4
+      },
+      {
+        "word": "reform",
+        "count": 4
+      },
+      {
+        "word": "woche",
+        "count": 4
+      },
+      {
+        "word": "bedrohungen",
+        "count": 3
+      },
+      {
+        "word": "darf",
+        "count": 3
+      },
+      {
+        "word": "digitale",
+        "count": 3
+      },
+      {
+        "word": "herzlichen",
+        "count": 3
+      },
+      {
+        "word": "debatten",
+        "count": 3
+      },
+      {
+        "word": "plenum",
+        "count": 3
+      }
+    ],
+    "signatureWords": [],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 319,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.46,
+    "vsParliament": 0.52
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "3"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufe",
+      "value": "19"
+    }
+  ],
+  "signatureQuiz": null,
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🦦",
+    "name": "Otter",
+    "title": "Positive Teamplayerin",
+    "reason": "Du bringst gute Stimmung und konstruktive Beiträge ins Plenum.",
+    "id": "otter",
+    "alternatives": [
+      {
+        "emoji": "🐇",
+        "name": "Hase",
+        "title": "Wendige Optimistin",
+        "reason": "Mit positivem Blick reagierst du schnell auf neue Themen.",
+        "id": "hase",
+        "score": 0.825
+      },
+      {
+        "emoji": "🦀",
+        "name": "Krabbe",
+        "title": "Hartnäckige Debattiererin",
+        "reason": "Du hältst an deinen Positionen fest und lässt nicht locker.",
+        "id": "krabbe",
+        "score": 0.657
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 100.0,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 75.0,
+      "collaboration": 66.7,
+      "demand_intensity": 22.2,
+      "acknowledgment": 0.0,
+      "authority": 61.5,
+      "future_orientation": 100.0,
+      "emotional_intensity": 20.0,
+      "inclusivity": 72.2,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 3,
+      "words": 621,
+      "adjectives": 3,
+      "verbs": 9
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.0,
+      "wirtschaft": 3.22,
+      "soziales": 0.0,
+      "sicherheit": 1.61,
+      "gesundheit": 1.61,
+      "europa": 3.22,
+      "digital": 0.0,
+      "bildung": 0.0,
+      "finanzen": 1.61,
+      "justiz": 1.61,
+      "arbeit": 0.0,
+      "mobilitaet": 1.61
+    },
+    "topTopics": [
+      {
+        "topic": "wirtschaft",
+        "score": 3.22,
+        "rank": 1
+      },
+      {
+        "topic": "europa",
+        "score": 3.22,
+        "rank": 2
+      },
+      {
+        "topic": "sicherheit",
+        "score": 1.61,
+        "rank": 3
+      },
+      {
+        "topic": "gesundheit",
+        "score": 1.61,
+        "rank": 4
+      },
+      {
+        "topic": "finanzen",
+        "score": 1.61,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "wirtschaft": [
+        {
+          "word": "wettbewerbsfähigkeit",
+          "count": 2
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "angriff",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "krankenhäuser",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 1
+        },
+        {
+          "word": "ukraine",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "investitionen",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "gesetzgebung",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

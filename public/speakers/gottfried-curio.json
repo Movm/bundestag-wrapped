@@ -1,0 +1,476 @@
+{
+  "name": "Dr. Gottfried Curio",
+  "party": "AfD",
+  "slug": "gottfried-curio",
+  "academicTitle": "Dr",
+  "speeches": 10,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 8288,
+  "avgWords": 753,
+  "minWords": 68,
+  "maxWords": 1155,
+  "rankings": {
+    "speechRank": 131,
+    "wordsRank": 63,
+    "partySpeechRank": 26,
+    "partyWordsRank": 13,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 78.5,
+    "verbosityRank": 16,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 6,
+    "longestSpeechRank": 37
+  },
+  "drama": {
+    "interruptionsGiven": 21,
+    "interruptionsReceived": 21,
+    "interrupterRank": 100,
+    "interruptedRank": 120
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "deutschland",
+        "count": 50
+      },
+      {
+        "word": "union",
+        "count": 49
+      },
+      {
+        "word": "merz",
+        "count": 31
+      },
+      {
+        "word": "einbürgerung",
+        "count": 28
+      },
+      {
+        "word": "regierung",
+        "count": 22
+      },
+      {
+        "word": "land",
+        "count": 22
+      },
+      {
+        "word": "soll",
+        "count": 18
+      },
+      {
+        "word": "weiter",
+        "count": 18
+      },
+      {
+        "word": "fünf",
+        "count": 16
+      },
+      {
+        "word": "jahr",
+        "count": 16
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "einbürgerung",
+        "count": 28,
+        "ratioParty": 187.3,
+        "ratioBundestag": 135.0
+      },
+      {
+        "word": "regimes",
+        "count": 5,
+        "ratioParty": 111.5,
+        "ratioBundestag": 51.5
+      },
+      {
+        "word": "aufenthalt",
+        "count": 6,
+        "ratioParty": 100.3,
+        "ratioBundestag": 128.1
+      },
+      {
+        "word": "ausnahmslos",
+        "count": 7,
+        "ratioParty": 93.7,
+        "ratioBundestag": 174.3
+      },
+      {
+        "word": "sturz",
+        "count": 5,
+        "ratioParty": 83.6,
+        "ratioBundestag": 124.5
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 753,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 1.28,
+    "vsParliament": 1.23
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "10"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "8.288"
+    },
+    {
+      "emoji": "📚",
+      "label": "Wortreichster",
+      "value": "#16 von 521"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufe",
+      "value": "21"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Dr. Gottfried Curio häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Einbürgerung",
+        "isCorrect": true
+      },
+      {
+        "text": "Bundesregierung",
+        "isCorrect": false
+      },
+      {
+        "text": "Migration",
+        "isCorrect": false
+      },
+      {
+        "text": "Bürger",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Einbürgerung\" nutzt Dr. Gottfried Curio 187.3× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "135.0× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 14.3,
+      "aggression": 40.0,
+      "labeling": 25.0,
+      "solution_focus": 60.0,
+      "collaboration": 33.3,
+      "demand_intensity": 12.5,
+      "acknowledgment": 2.5,
+      "authority": 73.4,
+      "future_orientation": 86.6,
+      "emotional_intensity": 70.8,
+      "inclusivity": 47.7,
+      "discriminatory": 0.9
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 11,
+      "words": 5561,
+      "adjectives": 20,
+      "verbs": 40
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 19.06,
+      "klima": 0.36,
+      "wirtschaft": 1.26,
+      "soziales": 2.52,
+      "sicherheit": 3.42,
+      "gesundheit": 1.62,
+      "europa": 2.88,
+      "digital": 0.54,
+      "bildung": 1.8,
+      "finanzen": 1.62,
+      "justiz": 1.62,
+      "arbeit": 0.0,
+      "mobilitaet": 1.62
+    },
+    "topTopics": [
+      {
+        "topic": "migration",
+        "score": 19.06,
+        "rank": 1
+      },
+      {
+        "topic": "sicherheit",
+        "score": 3.42,
+        "rank": 2
+      },
+      {
+        "topic": "europa",
+        "score": 2.88,
+        "rank": 3
+      },
+      {
+        "topic": "soziales",
+        "score": 2.52,
+        "rank": 4
+      },
+      {
+        "topic": "bildung",
+        "score": 1.8,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "einbürgerung",
+          "count": 28
+        },
+        {
+          "word": "migranten",
+          "count": 13
+        },
+        {
+          "word": "migration",
+          "count": 11
+        },
+        {
+          "word": "integration",
+          "count": 7
+        },
+        {
+          "word": "asylbewerber",
+          "count": 5
+        }
+      ],
+      "klima": [
+        {
+          "word": "klimapolitik",
+          "count": 1
+        },
+        {
+          "word": "klimawandel",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "wirtschaftskrise",
+          "count": 2
+        },
+        {
+          "word": "qualifikation",
+          "count": 1
+        },
+        {
+          "word": "import",
+          "count": 1
+        },
+        {
+          "word": "handel",
+          "count": 1
+        },
+        {
+          "word": "industrie",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 6
+        },
+        {
+          "word": "wohnungsmarkt",
+          "count": 3
+        },
+        {
+          "word": "bürgergeld",
+          "count": 2
+        },
+        {
+          "word": "rente",
+          "count": 2
+        },
+        {
+          "word": "behinderung",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "betrug",
+          "count": 3
+        },
+        {
+          "word": "gewalt",
+          "count": 3
+        },
+        {
+          "word": "angriff",
+          "count": 2
+        },
+        {
+          "word": "straftäter",
+          "count": 2
+        },
+        {
+          "word": "polizei",
+          "count": 2
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "kranke",
+          "count": 2
+        },
+        {
+          "word": "operation",
+          "count": 2
+        },
+        {
+          "word": "arzt",
+          "count": 2
+        },
+        {
+          "word": "krankheit",
+          "count": 1
+        },
+        {
+          "word": "krankenkasse",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "ukraine",
+          "count": 2
+        },
+        {
+          "word": "afrika",
+          "count": 2
+        },
+        {
+          "word": "außenminister",
+          "count": 2
+        },
+        {
+          "word": "kiew",
+          "count": 2
+        },
+        {
+          "word": "gipfel",
+          "count": 2
+        }
+      ],
+      "digital": [
+        {
+          "word": "netz",
+          "count": 1
+        },
+        {
+          "word": "algorithmen",
+          "count": 1
+        },
+        {
+          "word": "plattformen",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "schulen",
+          "count": 4
+        },
+        {
+          "word": "bildung",
+          "count": 1
+        },
+        {
+          "word": "lehrer",
+          "count": 1
+        },
+        {
+          "word": "bildungssystem",
+          "count": 1
+        },
+        {
+          "word": "schulklasse",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "schuldenbremse",
+          "count": 2
+        },
+        {
+          "word": "kosten",
+          "count": 2
+        },
+        {
+          "word": "defizit",
+          "count": 1
+        },
+        {
+          "word": "entlastung",
+          "count": 1
+        },
+        {
+          "word": "steuerzahler",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "richter",
+          "count": 2
+        },
+        {
+          "word": "haftung",
+          "count": 1
+        },
+        {
+          "word": "gerichte",
+          "count": 1
+        },
+        {
+          "word": "verordnung",
+          "count": 1
+        },
+        {
+          "word": "straftaten",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "straßen",
+          "count": 3
+        },
+        {
+          "word": "flugzeug",
+          "count": 2
+        },
+        {
+          "word": "fahrzeug",
+          "count": 1
+        },
+        {
+          "word": "bahnhof",
+          "count": 1
+        },
+        {
+          "word": "schiff",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

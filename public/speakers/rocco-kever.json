@@ -1,0 +1,428 @@
+{
+  "name": "Rocco Kever",
+  "party": "AfD",
+  "slug": "rocco-kever",
+  "academicTitle": null,
+  "speeches": 4,
+  "wortbeitraege": 4,
+  "befragungResponses": 0,
+  "totalWords": 3935,
+  "avgWords": 492,
+  "minWords": 118,
+  "maxWords": 651,
+  "rankings": {
+    "speechRank": 406,
+    "wordsRank": 258,
+    "partySpeechRank": 98,
+    "partyWordsRank": 54,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 33.3,
+    "verbosityRank": 171,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 39,
+    "longestSpeechRank": 358
+  },
+  "drama": {
+    "interruptionsGiven": 7,
+    "interruptionsReceived": 13,
+    "interrupterRank": 190,
+    "interruptedRank": 218
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "deutschland",
+        "count": 29
+      },
+      {
+        "word": "entwicklungshilfe",
+        "count": 15
+      },
+      {
+        "word": "entwicklungspolitik",
+        "count": 14
+      },
+      {
+        "word": "interessen",
+        "count": 10
+      },
+      {
+        "word": "mittel",
+        "count": 10
+      },
+      {
+        "word": "geld",
+        "count": 8
+      },
+      {
+        "word": "ministerin",
+        "count": 7
+      },
+      {
+        "word": "jahren",
+        "count": 7
+      },
+      {
+        "word": "ausland",
+        "count": 7
+      },
+      {
+        "word": "fördern",
+        "count": 7
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "ghana",
+        "count": 7,
+        "ratioParty": 507.1,
+        "ratioBundestag": 643.4
+      },
+      {
+        "word": "partnerländern",
+        "count": 5,
+        "ratioParty": 362.2,
+        "ratioBundestag": 214.5
+      },
+      {
+        "word": "kenia",
+        "count": 5,
+        "ratioParty": 362.2,
+        "ratioBundestag": 189.2
+      },
+      {
+        "word": "entwicklungspolitik",
+        "count": 14,
+        "ratioParty": 96.6,
+        "ratioBundestag": 88.3
+      },
+      {
+        "word": "quote",
+        "count": 5,
+        "ratioParty": 65.9,
+        "ratioBundestag": 82.5
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 492,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.84,
+    "vsParliament": 0.8
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "4"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "3.935"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Rocco Kever häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Rente",
+        "isCorrect": false
+      },
+      {
+        "text": "Verantwortung",
+        "isCorrect": false
+      },
+      {
+        "text": "Ghana",
+        "isCorrect": true
+      },
+      {
+        "text": "Europa",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Ghana\" nutzt Rocco Kever 507.1× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "643.4× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 85.7,
+      "aggression": 25.0,
+      "labeling": 16.7,
+      "solution_focus": 66.7,
+      "collaboration": 55.6,
+      "demand_intensity": 10.6,
+      "acknowledgment": 0.0,
+      "authority": 84.6,
+      "future_orientation": 80.0,
+      "emotional_intensity": 33.3,
+      "inclusivity": 53.1,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 8,
+      "words": 2588,
+      "adjectives": 12,
+      "verbs": 47
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 1.55,
+      "klima": 2.7,
+      "wirtschaft": 6.96,
+      "soziales": 2.7,
+      "sicherheit": 1.93,
+      "gesundheit": 2.32,
+      "europa": 6.96,
+      "digital": 0.77,
+      "bildung": 1.93,
+      "finanzen": 8.11,
+      "justiz": 0.39,
+      "arbeit": 0.39,
+      "mobilitaet": 2.32
+    },
+    "topTopics": [
+      {
+        "topic": "finanzen",
+        "score": 8.11,
+        "rank": 1
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 6.96,
+        "rank": 2
+      },
+      {
+        "topic": "europa",
+        "score": 6.96,
+        "rank": 3
+      },
+      {
+        "topic": "klima",
+        "score": 2.7,
+        "rank": 4
+      },
+      {
+        "topic": "soziales",
+        "score": 2.7,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "integration",
+          "count": 2
+        },
+        {
+          "word": "geflüchtete",
+          "count": 1
+        },
+        {
+          "word": "einwanderer",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "umweltschutz",
+          "count": 1
+        },
+        {
+          "word": "regenwälder",
+          "count": 1
+        },
+        {
+          "word": "nachhaltigkeit",
+          "count": 1
+        },
+        {
+          "word": "energie",
+          "count": 1
+        },
+        {
+          "word": "energiewende",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "handel",
+          "count": 5
+        },
+        {
+          "word": "fachkräfte",
+          "count": 3
+        },
+        {
+          "word": "importe",
+          "count": 2
+        },
+        {
+          "word": "betriebe",
+          "count": 1
+        },
+        {
+          "word": "fachkräftemangel",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "familien",
+          "count": 2
+        },
+        {
+          "word": "armut",
+          "count": 2
+        },
+        {
+          "word": "renten",
+          "count": 1
+        },
+        {
+          "word": "rentner",
+          "count": 1
+        },
+        {
+          "word": "familie",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "korruption",
+          "count": 3
+        },
+        {
+          "word": "verteidigung",
+          "count": 1
+        },
+        {
+          "word": "grenzschutz",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "gesundheitssystem",
+          "count": 2
+        },
+        {
+          "word": "pflegekräfte",
+          "count": 2
+        },
+        {
+          "word": "krankenhäuser",
+          "count": 1
+        },
+        {
+          "word": "sucht",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "afrika",
+          "count": 5
+        },
+        {
+          "word": "abkommen",
+          "count": 3
+        },
+        {
+          "word": "außenminister",
+          "count": 2
+        },
+        {
+          "word": "außenpolitik",
+          "count": 2
+        },
+        {
+          "word": "wiederaufbau",
+          "count": 2
+        }
+      ],
+      "digital": [
+        {
+          "word": "netz",
+          "count": 1
+        },
+        {
+          "word": "internet",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "bildung",
+          "count": 3
+        },
+        {
+          "word": "schulen",
+          "count": 1
+        },
+        {
+          "word": "qualifizierung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "etat",
+          "count": 4
+        },
+        {
+          "word": "steuern",
+          "count": 4
+        },
+        {
+          "word": "kosten",
+          "count": 2
+        },
+        {
+          "word": "haushalt",
+          "count": 2
+        },
+        {
+          "word": "haushaltsausschuss",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "menschenrechte",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitskräfte",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 4
+        },
+        {
+          "word": "bahn",
+          "count": 1
+        },
+        {
+          "word": "elektromobilität",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,518 @@
+{
+  "name": "Frauke Heiligenstadt",
+  "party": "SPD",
+  "slug": "frauke-heiligenstadt",
+  "academicTitle": null,
+  "speeches": 23,
+  "wortbeitraege": 2,
+  "befragungResponses": 0,
+  "totalWords": 9428,
+  "avgWords": 377,
+  "minWords": 29,
+  "maxWords": 570,
+  "rankings": {
+    "speechRank": 4,
+    "wordsRank": 39,
+    "partySpeechRank": 1,
+    "partyWordsRank": 9,
+    "partySize": 109,
+    "totalSpeakers": 609,
+    "percentile": 99.3,
+    "verbosityRank": 372,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 78,
+    "longestSpeechRank": 460
+  },
+  "drama": {
+    "interruptionsGiven": 31,
+    "interruptionsReceived": 30,
+    "interrupterRank": 61,
+    "interruptedRank": 52
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "land",
+        "count": 37
+      },
+      {
+        "word": "unternehmen",
+        "count": 29
+      },
+      {
+        "word": "menschen",
+        "count": 29
+      },
+      {
+        "word": "investitionen",
+        "count": 22
+      },
+      {
+        "word": "investieren",
+        "count": 17
+      },
+      {
+        "word": "beispiel",
+        "count": 17
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "steuergerechtigkeit",
+        "count": 15,
+        "ratioParty": 86.3,
+        "ratioBundestag": 132.2
+      },
+      {
+        "word": "solide",
+        "count": 5,
+        "ratioParty": 32.0,
+        "ratioBundestag": 14.1
+      },
+      {
+        "word": "schultern",
+        "count": 7,
+        "ratioParty": 26.9,
+        "ratioBundestag": 37.0
+      },
+      {
+        "word": "aktivrente",
+        "count": 6,
+        "ratioParty": 23.0,
+        "ratioBundestag": 12.8
+      },
+      {
+        "word": "bundesfinanzminister",
+        "count": 9,
+        "ratioParty": 22.5,
+        "ratioBundestag": 33.6
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "solide",
+        "count": 5,
+        "ratioParty": 32.0,
+        "ratioBundestag": 14.1
+      },
+      {
+        "word": "falsch",
+        "count": 5,
+        "ratioParty": 5.4,
+        "ratioBundestag": 4.5
+      },
+      {
+        "word": "stark",
+        "count": 8,
+        "ratioParty": 4.3,
+        "ratioBundestag": 5.8
+      },
+      {
+        "word": "rechts",
+        "count": 3,
+        "ratioParty": 3.0,
+        "ratioBundestag": 2.7
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 377,
+    "partyAvgWords": 637,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.59,
+    "vsParliament": 0.62
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "23"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "9.428"
+    },
+    {
+      "emoji": "🏆",
+      "label": "Rang (Reden)",
+      "value": "#4 von 609"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufe",
+      "value": "31"
+    },
+    {
+      "emoji": "🥇",
+      "label": "Rang in SPD",
+      "value": "#1 von 109"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Frauke Heiligenstadt häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Gesetz",
+        "isCorrect": false
+      },
+      {
+        "text": "Bildung",
+        "isCorrect": false
+      },
+      {
+        "text": "Gesellschaft",
+        "isCorrect": false
+      },
+      {
+        "text": "Steuergerechtigkeit",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Steuergerechtigkeit\" nutzt Frauke Heiligenstadt 86.3× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "132.2× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Frauke Heiligenstadt häufiger als der Rest der SPD-Fraktion?",
+    "options": [
+      {
+        "text": "Notwendig",
+        "isCorrect": false
+      },
+      {
+        "text": "National",
+        "isCorrect": false
+      },
+      {
+        "text": "Solide",
+        "isCorrect": true
+      },
+      {
+        "text": "Neu",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Solide\" nutzt Frauke Heiligenstadt 32.0× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "14.1× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🦁",
+    "name": "Löwe",
+    "title": "Fraktionsstimme",
+    "reason": "Als #1 in der SPD-Fraktion bist du eine führende Stimme.",
+    "id": "loewe",
+    "alternatives": [
+      {
+        "emoji": "🐴",
+        "name": "Pferd",
+        "title": "Fleißige Debattiererin",
+        "reason": "Mit 25 Reden gehörst du zu den aktivsten Abgeordneten.",
+        "id": "pferd",
+        "score": 1.0
+      },
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüterin",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 1.0
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 76.9,
+      "aggression": 0.0,
+      "labeling": 11.4,
+      "solution_focus": 91.5,
+      "collaboration": 46.2,
+      "demand_intensity": 1.0,
+      "acknowledgment": 3.0,
+      "authority": 74.1,
+      "future_orientation": 92.8,
+      "emotional_intensity": 21.4,
+      "inclusivity": 64.1,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 25,
+      "words": 5715,
+      "adjectives": 44,
+      "verbs": 99
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.52,
+      "klima": 1.92,
+      "wirtschaft": 14.0,
+      "soziales": 3.32,
+      "sicherheit": 1.4,
+      "gesundheit": 0.17,
+      "europa": 0.17,
+      "digital": 0.52,
+      "bildung": 2.1,
+      "finanzen": 17.67,
+      "justiz": 1.75,
+      "arbeit": 7.35,
+      "mobilitaet": 2.97
+    },
+    "topTopics": [
+      {
+        "topic": "finanzen",
+        "score": 17.67,
+        "rank": 1
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 14.0,
+        "rank": 2
+      },
+      {
+        "topic": "arbeit",
+        "score": 7.35,
+        "rank": 3
+      },
+      {
+        "topic": "soziales",
+        "score": 3.32,
+        "rank": 4
+      },
+      {
+        "topic": "mobilitaet",
+        "score": 2.97,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "migranten",
+          "count": 1
+        },
+        {
+          "word": "integration",
+          "count": 1
+        },
+        {
+          "word": "migration",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "klimaschutz",
+          "count": 5
+        },
+        {
+          "word": "energie",
+          "count": 3
+        },
+        {
+          "word": "erneuerbare",
+          "count": 2
+        },
+        {
+          "word": "dämmung",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 29
+        },
+        {
+          "word": "wachstum",
+          "count": 14
+        },
+        {
+          "word": "zoll",
+          "count": 5
+        },
+        {
+          "word": "mittelstand",
+          "count": 5
+        },
+        {
+          "word": "kredite",
+          "count": 3
+        }
+      ],
+      "soziales": [
+        {
+          "word": "rente",
+          "count": 6
+        },
+        {
+          "word": "kinder",
+          "count": 3
+        },
+        {
+          "word": "betriebsrente",
+          "count": 2
+        },
+        {
+          "word": "altersvorsorge",
+          "count": 2
+        },
+        {
+          "word": "jugend",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "geldwäsche",
+          "count": 2
+        },
+        {
+          "word": "betrug",
+          "count": 2
+        },
+        {
+          "word": "angriff",
+          "count": 2
+        },
+        {
+          "word": "verteidigung",
+          "count": 1
+        },
+        {
+          "word": "polizei",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "pflege",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "frieden",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 3
+        }
+      ],
+      "bildung": [
+        {
+          "word": "bildung",
+          "count": 4
+        },
+        {
+          "word": "schulen",
+          "count": 3
+        },
+        {
+          "word": "forschung",
+          "count": 2
+        },
+        {
+          "word": "erzieherin",
+          "count": 1
+        },
+        {
+          "word": "ausbildung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "investitionen",
+          "count": 22
+        },
+        {
+          "word": "steuergerechtigkeit",
+          "count": 15
+        },
+        {
+          "word": "haushalt",
+          "count": 13
+        },
+        {
+          "word": "sondervermögen",
+          "count": 7
+        },
+        {
+          "word": "bundeshaushalt",
+          "count": 6
+        }
+      ],
+      "justiz": [
+        {
+          "word": "grundgesetz",
+          "count": 3
+        },
+        {
+          "word": "straftaten",
+          "count": 2
+        },
+        {
+          "word": "bundesverfassungsgericht",
+          "count": 2
+        },
+        {
+          "word": "verfassung",
+          "count": 1
+        },
+        {
+          "word": "verfassungswidrig",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitsplätze",
+          "count": 9
+        },
+        {
+          "word": "einkommen",
+          "count": 9
+        },
+        {
+          "word": "beschäftigung",
+          "count": 8
+        },
+        {
+          "word": "mitbestimmung",
+          "count": 3
+        },
+        {
+          "word": "gewerkschaften",
+          "count": 2
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 9
+        },
+        {
+          "word": "straßen",
+          "count": 4
+        },
+        {
+          "word": "autos",
+          "count": 2
+        },
+        {
+          "word": "verkehrsinfrastruktur",
+          "count": 1
+        },
+        {
+          "word": "schiene",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

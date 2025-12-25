@@ -1,0 +1,413 @@
+{
+  "name": "Matthias David Mieves",
+  "party": "SPD",
+  "slug": "matthias-david-mieves",
+  "academicTitle": null,
+  "speeches": 4,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 2611,
+  "avgWords": 653,
+  "minWords": 597,
+  "maxWords": 731,
+  "rankings": {
+    "speechRank": 440,
+    "wordsRank": 397,
+    "partySpeechRank": 80,
+    "partyWordsRank": 81,
+    "partySize": 109,
+    "totalSpeakers": 609,
+    "percentile": 27.8,
+    "verbosityRank": 42,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 6,
+    "longestSpeechRank": 267
+  },
+  "drama": {
+    "interruptionsGiven": 2,
+    "interruptionsReceived": 1,
+    "interrupterRank": 284,
+    "interruptedRank": 548
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "deutschland",
+        "count": 23
+      },
+      {
+        "word": "menschen",
+        "count": 16
+      },
+      {
+        "word": "sicherheit",
+        "count": 14
+      },
+      {
+        "word": "pflege",
+        "count": 10
+      },
+      {
+        "word": "mosel",
+        "count": 9
+      },
+      {
+        "word": "gesundheit",
+        "count": 8
+      },
+      {
+        "word": "gute",
+        "count": 7
+      },
+      {
+        "word": "ministerium",
+        "count": 7
+      },
+      {
+        "word": "neue",
+        "count": 6
+      },
+      {
+        "word": "leben",
+        "count": 6
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "therapie",
+        "count": 5,
+        "ratioParty": 995.1,
+        "ratioBundestag": 414.9
+      },
+      {
+        "word": "passenden",
+        "count": 5,
+        "ratioParty": 497.6,
+        "ratioBundestag": 553.2
+      },
+      {
+        "word": "mosel",
+        "count": 9,
+        "ratioParty": 53.8,
+        "ratioBundestag": 344.7
+      },
+      {
+        "word": "moselschleusen",
+        "count": 6,
+        "ratioParty": 35.9,
+        "ratioBundestag": 995.8
+      },
+      {
+        "word": "pflege",
+        "count": 10,
+        "ratioParty": 35.5,
+        "ratioBundestag": 25.0
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "teuer",
+        "count": 3,
+        "ratioParty": 31.4,
+        "ratioBundestag": 13.6
+      },
+      {
+        "word": "sicher",
+        "count": 5,
+        "ratioParty": 5.1,
+        "ratioBundestag": 6.7
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 653,
+    "partyAvgWords": 637,
+    "parliamentAvgWords": 613,
+    "vsParty": 1.03,
+    "vsParliament": 1.07
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "4"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "2.611"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Matthias David Mieves häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Therapie",
+        "isCorrect": true
+      },
+      {
+        "text": "Investitionen",
+        "isCorrect": false
+      },
+      {
+        "text": "Gesellschaft",
+        "isCorrect": false
+      },
+      {
+        "text": "Bundesregierung",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Therapie\" nutzt Matthias David Mieves 995.1× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "414.9× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Matthias David Mieves häufiger als der Rest der SPD-Fraktion?",
+    "options": [
+      {
+        "text": "Groß",
+        "isCorrect": false
+      },
+      {
+        "text": "Teuer",
+        "isCorrect": true
+      },
+      {
+        "text": "Erfolgreich",
+        "isCorrect": false
+      },
+      {
+        "text": "Richtig",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Teuer\" nutzt Matthias David Mieves 31.4× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "13.6× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🦊",
+    "name": "Fuchs",
+    "title": "Cleverer Stratege",
+    "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+    "id": "fuchs",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüter",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.754
+      },
+      {
+        "emoji": "🦫",
+        "name": "Biber",
+        "title": "Konstruktiver Brückenbauer",
+        "reason": "Du baust Brücken zwischen Positionen – kooperativ und lösungsorientiert.",
+        "id": "biber",
+        "score": 0.7
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 62.5,
+      "aggression": 11.1,
+      "labeling": 0.0,
+      "solution_focus": 80.0,
+      "collaboration": 50.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 12.5,
+      "authority": 85.9,
+      "future_orientation": 90.6,
+      "emotional_intensity": 66.7,
+      "inclusivity": 61.0,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 4,
+      "words": 1673,
+      "adjectives": 9,
+      "verbs": 8
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.6,
+      "wirtschaft": 1.79,
+      "soziales": 1.79,
+      "sicherheit": 0.0,
+      "gesundheit": 20.32,
+      "europa": 2.39,
+      "digital": 2.39,
+      "bildung": 0.6,
+      "finanzen": 4.18,
+      "justiz": 0.0,
+      "arbeit": 1.2,
+      "mobilitaet": 4.18
+    },
+    "topTopics": [
+      {
+        "topic": "gesundheit",
+        "score": 20.32,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 4.18,
+        "rank": 2
+      },
+      {
+        "topic": "mobilitaet",
+        "score": 4.18,
+        "rank": 3
+      },
+      {
+        "topic": "europa",
+        "score": 2.39,
+        "rank": 4
+      },
+      {
+        "topic": "digital",
+        "score": 2.39,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "kohle",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "markt",
+          "count": 1
+        },
+        {
+          "word": "unternehmen",
+          "count": 1
+        },
+        {
+          "word": "betrieb",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "familie",
+          "count": 2
+        },
+        {
+          "word": "familien",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "pflege",
+          "count": 10
+        },
+        {
+          "word": "therapie",
+          "count": 5
+        },
+        {
+          "word": "medikament",
+          "count": 4
+        },
+        {
+          "word": "medikamente",
+          "count": 4
+        },
+        {
+          "word": "arzneimittel",
+          "count": 2
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 3
+        },
+        {
+          "word": "china",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 2
+        },
+        {
+          "word": "hackerangriff",
+          "count": 1
+        },
+        {
+          "word": "cybersicherheit",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "forschung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "kosten",
+          "count": 4
+        },
+        {
+          "word": "steuern",
+          "count": 1
+        },
+        {
+          "word": "finanzierung",
+          "count": 1
+        },
+        {
+          "word": "bundeshaushalt",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitsplätze",
+          "count": 1
+        },
+        {
+          "word": "gewerkschaften",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "schifffahrt",
+          "count": 3
+        },
+        {
+          "word": "flughafen",
+          "count": 1
+        },
+        {
+          "word": "verkehrsminister",
+          "count": 1
+        },
+        {
+          "word": "häfen",
+          "count": 1
+        },
+        {
+          "word": "schiffe",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

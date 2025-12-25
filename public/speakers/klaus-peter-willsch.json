@@ -1,0 +1,387 @@
+{
+  "name": "Klaus-Peter Willsch",
+  "party": "CDU/CSU",
+  "slug": "klaus-peter-willsch",
+  "academicTitle": null,
+  "speeches": 5,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 3372,
+  "avgWords": 562,
+  "minWords": 13,
+  "maxWords": 1056,
+  "rankings": {
+    "speechRank": 354,
+    "wordsRank": 324,
+    "partySpeechRank": 97,
+    "partyWordsRank": 99,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 41.9,
+    "verbosityRank": 101,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 41,
+    "longestSpeechRank": 53
+  },
+  "drama": {
+    "interruptionsGiven": 5,
+    "interruptionsReceived": 6,
+    "interrupterRank": 205,
+    "interruptedRank": 364
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "sicherheit",
+        "count": 22
+      },
+      {
+        "word": "haushalt",
+        "count": 10
+      },
+      {
+        "word": "klare",
+        "count": 9
+      },
+      {
+        "word": "setzen",
+        "count": 9
+      },
+      {
+        "word": "land",
+        "count": 8
+      },
+      {
+        "word": "innere",
+        "count": 7
+      },
+      {
+        "word": "migration",
+        "count": 7
+      },
+      {
+        "word": "menschen",
+        "count": 7
+      },
+      {
+        "word": "deutschland",
+        "count": 6
+      },
+      {
+        "word": "diesen",
+        "count": 6
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "verliert",
+        "count": 5,
+        "ratioParty": 67.8,
+        "ratioBundestag": 41.1
+      },
+      {
+        "word": "innere",
+        "count": 7,
+        "ratioParty": 56.9,
+        "ratioBundestag": 48.6
+      },
+      {
+        "word": "migrationspolitik",
+        "count": 5,
+        "ratioParty": 22.2,
+        "ratioBundestag": 26.9
+      },
+      {
+        "word": "kontrolle",
+        "count": 5,
+        "ratioParty": 18.5,
+        "ratioBundestag": 13.7
+      },
+      {
+        "word": "dobrindt",
+        "count": 5,
+        "ratioParty": 17.2,
+        "ratioBundestag": 11.3
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "sicher",
+        "count": 3,
+        "ratioParty": 2.7,
+        "ratioBundestag": 3.1
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 562,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.82,
+    "vsParliament": 0.92
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "5"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "3.372"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Klaus-Peter Willsch häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Gesetzentwurf",
+        "isCorrect": false
+      },
+      {
+        "text": "Sicherheit",
+        "isCorrect": false
+      },
+      {
+        "text": "Verliert",
+        "isCorrect": true
+      },
+      {
+        "text": "Steuern",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Verliert\" nutzt Klaus-Peter Willsch 67.8× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "41.1× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Klaus-Peter Willsch häufiger als der Rest der CDU/CSU-Fraktion?",
+    "options": [
+      {
+        "text": "Stark",
+        "isCorrect": false
+      },
+      {
+        "text": "National",
+        "isCorrect": false
+      },
+      {
+        "text": "Notwendig",
+        "isCorrect": false
+      },
+      {
+        "text": "Sicher",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Sicher\" nutzt Klaus-Peter Willsch 2.7× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "3.1× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🦦",
+    "name": "Otter",
+    "title": "Positiver Teamplayer",
+    "reason": "Du bringst gute Stimmung und konstruktive Beiträge ins Plenum.",
+    "id": "otter",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüter",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.86
+      },
+      {
+        "emoji": "🦫",
+        "name": "Biber",
+        "title": "Konstruktiver Brückenbauer",
+        "reason": "Du baust Brücken zwischen Positionen – kooperativ und lösungsorientiert.",
+        "id": "biber",
+        "score": 0.853
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 83.3,
+      "aggression": 0.0,
+      "labeling": 14.3,
+      "solution_focus": 84.2,
+      "collaboration": 100.0,
+      "demand_intensity": 8.7,
+      "acknowledgment": 0.0,
+      "authority": 85.7,
+      "future_orientation": 89.7,
+      "emotional_intensity": 33.3,
+      "inclusivity": 62.7,
+      "discriminatory": 0.92
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 6,
+      "words": 2181,
+      "adjectives": 21,
+      "verbs": 23
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 7.34,
+      "klima": 0.46,
+      "wirtschaft": 0.46,
+      "soziales": 0.0,
+      "sicherheit": 7.34,
+      "gesundheit": 0.0,
+      "europa": 2.75,
+      "digital": 0.0,
+      "bildung": 0.0,
+      "finanzen": 7.34,
+      "justiz": 0.46,
+      "arbeit": 0.0,
+      "mobilitaet": 1.38
+    },
+    "topTopics": [
+      {
+        "topic": "migration",
+        "score": 7.34,
+        "rank": 1
+      },
+      {
+        "topic": "sicherheit",
+        "score": 7.34,
+        "rank": 2
+      },
+      {
+        "topic": "finanzen",
+        "score": 7.34,
+        "rank": 3
+      },
+      {
+        "topic": "europa",
+        "score": 2.75,
+        "rank": 4
+      },
+      {
+        "topic": "mobilitaet",
+        "score": 1.38,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "migration",
+          "count": 7
+        },
+        {
+          "word": "zuwanderung",
+          "count": 2
+        },
+        {
+          "word": "grenze",
+          "count": 1
+        },
+        {
+          "word": "flüchtlinge",
+          "count": 1
+        },
+        {
+          "word": "grenzkontrollen",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "nachhaltig",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "wachstum",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "bundespolizei",
+          "count": 5
+        },
+        {
+          "word": "extremismus",
+          "count": 2
+        },
+        {
+          "word": "kriminalität",
+          "count": 1
+        },
+        {
+          "word": "polizei",
+          "count": 1
+        },
+        {
+          "word": "straftäter",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 2
+        },
+        {
+          "word": "israel",
+          "count": 2
+        },
+        {
+          "word": "abkommen",
+          "count": 1
+        },
+        {
+          "word": "krieg",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 10
+        },
+        {
+          "word": "bundeshaushalt",
+          "count": 2
+        },
+        {
+          "word": "etat",
+          "count": 1
+        },
+        {
+          "word": "bundesrechnungshof",
+          "count": 1
+        },
+        {
+          "word": "investitionen",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "rechtsstaat",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 2
+        },
+        {
+          "word": "straßen",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

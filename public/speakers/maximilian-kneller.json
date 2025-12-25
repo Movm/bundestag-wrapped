@@ -1,0 +1,406 @@
+{
+  "name": "Maximilian Kneller",
+  "party": "AfD",
+  "slug": "maximilian-kneller",
+  "academicTitle": null,
+  "speeches": 8,
+  "wortbeitraege": 6,
+  "befragungResponses": 0,
+  "totalWords": 3533,
+  "avgWords": 252,
+  "minWords": 46,
+  "maxWords": 615,
+  "rankings": {
+    "speechRank": 231,
+    "wordsRank": 308,
+    "partySpeechRank": 54,
+    "partyWordsRank": 70,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 62.1,
+    "verbosityRank": 492,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 121,
+    "longestSpeechRank": 404
+  },
+  "drama": {
+    "interruptionsGiven": 68,
+    "interruptionsReceived": 10,
+    "interrupterRank": 25,
+    "interruptedRank": 278
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "grünen",
+        "count": 11
+      },
+      {
+        "word": "bahn",
+        "count": 11
+      },
+      {
+        "word": "jahr",
+        "count": 8
+      },
+      {
+        "word": "deutschland",
+        "count": 8
+      },
+      {
+        "word": "fahren",
+        "count": 8
+      },
+      {
+        "word": "wäre",
+        "count": 8
+      },
+      {
+        "word": "würde",
+        "count": 7
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "verbrenner",
+        "count": 5,
+        "ratioParty": 56.1,
+        "ratioBundestag": 37.7
+      },
+      {
+        "word": "autos",
+        "count": 6,
+        "ratioParty": 48.1,
+        "ratioBundestag": 49.2
+      },
+      {
+        "word": "verbrennerverbot",
+        "count": 6,
+        "ratioParty": 28.8,
+        "ratioBundestag": 86.1
+      },
+      {
+        "word": "fahren",
+        "count": 8,
+        "ratioParty": 19.5,
+        "ratioBundestag": 23.6
+      },
+      {
+        "word": "finden",
+        "count": 5,
+        "ratioParty": 7.6,
+        "ratioBundestag": 5.7
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "sicher",
+        "count": 3,
+        "ratioParty": 4.0,
+        "ratioBundestag": 3.0
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 252,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.43,
+    "vsParliament": 0.41
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "8"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "3.533"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufe",
+      "value": "68"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Maximilian Kneller häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Verbrenner",
+        "isCorrect": true
+      },
+      {
+        "text": "Reform",
+        "isCorrect": false
+      },
+      {
+        "text": "Antrag",
+        "isCorrect": false
+      },
+      {
+        "text": "Arbeit",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Verbrenner\" nutzt Maximilian Kneller 56.1× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "37.7× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Maximilian Kneller häufiger als der Rest der AfD-Fraktion?",
+    "options": [
+      {
+        "text": "Sicher",
+        "isCorrect": true
+      },
+      {
+        "text": "Europäisch",
+        "isCorrect": false
+      },
+      {
+        "text": "Alt",
+        "isCorrect": false
+      },
+      {
+        "text": "Sozial",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Sicher\" nutzt Maximilian Kneller 4.0× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "3.0× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 53.8,
+      "aggression": 6.7,
+      "labeling": 6.7,
+      "solution_focus": 71.4,
+      "collaboration": 25.0,
+      "demand_intensity": 21.7,
+      "acknowledgment": 0.0,
+      "authority": 70.9,
+      "future_orientation": 56.7,
+      "emotional_intensity": 23.5,
+      "inclusivity": 40.0,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 14,
+      "words": 2231,
+      "adjectives": 15,
+      "verbs": 23
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.45,
+      "klima": 1.34,
+      "wirtschaft": 4.03,
+      "soziales": 2.24,
+      "sicherheit": 3.14,
+      "gesundheit": 0.0,
+      "europa": 3.14,
+      "digital": 0.9,
+      "bildung": 0.9,
+      "finanzen": 3.14,
+      "justiz": 0.0,
+      "arbeit": 0.9,
+      "mobilitaet": 18.38
+    },
+    "topTopics": [
+      {
+        "topic": "mobilitaet",
+        "score": 18.38,
+        "rank": 1
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 4.03,
+        "rank": 2
+      },
+      {
+        "topic": "sicherheit",
+        "score": 3.14,
+        "rank": 3
+      },
+      {
+        "topic": "europa",
+        "score": 3.14,
+        "rank": 4
+      },
+      {
+        "topic": "finanzen",
+        "score": 3.14,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "migration",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "umweltpolitik",
+          "count": 1
+        },
+        {
+          "word": "kohle",
+          "count": 1
+        },
+        {
+          "word": "klimaschutz",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "kredite",
+          "count": 3
+        },
+        {
+          "word": "automobilindustrie",
+          "count": 1
+        },
+        {
+          "word": "kredit",
+          "count": 1
+        },
+        {
+          "word": "wirtschaftspolitik",
+          "count": 1
+        },
+        {
+          "word": "konkurrenz",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "familie",
+          "count": 3
+        },
+        {
+          "word": "rente",
+          "count": 1
+        },
+        {
+          "word": "kinder",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "geheimdienst",
+          "count": 3
+        },
+        {
+          "word": "gewalt",
+          "count": 2
+        },
+        {
+          "word": "militär",
+          "count": 1
+        },
+        {
+          "word": "polizeigewalt",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "russland",
+          "count": 2
+        },
+        {
+          "word": "außenminister",
+          "count": 2
+        },
+        {
+          "word": "china",
+          "count": 1
+        },
+        {
+          "word": "allianz",
+          "count": 1
+        },
+        {
+          "word": "putin",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "technologie",
+          "count": 2
+        }
+      ],
+      "bildung": [
+        {
+          "word": "studium",
+          "count": 1
+        },
+        {
+          "word": "universität",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "steuern",
+          "count": 1
+        },
+        {
+          "word": "zuschuss",
+          "count": 1
+        },
+        {
+          "word": "steuerzahler",
+          "count": 1
+        },
+        {
+          "word": "bank",
+          "count": 1
+        },
+        {
+          "word": "börse",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitsplätze",
+          "count": 2
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "bahn",
+          "count": 11
+        },
+        {
+          "word": "autos",
+          "count": 6
+        },
+        {
+          "word": "auto",
+          "count": 4
+        },
+        {
+          "word": "straßenverkehr",
+          "count": 3
+        },
+        {
+          "word": "inlandsflüge",
+          "count": 2
+        }
+      ]
+    }
+  }
+}

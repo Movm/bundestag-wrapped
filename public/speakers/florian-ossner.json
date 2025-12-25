@@ -1,0 +1,489 @@
+{
+  "name": "Florian Oßner",
+  "party": "CDU/CSU",
+  "slug": "florian-ossner",
+  "academicTitle": null,
+  "speeches": 13,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 8058,
+  "avgWords": 620,
+  "minWords": 367,
+  "maxWords": 830,
+  "rankings": {
+    "speechRank": 47,
+    "wordsRank": 71,
+    "partySpeechRank": 12,
+    "partyWordsRank": 24,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 92.3,
+    "verbosityRank": 52,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 22,
+    "longestSpeechRank": 160
+  },
+  "drama": {
+    "interruptionsGiven": 32,
+    "interruptionsReceived": 8,
+    "interrupterRank": 60,
+    "interruptedRank": 332
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "deutschland",
+        "count": 46
+      },
+      {
+        "word": "infrastruktur",
+        "count": 35
+      },
+      {
+        "word": "land",
+        "count": 34
+      },
+      {
+        "word": "investitionen",
+        "count": 30
+      },
+      {
+        "word": "kommunen",
+        "count": 27
+      },
+      {
+        "word": "haushalt",
+        "count": 22
+      },
+      {
+        "word": "straße",
+        "count": 22
+      },
+      {
+        "word": "setzen",
+        "count": 17
+      },
+      {
+        "word": "mittel",
+        "count": 17
+      },
+      {
+        "word": "zukunft",
+        "count": 16
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "wasserwege",
+        "count": 7,
+        "ratioParty": 706.1,
+        "ratioBundestag": 2219.0
+      },
+      {
+        "word": "vergelts",
+        "count": 9,
+        "ratioParty": 181.6,
+        "ratioBundestag": 570.6
+      },
+      {
+        "word": "luftfahrt",
+        "count": 7,
+        "ratioParty": 117.7,
+        "ratioBundestag": 147.9
+      },
+      {
+        "word": "verkehrsträger",
+        "count": 11,
+        "ratioParty": 65.3,
+        "ratioBundestag": 91.8
+      },
+      {
+        "word": "patrick",
+        "count": 7,
+        "ratioParty": 50.4,
+        "ratioBundestag": 85.3
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "solide",
+        "count": 3,
+        "ratioParty": 7.4,
+        "ratioBundestag": 9.1
+      },
+      {
+        "word": "wirtschaftlich",
+        "count": 3,
+        "ratioParty": 3.5,
+        "ratioBundestag": 4.2
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 620,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.9,
+    "vsParliament": 1.01
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "13"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "8.058"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufe",
+      "value": "32"
+    },
+    {
+      "emoji": "📊",
+      "label": "Top-Redner",
+      "value": "Top 8%"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Florian Oßner häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Wasserwege",
+        "isCorrect": true
+      },
+      {
+        "text": "Abstimmung",
+        "isCorrect": false
+      },
+      {
+        "text": "Freiheit",
+        "isCorrect": false
+      },
+      {
+        "text": "Wirtschaft",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Wasserwege\" nutzt Florian Oßner 706.1× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "2219.0× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Florian Oßner häufiger als der Rest der CDU/CSU-Fraktion?",
+    "options": [
+      {
+        "text": "Solide",
+        "isCorrect": true
+      },
+      {
+        "text": "Richtig",
+        "isCorrect": false
+      },
+      {
+        "text": "Problematisch",
+        "isCorrect": false
+      },
+      {
+        "text": "Sicher",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Solide\" nutzt Florian Oßner 7.4× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "9.1× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐿️",
+    "name": "Eichhörnchen",
+    "title": "Themenhüter",
+    "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+    "id": "eichhoernchen",
+    "alternatives": [
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißiger Abgeordneter",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      },
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Cleverer Stratege",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 0.973
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 90.9,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 95.5,
+      "collaboration": 100.0,
+      "demand_intensity": 1.3,
+      "acknowledgment": 7.9,
+      "authority": 69.9,
+      "future_orientation": 90.7,
+      "emotional_intensity": 77.8,
+      "inclusivity": 75.0,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 13,
+      "words": 5244,
+      "adjectives": 22,
+      "verbs": 76
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.57,
+      "klima": 0.57,
+      "wirtschaft": 7.82,
+      "soziales": 1.72,
+      "sicherheit": 1.91,
+      "gesundheit": 1.14,
+      "europa": 1.14,
+      "digital": 0.76,
+      "bildung": 0.57,
+      "finanzen": 17.16,
+      "justiz": 0.38,
+      "arbeit": 1.53,
+      "mobilitaet": 20.59
+    },
+    "topTopics": [
+      {
+        "topic": "mobilitaet",
+        "score": 20.59,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 17.16,
+        "rank": 2
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 7.82,
+        "rank": 3
+      },
+      {
+        "topic": "sicherheit",
+        "score": 1.91,
+        "rank": 4
+      },
+      {
+        "topic": "soziales",
+        "score": 1.72,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "migration",
+          "count": 2
+        },
+        {
+          "word": "grenze",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "klimaneutralität",
+          "count": 2
+        },
+        {
+          "word": "umweltpolitik",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "wachstum",
+          "count": 10
+        },
+        {
+          "word": "wirtschaftswachstum",
+          "count": 6
+        },
+        {
+          "word": "wettbewerbsfähigkeit",
+          "count": 5
+        },
+        {
+          "word": "unternehmen",
+          "count": 4
+        },
+        {
+          "word": "kapital",
+          "count": 4
+        }
+      ],
+      "soziales": [
+        {
+          "word": "familie",
+          "count": 4
+        },
+        {
+          "word": "grundsicherung",
+          "count": 2
+        },
+        {
+          "word": "rente",
+          "count": 1
+        },
+        {
+          "word": "bürgergeld",
+          "count": 1
+        },
+        {
+          "word": "armut",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "verteidigung",
+          "count": 3
+        },
+        {
+          "word": "soldaten",
+          "count": 2
+        },
+        {
+          "word": "polizisten",
+          "count": 1
+        },
+        {
+          "word": "angriff",
+          "count": 1
+        },
+        {
+          "word": "verteidigungsfähigkeit",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "krankenhäuser",
+          "count": 5
+        },
+        {
+          "word": "krankenhaus",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "frieden",
+          "count": 4
+        },
+        {
+          "word": "angriffskrieg",
+          "count": 1
+        },
+        {
+          "word": "ukraine",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 3
+        },
+        {
+          "word": "desinformation",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "forschung",
+          "count": 2
+        },
+        {
+          "word": "bildung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "investitionen",
+          "count": 30
+        },
+        {
+          "word": "haushalt",
+          "count": 22
+        },
+        {
+          "word": "sondervermögen",
+          "count": 9
+        },
+        {
+          "word": "entlastung",
+          "count": 6
+        },
+        {
+          "word": "bundeshaushalt",
+          "count": 4
+        }
+      ],
+      "justiz": [
+        {
+          "word": "straftat",
+          "count": 1
+        },
+        {
+          "word": "gericht",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "beschäftigung",
+          "count": 5
+        },
+        {
+          "word": "arbeitnehmer",
+          "count": 2
+        },
+        {
+          "word": "arbeitslosigkeit",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 35
+        },
+        {
+          "word": "straße",
+          "count": 22
+        },
+        {
+          "word": "schiene",
+          "count": 13
+        },
+        {
+          "word": "verkehr",
+          "count": 6
+        },
+        {
+          "word": "verkehrsinfrastruktur",
+          "count": 6
+        }
+      ]
+    }
+  }
+}

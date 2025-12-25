@@ -1,0 +1,300 @@
+{
+  "name": "Emmi Zeulner",
+  "party": "CDU/CSU",
+  "slug": "emmi-zeulner",
+  "academicTitle": null,
+  "speeches": 4,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 2210,
+  "avgWords": 442,
+  "minWords": 242,
+  "maxWords": 618,
+  "rankings": {
+    "speechRank": 451,
+    "wordsRank": 437,
+    "partySpeechRank": 137,
+    "partyWordsRank": 138,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 25.9,
+    "verbosityRank": 264,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 98,
+    "longestSpeechRank": 398
+  },
+  "drama": {
+    "interruptionsGiven": 9,
+    "interruptionsReceived": 2,
+    "interrupterRank": 161,
+    "interruptedRank": 517
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "pflege",
+        "count": 21
+      },
+      {
+        "word": "menschen",
+        "count": 17
+      },
+      {
+        "word": "gesetz",
+        "count": 9
+      },
+      {
+        "word": "beispiel",
+        "count": 7
+      },
+      {
+        "word": "ausbildung",
+        "count": 6
+      },
+      {
+        "word": "selbstverständlich",
+        "count": 6
+      },
+      {
+        "word": "klar",
+        "count": 5
+      },
+      {
+        "word": "einfach",
+        "count": 5
+      },
+      {
+        "word": "situation",
+        "count": 5
+      },
+      {
+        "word": "konkret",
+        "count": 5
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "pflege",
+        "count": 21,
+        "ratioParty": 58.7,
+        "ratioBundestag": 65.8
+      },
+      {
+        "word": "ausbildung",
+        "count": 6,
+        "ratioParty": 28.8,
+        "ratioBundestag": 34.4
+      },
+      {
+        "word": "selbstverständlich",
+        "count": 6,
+        "ratioParty": 14.9,
+        "ratioBundestag": 18.8
+      },
+      {
+        "word": "kommission",
+        "count": 5,
+        "ratioParty": 11.0,
+        "ratioBundestag": 12.7
+      },
+      {
+        "word": "situation",
+        "count": 5,
+        "ratioParty": 10.6,
+        "ratioBundestag": 11.6
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 442,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.64,
+    "vsParliament": 0.72
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "4"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "2.210"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Emmi Zeulner häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Bildung",
+        "isCorrect": false
+      },
+      {
+        "text": "Verantwortung",
+        "isCorrect": false
+      },
+      {
+        "text": "Abstimmung",
+        "isCorrect": false
+      },
+      {
+        "text": "Pflege",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Pflege\" nutzt Emmi Zeulner 58.7× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "65.8× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🐿️",
+    "name": "Eichhörnchen",
+    "title": "Themenhüterin",
+    "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+    "id": "eichhoernchen",
+    "alternatives": [
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Clevere Strategin",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 0.655
+      },
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißige Abgeordnete",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 0.589
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 0.0,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 87.5,
+      "collaboration": 50.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 16.7,
+      "authority": 75.0,
+      "future_orientation": 90.5,
+      "emotional_intensity": 10.0,
+      "inclusivity": 64.5,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 5,
+      "words": 1371,
+      "adjectives": 1,
+      "verbs": 12
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.0,
+      "wirtschaft": 0.73,
+      "soziales": 1.46,
+      "sicherheit": 0.0,
+      "gesundheit": 29.18,
+      "europa": 0.0,
+      "digital": 0.0,
+      "bildung": 5.11,
+      "finanzen": 1.46,
+      "justiz": 0.0,
+      "arbeit": 0.0,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "gesundheit",
+        "score": 29.18,
+        "rank": 1
+      },
+      {
+        "topic": "bildung",
+        "score": 5.11,
+        "rank": 2
+      },
+      {
+        "topic": "soziales",
+        "score": 1.46,
+        "rank": 3
+      },
+      {
+        "topic": "finanzen",
+        "score": 1.46,
+        "rank": 4
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 0.73,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "wirtschaft": [
+        {
+          "word": "wettbewerb",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "familie",
+          "count": 1
+        },
+        {
+          "word": "rente",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "pflege",
+          "count": 21
+        },
+        {
+          "word": "pflegegrad",
+          "count": 4
+        },
+        {
+          "word": "pflegekräfte",
+          "count": 3
+        },
+        {
+          "word": "prävention",
+          "count": 3
+        },
+        {
+          "word": "pflegeversicherung",
+          "count": 2
+        }
+      ],
+      "bildung": [
+        {
+          "word": "ausbildung",
+          "count": 6
+        },
+        {
+          "word": "studium",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "finanzierung",
+          "count": 2
+        }
+      ]
+    }
+  }
+}

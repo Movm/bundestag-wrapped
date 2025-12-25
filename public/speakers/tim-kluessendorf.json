@@ -1,0 +1,331 @@
+{
+  "name": "Tim Klüssendorf",
+  "party": "SPD",
+  "slug": "tim-kluessendorf",
+  "academicTitle": null,
+  "speeches": 2,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 1587,
+  "avgWords": 794,
+  "minWords": 779,
+  "maxWords": 808,
+  "rankings": {
+    "speechRank": 536,
+    "wordsRank": 499,
+    "partySpeechRank": 96,
+    "partyWordsRank": 92,
+    "partySize": 109,
+    "totalSpeakers": 609,
+    "percentile": 12.0,
+    "verbosityRank": null,
+    "verbosityTotal": null,
+    "partyVerbosityRank": null,
+    "longestSpeechRank": 191
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 6,
+    "interrupterRank": null,
+    "interruptedRank": 369
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "land",
+        "count": 12
+      },
+      {
+        "word": "endlich",
+        "count": 7
+      },
+      {
+        "word": "gemeinsam",
+        "count": 6
+      },
+      {
+        "word": "menschen",
+        "count": 5
+      },
+      {
+        "word": "glaube",
+        "count": 4
+      },
+      {
+        "word": "richtig",
+        "count": 4
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "endlich",
+        "count": 7,
+        "ratioParty": 12.2,
+        "ratioBundestag": 6.7
+      },
+      {
+        "word": "gemeinsam",
+        "count": 6,
+        "ratioParty": 4.0,
+        "ratioBundestag": 6.6
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "stark",
+        "count": 3,
+        "ratioParty": 8.8,
+        "ratioBundestag": 12.1
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 794,
+    "partyAvgWords": 637,
+    "parliamentAvgWords": 613,
+    "vsParty": 1.25,
+    "vsParliament": 1.3
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "2"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "1.587"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Tim Klüssendorf häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Antrag",
+        "isCorrect": false
+      },
+      {
+        "text": "Endlich",
+        "isCorrect": true
+      },
+      {
+        "text": "Arbeit",
+        "isCorrect": false
+      },
+      {
+        "text": "Sicherheit",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Endlich\" nutzt Tim Klüssendorf 12.2× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "6.7× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Tim Klüssendorf häufiger als der Rest der SPD-Fraktion?",
+    "options": [
+      {
+        "text": "Stark",
+        "isCorrect": true
+      },
+      {
+        "text": "Groß",
+        "isCorrect": false
+      },
+      {
+        "text": "National",
+        "isCorrect": false
+      },
+      {
+        "text": "Richtig",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Stark\" nutzt Tim Klüssendorf 8.8× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "12.1× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🦫",
+    "name": "Biber",
+    "title": "Konstruktiver Brückenbauer",
+    "reason": "Du baust Brücken zwischen Positionen – kooperativ und lösungsorientiert.",
+    "id": "biber",
+    "alternatives": [
+      {
+        "emoji": "🦦",
+        "name": "Otter",
+        "title": "Positiver Teamplayer",
+        "reason": "Du bringst gute Stimmung und konstruktive Beiträge ins Plenum.",
+        "id": "otter",
+        "score": 0.933
+      },
+      {
+        "emoji": "🐇",
+        "name": "Hase",
+        "title": "Wendiger Optimist",
+        "reason": "Mit positivem Blick reagierst du schnell auf neue Themen.",
+        "id": "hase",
+        "score": 0.883
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 83.3,
+      "aggression": 14.3,
+      "labeling": 0.0,
+      "solution_focus": 100.0,
+      "collaboration": 100.0,
+      "demand_intensity": 20.0,
+      "acknowledgment": 20.0,
+      "authority": 77.3,
+      "future_orientation": 96.3,
+      "emotional_intensity": 33.3,
+      "inclusivity": 66.7,
+      "discriminatory": 0.0
+    },
+    "confidence": "low",
+    "sampleSize": {
+      "speeches": 2,
+      "words": 1012,
+      "adjectives": 7,
+      "verbs": 10
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.99,
+      "klima": 0.0,
+      "wirtschaft": 4.94,
+      "soziales": 6.92,
+      "sicherheit": 0.0,
+      "gesundheit": 0.0,
+      "europa": 0.99,
+      "digital": 0.0,
+      "bildung": 0.0,
+      "finanzen": 8.89,
+      "justiz": 0.99,
+      "arbeit": 2.96,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "finanzen",
+        "score": 8.89,
+        "rank": 1
+      },
+      {
+        "topic": "soziales",
+        "score": 6.92,
+        "rank": 2
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 4.94,
+        "rank": 3
+      },
+      {
+        "topic": "arbeit",
+        "score": 2.96,
+        "rank": 4
+      },
+      {
+        "topic": "migration",
+        "score": 0.99,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "migration",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "industrie",
+          "count": 2
+        },
+        {
+          "word": "wachstum",
+          "count": 1
+        },
+        {
+          "word": "wirtschaftspolitik",
+          "count": 1
+        },
+        {
+          "word": "industriestandort",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "sozialstaat",
+          "count": 4
+        },
+        {
+          "word": "bürgergeld",
+          "count": 1
+        },
+        {
+          "word": "rente",
+          "count": 1
+        },
+        {
+          "word": "renten",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "sondervermögen",
+          "count": 2
+        },
+        {
+          "word": "haushalt",
+          "count": 2
+        },
+        {
+          "word": "investitionen",
+          "count": 1
+        },
+        {
+          "word": "kosten",
+          "count": 1
+        },
+        {
+          "word": "finanzierung",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "urteil",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "lohn",
+          "count": 1
+        },
+        {
+          "word": "tarifbindung",
+          "count": 1
+        },
+        {
+          "word": "arbeitsplatz",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

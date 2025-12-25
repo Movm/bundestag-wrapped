@@ -1,0 +1,381 @@
+{
+  "name": "Johannes Schraps",
+  "party": "SPD",
+  "slug": "johannes-schraps",
+  "academicTitle": null,
+  "speeches": 7,
+  "wortbeitraege": 2,
+  "befragungResponses": 0,
+  "totalWords": 4130,
+  "avgWords": 459,
+  "minWords": 66,
+  "maxWords": 864,
+  "rankings": {
+    "speechRank": 255,
+    "wordsRank": 241,
+    "partySpeechRank": 57,
+    "partyWordsRank": 57,
+    "partySize": 109,
+    "totalSpeakers": 609,
+    "percentile": 58.1,
+    "verbosityRank": 224,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 49,
+    "longestSpeechRank": 131
+  },
+  "drama": {
+    "interruptionsGiven": 24,
+    "interruptionsReceived": 12,
+    "interrupterRank": 87,
+    "interruptedRank": 233
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "ukraine",
+        "count": 30
+      },
+      {
+        "word": "klar",
+        "count": 14
+      },
+      {
+        "word": "europäische",
+        "count": 13
+      },
+      {
+        "word": "russischen",
+        "count": 11
+      },
+      {
+        "word": "europa",
+        "count": 11
+      },
+      {
+        "word": "braucht",
+        "count": 11
+      },
+      {
+        "word": "würde",
+        "count": 10
+      },
+      {
+        "word": "nutzung",
+        "count": 10
+      },
+      {
+        "word": "finde",
+        "count": 9
+      },
+      {
+        "word": "eingefrorenen",
+        "count": 9
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "belgien",
+        "count": 9,
+        "ratioParty": 1218.8,
+        "ratioBundestag": 321.5
+      },
+      {
+        "word": "eingefrorenen",
+        "count": 9,
+        "ratioParty": 304.7,
+        "ratioBundestag": 190.9
+      },
+      {
+        "word": "vermögenswerte",
+        "count": 7,
+        "ratioParty": 237.0,
+        "ratioBundestag": 158.4
+      },
+      {
+        "word": "banken",
+        "count": 7,
+        "ratioParty": 86.2,
+        "ratioBundestag": 76.6
+      },
+      {
+        "word": "nutzung",
+        "count": 10,
+        "ratioParty": 67.7,
+        "ratioBundestag": 52.2
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 459,
+    "partyAvgWords": 637,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.72,
+    "vsParliament": 0.75
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "7"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "4.130"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufe",
+      "value": "24"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Johannes Schraps häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Zukunft",
+        "isCorrect": false
+      },
+      {
+        "text": "Belgien",
+        "isCorrect": true
+      },
+      {
+        "text": "Antrag",
+        "isCorrect": false
+      },
+      {
+        "text": "Europa",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Belgien\" nutzt Johannes Schraps 1218.8× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "321.5× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🐝",
+    "name": "Biene",
+    "title": "Fleißiger Abgeordneter",
+    "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+    "id": "biene",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüter",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.965
+      },
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Cleverer Stratege",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 0.92
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 66.7,
+      "aggression": 0.0,
+      "labeling": 25.0,
+      "solution_focus": 53.3,
+      "collaboration": 80.0,
+      "demand_intensity": 11.1,
+      "acknowledgment": 14.8,
+      "authority": 62.2,
+      "future_orientation": 89.2,
+      "emotional_intensity": 47.4,
+      "inclusivity": 54.3,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 9,
+      "words": 2453,
+      "adjectives": 8,
+      "verbs": 27
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.41,
+      "klima": 0.0,
+      "wirtschaft": 1.22,
+      "soziales": 1.22,
+      "sicherheit": 0.41,
+      "gesundheit": 0.41,
+      "europa": 34.24,
+      "digital": 0.0,
+      "bildung": 0.41,
+      "finanzen": 5.71,
+      "justiz": 1.63,
+      "arbeit": 1.22,
+      "mobilitaet": 0.41
+    },
+    "topTopics": [
+      {
+        "topic": "europa",
+        "score": 34.24,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 5.71,
+        "rank": 2
+      },
+      {
+        "topic": "justiz",
+        "score": 1.63,
+        "rank": 3
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 1.22,
+        "rank": 4
+      },
+      {
+        "topic": "soziales",
+        "score": 1.22,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "integration",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "betrieb",
+          "count": 1
+        },
+        {
+          "word": "kredite",
+          "count": 1
+        },
+        {
+          "word": "wettbewerbsfähigkeit",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "renten",
+          "count": 1
+        },
+        {
+          "word": "sozialleistungen",
+          "count": 1
+        },
+        {
+          "word": "kinder",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "verteidigung",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "krankenhäuser",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "ukraine",
+          "count": 30
+        },
+        {
+          "word": "europa",
+          "count": 11
+        },
+        {
+          "word": "russland",
+          "count": 7
+        },
+        {
+          "word": "angriffskrieg",
+          "count": 6
+        },
+        {
+          "word": "abkommen",
+          "count": 5
+        }
+      ],
+      "bildung": [
+        {
+          "word": "schulen",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "banken",
+          "count": 7
+        },
+        {
+          "word": "finanzierung",
+          "count": 2
+        },
+        {
+          "word": "zinsen",
+          "count": 1
+        },
+        {
+          "word": "bank",
+          "count": 1
+        },
+        {
+          "word": "währung",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "gericht",
+          "count": 2
+        },
+        {
+          "word": "beschluss",
+          "count": 1
+        },
+        {
+          "word": "rechtsstaatlichkeit",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "einkommen",
+          "count": 1
+        },
+        {
+          "word": "löhne",
+          "count": 1
+        },
+        {
+          "word": "gehälter",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,467 @@
+{
+  "name": "Schahina Gambir",
+  "party": "GRÜNE",
+  "slug": "schahina-gambir",
+  "academicTitle": null,
+  "speeches": 11,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 4198,
+  "avgWords": 350,
+  "minWords": 47,
+  "maxWords": 532,
+  "rankings": {
+    "speechRank": 92,
+    "wordsRank": 235,
+    "partySpeechRank": 17,
+    "partyWordsRank": 35,
+    "partySize": 85,
+    "totalSpeakers": 609,
+    "percentile": 84.9,
+    "verbosityRank": 414,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 55,
+    "longestSpeechRank": 499
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 19,
+    "interrupterRank": null,
+    "interruptedRank": 141
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 43
+      },
+      {
+        "word": "afghanistan",
+        "count": 18
+      },
+      {
+        "word": "bundesregierung",
+        "count": 14
+      },
+      {
+        "word": "familie",
+        "count": 12
+      },
+      {
+        "word": "familien",
+        "count": 11
+      },
+      {
+        "word": "leben",
+        "count": 10
+      },
+      {
+        "word": "jahre",
+        "count": 9
+      },
+      {
+        "word": "entwicklungszusammenarbeit",
+        "count": 9
+      },
+      {
+        "word": "deutschland",
+        "count": 9
+      },
+      {
+        "word": "jahren",
+        "count": 9
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "bundesaufnahmeprogramm",
+        "count": 5,
+        "ratioParty": 212.9,
+        "ratioBundestag": 186.5
+      },
+      {
+        "word": "aussetzung",
+        "count": 5,
+        "ratioParty": 47.3,
+        "ratioBundestag": 38.7
+      },
+      {
+        "word": "afghanistan",
+        "count": 18,
+        "ratioParty": 40.3,
+        "ratioBundestag": 48.8
+      },
+      {
+        "word": "taliban",
+        "count": 6,
+        "ratioParty": 20.4,
+        "ratioBundestag": 39.3
+      },
+      {
+        "word": "familie",
+        "count": 12,
+        "ratioParty": 17.9,
+        "ratioBundestag": 17.3
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "verlässlich",
+        "count": 3,
+        "ratioParty": 11.1,
+        "ratioBundestag": 15.2
+      },
+      {
+        "word": "falsch",
+        "count": 4,
+        "ratioParty": 5.8,
+        "ratioBundestag": 7.4
+      },
+      {
+        "word": "gerecht",
+        "count": 3,
+        "ratioParty": 3.4,
+        "ratioBundestag": 4.2
+      },
+      {
+        "word": "sicher",
+        "count": 3,
+        "ratioParty": 3.1,
+        "ratioBundestag": 2.4
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 350,
+    "partyAvgWords": 567,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.62,
+    "vsParliament": 0.57
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "11"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "4.198"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Schahina Gambir häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Migration",
+        "isCorrect": false
+      },
+      {
+        "text": "Kanzler",
+        "isCorrect": false
+      },
+      {
+        "text": "Bundesaufnahmeprogramm",
+        "isCorrect": true
+      },
+      {
+        "text": "Koalition",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Bundesaufnahmeprogramm\" nutzt Schahina Gambir 212.9× häufiger als der GRÜNE-Durchschnitt.",
+    "explanationBundestag": "186.5× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Schahina Gambir häufiger als der Rest der GRÜNE-Fraktion?",
+    "options": [
+      {
+        "text": "Neu",
+        "isCorrect": false
+      },
+      {
+        "text": "Alt",
+        "isCorrect": false
+      },
+      {
+        "text": "Schlecht",
+        "isCorrect": false
+      },
+      {
+        "text": "Verlässlich",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Verlässlich\" nutzt Schahina Gambir 11.1× häufiger als der GRÜNE-Durchschnitt.",
+    "explanationBundestag": "15.2× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐝",
+    "name": "Biene",
+    "title": "Fleißige Abgeordnete",
+    "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+    "id": "biene",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüterin",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.968
+      },
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Clevere Strategin",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 0.96
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 81.0,
+      "aggression": 15.4,
+      "labeling": 3.8,
+      "solution_focus": 72.7,
+      "collaboration": 57.1,
+      "demand_intensity": 2.4,
+      "acknowledgment": 0.0,
+      "authority": 92.1,
+      "future_orientation": 83.0,
+      "emotional_intensity": 62.5,
+      "inclusivity": 48.6,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 12,
+      "words": 2790,
+      "adjectives": 26,
+      "verbs": 41
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 6.09,
+      "klima": 1.08,
+      "wirtschaft": 1.08,
+      "soziales": 14.7,
+      "sicherheit": 2.51,
+      "gesundheit": 0.36,
+      "europa": 3.23,
+      "digital": 1.08,
+      "bildung": 1.79,
+      "finanzen": 3.94,
+      "justiz": 5.02,
+      "arbeit": 0.0,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "soziales",
+        "score": 14.7,
+        "rank": 1
+      },
+      {
+        "topic": "migration",
+        "score": 6.09,
+        "rank": 2
+      },
+      {
+        "topic": "justiz",
+        "score": 5.02,
+        "rank": 3
+      },
+      {
+        "topic": "finanzen",
+        "score": 3.94,
+        "rank": 4
+      },
+      {
+        "topic": "europa",
+        "score": 3.23,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "integration",
+          "count": 5
+        },
+        {
+          "word": "subsidiär",
+          "count": 4
+        },
+        {
+          "word": "schutzsuchende",
+          "count": 3
+        },
+        {
+          "word": "familiennachzug",
+          "count": 2
+        },
+        {
+          "word": "abschiebung",
+          "count": 2
+        }
+      ],
+      "klima": [
+        {
+          "word": "biodiversität",
+          "count": 1
+        },
+        {
+          "word": "klimawandel",
+          "count": 1
+        },
+        {
+          "word": "nachhaltig",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "kredite",
+          "count": 2
+        },
+        {
+          "word": "märkte",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "familie",
+          "count": 12
+        },
+        {
+          "word": "familien",
+          "count": 11
+        },
+        {
+          "word": "kinder",
+          "count": 9
+        },
+        {
+          "word": "armut",
+          "count": 3
+        },
+        {
+          "word": "eltern",
+          "count": 2
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "gewalt",
+          "count": 5
+        },
+        {
+          "word": "soldaten",
+          "count": 2
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "pandemie",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "krieg",
+          "count": 2
+        },
+        {
+          "word": "außenpolitik",
+          "count": 2
+        },
+        {
+          "word": "außenminister",
+          "count": 1
+        },
+        {
+          "word": "russland",
+          "count": 1
+        },
+        {
+          "word": "china",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "online",
+          "count": 2
+        },
+        {
+          "word": "daten",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "wissenschaft",
+          "count": 2
+        },
+        {
+          "word": "bildung",
+          "count": 2
+        },
+        {
+          "word": "schule",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 5
+        },
+        {
+          "word": "kosten",
+          "count": 2
+        },
+        {
+          "word": "investitionen",
+          "count": 1
+        },
+        {
+          "word": "bundeshaushalt",
+          "count": 1
+        },
+        {
+          "word": "finanzierung",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "rechtsstaat",
+          "count": 3
+        },
+        {
+          "word": "gesetzesänderung",
+          "count": 2
+        },
+        {
+          "word": "gericht",
+          "count": 2
+        },
+        {
+          "word": "gerichte",
+          "count": 2
+        },
+        {
+          "word": "grundgesetz",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

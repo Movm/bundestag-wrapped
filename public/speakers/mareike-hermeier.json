@@ -1,0 +1,399 @@
+{
+  "name": "Mareike Hermeier",
+  "party": "DIE LINKE",
+  "slug": "mareike-hermeier",
+  "academicTitle": null,
+  "speeches": 11,
+  "wortbeitraege": 2,
+  "befragungResponses": 0,
+  "totalWords": 4656,
+  "avgWords": 358,
+  "minWords": 14,
+  "maxWords": 613,
+  "rankings": {
+    "speechRank": 106,
+    "wordsRank": 210,
+    "partySpeechRank": 16,
+    "partyWordsRank": 21,
+    "partySize": 63,
+    "totalSpeakers": 609,
+    "percentile": 82.6,
+    "verbosityRank": 399,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 38,
+    "longestSpeechRank": 406
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 23,
+    "interrupterRank": 315,
+    "interruptedRank": 99
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "haushalt",
+        "count": 12
+      },
+      {
+        "word": "zukunft",
+        "count": 8
+      },
+      {
+        "word": "wäre",
+        "count": 8
+      },
+      {
+        "word": "menschen",
+        "count": 8
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "ahaus",
+        "count": 7,
+        "ratioParty": 401.7,
+        "ratioBundestag": 162.5
+      },
+      {
+        "word": "jülich",
+        "count": 5,
+        "ratioParty": 286.9,
+        "ratioBundestag": 55.7
+      },
+      {
+        "word": "kreislaufwirtschaft",
+        "count": 5,
+        "ratioParty": 95.6,
+        "ratioBundestag": 55.7
+      },
+      {
+        "word": "studien",
+        "count": 5,
+        "ratioParty": 20.5,
+        "ratioBundestag": 31.0
+      },
+      {
+        "word": "energien",
+        "count": 6,
+        "ratioParty": 17.2,
+        "ratioBundestag": 12.2
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "sicher",
+        "count": 4,
+        "ratioParty": 4.1,
+        "ratioBundestag": 3.0
+      },
+      {
+        "word": "rechts",
+        "count": 3,
+        "ratioParty": 3.2,
+        "ratioBundestag": 5.3
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 358,
+    "partyAvgWords": 521,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.69,
+    "vsParliament": 0.58
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "11"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "4.656"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Mareike Hermeier häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Ausschuss",
+        "isCorrect": false
+      },
+      {
+        "text": "Reform",
+        "isCorrect": false
+      },
+      {
+        "text": "Gesetzentwurf",
+        "isCorrect": false
+      },
+      {
+        "text": "Ahaus",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Ahaus\" nutzt Mareike Hermeier 401.7× häufiger als der DIE LINKE-Durchschnitt.",
+    "explanationBundestag": "162.5× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Mareike Hermeier häufiger als der Rest der DIE LINKE-Fraktion?",
+    "options": [
+      {
+        "text": "Politisch",
+        "isCorrect": false
+      },
+      {
+        "text": "Falsch",
+        "isCorrect": false
+      },
+      {
+        "text": "Groß",
+        "isCorrect": false
+      },
+      {
+        "text": "Sicher",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Sicher\" nutzt Mareike Hermeier 4.1× häufiger als der DIE LINKE-Durchschnitt.",
+    "explanationBundestag": "3.0× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐝",
+    "name": "Biene",
+    "title": "Fleißige Abgeordnete",
+    "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+    "id": "biene",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüterin",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.986
+      },
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Clevere Strategin",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 0.973
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 70.6,
+      "aggression": 16.7,
+      "labeling": 12.5,
+      "solution_focus": 58.3,
+      "collaboration": 33.3,
+      "demand_intensity": 21.1,
+      "acknowledgment": 0.0,
+      "authority": 81.8,
+      "future_orientation": 71.4,
+      "emotional_intensity": 42.9,
+      "inclusivity": 31.1,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 13,
+      "words": 2987,
+      "adjectives": 24,
+      "verbs": 19
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.67,
+      "klima": 19.08,
+      "wirtschaft": 3.68,
+      "soziales": 9.37,
+      "sicherheit": 0.0,
+      "gesundheit": 0.0,
+      "europa": 0.67,
+      "digital": 0.67,
+      "bildung": 1.67,
+      "finanzen": 7.03,
+      "justiz": 0.0,
+      "arbeit": 1.0,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "klima",
+        "score": 19.08,
+        "rank": 1
+      },
+      {
+        "topic": "soziales",
+        "score": 9.37,
+        "rank": 2
+      },
+      {
+        "topic": "finanzen",
+        "score": 7.03,
+        "rank": 3
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 3.68,
+        "rank": 4
+      },
+      {
+        "topic": "bildung",
+        "score": 1.67,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "grenze",
+          "count": 1
+        },
+        {
+          "word": "drittstaaten",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "klimakrise",
+          "count": 6
+        },
+        {
+          "word": "umwelt",
+          "count": 5
+        },
+        {
+          "word": "kreislaufwirtschaft",
+          "count": 5
+        },
+        {
+          "word": "energiewende",
+          "count": 5
+        },
+        {
+          "word": "kernenergie",
+          "count": 4
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "markt",
+          "count": 3
+        },
+        {
+          "word": "betrieb",
+          "count": 2
+        },
+        {
+          "word": "firma",
+          "count": 2
+        },
+        {
+          "word": "konkurrenz",
+          "count": 1
+        },
+        {
+          "word": "produktion",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 7
+        },
+        {
+          "word": "familien",
+          "count": 5
+        },
+        {
+          "word": "alleinerziehende",
+          "count": 3
+        },
+        {
+          "word": "armut",
+          "count": 3
+        },
+        {
+          "word": "eltern",
+          "count": 2
+        }
+      ],
+      "europa": [
+        {
+          "word": "allianz",
+          "count": 2
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 1
+        },
+        {
+          "word": "netz",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "schule",
+          "count": 2
+        },
+        {
+          "word": "forschung",
+          "count": 2
+        },
+        {
+          "word": "bildung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 12
+        },
+        {
+          "word": "kosten",
+          "count": 5
+        },
+        {
+          "word": "etat",
+          "count": 2
+        },
+        {
+          "word": "subventionen",
+          "count": 1
+        },
+        {
+          "word": "finanzierung",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "einkommen",
+          "count": 1
+        },
+        {
+          "word": "gewerkschaft",
+          "count": 1
+        },
+        {
+          "word": "beschäftigte",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

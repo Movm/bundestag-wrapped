@@ -1,0 +1,425 @@
+{
+  "name": "Angelika Glöckner",
+  "party": "SPD",
+  "slug": "angelika-gloeckner",
+  "academicTitle": null,
+  "speeches": 11,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 3805,
+  "avgWords": 346,
+  "minWords": 22,
+  "maxWords": 633,
+  "rankings": {
+    "speechRank": 103,
+    "wordsRank": 274,
+    "partySpeechRank": 27,
+    "partyWordsRank": 60,
+    "partySize": 109,
+    "totalSpeakers": 609,
+    "percentile": 83.1,
+    "verbosityRank": 419,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 80,
+    "longestSpeechRank": 383
+  },
+  "drama": {
+    "interruptionsGiven": 9,
+    "interruptionsReceived": 21,
+    "interrupterRank": 167,
+    "interruptedRank": 118
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 35
+      },
+      {
+        "word": "wichtig",
+        "count": 10
+      },
+      {
+        "word": "werte",
+        "count": 9
+      },
+      {
+        "word": "klar",
+        "count": 9
+      },
+      {
+        "word": "land",
+        "count": 8
+      },
+      {
+        "word": "gehört",
+        "count": 7
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "arbeitsschutz",
+        "count": 6,
+        "ratioParty": 275.8,
+        "ratioBundestag": 118.5
+      },
+      {
+        "word": "behinderungen",
+        "count": 5,
+        "ratioParty": 114.9,
+        "ratioBundestag": 111.5
+      },
+      {
+        "word": "wohnraum",
+        "count": 6,
+        "ratioParty": 10.5,
+        "ratioBundestag": 14.6
+      },
+      {
+        "word": "werte",
+        "count": 9,
+        "ratioParty": 9.1,
+        "ratioBundestag": 9.5
+      },
+      {
+        "word": "helfen",
+        "count": 5,
+        "ratioParty": 7.3,
+        "ratioBundestag": 8.6
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "rechts",
+        "count": 3,
+        "ratioParty": 7.3,
+        "ratioBundestag": 6.5
+      },
+      {
+        "word": "gerecht",
+        "count": 3,
+        "ratioParty": 3.5,
+        "ratioBundestag": 4.9
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 346,
+    "partyAvgWords": 637,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.54,
+    "vsParliament": 0.56
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "11"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "3.805"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Angelika Glöckner häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Koalition",
+        "isCorrect": false
+      },
+      {
+        "text": "Sicherheit",
+        "isCorrect": false
+      },
+      {
+        "text": "Demokratie",
+        "isCorrect": false
+      },
+      {
+        "text": "Arbeitsschutz",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Arbeitsschutz\" nutzt Angelika Glöckner 275.8× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "118.5× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Angelika Glöckner häufiger als der Rest der SPD-Fraktion?",
+    "options": [
+      {
+        "text": "Richtig",
+        "isCorrect": false
+      },
+      {
+        "text": "Erfolgreich",
+        "isCorrect": false
+      },
+      {
+        "text": "Rechts",
+        "isCorrect": true
+      },
+      {
+        "text": "Wichtig",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Rechts\" nutzt Angelika Glöckner 7.3× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "6.5× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐝",
+    "name": "Biene",
+    "title": "Fleißige Abgeordnete",
+    "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+    "id": "biene",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüterin",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.952
+      },
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Clevere Strategin",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 0.947
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 73.3,
+      "aggression": 14.3,
+      "labeling": 14.3,
+      "solution_focus": 90.0,
+      "collaboration": 75.0,
+      "demand_intensity": 5.6,
+      "acknowledgment": 0.0,
+      "authority": 80.6,
+      "future_orientation": 96.0,
+      "emotional_intensity": 75.0,
+      "inclusivity": 57.6,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 11,
+      "words": 2409,
+      "adjectives": 21,
+      "verbs": 36
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 3.32,
+      "klima": 2.91,
+      "wirtschaft": 2.08,
+      "soziales": 16.6,
+      "sicherheit": 0.83,
+      "gesundheit": 0.0,
+      "europa": 5.81,
+      "digital": 0.0,
+      "bildung": 0.42,
+      "finanzen": 3.32,
+      "justiz": 1.25,
+      "arbeit": 4.98,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "soziales",
+        "score": 16.6,
+        "rank": 1
+      },
+      {
+        "topic": "europa",
+        "score": 5.81,
+        "rank": 2
+      },
+      {
+        "topic": "arbeit",
+        "score": 4.98,
+        "rank": 3
+      },
+      {
+        "topic": "migration",
+        "score": 3.32,
+        "rank": 4
+      },
+      {
+        "topic": "finanzen",
+        "score": 3.32,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "grenzkontrollen",
+          "count": 3
+        },
+        {
+          "word": "asyl",
+          "count": 2
+        },
+        {
+          "word": "migration",
+          "count": 1
+        },
+        {
+          "word": "integration",
+          "count": 1
+        },
+        {
+          "word": "dublin",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "energiewende",
+          "count": 4
+        },
+        {
+          "word": "klimawandel",
+          "count": 2
+        },
+        {
+          "word": "klimaschutz",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "importe",
+          "count": 1
+        },
+        {
+          "word": "industrie",
+          "count": 1
+        },
+        {
+          "word": "betriebe",
+          "count": 1
+        },
+        {
+          "word": "fachkräfte",
+          "count": 1
+        },
+        {
+          "word": "produktion",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 5
+        },
+        {
+          "word": "rente",
+          "count": 5
+        },
+        {
+          "word": "wohnungen",
+          "count": 4
+        },
+        {
+          "word": "mieten",
+          "count": 4
+        },
+        {
+          "word": "rentner",
+          "count": 4
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "abschreckung",
+          "count": 2
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 7
+        },
+        {
+          "word": "putin",
+          "count": 2
+        },
+        {
+          "word": "europäisch",
+          "count": 2
+        },
+        {
+          "word": "sanktionen",
+          "count": 1
+        },
+        {
+          "word": "bündnis",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "qualifizierung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 5
+        },
+        {
+          "word": "kosten",
+          "count": 1
+        },
+        {
+          "word": "investitionen",
+          "count": 1
+        },
+        {
+          "word": "entlastung",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "verbraucherschutz",
+          "count": 2
+        },
+        {
+          "word": "strafe",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitsschutz",
+          "count": 6
+        },
+        {
+          "word": "jobcenter",
+          "count": 3
+        },
+        {
+          "word": "beschäftigte",
+          "count": 2
+        },
+        {
+          "word": "arbeitsplätze",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

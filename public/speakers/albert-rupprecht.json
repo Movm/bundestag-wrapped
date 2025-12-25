@@ -1,0 +1,305 @@
+{
+  "name": "Albert Rupprecht",
+  "party": "CDU/CSU",
+  "slug": "albert-rupprecht",
+  "academicTitle": null,
+  "speeches": 0,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 902,
+  "avgWords": 902,
+  "minWords": 902,
+  "maxWords": 902,
+  "rankings": {
+    "speechRank": 603,
+    "wordsRank": 565,
+    "partySpeechRank": 198,
+    "partyWordsRank": 185,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 1.0,
+    "verbosityRank": null,
+    "verbosityTotal": null,
+    "partyVerbosityRank": null,
+    "longestSpeechRank": 104
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 0,
+    "interrupterRank": null,
+    "interruptedRank": null
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "ausdrücklich",
+        "count": 6
+      },
+      {
+        "word": "risiken",
+        "count": 6
+      },
+      {
+        "word": "gesetzentwurf",
+        "count": 6
+      },
+      {
+        "word": "stimme",
+        "count": 5
+      },
+      {
+        "word": "handlungsfähigkeit",
+        "count": 4
+      },
+      {
+        "word": "landes",
+        "count": 4
+      },
+      {
+        "word": "finanzierung",
+        "count": 4
+      },
+      {
+        "word": "deutschland",
+        "count": 4
+      },
+      {
+        "word": "jahren",
+        "count": 4
+      },
+      {
+        "word": "wachstum",
+        "count": 4
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "stimme",
+        "count": 5,
+        "ratioParty": 93.4,
+        "ratioBundestag": 86.2
+      },
+      {
+        "word": "risiken",
+        "count": 6,
+        "ratioParty": 64.2,
+        "ratioBundestag": 88.4
+      },
+      {
+        "word": "ausdrücklich",
+        "count": 6,
+        "ratioParty": 25.7,
+        "ratioBundestag": 36.5
+      },
+      {
+        "word": "gesetzentwurf",
+        "count": 6,
+        "ratioParty": 18.9,
+        "ratioBundestag": 20.0
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 902,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 1.31,
+    "vsParliament": 1.47
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "0"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Albert Rupprecht häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Stimme",
+        "isCorrect": true
+      },
+      {
+        "text": "Zukunft",
+        "isCorrect": false
+      },
+      {
+        "text": "Gesetz",
+        "isCorrect": false
+      },
+      {
+        "text": "Freiheit",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Stimme\" nutzt Albert Rupprecht 93.4× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "86.2× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🦢",
+    "name": "Schwan",
+    "title": "Bedächtiger Redner",
+    "reason": "Wenige, aber durchdachte und ausführliche Reden.",
+    "id": "schwan",
+    "alternatives": [
+      {
+        "emoji": "🐢",
+        "name": "Schildkröte",
+        "title": "Gründlicher Analyst",
+        "reason": "Wenige Reden, aber wenn, dann richtig ausführlich.",
+        "id": "schildkroete",
+        "score": 0.88
+      },
+      {
+        "emoji": "🦫",
+        "name": "Biber",
+        "title": "Konstruktiver Brückenbauer",
+        "reason": "Du baust Brücken zwischen Positionen – kooperativ und lösungsorientiert.",
+        "id": "biber",
+        "score": 0.74
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 25.0,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 80.0,
+      "collaboration": 50.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 0.0,
+      "authority": 66.7,
+      "future_orientation": 85.7,
+      "emotional_intensity": 50.0,
+      "inclusivity": 37.5,
+      "discriminatory": 0.0
+    },
+    "confidence": "low",
+    "sampleSize": {
+      "speeches": 1,
+      "words": 608,
+      "adjectives": 4,
+      "verbs": 5
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.0,
+      "wirtschaft": 13.16,
+      "soziales": 11.51,
+      "sicherheit": 0.0,
+      "gesundheit": 0.0,
+      "europa": 0.0,
+      "digital": 0.0,
+      "bildung": 0.0,
+      "finanzen": 19.74,
+      "justiz": 1.64,
+      "arbeit": 1.64,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "finanzen",
+        "score": 19.74,
+        "rank": 1
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 13.16,
+        "rank": 2
+      },
+      {
+        "topic": "soziales",
+        "score": 11.51,
+        "rank": 3
+      },
+      {
+        "topic": "justiz",
+        "score": 1.64,
+        "rank": 4
+      },
+      {
+        "topic": "arbeit",
+        "score": 1.64,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "wirtschaft": [
+        {
+          "word": "wachstum",
+          "count": 4
+        },
+        {
+          "word": "wettbewerbsfähigkeit",
+          "count": 3
+        },
+        {
+          "word": "anlage",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "rente",
+          "count": 2
+        },
+        {
+          "word": "sozialstaat",
+          "count": 2
+        },
+        {
+          "word": "rentnerin",
+          "count": 1
+        },
+        {
+          "word": "rentner",
+          "count": 1
+        },
+        {
+          "word": "renten",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "finanzierung",
+          "count": 4
+        },
+        {
+          "word": "verschuldung",
+          "count": 2
+        },
+        {
+          "word": "steuern",
+          "count": 2
+        },
+        {
+          "word": "bundeshaushalt",
+          "count": 1
+        },
+        {
+          "word": "schuldenbremse",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "beschluss",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "rentenversicherung",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

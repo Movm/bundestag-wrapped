@@ -1,0 +1,423 @@
+{
+  "name": "Katharina Beck",
+  "party": "GRÜNE",
+  "slug": "katharina-beck",
+  "academicTitle": null,
+  "speeches": 9,
+  "wortbeitraege": 2,
+  "befragungResponses": 0,
+  "totalWords": 5916,
+  "avgWords": 538,
+  "minWords": 113,
+  "maxWords": 818,
+  "rankings": {
+    "speechRank": 162,
+    "wordsRank": 128,
+    "partySpeechRank": 29,
+    "partyWordsRank": 21,
+    "partySize": 85,
+    "totalSpeakers": 609,
+    "percentile": 73.4,
+    "verbosityRank": 123,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 14,
+    "longestSpeechRank": 177
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 25,
+    "interrupterRank": null,
+    "interruptedRank": 80
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 17
+      },
+      {
+        "word": "einfach",
+        "count": 16
+      },
+      {
+        "word": "start",
+        "count": 15
+      },
+      {
+        "word": "ausnahmen",
+        "count": 14
+      },
+      {
+        "word": "bitte",
+        "count": 13
+      },
+      {
+        "word": "unternehmen",
+        "count": 13
+      },
+      {
+        "word": "jahr",
+        "count": 12
+      },
+      {
+        "word": "paar",
+        "count": 12
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "belege",
+        "count": 11,
+        "ratioParty": 231.7,
+        "ratioBundestag": 232.8
+      },
+      {
+        "word": "aufbewahrungsfristen",
+        "count": 5,
+        "ratioParty": 158.0,
+        "ratioBundestag": 130.7
+      },
+      {
+        "word": "steuererhöhungen",
+        "count": 5,
+        "ratioParty": 158.0,
+        "ratioBundestag": 85.5
+      },
+      {
+        "word": "booster",
+        "count": 5,
+        "ratioParty": 158.0,
+        "ratioBundestag": 92.6
+      },
+      {
+        "word": "steuersystem",
+        "count": 6,
+        "ratioParty": 75.8,
+        "ratioBundestag": 91.9
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "unfassbar",
+        "count": 8,
+        "ratioParty": 50.6,
+        "ratioBundestag": 77.3
+      },
+      {
+        "word": "ungerecht",
+        "count": 4,
+        "ratioParty": 21.1,
+        "ratioBundestag": 29.6
+      },
+      {
+        "word": "stark",
+        "count": 5,
+        "ratioParty": 7.0,
+        "ratioBundestag": 5.5
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 538,
+    "partyAvgWords": 567,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.95,
+    "vsParliament": 0.88
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "9"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "5.916"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Katharina Beck häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Demokratie",
+        "isCorrect": false
+      },
+      {
+        "text": "Familie",
+        "isCorrect": false
+      },
+      {
+        "text": "Belege",
+        "isCorrect": true
+      },
+      {
+        "text": "Minister",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Belege\" nutzt Katharina Beck 231.7× häufiger als der GRÜNE-Durchschnitt.",
+    "explanationBundestag": "232.8× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Katharina Beck häufiger als der Rest der GRÜNE-Fraktion?",
+    "options": [
+      {
+        "text": "Unfassbar",
+        "isCorrect": true
+      },
+      {
+        "text": "Klar",
+        "isCorrect": false
+      },
+      {
+        "text": "National",
+        "isCorrect": false
+      },
+      {
+        "text": "Groß",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Unfassbar\" nutzt Katharina Beck 50.6× häufiger als der GRÜNE-Durchschnitt.",
+    "explanationBundestag": "77.3× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐿️",
+    "name": "Eichhörnchen",
+    "title": "Themenhüterin",
+    "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+    "id": "eichhoernchen",
+    "alternatives": [
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißige Abgeordnete",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      },
+      {
+        "emoji": "🐻",
+        "name": "Bär",
+        "title": "Standhafte Debattiererin",
+        "reason": "Trotz 25× unterbrochen zu werden, bleibst du standhaft.",
+        "id": "baer",
+        "score": 0.961
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 47.1,
+      "aggression": 32.0,
+      "labeling": 0.0,
+      "solution_focus": 81.8,
+      "collaboration": 16.7,
+      "demand_intensity": 6.2,
+      "acknowledgment": 6.2,
+      "authority": 78.0,
+      "future_orientation": 68.3,
+      "emotional_intensity": 50.0,
+      "inclusivity": 43.9,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 11,
+      "words": 3744,
+      "adjectives": 25,
+      "verbs": 32
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 1.07,
+      "wirtschaft": 7.75,
+      "soziales": 2.94,
+      "sicherheit": 1.34,
+      "gesundheit": 0.0,
+      "europa": 1.07,
+      "digital": 0.0,
+      "bildung": 0.8,
+      "finanzen": 13.62,
+      "justiz": 0.8,
+      "arbeit": 0.53,
+      "mobilitaet": 1.34
+    },
+    "topTopics": [
+      {
+        "topic": "finanzen",
+        "score": 13.62,
+        "rank": 1
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 7.75,
+        "rank": 2
+      },
+      {
+        "topic": "soziales",
+        "score": 2.94,
+        "rank": 3
+      },
+      {
+        "topic": "sicherheit",
+        "score": 1.34,
+        "rank": 4
+      },
+      {
+        "topic": "mobilitaet",
+        "score": 1.34,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "ökosystem",
+          "count": 3
+        },
+        {
+          "word": "klimaschutz",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 13
+        },
+        {
+          "word": "rezession",
+          "count": 3
+        },
+        {
+          "word": "standort",
+          "count": 3
+        },
+        {
+          "word": "handwerk",
+          "count": 2
+        },
+        {
+          "word": "mittelstand",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "wohnungen",
+          "count": 7
+        },
+        {
+          "word": "umverteilung",
+          "count": 2
+        },
+        {
+          "word": "familie",
+          "count": 1
+        },
+        {
+          "word": "rente",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "polizisten",
+          "count": 2
+        },
+        {
+          "word": "betrug",
+          "count": 2
+        },
+        {
+          "word": "geldwäsche",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 2
+        },
+        {
+          "word": "binnenmarkt",
+          "count": 1
+        },
+        {
+          "word": "china",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "professor",
+          "count": 1
+        },
+        {
+          "word": "bildung",
+          "count": 1
+        },
+        {
+          "word": "schulen",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "investitionen",
+          "count": 11
+        },
+        {
+          "word": "steuern",
+          "count": 9
+        },
+        {
+          "word": "steuerhinterziehung",
+          "count": 5
+        },
+        {
+          "word": "finanzierung",
+          "count": 5
+        },
+        {
+          "word": "schulden",
+          "count": 4
+        }
+      ],
+      "justiz": [
+        {
+          "word": "straftaten",
+          "count": 2
+        },
+        {
+          "word": "gesetzesänderung",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "einkommen",
+          "count": 2
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 2
+        },
+        {
+          "word": "schiene",
+          "count": 2
+        },
+        {
+          "word": "straßen",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

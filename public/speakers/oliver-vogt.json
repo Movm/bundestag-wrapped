@@ -1,0 +1,375 @@
+{
+  "name": "Dr. Oliver Vogt",
+  "party": "CDU/CSU",
+  "slug": "oliver-vogt",
+  "academicTitle": "Dr",
+  "speeches": 1,
+  "wortbeitraege": 4,
+  "befragungResponses": 0,
+  "totalWords": 3715,
+  "avgWords": 743,
+  "minWords": 676,
+  "maxWords": 832,
+  "rankings": {
+    "speechRank": 570,
+    "wordsRank": 282,
+    "partySpeechRank": 185,
+    "partyWordsRank": 87,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 6.4,
+    "verbosityRank": null,
+    "verbosityTotal": null,
+    "partyVerbosityRank": null,
+    "longestSpeechRank": 159
+  },
+  "drama": {
+    "interruptionsGiven": 35,
+    "interruptionsReceived": 5,
+    "interrupterRank": 50,
+    "interruptedRank": 397
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "land",
+        "count": 15
+      },
+      {
+        "word": "bundesminister",
+        "count": 14
+      },
+      {
+        "word": "haushalt",
+        "count": 13
+      },
+      {
+        "word": "jahr",
+        "count": 10
+      },
+      {
+        "word": "dies",
+        "count": 10
+      },
+      {
+        "word": "rainer",
+        "count": 10
+      },
+      {
+        "word": "deutschland",
+        "count": 9
+      },
+      {
+        "word": "koalition",
+        "count": 9
+      },
+      {
+        "word": "herzlichen",
+        "count": 9
+      },
+      {
+        "word": "haushaltsentwurf",
+        "count": 8
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "forstwirte",
+        "count": 5,
+        "ratioParty": 365.8,
+        "ratioBundestag": 429.5
+      },
+      {
+        "word": "bauernfamilien",
+        "count": 5,
+        "ratioParty": 137.2,
+        "ratioBundestag": 381.8
+      },
+      {
+        "word": "alois",
+        "count": 8,
+        "ratioParty": 83.6,
+        "ratioBundestag": 157.1
+      },
+      {
+        "word": "rainer",
+        "count": 10,
+        "ratioParty": 75.7,
+        "ratioBundestag": 52.1
+      },
+      {
+        "word": "konstruktiven",
+        "count": 5,
+        "ratioParty": 61.0,
+        "ratioBundestag": 76.4
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 743,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 1.08,
+    "vsParliament": 1.21
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "1"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "3.715"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufe",
+      "value": "35"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Dr. Oliver Vogt häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Forstwirte",
+        "isCorrect": true
+      },
+      {
+        "text": "Haushalt",
+        "isCorrect": false
+      },
+      {
+        "text": "Energie",
+        "isCorrect": false
+      },
+      {
+        "text": "Wirtschaft",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Forstwirte\" nutzt Dr. Oliver Vogt 365.8× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "429.5× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🦦",
+    "name": "Otter",
+    "title": "Positiver Teamplayer",
+    "reason": "Du bringst gute Stimmung und konstruktive Beiträge ins Plenum.",
+    "id": "otter",
+    "alternatives": [
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Cleverer Stratege",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 0.867
+      },
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüter",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.836
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 100.0,
+      "aggression": 0.0,
+      "labeling": 25.0,
+      "solution_focus": 89.3,
+      "collaboration": 75.0,
+      "demand_intensity": 2.6,
+      "acknowledgment": 13.2,
+      "authority": 73.5,
+      "future_orientation": 92.0,
+      "emotional_intensity": 60.0,
+      "inclusivity": 69.6,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 5,
+      "words": 2423,
+      "adjectives": 4,
+      "verbs": 38
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.41,
+      "klima": 1.65,
+      "wirtschaft": 1.24,
+      "soziales": 0.0,
+      "sicherheit": 1.24,
+      "gesundheit": 5.37,
+      "europa": 0.41,
+      "digital": 0.0,
+      "bildung": 2.06,
+      "finanzen": 14.03,
+      "justiz": 0.0,
+      "arbeit": 1.24,
+      "mobilitaet": 0.41
+    },
+    "topTopics": [
+      {
+        "topic": "finanzen",
+        "score": 14.03,
+        "rank": 1
+      },
+      {
+        "topic": "gesundheit",
+        "score": 5.37,
+        "rank": 2
+      },
+      {
+        "topic": "bildung",
+        "score": 2.06,
+        "rank": 3
+      },
+      {
+        "topic": "klima",
+        "score": 1.65,
+        "rank": 4
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 1.24,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "schlepper",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "klimaanpassung",
+          "count": 1
+        },
+        {
+          "word": "klimawandel",
+          "count": 1
+        },
+        {
+          "word": "nachhaltigkeit",
+          "count": 1
+        },
+        {
+          "word": "wald",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "handwerk",
+          "count": 1
+        },
+        {
+          "word": "wettbewerb",
+          "count": 1
+        },
+        {
+          "word": "betriebe",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "armee",
+          "count": 1
+        },
+        {
+          "word": "soldaten",
+          "count": 1
+        },
+        {
+          "word": "bundeswehr",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "pflege",
+          "count": 4
+        },
+        {
+          "word": "prävention",
+          "count": 3
+        },
+        {
+          "word": "gesundheitssystem",
+          "count": 2
+        },
+        {
+          "word": "vorsorge",
+          "count": 1
+        },
+        {
+          "word": "operation",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "brüssel",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "forschung",
+          "count": 5
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 13
+        },
+        {
+          "word": "haushaltsentwurf",
+          "count": 8
+        },
+        {
+          "word": "bundeshaushalt",
+          "count": 5
+        },
+        {
+          "word": "finanzierung",
+          "count": 3
+        },
+        {
+          "word": "haushaltsausschuss",
+          "count": 3
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "unfallversicherung",
+          "count": 2
+        },
+        {
+          "word": "beitragssatz",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "straße",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

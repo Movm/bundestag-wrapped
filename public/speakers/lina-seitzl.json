@@ -1,0 +1,358 @@
+{
+  "name": "Dr. Lina Seitzl",
+  "party": "SPD",
+  "slug": "lina-seitzl",
+  "academicTitle": "Dr",
+  "speeches": 8,
+  "wortbeitraege": 2,
+  "befragungResponses": 0,
+  "totalWords": 4146,
+  "avgWords": 415,
+  "minWords": 53,
+  "maxWords": 868,
+  "rankings": {
+    "speechRank": 241,
+    "wordsRank": 239,
+    "partySpeechRank": 54,
+    "partyWordsRank": 56,
+    "partySize": 109,
+    "totalSpeakers": 609,
+    "percentile": 60.4,
+    "verbosityRank": 312,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 72,
+    "longestSpeechRank": 126
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 18,
+    "interrupterRank": null,
+    "interruptedRank": 152
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "bafög",
+        "count": 32
+      },
+      {
+        "word": "menschen",
+        "count": 12
+      },
+      {
+        "word": "freue",
+        "count": 8
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "einschnitt",
+        "count": 7,
+        "ratioParty": 216.5,
+        "ratioBundestag": 362.0
+      },
+      {
+        "word": "coronapandemie",
+        "count": 6,
+        "ratioParty": 106.1,
+        "ratioBundestag": 95.5
+      },
+      {
+        "word": "bafög",
+        "count": 32,
+        "ratioParty": 96.6,
+        "ratioBundestag": 121.1
+      },
+      {
+        "word": "studierenden",
+        "count": 5,
+        "ratioParty": 68.7,
+        "ratioBundestag": 91.3
+      },
+      {
+        "word": "pandemie",
+        "count": 7,
+        "ratioParty": 54.1,
+        "ratioBundestag": 56.4
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 415,
+    "partyAvgWords": 637,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.65,
+    "vsParliament": 0.68
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "8"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "4.146"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Dr. Lina Seitzl häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Einschnitt",
+        "isCorrect": true
+      },
+      {
+        "text": "Demokratie",
+        "isCorrect": false
+      },
+      {
+        "text": "Bundesregierung",
+        "isCorrect": false
+      },
+      {
+        "text": "Haushalt",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Einschnitt\" nutzt Dr. Lina Seitzl 216.5× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "362.0× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🐝",
+    "name": "Biene",
+    "title": "Fleißige Abgeordnete",
+    "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+    "id": "biene",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüterin",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.966
+      },
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Clevere Strategin",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 0.933
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 69.2,
+      "aggression": 0.0,
+      "labeling": 7.1,
+      "solution_focus": 81.2,
+      "collaboration": 75.0,
+      "demand_intensity": 3.7,
+      "acknowledgment": 7.4,
+      "authority": 82.1,
+      "future_orientation": 93.8,
+      "emotional_intensity": 47.4,
+      "inclusivity": 45.3,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 10,
+      "words": 2683,
+      "adjectives": 14,
+      "verbs": 27
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.37,
+      "wirtschaft": 0.0,
+      "soziales": 2.24,
+      "sicherheit": 0.0,
+      "gesundheit": 17.52,
+      "europa": 0.37,
+      "digital": 3.35,
+      "bildung": 20.13,
+      "finanzen": 2.98,
+      "justiz": 0.0,
+      "arbeit": 1.86,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "bildung",
+        "score": 20.13,
+        "rank": 1
+      },
+      {
+        "topic": "gesundheit",
+        "score": 17.52,
+        "rank": 2
+      },
+      {
+        "topic": "digital",
+        "score": 3.35,
+        "rank": 3
+      },
+      {
+        "topic": "finanzen",
+        "score": 2.98,
+        "rank": 4
+      },
+      {
+        "topic": "soziales",
+        "score": 2.24,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "nachhaltig",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "eltern",
+          "count": 2
+        },
+        {
+          "word": "kinder",
+          "count": 1
+        },
+        {
+          "word": "familie",
+          "count": 1
+        },
+        {
+          "word": "jugendliche",
+          "count": 1
+        },
+        {
+          "word": "jugend",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "pandemie",
+          "count": 7
+        },
+        {
+          "word": "gesundheitssystem",
+          "count": 7
+        },
+        {
+          "word": "covid",
+          "count": 5
+        },
+        {
+          "word": "pflegeversicherung",
+          "count": 5
+        },
+        {
+          "word": "pflege",
+          "count": 5
+        }
+      ],
+      "europa": [
+        {
+          "word": "bündnis",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 4
+        },
+        {
+          "word": "digital",
+          "count": 3
+        },
+        {
+          "word": "online",
+          "count": 1
+        },
+        {
+          "word": "algorithmen",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "bafög",
+          "count": 32
+        },
+        {
+          "word": "forschung",
+          "count": 5
+        },
+        {
+          "word": "studierende",
+          "count": 4
+        },
+        {
+          "word": "forschungsförderung",
+          "count": 3
+        },
+        {
+          "word": "hochschulen",
+          "count": 2
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "verschuldung",
+          "count": 2
+        },
+        {
+          "word": "haushalt",
+          "count": 1
+        },
+        {
+          "word": "defizit",
+          "count": 1
+        },
+        {
+          "word": "bundeshaushalt",
+          "count": 1
+        },
+        {
+          "word": "kosten",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "vereinbarkeit",
+          "count": 1
+        },
+        {
+          "word": "arbeitnehmerinnen",
+          "count": 1
+        },
+        {
+          "word": "arbeitnehmer",
+          "count": 1
+        },
+        {
+          "word": "homeoffice",
+          "count": 1
+        },
+        {
+          "word": "lohn",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

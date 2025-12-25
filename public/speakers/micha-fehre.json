@@ -1,0 +1,180 @@
+{
+  "name": "Micha Fehre",
+  "party": "AfD",
+  "slug": "micha-fehre",
+  "academicTitle": null,
+  "speeches": 1,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 415,
+  "avgWords": 415,
+  "minWords": 415,
+  "maxWords": 415,
+  "rankings": {
+    "speechRank": 566,
+    "wordsRank": 598,
+    "partySpeechRank": 141,
+    "partyWordsRank": 147,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 7.1,
+    "verbosityRank": null,
+    "verbosityTotal": null,
+    "partyVerbosityRank": null,
+    "longestSpeechRank": 569
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 1,
+    "interrupterRank": null,
+    "interruptedRank": 527
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "klimapolitik",
+        "count": 4
+      },
+      {
+        "word": "grünen",
+        "count": 3
+      },
+      {
+        "word": "reicht",
+        "count": 3
+      },
+      {
+        "word": "deutschland",
+        "count": 3
+      },
+      {
+        "word": "genauso",
+        "count": 3
+      },
+      {
+        "word": "aktuellen",
+        "count": 2
+      },
+      {
+        "word": "planwirtschaft",
+        "count": 2
+      },
+      {
+        "word": "bepreisung",
+        "count": 2
+      },
+      {
+        "word": "schwarz",
+        "count": 2
+      },
+      {
+        "word": "regierung",
+        "count": 2
+      }
+    ],
+    "signatureWords": [],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 415,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.71,
+    "vsParliament": 0.68
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "1"
+    }
+  ],
+  "signatureQuiz": null,
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 100.0,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 0.0,
+      "collaboration": 50.0,
+      "demand_intensity": 33.3,
+      "acknowledgment": 0.0,
+      "authority": 100.0,
+      "future_orientation": 100.0,
+      "emotional_intensity": 100.0,
+      "inclusivity": 46.2,
+      "discriminatory": 0.0
+    },
+    "confidence": "low",
+    "sampleSize": {
+      "speeches": 1,
+      "words": 263,
+      "adjectives": 1,
+      "verbs": 3
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 26.62,
+      "wirtschaft": 3.8,
+      "soziales": 0.0,
+      "sicherheit": 0.0,
+      "gesundheit": 0.0,
+      "europa": 0.0,
+      "digital": 0.0,
+      "bildung": 0.0,
+      "finanzen": 3.8,
+      "justiz": 0.0,
+      "arbeit": 0.0,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "klima",
+        "score": 26.62,
+        "rank": 1
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 3.8,
+        "rank": 2
+      },
+      {
+        "topic": "finanzen",
+        "score": 3.8,
+        "rank": 3
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "klimapolitik",
+          "count": 4
+        },
+        {
+          "word": "klimawandel",
+          "count": 2
+        },
+        {
+          "word": "klimaabkommen",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "industrie",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "kosten",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

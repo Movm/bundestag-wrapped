@@ -1,0 +1,180 @@
+{
+  "name": "Kay-Uwe Ziegler",
+  "party": "AfD",
+  "slug": "kay-uwe-ziegler",
+  "academicTitle": null,
+  "speeches": 3,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 483,
+  "avgWords": 121,
+  "minWords": 56,
+  "maxWords": 284,
+  "rankings": {
+    "speechRank": 511,
+    "wordsRank": 596,
+    "partySpeechRank": 123,
+    "partyWordsRank": 146,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 16.1,
+    "verbosityRank": 518,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 125,
+    "longestSpeechRank": 600
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 1,
+    "interrupterRank": null,
+    "interruptedRank": 542
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "ministerin",
+        "count": 4
+      },
+      {
+        "word": "habe",
+        "count": 4
+      },
+      {
+        "word": "warum",
+        "count": 3
+      },
+      {
+        "word": "hitzeschutzplan",
+        "count": 3
+      },
+      {
+        "word": "werte",
+        "count": 2
+      },
+      {
+        "word": "warken",
+        "count": 2
+      },
+      {
+        "word": "herzlichen",
+        "count": 2
+      },
+      {
+        "word": "glückwunsch",
+        "count": 2
+      },
+      {
+        "word": "sehen",
+        "count": 2
+      },
+      {
+        "word": "patienten",
+        "count": 2
+      }
+    ],
+    "signatureWords": [],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 121,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.21,
+    "vsParliament": 0.2
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "3"
+    }
+  ],
+  "signatureQuiz": null,
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 50.0,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 100.0,
+      "collaboration": 50.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 0.0,
+      "authority": 62.5,
+      "future_orientation": 66.7,
+      "emotional_intensity": 33.3,
+      "inclusivity": 40.0,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 4,
+      "words": 339,
+      "adjectives": 0,
+      "verbs": 1
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.0,
+      "wirtschaft": 0.0,
+      "soziales": 0.0,
+      "sicherheit": 0.0,
+      "gesundheit": 5.9,
+      "europa": 0.0,
+      "digital": 5.9,
+      "bildung": 0.0,
+      "finanzen": 2.95,
+      "justiz": 0.0,
+      "arbeit": 0.0,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "gesundheit",
+        "score": 5.9,
+        "rank": 1
+      },
+      {
+        "topic": "digital",
+        "score": 5.9,
+        "rank": 2
+      },
+      {
+        "topic": "finanzen",
+        "score": 2.95,
+        "rank": 3
+      }
+    ],
+    "topicWords": {
+      "gesundheit": [
+        {
+          "word": "gesundheitssystem",
+          "count": 1
+        },
+        {
+          "word": "krankenkassen",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 1
+        },
+        {
+          "word": "daten",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "kosten",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

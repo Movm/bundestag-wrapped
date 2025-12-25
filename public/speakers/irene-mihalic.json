@@ -1,0 +1,410 @@
+{
+  "name": "Dr. Irene Mihalic",
+  "party": "GRÜNE",
+  "slug": "irene-mihalic",
+  "academicTitle": "Dr",
+  "speeches": 18,
+  "wortbeitraege": 3,
+  "befragungResponses": 0,
+  "totalWords": 7773,
+  "avgWords": 370,
+  "minWords": 88,
+  "maxWords": 725,
+  "rankings": {
+    "speechRank": 14,
+    "wordsRank": 73,
+    "partySpeechRank": 2,
+    "partyWordsRank": 8,
+    "partySize": 85,
+    "totalSpeakers": 609,
+    "percentile": 97.7,
+    "verbosityRank": 380,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 46,
+    "longestSpeechRank": 275
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 54,
+    "interrupterRank": null,
+    "interruptedRank": 13
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "deutschen",
+        "count": 20
+      },
+      {
+        "word": "parlament",
+        "count": 15
+      },
+      {
+        "word": "fraktion",
+        "count": 14
+      },
+      {
+        "word": "land",
+        "count": 14
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "geschäftsordnung",
+        "count": 13,
+        "ratioParty": 298.6,
+        "ratioBundestag": 64.0
+      },
+      {
+        "word": "verächtlich",
+        "count": 5,
+        "ratioParty": 229.7,
+        "ratioBundestag": 135.3
+      },
+      {
+        "word": "abschlussbericht",
+        "count": 5,
+        "ratioParty": 114.9,
+        "ratioBundestag": 180.4
+      },
+      {
+        "word": "prozesse",
+        "count": 7,
+        "ratioParty": 32.2,
+        "ratioBundestag": 19.8
+      },
+      {
+        "word": "sitzung",
+        "count": 5,
+        "ratioParty": 25.5,
+        "ratioBundestag": 24.6
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 370,
+    "partyAvgWords": 567,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.65,
+    "vsParliament": 0.6
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "18"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "7.773"
+    },
+    {
+      "emoji": "🏆",
+      "label": "Rang (Reden)",
+      "value": "#14 von 609"
+    },
+    {
+      "emoji": "🥇",
+      "label": "Rang in GRÜNE",
+      "value": "#2 von 85"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Dr. Irene Mihalic häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Geschäftsordnung",
+        "isCorrect": true
+      },
+      {
+        "text": "Politik",
+        "isCorrect": false
+      },
+      {
+        "text": "Verantwortung",
+        "isCorrect": false
+      },
+      {
+        "text": "Bildung",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Geschäftsordnung\" nutzt Dr. Irene Mihalic 298.6× häufiger als der GRÜNE-Durchschnitt.",
+    "explanationBundestag": "64.0× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🦁",
+    "name": "Löwe",
+    "title": "Fraktionsstimme",
+    "reason": "Als #2 in der GRÜNE-Fraktion bist du eine führende Stimme.",
+    "id": "loewe",
+    "alternatives": [
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Clevere Strategin",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 1.0
+      },
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüterin",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 1.0
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 63.2,
+      "aggression": 16.7,
+      "labeling": 20.0,
+      "solution_focus": 82.6,
+      "collaboration": 66.7,
+      "demand_intensity": 0.0,
+      "acknowledgment": 5.7,
+      "authority": 77.5,
+      "future_orientation": 82.2,
+      "emotional_intensity": 47.8,
+      "inclusivity": 43.7,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 21,
+      "words": 5120,
+      "adjectives": 30,
+      "verbs": 53
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 1.76,
+      "klima": 0.39,
+      "wirtschaft": 0.0,
+      "soziales": 1.56,
+      "sicherheit": 5.66,
+      "gesundheit": 0.0,
+      "europa": 4.88,
+      "digital": 0.2,
+      "bildung": 0.78,
+      "finanzen": 0.78,
+      "justiz": 3.91,
+      "arbeit": 0.2,
+      "mobilitaet": 0.98
+    },
+    "topTopics": [
+      {
+        "topic": "sicherheit",
+        "score": 5.66,
+        "rank": 1
+      },
+      {
+        "topic": "europa",
+        "score": 4.88,
+        "rank": 2
+      },
+      {
+        "topic": "justiz",
+        "score": 3.91,
+        "rank": 3
+      },
+      {
+        "topic": "migration",
+        "score": 1.76,
+        "rank": 4
+      },
+      {
+        "topic": "soziales",
+        "score": 1.56,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "schutzsuchende",
+          "count": 4
+        },
+        {
+          "word": "asylsuchende",
+          "count": 2
+        },
+        {
+          "word": "drittstaaten",
+          "count": 1
+        },
+        {
+          "word": "asylverfahren",
+          "count": 1
+        },
+        {
+          "word": "grenze",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "energie",
+          "count": 1
+        },
+        {
+          "word": "klimaschutz",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "jugend",
+          "count": 6
+        },
+        {
+          "word": "familien",
+          "count": 1
+        },
+        {
+          "word": "kinder",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "bundespolizei",
+          "count": 9
+        },
+        {
+          "word": "polizei",
+          "count": 7
+        },
+        {
+          "word": "gewalt",
+          "count": 4
+        },
+        {
+          "word": "polizisten",
+          "count": 1
+        },
+        {
+          "word": "diebstahl",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "russland",
+          "count": 7
+        },
+        {
+          "word": "bündnis",
+          "count": 6
+        },
+        {
+          "word": "außenminister",
+          "count": 3
+        },
+        {
+          "word": "außenpolitik",
+          "count": 2
+        },
+        {
+          "word": "ukraine",
+          "count": 2
+        }
+      ],
+      "digital": [
+        {
+          "word": "cybersicherheit",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "forschung",
+          "count": 1
+        },
+        {
+          "word": "bildung",
+          "count": 1
+        },
+        {
+          "word": "hochschulen",
+          "count": 1
+        },
+        {
+          "word": "schülerin",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "steuern",
+          "count": 1
+        },
+        {
+          "word": "bundeshaushalt",
+          "count": 1
+        },
+        {
+          "word": "haushaltsentwurf",
+          "count": 1
+        },
+        {
+          "word": "haushalt",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "bundesverfassungsgericht",
+          "count": 5
+        },
+        {
+          "word": "verordnung",
+          "count": 3
+        },
+        {
+          "word": "grundgesetz",
+          "count": 2
+        },
+        {
+          "word": "richter",
+          "count": 1
+        },
+        {
+          "word": "gericht",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitszeit",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "straße",
+          "count": 2
+        },
+        {
+          "word": "fahrzeuge",
+          "count": 1
+        },
+        {
+          "word": "bahnhof",
+          "count": 1
+        },
+        {
+          "word": "flug",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

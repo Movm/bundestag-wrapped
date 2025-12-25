@@ -1,0 +1,500 @@
+{
+  "name": "Tamara Mazzi",
+  "party": "DIE LINKE",
+  "slug": "tamara-mazzi",
+  "academicTitle": null,
+  "speeches": 13,
+  "wortbeitraege": 3,
+  "befragungResponses": 0,
+  "totalWords": 8164,
+  "avgWords": 510,
+  "minWords": 44,
+  "maxWords": 776,
+  "rankings": {
+    "speechRank": 58,
+    "wordsRank": 65,
+    "partySpeechRank": 8,
+    "partyWordsRank": 7,
+    "partySize": 63,
+    "totalSpeakers": 609,
+    "percentile": 90.5,
+    "verbosityRank": 151,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 11,
+    "longestSpeechRank": 219
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 27,
+    "interrupterRank": 271,
+    "interruptedRank": 68
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 62
+      },
+      {
+        "word": "frauen",
+        "count": 23
+      },
+      {
+        "word": "geld",
+        "count": 18
+      },
+      {
+        "word": "kinder",
+        "count": 18
+      },
+      {
+        "word": "endlich",
+        "count": 16
+      },
+      {
+        "word": "innen",
+        "count": 16
+      },
+      {
+        "word": "regierung",
+        "count": 15
+      },
+      {
+        "word": "land",
+        "count": 15
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "schleswig",
+        "count": 5,
+        "ratioParty": 52.4,
+        "ratioBundestag": 26.2
+      },
+      {
+        "word": "holstein",
+        "count": 5,
+        "ratioParty": 52.4,
+        "ratioBundestag": 30.9
+      },
+      {
+        "word": "prien",
+        "count": 12,
+        "ratioParty": 47.2,
+        "ratioBundestag": 38.7
+      },
+      {
+        "word": "vater",
+        "count": 5,
+        "ratioParty": 39.3,
+        "ratioBundestag": 21.2
+      },
+      {
+        "word": "tribüne",
+        "count": 5,
+        "ratioParty": 26.2,
+        "ratioBundestag": 39.7
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "nachhaltig",
+        "count": 3,
+        "ratioParty": 5.0,
+        "ratioBundestag": 5.4
+      },
+      {
+        "word": "absurd",
+        "count": 3,
+        "ratioParty": 2.2,
+        "ratioBundestag": 8.2
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 510,
+    "partyAvgWords": 521,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.98,
+    "vsParliament": 0.83
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "13"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "8.164"
+    },
+    {
+      "emoji": "📊",
+      "label": "Top-Redner",
+      "value": "Top 10%"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Tamara Mazzi häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Zukunft",
+        "isCorrect": false
+      },
+      {
+        "text": "Migration",
+        "isCorrect": false
+      },
+      {
+        "text": "Opposition",
+        "isCorrect": false
+      },
+      {
+        "text": "Schleswig",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Schleswig\" nutzt Tamara Mazzi 52.4× häufiger als der DIE LINKE-Durchschnitt.",
+    "explanationBundestag": "26.2× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Tamara Mazzi häufiger als der Rest der DIE LINKE-Fraktion?",
+    "options": [
+      {
+        "text": "Stark",
+        "isCorrect": false
+      },
+      {
+        "text": "Nachhaltig",
+        "isCorrect": true
+      },
+      {
+        "text": "Sicher",
+        "isCorrect": false
+      },
+      {
+        "text": "Falsch",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Nachhaltig\" nutzt Tamara Mazzi 5.0× häufiger als der DIE LINKE-Durchschnitt.",
+    "explanationBundestag": "5.4× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐿️",
+    "name": "Eichhörnchen",
+    "title": "Themenhüterin",
+    "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+    "id": "eichhoernchen",
+    "alternatives": [
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißige Abgeordnete",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      },
+      {
+        "emoji": "🐻",
+        "name": "Bär",
+        "title": "Standhafte Debattiererin",
+        "reason": "Trotz 27× unterbrochen zu werden, bleibst du standhaft.",
+        "id": "baer",
+        "score": 0.983
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 56.2,
+      "aggression": 20.8,
+      "labeling": 12.5,
+      "solution_focus": 61.2,
+      "collaboration": 50.0,
+      "demand_intensity": 8.8,
+      "acknowledgment": 1.5,
+      "authority": 82.6,
+      "future_orientation": 74.5,
+      "emotional_intensity": 57.1,
+      "inclusivity": 36.6,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 16,
+      "words": 5374,
+      "adjectives": 24,
+      "verbs": 68
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 1.49,
+      "klima": 0.56,
+      "wirtschaft": 1.49,
+      "soziales": 15.07,
+      "sicherheit": 3.35,
+      "gesundheit": 6.7,
+      "europa": 1.49,
+      "digital": 0.37,
+      "bildung": 7.82,
+      "finanzen": 7.26,
+      "justiz": 1.3,
+      "arbeit": 2.61,
+      "mobilitaet": 0.19
+    },
+    "topTopics": [
+      {
+        "topic": "soziales",
+        "score": 15.07,
+        "rank": 1
+      },
+      {
+        "topic": "bildung",
+        "score": 7.82,
+        "rank": 2
+      },
+      {
+        "topic": "finanzen",
+        "score": 7.26,
+        "rank": 3
+      },
+      {
+        "topic": "gesundheit",
+        "score": 6.7,
+        "rank": 4
+      },
+      {
+        "topic": "sicherheit",
+        "score": 3.35,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "geflüchtete",
+          "count": 3
+        },
+        {
+          "word": "migranten",
+          "count": 2
+        },
+        {
+          "word": "integration",
+          "count": 2
+        },
+        {
+          "word": "sprachkurs",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "nachhaltig",
+          "count": 3
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "fachkräftemangel",
+          "count": 2
+        },
+        {
+          "word": "firma",
+          "count": 2
+        },
+        {
+          "word": "wirtschaftspolitik",
+          "count": 1
+        },
+        {
+          "word": "gründer",
+          "count": 1
+        },
+        {
+          "word": "selbstständige",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 18
+        },
+        {
+          "word": "jugendliche",
+          "count": 10
+        },
+        {
+          "word": "eltern",
+          "count": 8
+        },
+        {
+          "word": "familien",
+          "count": 6
+        },
+        {
+          "word": "bürgergeld",
+          "count": 5
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "gewalt",
+          "count": 11
+        },
+        {
+          "word": "angriff",
+          "count": 3
+        },
+        {
+          "word": "täter",
+          "count": 1
+        },
+        {
+          "word": "panzer",
+          "count": 1
+        },
+        {
+          "word": "verteidigung",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "kliniken",
+          "count": 7
+        },
+        {
+          "word": "gesundheitssystem",
+          "count": 5
+        },
+        {
+          "word": "prävention",
+          "count": 4
+        },
+        {
+          "word": "pflege",
+          "count": 4
+        },
+        {
+          "word": "pflegeversicherung",
+          "count": 2
+        }
+      ],
+      "europa": [
+        {
+          "word": "sanktionen",
+          "count": 8
+        }
+      ],
+      "digital": [
+        {
+          "word": "netz",
+          "count": 1
+        },
+        {
+          "word": "digitalisierung",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "lehrkräfte",
+          "count": 8
+        },
+        {
+          "word": "schule",
+          "count": 5
+        },
+        {
+          "word": "schulen",
+          "count": 4
+        },
+        {
+          "word": "bildung",
+          "count": 3
+        },
+        {
+          "word": "lehrerin",
+          "count": 3
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 13
+        },
+        {
+          "word": "schuldenbremse",
+          "count": 4
+        },
+        {
+          "word": "investitionen",
+          "count": 3
+        },
+        {
+          "word": "kosten",
+          "count": 3
+        },
+        {
+          "word": "finanzierung",
+          "count": 3
+        }
+      ],
+      "justiz": [
+        {
+          "word": "gleichstellung",
+          "count": 2
+        },
+        {
+          "word": "diskriminierung",
+          "count": 2
+        },
+        {
+          "word": "gerichte",
+          "count": 1
+        },
+        {
+          "word": "menschenrechte",
+          "count": 1
+        },
+        {
+          "word": "strafe",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "jobcenter",
+          "count": 3
+        },
+        {
+          "word": "beschäftigte",
+          "count": 2
+        },
+        {
+          "word": "einkommen",
+          "count": 2
+        },
+        {
+          "word": "arbeitsschutz",
+          "count": 1
+        },
+        {
+          "word": "beitragssatz",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

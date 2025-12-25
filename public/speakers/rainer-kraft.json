@@ -1,0 +1,468 @@
+{
+  "name": "Dr. Rainer Kraft",
+  "party": "AfD",
+  "slug": "rainer-kraft",
+  "academicTitle": "Dr",
+  "speeches": 9,
+  "wortbeitraege": 31,
+  "befragungResponses": 0,
+  "totalWords": 8297,
+  "avgWords": 207,
+  "minWords": 36,
+  "maxWords": 725,
+  "rankings": {
+    "speechRank": 150,
+    "wordsRank": 62,
+    "partySpeechRank": 33,
+    "partyWordsRank": 12,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 75.4,
+    "verbosityRank": 504,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 124,
+    "longestSpeechRank": 274
+  },
+  "drama": {
+    "interruptionsGiven": 122,
+    "interruptionsReceived": 6,
+    "interrupterRank": 12,
+    "interruptedRank": 381
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "deutschland",
+        "count": 41
+      },
+      {
+        "word": "minister",
+        "count": 19
+      },
+      {
+        "word": "kernkraft",
+        "count": 16
+      },
+      {
+        "word": "land",
+        "count": 15
+      },
+      {
+        "word": "wäre",
+        "count": 14
+      },
+      {
+        "word": "grünen",
+        "count": 14
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "endlager",
+        "count": 6,
+        "ratioParty": 51.3,
+        "ratioBundestag": 91.7
+      },
+      {
+        "word": "thyssenkrupp",
+        "count": 9,
+        "ratioParty": 51.3,
+        "ratioBundestag": 101.9
+      },
+      {
+        "word": "unzureichend",
+        "count": 5,
+        "ratioParty": 42.8,
+        "ratioBundestag": 50.9
+      },
+      {
+        "word": "entsorgung",
+        "count": 6,
+        "ratioParty": 37.3,
+        "ratioBundestag": 76.4
+      },
+      {
+        "word": "gaskraftwerke",
+        "count": 7,
+        "ratioParty": 36.8,
+        "ratioBundestag": 26.1
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "unzureichend",
+        "count": 5,
+        "ratioParty": 42.8,
+        "ratioBundestag": 50.9
+      },
+      {
+        "word": "teuer",
+        "count": 4,
+        "ratioParty": 3.6,
+        "ratioBundestag": 5.6
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 207,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.35,
+    "vsParliament": 0.34
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "9"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "8.297"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufer",
+      "value": "#12 (122x)"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Dr. Rainer Kraft häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Europa",
+        "isCorrect": false
+      },
+      {
+        "text": "Gesetz",
+        "isCorrect": false
+      },
+      {
+        "text": "Bildung",
+        "isCorrect": false
+      },
+      {
+        "text": "Endlager",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Endlager\" nutzt Dr. Rainer Kraft 51.3× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "91.7× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Dr. Rainer Kraft häufiger als der Rest der AfD-Fraktion?",
+    "options": [
+      {
+        "text": "Politisch",
+        "isCorrect": false
+      },
+      {
+        "text": "National",
+        "isCorrect": false
+      },
+      {
+        "text": "Notwendig",
+        "isCorrect": false
+      },
+      {
+        "text": "Unzureichend",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Unzureichend\" nutzt Dr. Rainer Kraft 42.8× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "50.9× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 47.6,
+      "aggression": 8.0,
+      "labeling": 8.0,
+      "solution_focus": 54.5,
+      "collaboration": 50.0,
+      "demand_intensity": 4.2,
+      "acknowledgment": 6.2,
+      "authority": 67.6,
+      "future_orientation": 72.0,
+      "emotional_intensity": 47.6,
+      "inclusivity": 44.4,
+      "discriminatory": 0.18
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 40,
+      "words": 5439,
+      "adjectives": 25,
+      "verbs": 48
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.37,
+      "klima": 7.54,
+      "wirtschaft": 6.8,
+      "soziales": 1.47,
+      "sicherheit": 2.94,
+      "gesundheit": 0.55,
+      "europa": 2.39,
+      "digital": 0.37,
+      "bildung": 0.18,
+      "finanzen": 4.96,
+      "justiz": 0.92,
+      "arbeit": 1.29,
+      "mobilitaet": 0.92
+    },
+    "topTopics": [
+      {
+        "topic": "klima",
+        "score": 7.54,
+        "rank": 1
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 6.8,
+        "rank": 2
+      },
+      {
+        "topic": "finanzen",
+        "score": 4.96,
+        "rank": 3
+      },
+      {
+        "topic": "sicherheit",
+        "score": 2.94,
+        "rank": 4
+      },
+      {
+        "topic": "europa",
+        "score": 2.39,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "grenze",
+          "count": 1
+        },
+        {
+          "word": "integration",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "kernenergie",
+          "count": 9
+        },
+        {
+          "word": "energiewende",
+          "count": 5
+        },
+        {
+          "word": "energie",
+          "count": 4
+        },
+        {
+          "word": "klimawandel",
+          "count": 4
+        },
+        {
+          "word": "windrad",
+          "count": 3
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "industrie",
+          "count": 8
+        },
+        {
+          "word": "betrieb",
+          "count": 5
+        },
+        {
+          "word": "unternehmen",
+          "count": 5
+        },
+        {
+          "word": "wettbewerbsfähigkeit",
+          "count": 3
+        },
+        {
+          "word": "konzerne",
+          "count": 2
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 2
+        },
+        {
+          "word": "sozialstaat",
+          "count": 1
+        },
+        {
+          "word": "rentenniveau",
+          "count": 1
+        },
+        {
+          "word": "rentner",
+          "count": 1
+        },
+        {
+          "word": "altersarmut",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "armee",
+          "count": 5
+        },
+        {
+          "word": "bundeswehr",
+          "count": 4
+        },
+        {
+          "word": "verteidigung",
+          "count": 3
+        },
+        {
+          "word": "gewalt",
+          "count": 1
+        },
+        {
+          "word": "polizei",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "pflege",
+          "count": 1
+        },
+        {
+          "word": "gesundheitssystem",
+          "count": 1
+        },
+        {
+          "word": "medizin",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "china",
+          "count": 4
+        },
+        {
+          "word": "israel",
+          "count": 3
+        },
+        {
+          "word": "ukraine",
+          "count": 3
+        },
+        {
+          "word": "gipfel",
+          "count": 1
+        },
+        {
+          "word": "allianz",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "netz",
+          "count": 2
+        }
+      ],
+      "bildung": [
+        {
+          "word": "wissenschaft",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "steuerzahler",
+          "count": 7
+        },
+        {
+          "word": "kosten",
+          "count": 6
+        },
+        {
+          "word": "steuern",
+          "count": 3
+        },
+        {
+          "word": "subventionen",
+          "count": 2
+        },
+        {
+          "word": "schulden",
+          "count": 2
+        }
+      ],
+      "justiz": [
+        {
+          "word": "beschluss",
+          "count": 2
+        },
+        {
+          "word": "staatsanwaltschaft",
+          "count": 1
+        },
+        {
+          "word": "urteil",
+          "count": 1
+        },
+        {
+          "word": "klage",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitsplätze",
+          "count": 3
+        },
+        {
+          "word": "einkommen",
+          "count": 2
+        },
+        {
+          "word": "arbeitnehmer",
+          "count": 1
+        },
+        {
+          "word": "arbeitskräfte",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "fahrzeuge",
+          "count": 2
+        },
+        {
+          "word": "flughafen",
+          "count": 1
+        },
+        {
+          "word": "straßen",
+          "count": 1
+        },
+        {
+          "word": "fahrrad",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

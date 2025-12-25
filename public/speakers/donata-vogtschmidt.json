@@ -1,0 +1,487 @@
+{
+  "name": "Donata Vogtschmidt",
+  "party": "DIE LINKE",
+  "slug": "donata-vogtschmidt",
+  "academicTitle": null,
+  "speeches": 9,
+  "wortbeitraege": 2,
+  "befragungResponses": 0,
+  "totalWords": 5932,
+  "avgWords": 539,
+  "minWords": 41,
+  "maxWords": 1061,
+  "rankings": {
+    "speechRank": 174,
+    "wordsRank": 126,
+    "partySpeechRank": 24,
+    "partyWordsRank": 14,
+    "partySize": 63,
+    "totalSpeakers": 609,
+    "percentile": 71.4,
+    "verbosityRank": 122,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 10,
+    "longestSpeechRank": 51
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 13,
+    "interrupterRank": 334,
+    "interruptedRank": 223
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "sicherheit",
+        "count": 26
+      },
+      {
+        "word": "bundesregierung",
+        "count": 20
+      },
+      {
+        "word": "chatkontrolle",
+        "count": 15
+      },
+      {
+        "word": "digitale",
+        "count": 14
+      },
+      {
+        "word": "geld",
+        "count": 14
+      },
+      {
+        "word": "digitaler",
+        "count": 11
+      },
+      {
+        "word": "gewalt",
+        "count": 11
+      },
+      {
+        "word": "haushalt",
+        "count": 11
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "cybersicherheit",
+        "count": 9,
+        "ratioParty": 390.4,
+        "ratioBundestag": 48.8
+      },
+      {
+        "word": "bundesverwaltung",
+        "count": 5,
+        "ratioParty": 216.9,
+        "ratioBundestag": 51.6
+      },
+      {
+        "word": "anlasslose",
+        "count": 5,
+        "ratioParty": 216.9,
+        "ratioBundestag": 111.4
+      },
+      {
+        "word": "chatkontrolle",
+        "count": 15,
+        "ratioParty": 162.7,
+        "ratioBundestag": 72.2
+      },
+      {
+        "word": "abhängigkeiten",
+        "count": 5,
+        "ratioParty": 54.2,
+        "ratioBundestag": 22.8
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "bedenklich",
+        "count": 3,
+        "ratioParty": 7.6,
+        "ratioBundestag": 90.7
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 539,
+    "partyAvgWords": 521,
+    "parliamentAvgWords": 613,
+    "vsParty": 1.03,
+    "vsParliament": 0.88
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "9"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "5.932"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Donata Vogtschmidt häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Debatte",
+        "isCorrect": false
+      },
+      {
+        "text": "Klima",
+        "isCorrect": false
+      },
+      {
+        "text": "Zukunft",
+        "isCorrect": false
+      },
+      {
+        "text": "Cybersicherheit",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Cybersicherheit\" nutzt Donata Vogtschmidt 390.4× häufiger als der DIE LINKE-Durchschnitt.",
+    "explanationBundestag": "48.8× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Donata Vogtschmidt häufiger als der Rest der DIE LINKE-Fraktion?",
+    "options": [
+      {
+        "text": "Neu",
+        "isCorrect": false
+      },
+      {
+        "text": "Stark",
+        "isCorrect": false
+      },
+      {
+        "text": "Groß",
+        "isCorrect": false
+      },
+      {
+        "text": "Bedenklich",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Bedenklich\" nutzt Donata Vogtschmidt 7.6× häufiger als der DIE LINKE-Durchschnitt.",
+    "explanationBundestag": "90.7× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐿️",
+    "name": "Eichhörnchen",
+    "title": "Themenhüterin",
+    "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+    "id": "eichhoernchen",
+    "alternatives": [
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißige Abgeordnete",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      },
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Clevere Strategin",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 0.947
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 52.6,
+      "aggression": 30.0,
+      "labeling": 6.7,
+      "solution_focus": 70.8,
+      "collaboration": 42.9,
+      "demand_intensity": 2.8,
+      "acknowledgment": 11.1,
+      "authority": 81.6,
+      "future_orientation": 80.4,
+      "emotional_intensity": 31.6,
+      "inclusivity": 44.3,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 11,
+      "words": 3930,
+      "adjectives": 30,
+      "verbs": 36
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.25,
+      "klima": 0.51,
+      "wirtschaft": 1.53,
+      "soziales": 3.05,
+      "sicherheit": 8.65,
+      "gesundheit": 1.27,
+      "europa": 2.29,
+      "digital": 8.14,
+      "bildung": 1.78,
+      "finanzen": 4.33,
+      "justiz": 5.09,
+      "arbeit": 0.0,
+      "mobilitaet": 1.78
+    },
+    "topTopics": [
+      {
+        "topic": "sicherheit",
+        "score": 8.65,
+        "rank": 1
+      },
+      {
+        "topic": "digital",
+        "score": 8.14,
+        "rank": 2
+      },
+      {
+        "topic": "justiz",
+        "score": 5.09,
+        "rank": 3
+      },
+      {
+        "topic": "finanzen",
+        "score": 4.33,
+        "rank": 4
+      },
+      {
+        "topic": "soziales",
+        "score": 3.05,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "mittelmeer",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "treibhausgase",
+          "count": 1
+        },
+        {
+          "word": "klimaschutz",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 2
+        },
+        {
+          "word": "wettbewerbsfähigkeit",
+          "count": 1
+        },
+        {
+          "word": "zölle",
+          "count": 1
+        },
+        {
+          "word": "standort",
+          "count": 1
+        },
+        {
+          "word": "markt",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 4
+        },
+        {
+          "word": "wohnungen",
+          "count": 1
+        },
+        {
+          "word": "jugendliche",
+          "count": 1
+        },
+        {
+          "word": "familie",
+          "count": 1
+        },
+        {
+          "word": "jugend",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "gewalt",
+          "count": 11
+        },
+        {
+          "word": "bundeswehr",
+          "count": 7
+        },
+        {
+          "word": "soldaten",
+          "count": 5
+        },
+        {
+          "word": "angriff",
+          "count": 4
+        },
+        {
+          "word": "militär",
+          "count": 2
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "krankenhäuser",
+          "count": 3
+        },
+        {
+          "word": "sucht",
+          "count": 2
+        }
+      ],
+      "europa": [
+        {
+          "word": "gipfel",
+          "count": 2
+        },
+        {
+          "word": "sanktionen",
+          "count": 2
+        },
+        {
+          "word": "ukraine",
+          "count": 2
+        },
+        {
+          "word": "putin",
+          "count": 1
+        },
+        {
+          "word": "china",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "cybersicherheit",
+          "count": 9
+        },
+        {
+          "word": "daten",
+          "count": 8
+        },
+        {
+          "word": "digitalisierung",
+          "count": 3
+        },
+        {
+          "word": "digital",
+          "count": 3
+        },
+        {
+          "word": "desinformation",
+          "count": 2
+        }
+      ],
+      "bildung": [
+        {
+          "word": "bildung",
+          "count": 3
+        },
+        {
+          "word": "schulen",
+          "count": 2
+        },
+        {
+          "word": "wissenschaft",
+          "count": 1
+        },
+        {
+          "word": "lehrkräfte",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 11
+        },
+        {
+          "word": "sondervermögen",
+          "count": 2
+        },
+        {
+          "word": "finanzierung",
+          "count": 1
+        },
+        {
+          "word": "bundesrechnungshof",
+          "count": 1
+        },
+        {
+          "word": "etat",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "grundrechte",
+          "count": 5
+        },
+        {
+          "word": "verordnung",
+          "count": 4
+        },
+        {
+          "word": "rechtsstaat",
+          "count": 2
+        },
+        {
+          "word": "datenschutz",
+          "count": 2
+        },
+        {
+          "word": "amtsgericht",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 2
+        },
+        {
+          "word": "schiffe",
+          "count": 1
+        },
+        {
+          "word": "bahn",
+          "count": 1
+        },
+        {
+          "word": "verkehrsminister",
+          "count": 1
+        },
+        {
+          "word": "deutschlandticket",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

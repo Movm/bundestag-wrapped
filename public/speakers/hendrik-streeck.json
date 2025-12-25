@@ -1,0 +1,265 @@
+{
+  "name": "Dr. Hendrik Streeck",
+  "party": "CDU/CSU",
+  "slug": "hendrik-streeck",
+  "academicTitle": "Dr",
+  "speeches": 2,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 987,
+  "avgWords": 494,
+  "minWords": 377,
+  "maxWords": 610,
+  "rankings": {
+    "speechRank": 551,
+    "wordsRank": 550,
+    "partySpeechRank": 178,
+    "partyWordsRank": 179,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 9.5,
+    "verbosityRank": null,
+    "verbosityTotal": null,
+    "partyVerbosityRank": null,
+    "longestSpeechRank": 409
+  },
+  "drama": {
+    "interruptionsGiven": 1,
+    "interruptionsReceived": 1,
+    "interrupterRank": 306,
+    "interruptedRank": 552
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 6
+      },
+      {
+        "word": "patienten",
+        "count": 6
+      },
+      {
+        "word": "reformen",
+        "count": 5
+      },
+      {
+        "word": "einfach",
+        "count": 5
+      },
+      {
+        "word": "moment",
+        "count": 5
+      },
+      {
+        "word": "patientinnen",
+        "count": 4
+      },
+      {
+        "word": "weiter",
+        "count": 4
+      },
+      {
+        "word": "gesundheitssystem",
+        "count": 4
+      },
+      {
+        "word": "notaufnahme",
+        "count": 4
+      },
+      {
+        "word": "ministerin",
+        "count": 3
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "patienten",
+        "count": 6,
+        "ratioParty": 73.2,
+        "ratioBundestag": 111.0
+      },
+      {
+        "word": "moment",
+        "count": 5,
+        "ratioParty": 53.8,
+        "ratioBundestag": 58.3
+      },
+      {
+        "word": "reformen",
+        "count": 5,
+        "ratioParty": 21.3,
+        "ratioBundestag": 31.0
+      },
+      {
+        "word": "einfach",
+        "count": 5,
+        "ratioParty": 9.8,
+        "ratioBundestag": 7.7
+      },
+      {
+        "word": "menschen",
+        "count": 6,
+        "ratioParty": 2.7,
+        "ratioBundestag": 2.1
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 494,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.72,
+    "vsParliament": 0.81
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "2"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Dr. Hendrik Streeck häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Abstimmung",
+        "isCorrect": false
+      },
+      {
+        "text": "Politik",
+        "isCorrect": false
+      },
+      {
+        "text": "Energie",
+        "isCorrect": false
+      },
+      {
+        "text": "Patienten",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Patienten\" nutzt Dr. Hendrik Streeck 73.2× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "111.0× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🦫",
+    "name": "Biber",
+    "title": "Konstruktiver Brückenbauer",
+    "reason": "Du baust Brücken zwischen Positionen – kooperativ und lösungsorientiert.",
+    "id": "biber",
+    "alternatives": [
+      {
+        "emoji": "🦦",
+        "name": "Otter",
+        "title": "Positiver Teamplayer",
+        "reason": "Du bringst gute Stimmung und konstruktive Beiträge ins Plenum.",
+        "id": "otter",
+        "score": 0.807
+      },
+      {
+        "emoji": "🐇",
+        "name": "Hase",
+        "title": "Wendiger Optimist",
+        "reason": "Mit positivem Blick reagierst du schnell auf neue Themen.",
+        "id": "hase",
+        "score": 0.737
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 66.7,
+      "aggression": 0.0,
+      "labeling": 14.3,
+      "solution_focus": 80.0,
+      "collaboration": 100.0,
+      "demand_intensity": 14.3,
+      "acknowledgment": 0.0,
+      "authority": 91.7,
+      "future_orientation": 100.0,
+      "emotional_intensity": 50.0,
+      "inclusivity": 61.5,
+      "discriminatory": 0.0
+    },
+    "confidence": "low",
+    "sampleSize": {
+      "speeches": 2,
+      "words": 653,
+      "adjectives": 7,
+      "verbs": 7
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.0,
+      "wirtschaft": 0.0,
+      "soziales": 1.53,
+      "sicherheit": 0.0,
+      "gesundheit": 38.28,
+      "europa": 0.0,
+      "digital": 0.0,
+      "bildung": 0.0,
+      "finanzen": 1.53,
+      "justiz": 0.0,
+      "arbeit": 0.0,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "gesundheit",
+        "score": 38.28,
+        "rank": 1
+      },
+      {
+        "topic": "soziales",
+        "score": 1.53,
+        "rank": 2
+      },
+      {
+        "topic": "finanzen",
+        "score": 1.53,
+        "rank": 3
+      }
+    ],
+    "topicWords": {
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "gesundheitssystem",
+          "count": 4
+        },
+        {
+          "word": "notaufnahme",
+          "count": 4
+        },
+        {
+          "word": "rettungsdienst",
+          "count": 3
+        },
+        {
+          "word": "arzt",
+          "count": 2
+        },
+        {
+          "word": "prävention",
+          "count": 2
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "entlastung",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

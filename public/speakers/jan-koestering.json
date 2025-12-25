@@ -1,0 +1,482 @@
+{
+  "name": "Jan Köstering",
+  "party": "DIE LINKE",
+  "slug": "jan-koestering",
+  "academicTitle": null,
+  "speeches": 16,
+  "wortbeitraege": 2,
+  "befragungResponses": 0,
+  "totalWords": 8089,
+  "avgWords": 449,
+  "minWords": 29,
+  "maxWords": 910,
+  "rankings": {
+    "speechRank": 23,
+    "wordsRank": 68,
+    "partySpeechRank": 4,
+    "partyWordsRank": 9,
+    "partySize": 63,
+    "totalSpeakers": 609,
+    "percentile": 96.2,
+    "verbosityRank": 248,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 17,
+    "longestSpeechRank": 101
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 23,
+    "interrupterRank": 177,
+    "interruptedRank": 97
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "sicherheit",
+        "count": 22
+      },
+      {
+        "word": "menschen",
+        "count": 21
+      },
+      {
+        "word": "bundesregierung",
+        "count": 15
+      },
+      {
+        "word": "deutschland",
+        "count": 15
+      },
+      {
+        "word": "erst",
+        "count": 13
+      },
+      {
+        "word": "gewalt",
+        "count": 13
+      },
+      {
+        "word": "bundeswehr",
+        "count": 13
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "dachgesetz",
+        "count": 6,
+        "ratioParty": 191.9,
+        "ratioBundestag": 52.4
+      },
+      {
+        "word": "rettungsdienst",
+        "count": 5,
+        "ratioParty": 159.9,
+        "ratioBundestag": 52.4
+      },
+      {
+        "word": "notfallversorgung",
+        "count": 11,
+        "ratioParty": 117.3,
+        "ratioBundestag": 82.3
+      },
+      {
+        "word": "kritis",
+        "count": 7,
+        "ratioParty": 112.0,
+        "ratioBundestag": 35.5
+      },
+      {
+        "word": "bedrohungslage",
+        "count": 5,
+        "ratioParty": 80.0,
+        "ratioBundestag": 16.5
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 449,
+    "partyAvgWords": 521,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.86,
+    "vsParliament": 0.73
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "16"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "8.089"
+    },
+    {
+      "emoji": "🥇",
+      "label": "Rang in DIE LINKE",
+      "value": "#4 von 63"
+    },
+    {
+      "emoji": "📊",
+      "label": "Top-Redner",
+      "value": "Top 4%"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Jan Köstering häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Dachgesetz",
+        "isCorrect": true
+      },
+      {
+        "text": "Kinder",
+        "isCorrect": false
+      },
+      {
+        "text": "Gesellschaft",
+        "isCorrect": false
+      },
+      {
+        "text": "Haushalt",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Dachgesetz\" nutzt Jan Köstering 191.9× häufiger als der DIE LINKE-Durchschnitt.",
+    "explanationBundestag": "52.4× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🐿️",
+    "name": "Eichhörnchen",
+    "title": "Themenhüter",
+    "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+    "id": "eichhoernchen",
+    "alternatives": [
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißiger Abgeordneter",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      },
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Cleverer Stratege",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 0.988
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 72.2,
+      "aggression": 20.0,
+      "labeling": 8.0,
+      "solution_focus": 81.6,
+      "collaboration": 37.5,
+      "demand_intensity": 10.1,
+      "acknowledgment": 7.2,
+      "authority": 73.2,
+      "future_orientation": 87.3,
+      "emotional_intensity": 44.8,
+      "inclusivity": 41.6,
+      "discriminatory": 0.38
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 18,
+      "words": 5287,
+      "adjectives": 25,
+      "verbs": 69
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 1.13,
+      "klima": 0.38,
+      "wirtschaft": 1.13,
+      "soziales": 1.7,
+      "sicherheit": 13.24,
+      "gesundheit": 3.22,
+      "europa": 1.32,
+      "digital": 2.08,
+      "bildung": 0.76,
+      "finanzen": 2.65,
+      "justiz": 3.4,
+      "arbeit": 0.38,
+      "mobilitaet": 1.89
+    },
+    "topTopics": [
+      {
+        "topic": "sicherheit",
+        "score": 13.24,
+        "rank": 1
+      },
+      {
+        "topic": "justiz",
+        "score": 3.4,
+        "rank": 2
+      },
+      {
+        "topic": "gesundheit",
+        "score": 3.22,
+        "rank": 3
+      },
+      {
+        "topic": "finanzen",
+        "score": 2.65,
+        "rank": 4
+      },
+      {
+        "topic": "digital",
+        "score": 2.08,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "integration",
+          "count": 2
+        },
+        {
+          "word": "migration",
+          "count": 1
+        },
+        {
+          "word": "flüchtlinge",
+          "count": 1
+        },
+        {
+          "word": "bamf",
+          "count": 1
+        },
+        {
+          "word": "asylverfahren",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "klimawandel",
+          "count": 2
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 4
+        },
+        {
+          "word": "konjunktur",
+          "count": 1
+        },
+        {
+          "word": "fachkräfte",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "umverteilung",
+          "count": 2
+        },
+        {
+          "word": "familie",
+          "count": 1
+        },
+        {
+          "word": "sozialstaat",
+          "count": 1
+        },
+        {
+          "word": "sozialpolitik",
+          "count": 1
+        },
+        {
+          "word": "altersarmut",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "gewalt",
+          "count": 13
+        },
+        {
+          "word": "bundeswehr",
+          "count": 13
+        },
+        {
+          "word": "waffen",
+          "count": 7
+        },
+        {
+          "word": "polizei",
+          "count": 7
+        },
+        {
+          "word": "überwachung",
+          "count": 5
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "rettungsdienst",
+          "count": 5
+        },
+        {
+          "word": "krankenhäuser",
+          "count": 3
+        },
+        {
+          "word": "krankenkassen",
+          "count": 2
+        },
+        {
+          "word": "sucht",
+          "count": 1
+        },
+        {
+          "word": "prävention",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 3
+        },
+        {
+          "word": "russland",
+          "count": 2
+        },
+        {
+          "word": "nato",
+          "count": 1
+        },
+        {
+          "word": "ukraine",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "daten",
+          "count": 7
+        },
+        {
+          "word": "cyberangriff",
+          "count": 1
+        },
+        {
+          "word": "server",
+          "count": 1
+        },
+        {
+          "word": "software",
+          "count": 1
+        },
+        {
+          "word": "datenverarbeitung",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "bildung",
+          "count": 2
+        },
+        {
+          "word": "universität",
+          "count": 1
+        },
+        {
+          "word": "kita",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "kosten",
+          "count": 5
+        },
+        {
+          "word": "haushalt",
+          "count": 3
+        },
+        {
+          "word": "schulden",
+          "count": 2
+        },
+        {
+          "word": "sondervermögen",
+          "count": 1
+        },
+        {
+          "word": "steuern",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "grundrechte",
+          "count": 4
+        },
+        {
+          "word": "bundesverfassungsgericht",
+          "count": 3
+        },
+        {
+          "word": "grundgesetz",
+          "count": 3
+        },
+        {
+          "word": "rechtsstaat",
+          "count": 2
+        },
+        {
+          "word": "oberlandesgericht",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "beschäftigte",
+          "count": 1
+        },
+        {
+          "word": "überstunden",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 5
+        },
+        {
+          "word": "bahn",
+          "count": 2
+        },
+        {
+          "word": "flug",
+          "count": 1
+        },
+        {
+          "word": "straßen",
+          "count": 1
+        },
+        {
+          "word": "straße",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

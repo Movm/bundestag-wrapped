@@ -1,0 +1,491 @@
+{
+  "name": "Martin Sichert",
+  "party": "AfD",
+  "slug": "martin-sichert",
+  "academicTitle": null,
+  "speeches": 11,
+  "wortbeitraege": 4,
+  "befragungResponses": 0,
+  "totalWords": 8078,
+  "avgWords": 539,
+  "minWords": 38,
+  "maxWords": 974,
+  "rankings": {
+    "speechRank": 101,
+    "wordsRank": 70,
+    "partySpeechRank": 15,
+    "partyWordsRank": 14,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 83.4,
+    "verbosityRank": 121,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 31,
+    "longestSpeechRank": 74
+  },
+  "drama": {
+    "interruptionsGiven": 5,
+    "interruptionsReceived": 34,
+    "interrupterRank": 212,
+    "interruptedRank": 44
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 38
+      },
+      {
+        "word": "deutschland",
+        "count": 24
+      },
+      {
+        "word": "krankenhäuser",
+        "count": 22
+      },
+      {
+        "word": "kosten",
+        "count": 21
+      },
+      {
+        "word": "regierung",
+        "count": 20
+      },
+      {
+        "word": "jesiden",
+        "count": 19
+      },
+      {
+        "word": "land",
+        "count": 19
+      },
+      {
+        "word": "ausländer",
+        "count": 18
+      },
+      {
+        "word": "politik",
+        "count": 17
+      },
+      {
+        "word": "gesundheit",
+        "count": 15
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "gesundheitspolitik",
+        "count": 11,
+        "ratioParty": 390.0,
+        "ratioBundestag": 108.8
+      },
+      {
+        "word": "zuzahlung",
+        "count": 5,
+        "ratioParty": 354.5,
+        "ratioBundestag": 1582.9
+      },
+      {
+        "word": "wartezeiten",
+        "count": 7,
+        "ratioParty": 124.1,
+        "ratioBundestag": 92.3
+      },
+      {
+        "word": "multikulti",
+        "count": 5,
+        "ratioParty": 118.2,
+        "ratioBundestag": 527.6
+      },
+      {
+        "word": "gesundheitswesen",
+        "count": 9,
+        "ratioParty": 106.4,
+        "ratioBundestag": 43.8
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "ungerecht",
+        "count": 3,
+        "ratioParty": 14.2,
+        "ratioBundestag": 15.6
+      },
+      {
+        "word": "gefährlich",
+        "count": 3,
+        "ratioParty": 13.3,
+        "ratioBundestag": 9.7
+      },
+      {
+        "word": "rechts",
+        "count": 3,
+        "ratioParty": 3.1,
+        "ratioBundestag": 3.0
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 539,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.92,
+    "vsParliament": 0.88
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "11"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "8.078"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Martin Sichert häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Opposition",
+        "isCorrect": false
+      },
+      {
+        "text": "Sicherheit",
+        "isCorrect": false
+      },
+      {
+        "text": "Minister",
+        "isCorrect": false
+      },
+      {
+        "text": "Gesundheitspolitik",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Gesundheitspolitik\" nutzt Martin Sichert 390.0× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "108.8× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Martin Sichert häufiger als der Rest der AfD-Fraktion?",
+    "options": [
+      {
+        "text": "Alt",
+        "isCorrect": false
+      },
+      {
+        "text": "Ungerecht",
+        "isCorrect": true
+      },
+      {
+        "text": "Stark",
+        "isCorrect": false
+      },
+      {
+        "text": "Wichtig",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Ungerecht\" nutzt Martin Sichert 14.2× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "15.6× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 28.6,
+      "aggression": 4.2,
+      "labeling": 37.5,
+      "solution_focus": 56.5,
+      "collaboration": 0.0,
+      "demand_intensity": 16.1,
+      "acknowledgment": 0.0,
+      "authority": 77.5,
+      "future_orientation": 77.9,
+      "emotional_intensity": 73.3,
+      "inclusivity": 50.9,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 15,
+      "words": 5251,
+      "adjectives": 24,
+      "verbs": 31
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.95,
+      "klima": 0.0,
+      "wirtschaft": 2.48,
+      "soziales": 4.95,
+      "sicherheit": 1.14,
+      "gesundheit": 25.71,
+      "europa": 2.29,
+      "digital": 0.38,
+      "bildung": 0.76,
+      "finanzen": 7.81,
+      "justiz": 0.76,
+      "arbeit": 0.95,
+      "mobilitaet": 1.14
+    },
+    "topTopics": [
+      {
+        "topic": "gesundheit",
+        "score": 25.71,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 7.81,
+        "rank": 2
+      },
+      {
+        "topic": "soziales",
+        "score": 4.95,
+        "rank": 3
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 2.48,
+        "rank": 4
+      },
+      {
+        "topic": "europa",
+        "score": 2.29,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "asylbewerber",
+          "count": 3
+        },
+        {
+          "word": "staatsangehörigkeit",
+          "count": 1
+        },
+        {
+          "word": "einwanderung",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "fachkräfte",
+          "count": 4
+        },
+        {
+          "word": "firma",
+          "count": 4
+        },
+        {
+          "word": "kapital",
+          "count": 1
+        },
+        {
+          "word": "firmen",
+          "count": 1
+        },
+        {
+          "word": "unternehmen",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 13
+        },
+        {
+          "word": "eltern",
+          "count": 3
+        },
+        {
+          "word": "sozialsystem",
+          "count": 2
+        },
+        {
+          "word": "rentner",
+          "count": 2
+        },
+        {
+          "word": "fürsorge",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "korruption",
+          "count": 1
+        },
+        {
+          "word": "verteidigung",
+          "count": 1
+        },
+        {
+          "word": "mord",
+          "count": 1
+        },
+        {
+          "word": "täter",
+          "count": 1
+        },
+        {
+          "word": "straftäter",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "krankenhäuser",
+          "count": 22
+        },
+        {
+          "word": "krankenversicherung",
+          "count": 12
+        },
+        {
+          "word": "gesundheitspolitik",
+          "count": 11
+        },
+        {
+          "word": "gesundheitssystem",
+          "count": 11
+        },
+        {
+          "word": "ärzte",
+          "count": 9
+        }
+      ],
+      "europa": [
+        {
+          "word": "krieg",
+          "count": 4
+        },
+        {
+          "word": "ukrainer",
+          "count": 3
+        },
+        {
+          "word": "europa",
+          "count": 2
+        },
+        {
+          "word": "ukraine",
+          "count": 2
+        },
+        {
+          "word": "sanktionen",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "internet",
+          "count": 1
+        },
+        {
+          "word": "daten",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "schule",
+          "count": 1
+        },
+        {
+          "word": "professor",
+          "count": 1
+        },
+        {
+          "word": "kita",
+          "count": 1
+        },
+        {
+          "word": "klassenzimmer",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "kosten",
+          "count": 21
+        },
+        {
+          "word": "steuerzahler",
+          "count": 3
+        },
+        {
+          "word": "steuern",
+          "count": 3
+        },
+        {
+          "word": "entlastung",
+          "count": 2
+        },
+        {
+          "word": "haushalt",
+          "count": 2
+        }
+      ],
+      "justiz": [
+        {
+          "word": "gericht",
+          "count": 1
+        },
+        {
+          "word": "strafe",
+          "count": 1
+        },
+        {
+          "word": "gleichberechtigung",
+          "count": 1
+        },
+        {
+          "word": "gleichstellung",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitslose",
+          "count": 3
+        },
+        {
+          "word": "beschäftigte",
+          "count": 1
+        },
+        {
+          "word": "arbeitgeberverband",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 1
+        },
+        {
+          "word": "auto",
+          "count": 1
+        },
+        {
+          "word": "führerschein",
+          "count": 1
+        },
+        {
+          "word": "straßen",
+          "count": 1
+        },
+        {
+          "word": "autos",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,416 @@
+{
+  "name": "Christian Zaum",
+  "party": "AfD",
+  "slug": "christian-zaum",
+  "academicTitle": null,
+  "speeches": 8,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 4176,
+  "avgWords": 522,
+  "minWords": 359,
+  "maxWords": 956,
+  "rankings": {
+    "speechRank": 230,
+    "wordsRank": 238,
+    "partySpeechRank": 53,
+    "partyWordsRank": 50,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 62.2,
+    "verbosityRank": 135,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 32,
+    "longestSpeechRank": 81
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 17,
+    "interrupterRank": null,
+    "interruptedRank": 165
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "deutschland",
+        "count": 14
+      },
+      {
+        "word": "lehrer",
+        "count": 12
+      },
+      {
+        "word": "schulen",
+        "count": 10
+      },
+      {
+        "word": "wahrscheinlich",
+        "count": 9
+      },
+      {
+        "word": "schüler",
+        "count": 9
+      },
+      {
+        "word": "ministerin",
+        "count": 8
+      },
+      {
+        "word": "wissen",
+        "count": 8
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "betreuung",
+        "count": 7,
+        "ratioParty": 138.4,
+        "ratioBundestag": 70.5
+      },
+      {
+        "word": "lehrer",
+        "count": 12,
+        "ratioParty": 83.0,
+        "ratioBundestag": 189.1
+      },
+      {
+        "word": "schule",
+        "count": 5,
+        "ratioParty": 46.1,
+        "ratioBundestag": 24.0
+      },
+      {
+        "word": "schüler",
+        "count": 9,
+        "ratioParty": 38.9,
+        "ratioBundestag": 62.1
+      },
+      {
+        "word": "sinken",
+        "count": 5,
+        "ratioParty": 28.8,
+        "ratioBundestag": 29.0
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 522,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.89,
+    "vsParliament": 0.85
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "8"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "4.176"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Christian Zaum häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Betreuung",
+        "isCorrect": true
+      },
+      {
+        "text": "Koalition",
+        "isCorrect": false
+      },
+      {
+        "text": "Familie",
+        "isCorrect": false
+      },
+      {
+        "text": "Haushalt",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Betreuung\" nutzt Christian Zaum 138.4× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "70.5× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 60.0,
+      "aggression": 0.0,
+      "labeling": 37.5,
+      "solution_focus": 100.0,
+      "collaboration": 50.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 0.0,
+      "authority": 72.6,
+      "future_orientation": 76.9,
+      "emotional_intensity": 2.1,
+      "inclusivity": 51.0,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 8,
+      "words": 2709,
+      "adjectives": 8,
+      "verbs": 20
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 2.58,
+      "klima": 1.48,
+      "wirtschaft": 2.21,
+      "soziales": 12.55,
+      "sicherheit": 1.11,
+      "gesundheit": 2.21,
+      "europa": 0.74,
+      "digital": 0.37,
+      "bildung": 19.93,
+      "finanzen": 3.69,
+      "justiz": 1.48,
+      "arbeit": 2.21,
+      "mobilitaet": 0.74
+    },
+    "topTopics": [
+      {
+        "topic": "bildung",
+        "score": 19.93,
+        "rank": 1
+      },
+      {
+        "topic": "soziales",
+        "score": 12.55,
+        "rank": 2
+      },
+      {
+        "topic": "finanzen",
+        "score": 3.69,
+        "rank": 3
+      },
+      {
+        "topic": "migration",
+        "score": 2.58,
+        "rank": 4
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 2.21,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "flüchtlinge",
+          "count": 2
+        },
+        {
+          "word": "migranten",
+          "count": 2
+        },
+        {
+          "word": "mittelmeer",
+          "count": 1
+        },
+        {
+          "word": "balkanroute",
+          "count": 1
+        },
+        {
+          "word": "migration",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "energie",
+          "count": 2
+        },
+        {
+          "word": "kohle",
+          "count": 1
+        },
+        {
+          "word": "klimaschutz",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "fachkräfte",
+          "count": 2
+        },
+        {
+          "word": "fachkräftemangel",
+          "count": 1
+        },
+        {
+          "word": "handwerk",
+          "count": 1
+        },
+        {
+          "word": "industrie",
+          "count": 1
+        },
+        {
+          "word": "selbstständige",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "familien",
+          "count": 7
+        },
+        {
+          "word": "kinder",
+          "count": 6
+        },
+        {
+          "word": "mieten",
+          "count": 4
+        },
+        {
+          "word": "eltern",
+          "count": 4
+        },
+        {
+          "word": "familie",
+          "count": 2
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "kriminalität",
+          "count": 1
+        },
+        {
+          "word": "radikalisierung",
+          "count": 1
+        },
+        {
+          "word": "betrug",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "pflege",
+          "count": 3
+        },
+        {
+          "word": "krankenhaus",
+          "count": 2
+        },
+        {
+          "word": "pflegekraft",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "russland",
+          "count": 2
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "lehrer",
+          "count": 12
+        },
+        {
+          "word": "schulen",
+          "count": 10
+        },
+        {
+          "word": "schüler",
+          "count": 9
+        },
+        {
+          "word": "bildung",
+          "count": 6
+        },
+        {
+          "word": "schule",
+          "count": 5
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "sondervermögen",
+          "count": 3
+        },
+        {
+          "word": "fördermittel",
+          "count": 2
+        },
+        {
+          "word": "haushalt",
+          "count": 1
+        },
+        {
+          "word": "schulden",
+          "count": 1
+        },
+        {
+          "word": "steuerzahler",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "grundgesetz",
+          "count": 2
+        },
+        {
+          "word": "straftaten",
+          "count": 1
+        },
+        {
+          "word": "rechtsprechung",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "vereinbarkeit",
+          "count": 2
+        },
+        {
+          "word": "einkommen",
+          "count": 2
+        },
+        {
+          "word": "arbeitsplätze",
+          "count": 1
+        },
+        {
+          "word": "vollzeit",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "straße",
+          "count": 1
+        },
+        {
+          "word": "fahrrad",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

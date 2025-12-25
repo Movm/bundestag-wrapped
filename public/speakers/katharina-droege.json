@@ -1,0 +1,531 @@
+{
+  "name": "Katharina Dröge",
+  "party": "GRÜNE",
+  "slug": "katharina-droege",
+  "academicTitle": null,
+  "speeches": 7,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 11192,
+  "avgWords": 1599,
+  "minWords": 604,
+  "maxWords": 2693,
+  "rankings": {
+    "speechRank": 259,
+    "wordsRank": 24,
+    "partySpeechRank": 44,
+    "partyWordsRank": 2,
+    "partySize": 85,
+    "totalSpeakers": 609,
+    "percentile": 57.5,
+    "verbosityRank": 1,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 1,
+    "longestSpeechRank": 3
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 47,
+    "interrupterRank": null,
+    "interruptedRank": 23
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "merz",
+        "count": 93
+      },
+      {
+        "word": "menschen",
+        "count": 69
+      },
+      {
+        "word": "land",
+        "count": 68
+      },
+      {
+        "word": "politik",
+        "count": 30
+      },
+      {
+        "word": "wäre",
+        "count": 27
+      },
+      {
+        "word": "geld",
+        "count": 27
+      },
+      {
+        "word": "kanzler",
+        "count": 27
+      },
+      {
+        "word": "deutschland",
+        "count": 24
+      },
+      {
+        "word": "zeit",
+        "count": 23
+      },
+      {
+        "word": "koalition",
+        "count": 23
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "verärgert",
+        "count": 5,
+        "ratioParty": 84.1,
+        "ratioBundestag": 299.2
+      },
+      {
+        "word": "bilanz",
+        "count": 6,
+        "ratioParty": 22.4,
+        "ratioBundestag": 23.5
+      },
+      {
+        "word": "energiepolitik",
+        "count": 5,
+        "ratioParty": 16.8,
+        "ratioBundestag": 7.1
+      },
+      {
+        "word": "beantworten",
+        "count": 5,
+        "ratioParty": 16.8,
+        "ratioBundestag": 10.8
+      },
+      {
+        "word": "geiseln",
+        "count": 5,
+        "ratioParty": 15.3,
+        "ratioBundestag": 12.6
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "schädlich",
+        "count": 3,
+        "ratioParty": 25.2,
+        "ratioBundestag": 51.3
+      },
+      {
+        "word": "links",
+        "count": 3,
+        "ratioParty": 9.2,
+        "ratioBundestag": 2.3
+      },
+      {
+        "word": "schlecht",
+        "count": 7,
+        "ratioParty": 4.6,
+        "ratioBundestag": 8.1
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 1599,
+    "partyAvgWords": 567,
+    "parliamentAvgWords": 613,
+    "vsParty": 2.82,
+    "vsParliament": 2.61
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "7"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "11.192"
+    },
+    {
+      "emoji": "📚",
+      "label": "Wortreichster",
+      "value": "#1 von 521"
+    },
+    {
+      "emoji": "📏",
+      "label": "Längste Rede",
+      "value": "#3 (2.693 Wörter)"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Katharina Dröge häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Steuern",
+        "isCorrect": false
+      },
+      {
+        "text": "Demokratie",
+        "isCorrect": false
+      },
+      {
+        "text": "Verärgert",
+        "isCorrect": true
+      },
+      {
+        "text": "Bürger",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Verärgert\" nutzt Katharina Dröge 84.1× häufiger als der GRÜNE-Durchschnitt.",
+    "explanationBundestag": "299.2× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Katharina Dröge häufiger als der Rest der GRÜNE-Fraktion?",
+    "options": [
+      {
+        "text": "Groß",
+        "isCorrect": false
+      },
+      {
+        "text": "Schädlich",
+        "isCorrect": true
+      },
+      {
+        "text": "Notwendig",
+        "isCorrect": false
+      },
+      {
+        "text": "Gefährlich",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Schädlich\" nutzt Katharina Dröge 25.2× häufiger als der GRÜNE-Durchschnitt.",
+    "explanationBundestag": "51.3× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐿️",
+    "name": "Eichhörnchen",
+    "title": "Themenhüterin",
+    "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+    "id": "eichhoernchen",
+    "alternatives": [
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißige Abgeordnete",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 0.938
+      },
+      {
+        "emoji": "🐻",
+        "name": "Bär",
+        "title": "Standhafte Debattiererin",
+        "reason": "Trotz 47× unterbrochen zu werden, bleibst du standhaft.",
+        "id": "baer",
+        "score": 0.899
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 33.3,
+      "aggression": 9.7,
+      "labeling": 12.9,
+      "solution_focus": 63.8,
+      "collaboration": 70.0,
+      "demand_intensity": 6.5,
+      "acknowledgment": 1.6,
+      "authority": 82.4,
+      "future_orientation": 57.0,
+      "emotional_intensity": 51.4,
+      "inclusivity": 42.0,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 7,
+      "words": 6938,
+      "adjectives": 31,
+      "verbs": 62
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.29,
+      "klima": 4.9,
+      "wirtschaft": 4.9,
+      "soziales": 7.06,
+      "sicherheit": 1.87,
+      "gesundheit": 0.29,
+      "europa": 10.09,
+      "digital": 0.14,
+      "bildung": 0.86,
+      "finanzen": 6.49,
+      "justiz": 0.43,
+      "arbeit": 1.15,
+      "mobilitaet": 2.59
+    },
+    "topTopics": [
+      {
+        "topic": "europa",
+        "score": 10.09,
+        "rank": 1
+      },
+      {
+        "topic": "soziales",
+        "score": 7.06,
+        "rank": 2
+      },
+      {
+        "topic": "finanzen",
+        "score": 6.49,
+        "rank": 3
+      },
+      {
+        "topic": "klima",
+        "score": 4.9,
+        "rank": 4
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 4.9,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "migration",
+          "count": 1
+        },
+        {
+          "word": "geflüchtete",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "klimaschutz",
+          "count": 16
+        },
+        {
+          "word": "klimakrise",
+          "count": 3
+        },
+        {
+          "word": "energie",
+          "count": 3
+        },
+        {
+          "word": "umweltpolitik",
+          "count": 3
+        },
+        {
+          "word": "wälder",
+          "count": 2
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 12
+        },
+        {
+          "word": "automobilindustrie",
+          "count": 7
+        },
+        {
+          "word": "wirtschaftspolitik",
+          "count": 4
+        },
+        {
+          "word": "industrie",
+          "count": 3
+        },
+        {
+          "word": "mittelstand",
+          "count": 2
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 17
+        },
+        {
+          "word": "eltern",
+          "count": 6
+        },
+        {
+          "word": "bürgergeld",
+          "count": 5
+        },
+        {
+          "word": "familien",
+          "count": 4
+        },
+        {
+          "word": "jugendliche",
+          "count": 2
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "bundeswehr",
+          "count": 3
+        },
+        {
+          "word": "terror",
+          "count": 2
+        },
+        {
+          "word": "waffen",
+          "count": 2
+        },
+        {
+          "word": "verteidigung",
+          "count": 1
+        },
+        {
+          "word": "panzer",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "krankenhäuser",
+          "count": 1
+        },
+        {
+          "word": "medikamente",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "ukraine",
+          "count": 23
+        },
+        {
+          "word": "europa",
+          "count": 12
+        },
+        {
+          "word": "russland",
+          "count": 10
+        },
+        {
+          "word": "brüssel",
+          "count": 6
+        },
+        {
+          "word": "putin",
+          "count": 4
+        }
+      ],
+      "digital": [
+        {
+          "word": "internet",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "schulen",
+          "count": 3
+        },
+        {
+          "word": "schülerinnen",
+          "count": 1
+        },
+        {
+          "word": "schüler",
+          "count": 1
+        },
+        {
+          "word": "schule",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "bundeshaushalt",
+          "count": 11
+        },
+        {
+          "word": "sondervermögen",
+          "count": 7
+        },
+        {
+          "word": "schuldenbremse",
+          "count": 7
+        },
+        {
+          "word": "haushalt",
+          "count": 5
+        },
+        {
+          "word": "investitionen",
+          "count": 3
+        }
+      ],
+      "justiz": [
+        {
+          "word": "gleichberechtigung",
+          "count": 1
+        },
+        {
+          "word": "richterin",
+          "count": 1
+        },
+        {
+          "word": "bundesverfassungsgericht",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "beschäftigte",
+          "count": 3
+        },
+        {
+          "word": "einkommen",
+          "count": 2
+        },
+        {
+          "word": "gewerkschaften",
+          "count": 1
+        },
+        {
+          "word": "arbeitslosigkeit",
+          "count": 1
+        },
+        {
+          "word": "arbeitslose",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "elektromobilität",
+          "count": 7
+        },
+        {
+          "word": "bahn",
+          "count": 3
+        },
+        {
+          "word": "straße",
+          "count": 3
+        },
+        {
+          "word": "deutschlandticket",
+          "count": 1
+        },
+        {
+          "word": "schiene",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

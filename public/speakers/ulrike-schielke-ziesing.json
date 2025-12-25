@@ -1,0 +1,447 @@
+{
+  "name": "Ulrike Schielke-Ziesing",
+  "party": "AfD",
+  "slug": "ulrike-schielke-ziesing",
+  "academicTitle": null,
+  "speeches": 8,
+  "wortbeitraege": 4,
+  "befragungResponses": 0,
+  "totalWords": 11058,
+  "avgWords": 922,
+  "minWords": 641,
+  "maxWords": 1102,
+  "rankings": {
+    "speechRank": 222,
+    "wordsRank": 26,
+    "partySpeechRank": 51,
+    "partyWordsRank": 7,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 63.5,
+    "verbosityRank": 8,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 4,
+    "longestSpeechRank": 44
+  },
+  "drama": {
+    "interruptionsGiven": 54,
+    "interruptionsReceived": 24,
+    "interrupterRank": 34,
+    "interruptedRank": 89
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "bürger",
+        "count": 28
+      },
+      {
+        "word": "rente",
+        "count": 27
+      },
+      {
+        "word": "jahr",
+        "count": 22
+      },
+      {
+        "word": "menschen",
+        "count": 21
+      },
+      {
+        "word": "wissen",
+        "count": 21
+      },
+      {
+        "word": "rentenversicherung",
+        "count": 19
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "haltelinie",
+        "count": 12,
+        "ratioParty": 635.5,
+        "ratioBundestag": 86.3
+      },
+      {
+        "word": "krediten",
+        "count": 7,
+        "ratioParty": 370.7,
+        "ratioBundestag": 110.8
+      },
+      {
+        "word": "rentenpaket",
+        "count": 9,
+        "ratioParty": 238.3,
+        "ratioBundestag": 26.4
+      },
+      {
+        "word": "kommissionen",
+        "count": 5,
+        "ratioParty": 88.3,
+        "ratioBundestag": 28.9
+      },
+      {
+        "word": "einbeziehung",
+        "count": 6,
+        "ratioParty": 79.4,
+        "ratioBundestag": 59.3
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "falsch",
+        "count": 3,
+        "ratioParty": 2.1,
+        "ratioBundestag": 2.2
+      },
+      {
+        "word": "teuer",
+        "count": 3,
+        "ratioParty": 2.0,
+        "ratioBundestag": 3.3
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 922,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 1.57,
+    "vsParliament": 1.5
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "8"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "11.058"
+    },
+    {
+      "emoji": "📚",
+      "label": "Wortreichster",
+      "value": "#8 von 521"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufe",
+      "value": "54"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Ulrike Schielke-Ziesing häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Opposition",
+        "isCorrect": false
+      },
+      {
+        "text": "Fraktion",
+        "isCorrect": false
+      },
+      {
+        "text": "Haltelinie",
+        "isCorrect": true
+      },
+      {
+        "text": "Gesetzentwurf",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Haltelinie\" nutzt Ulrike Schielke-Ziesing 635.5× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "86.3× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Ulrike Schielke-Ziesing häufiger als der Rest der AfD-Fraktion?",
+    "options": [
+      {
+        "text": "Falsch",
+        "isCorrect": true
+      },
+      {
+        "text": "Politisch",
+        "isCorrect": false
+      },
+      {
+        "text": "Jung",
+        "isCorrect": false
+      },
+      {
+        "text": "Groß",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Falsch\" nutzt Ulrike Schielke-Ziesing 2.1× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "2.2× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 55.6,
+      "aggression": 9.7,
+      "labeling": 3.2,
+      "solution_focus": 72.7,
+      "collaboration": 78.6,
+      "demand_intensity": 11.6,
+      "acknowledgment": 4.7,
+      "authority": 87.1,
+      "future_orientation": 81.2,
+      "emotional_intensity": 36.4,
+      "inclusivity": 51.1,
+      "discriminatory": 0.14
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 12,
+      "words": 6997,
+      "adjectives": 31,
+      "verbs": 43
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.86,
+      "klima": 0.29,
+      "wirtschaft": 2.57,
+      "soziales": 17.29,
+      "sicherheit": 0.29,
+      "gesundheit": 1.0,
+      "europa": 0.29,
+      "digital": 0.14,
+      "bildung": 0.43,
+      "finanzen": 9.58,
+      "justiz": 0.0,
+      "arbeit": 5.29,
+      "mobilitaet": 1.14
+    },
+    "topTopics": [
+      {
+        "topic": "soziales",
+        "score": 17.29,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 9.58,
+        "rank": 2
+      },
+      {
+        "topic": "arbeit",
+        "score": 5.29,
+        "rank": 3
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 2.57,
+        "rank": 4
+      },
+      {
+        "topic": "mobilitaet",
+        "score": 1.14,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "asyl",
+          "count": 2
+        },
+        {
+          "word": "staatsangehörigkeit",
+          "count": 1
+        },
+        {
+          "word": "migration",
+          "count": 1
+        },
+        {
+          "word": "grenze",
+          "count": 1
+        },
+        {
+          "word": "rückführung",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "nachhaltig",
+          "count": 1
+        },
+        {
+          "word": "energie",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 5
+        },
+        {
+          "word": "fachkräfte",
+          "count": 2
+        },
+        {
+          "word": "kredite",
+          "count": 2
+        },
+        {
+          "word": "rezession",
+          "count": 1
+        },
+        {
+          "word": "insolvenz",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "rente",
+          "count": 27
+        },
+        {
+          "word": "rentenniveau",
+          "count": 14
+        },
+        {
+          "word": "grundsicherung",
+          "count": 11
+        },
+        {
+          "word": "rentner",
+          "count": 10
+        },
+        {
+          "word": "bürgergeld",
+          "count": 10
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "verteidigung",
+          "count": 2
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "krankenkassen",
+          "count": 2
+        },
+        {
+          "word": "krankenversicherung",
+          "count": 1
+        },
+        {
+          "word": "vorsorge",
+          "count": 1
+        },
+        {
+          "word": "kranke",
+          "count": 1
+        },
+        {
+          "word": "pflegeversicherung",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "ukrainer",
+          "count": 1
+        },
+        {
+          "word": "sanktionen",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "kita",
+          "count": 1
+        },
+        {
+          "word": "bildung",
+          "count": 1
+        },
+        {
+          "word": "schulen",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "kosten",
+          "count": 12
+        },
+        {
+          "word": "haushalt",
+          "count": 11
+        },
+        {
+          "word": "sondervermögen",
+          "count": 8
+        },
+        {
+          "word": "steuern",
+          "count": 6
+        },
+        {
+          "word": "schulden",
+          "count": 5
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "rentenversicherung",
+          "count": 19
+        },
+        {
+          "word": "arbeitnehmer",
+          "count": 6
+        },
+        {
+          "word": "arbeitslose",
+          "count": 2
+        },
+        {
+          "word": "sozialversicherung",
+          "count": 2
+        },
+        {
+          "word": "sozialabgaben",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 3
+        },
+        {
+          "word": "straßen",
+          "count": 2
+        },
+        {
+          "word": "fliegen",
+          "count": 2
+        },
+        {
+          "word": "autos",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

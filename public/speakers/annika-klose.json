@@ -1,0 +1,419 @@
+{
+  "name": "Annika Klose",
+  "party": "SPD",
+  "slug": "annika-klose",
+  "academicTitle": null,
+  "speeches": 6,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 3089,
+  "avgWords": 515,
+  "minWords": 401,
+  "maxWords": 695,
+  "rankings": {
+    "speechRank": 324,
+    "wordsRank": 358,
+    "partySpeechRank": 68,
+    "partyWordsRank": 72,
+    "partySize": 109,
+    "totalSpeakers": 609,
+    "percentile": 46.8,
+    "verbosityRank": 144,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 27,
+    "longestSpeechRank": 311
+  },
+  "drama": {
+    "interruptionsGiven": 4,
+    "interruptionsReceived": 13,
+    "interrupterRank": 236,
+    "interruptedRank": 214
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 25
+      },
+      {
+        "word": "land",
+        "count": 13
+      },
+      {
+        "word": "rente",
+        "count": 13
+      },
+      {
+        "word": "leben",
+        "count": 10
+      },
+      {
+        "word": "würden",
+        "count": 10
+      },
+      {
+        "word": "geld",
+        "count": 7
+      },
+      {
+        "word": "rentenniveau",
+        "count": 7
+      },
+      {
+        "word": "bedeutet",
+        "count": 6
+      },
+      {
+        "word": "könnte",
+        "count": 6
+      },
+      {
+        "word": "jungen",
+        "count": 6
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "rentenniveau",
+        "count": 7,
+        "ratioParty": 41.8,
+        "ratioBundestag": 49.6
+      },
+      {
+        "word": "rente",
+        "count": 13,
+        "ratioParty": 15.6,
+        "ratioBundestag": 21.4
+      },
+      {
+        "word": "jungen",
+        "count": 6,
+        "ratioParty": 15.0,
+        "ratioBundestag": 14.5
+      },
+      {
+        "word": "würden",
+        "count": 10,
+        "ratioParty": 12.9,
+        "ratioBundestag": 10.2
+      },
+      {
+        "word": "könnte",
+        "count": 6,
+        "ratioParty": 10.8,
+        "ratioBundestag": 7.6
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "stabil",
+        "count": 3,
+        "ratioParty": 17.9,
+        "ratioBundestag": 30.6
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 515,
+    "partyAvgWords": 637,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.81,
+    "vsParliament": 0.84
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "6"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "3.089"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Annika Klose häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Rentenniveau",
+        "isCorrect": true
+      },
+      {
+        "text": "Gesetz",
+        "isCorrect": false
+      },
+      {
+        "text": "Politik",
+        "isCorrect": false
+      },
+      {
+        "text": "Fraktion",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Rentenniveau\" nutzt Annika Klose 41.8× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "49.6× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Annika Klose häufiger als der Rest der SPD-Fraktion?",
+    "options": [
+      {
+        "text": "Schlecht",
+        "isCorrect": false
+      },
+      {
+        "text": "Sozial",
+        "isCorrect": false
+      },
+      {
+        "text": "Erfolgreich",
+        "isCorrect": false
+      },
+      {
+        "text": "Stabil",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Stabil\" nutzt Annika Klose 17.9× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "30.6× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🦦",
+    "name": "Otter",
+    "title": "Positive Teamplayerin",
+    "reason": "Du bringst gute Stimmung und konstruktive Beiträge ins Plenum.",
+    "id": "otter",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüterin",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.849
+      },
+      {
+        "emoji": "🦫",
+        "name": "Biber",
+        "title": "Konstruktive Brückenbauerin",
+        "reason": "Du baust Brücken zwischen Positionen – kooperativ und lösungsorientiert.",
+        "id": "biber",
+        "score": 0.82
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 83.3,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 100.0,
+      "collaboration": 75.0,
+      "demand_intensity": 9.5,
+      "acknowledgment": 4.8,
+      "authority": 68.0,
+      "future_orientation": 81.1,
+      "emotional_intensity": 33.3,
+      "inclusivity": 66.7,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 6,
+      "words": 1991,
+      "adjectives": 6,
+      "verbs": 21
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 2.51,
+      "klima": 0.0,
+      "wirtschaft": 0.0,
+      "soziales": 23.1,
+      "sicherheit": 0.5,
+      "gesundheit": 1.51,
+      "europa": 1.51,
+      "digital": 0.0,
+      "bildung": 1.51,
+      "finanzen": 9.04,
+      "justiz": 1.0,
+      "arbeit": 5.52,
+      "mobilitaet": 2.51
+    },
+    "topTopics": [
+      {
+        "topic": "soziales",
+        "score": 23.1,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 9.04,
+        "rank": 2
+      },
+      {
+        "topic": "arbeit",
+        "score": 5.52,
+        "rank": 3
+      },
+      {
+        "topic": "migration",
+        "score": 2.51,
+        "rank": 4
+      },
+      {
+        "topic": "mobilitaet",
+        "score": 2.51,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "integration",
+          "count": 3
+        },
+        {
+          "word": "einwanderung",
+          "count": 1
+        },
+        {
+          "word": "geflüchtete",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "rente",
+          "count": 13
+        },
+        {
+          "word": "rentenniveau",
+          "count": 7
+        },
+        {
+          "word": "existenzminimum",
+          "count": 4
+        },
+        {
+          "word": "armut",
+          "count": 3
+        },
+        {
+          "word": "altersarmut",
+          "count": 3
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "geldwäsche",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "krankenversicherung",
+          "count": 2
+        },
+        {
+          "word": "pflegeversicherung",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "krieg",
+          "count": 1
+        },
+        {
+          "word": "allianz",
+          "count": 1
+        },
+        {
+          "word": "china",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "qualifizierung",
+          "count": 1
+        },
+        {
+          "word": "kinderbetreuung",
+          "count": 1
+        },
+        {
+          "word": "meister",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 5
+        },
+        {
+          "word": "kosten",
+          "count": 4
+        },
+        {
+          "word": "steuern",
+          "count": 3
+        },
+        {
+          "word": "bundeshaushalt",
+          "count": 2
+        },
+        {
+          "word": "investitionen",
+          "count": 2
+        }
+      ],
+      "justiz": [
+        {
+          "word": "oberlandesgericht",
+          "count": 1
+        },
+        {
+          "word": "gericht",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "rentenversicherung",
+          "count": 2
+        },
+        {
+          "word": "mitbestimmung",
+          "count": 2
+        },
+        {
+          "word": "jobcenter",
+          "count": 2
+        },
+        {
+          "word": "einkommen",
+          "count": 1
+        },
+        {
+          "word": "lohn",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "fahrrad",
+          "count": 3
+        },
+        {
+          "word": "öpnv",
+          "count": 2
+        }
+      ]
+    }
+  }
+}

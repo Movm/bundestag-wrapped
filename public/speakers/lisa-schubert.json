@@ -1,0 +1,388 @@
+{
+  "name": "Lisa Schubert",
+  "party": "DIE LINKE",
+  "slug": "lisa-schubert",
+  "academicTitle": null,
+  "speeches": 3,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 1365,
+  "avgWords": 455,
+  "minWords": 263,
+  "maxWords": 754,
+  "rankings": {
+    "speechRank": 482,
+    "wordsRank": 518,
+    "partySpeechRank": 56,
+    "partyWordsRank": 55,
+    "partySize": 63,
+    "totalSpeakers": 609,
+    "percentile": 20.9,
+    "verbosityRank": 235,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 16,
+    "longestSpeechRank": 244
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 10,
+    "interrupterRank": null,
+    "interruptedRank": 273
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "bargeld",
+        "count": 10
+      },
+      {
+        "word": "menschen",
+        "count": 10
+      },
+      {
+        "word": "gesetz",
+        "count": 10
+      },
+      {
+        "word": "bundesregierung",
+        "count": 7
+      },
+      {
+        "word": "politik",
+        "count": 6
+      },
+      {
+        "word": "banken",
+        "count": 5
+      },
+      {
+        "word": "rechtsextreme",
+        "count": 5
+      },
+      {
+        "word": "partei",
+        "count": 5
+      },
+      {
+        "word": "zuhörende",
+        "count": 4
+      },
+      {
+        "word": "sollte",
+        "count": 4
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "bargeld",
+        "count": 10,
+        "ratioParty": 625.1,
+        "ratioBundestag": 281.5
+      },
+      {
+        "word": "banken",
+        "count": 5,
+        "ratioParty": 117.2,
+        "ratioBundestag": 140.8
+      },
+      {
+        "word": "rechtsextreme",
+        "count": 5,
+        "ratioParty": 40.8,
+        "ratioBundestag": 102.4
+      },
+      {
+        "word": "partei",
+        "count": 5,
+        "ratioParty": 19.5,
+        "ratioBundestag": 19.2
+      },
+      {
+        "word": "gesetz",
+        "count": 10,
+        "ratioParty": 13.7,
+        "ratioBundestag": 13.9
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 455,
+    "partyAvgWords": 521,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.87,
+    "vsParliament": 0.74
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "3"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "1.365"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Lisa Schubert häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Arbeit",
+        "isCorrect": false
+      },
+      {
+        "text": "Kinder",
+        "isCorrect": false
+      },
+      {
+        "text": "Bargeld",
+        "isCorrect": true
+      },
+      {
+        "text": "Bildung",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Bargeld\" nutzt Lisa Schubert 625.1× häufiger als der DIE LINKE-Durchschnitt.",
+    "explanationBundestag": "281.5× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🐇",
+    "name": "Hase",
+    "title": "Wendige Optimistin",
+    "reason": "Mit positivem Blick reagierst du schnell auf neue Themen.",
+    "id": "hase",
+    "alternatives": [
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Clevere Strategin",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 0.84
+      },
+      {
+        "emoji": "🦦",
+        "name": "Otter",
+        "title": "Positive Teamplayerin",
+        "reason": "Du bringst gute Stimmung und konstruktive Beiträge ins Plenum.",
+        "id": "otter",
+        "score": 0.79
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 100.0,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 80.0,
+      "collaboration": 50.0,
+      "demand_intensity": 28.6,
+      "acknowledgment": 0.0,
+      "authority": 50.0,
+      "future_orientation": 100.0,
+      "emotional_intensity": 71.4,
+      "inclusivity": 46.2,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 3,
+      "words": 925,
+      "adjectives": 1,
+      "verbs": 7
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 3.24,
+      "klima": 1.08,
+      "wirtschaft": 4.32,
+      "soziales": 7.57,
+      "sicherheit": 0.0,
+      "gesundheit": 2.16,
+      "europa": 4.32,
+      "digital": 0.0,
+      "bildung": 4.32,
+      "finanzen": 12.97,
+      "justiz": 4.32,
+      "arbeit": 1.08,
+      "mobilitaet": 2.16
+    },
+    "topTopics": [
+      {
+        "topic": "finanzen",
+        "score": 12.97,
+        "rank": 1
+      },
+      {
+        "topic": "soziales",
+        "score": 7.57,
+        "rank": 2
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 4.32,
+        "rank": 3
+      },
+      {
+        "topic": "europa",
+        "score": 4.32,
+        "rank": 4
+      },
+      {
+        "topic": "bildung",
+        "score": 4.32,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "geflüchtete",
+          "count": 3
+        }
+      ],
+      "klima": [
+        {
+          "word": "klimakrise",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "kapital",
+          "count": 2
+        },
+        {
+          "word": "markt",
+          "count": 1
+        },
+        {
+          "word": "unternehmen",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "mieten",
+          "count": 2
+        },
+        {
+          "word": "armut",
+          "count": 1
+        },
+        {
+          "word": "inklusion",
+          "count": 1
+        },
+        {
+          "word": "wohnung",
+          "count": 1
+        },
+        {
+          "word": "wohnungen",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "sucht",
+          "count": 1
+        },
+        {
+          "word": "gesundheitssystem",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "russland",
+          "count": 1
+        },
+        {
+          "word": "china",
+          "count": 1
+        },
+        {
+          "word": "bündnis",
+          "count": 1
+        },
+        {
+          "word": "krieg",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "schulen",
+          "count": 2
+        },
+        {
+          "word": "wissenschaft",
+          "count": 2
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "banken",
+          "count": 5
+        },
+        {
+          "word": "investitionen",
+          "count": 3
+        },
+        {
+          "word": "bank",
+          "count": 1
+        },
+        {
+          "word": "finanzierung",
+          "count": 1
+        },
+        {
+          "word": "kosten",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "bundesgerichtshof",
+          "count": 1
+        },
+        {
+          "word": "diskriminierung",
+          "count": 1
+        },
+        {
+          "word": "datenschutz",
+          "count": 1
+        },
+        {
+          "word": "verbraucherschutz",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "einkommen",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "straße",
+          "count": 1
+        },
+        {
+          "word": "infrastruktur",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

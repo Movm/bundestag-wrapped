@@ -1,0 +1,379 @@
+{
+  "name": "Bettina Hagedorn",
+  "party": "SPD",
+  "slug": "bettina-hagedorn",
+  "academicTitle": null,
+  "speeches": 6,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 3280,
+  "avgWords": 547,
+  "minWords": 329,
+  "maxWords": 790,
+  "rankings": {
+    "speechRank": 296,
+    "wordsRank": 335,
+    "partySpeechRank": 65,
+    "partyWordsRank": 70,
+    "partySize": 109,
+    "totalSpeakers": 609,
+    "percentile": 51.4,
+    "verbosityRank": 113,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 19,
+    "longestSpeechRank": 204
+  },
+  "drama": {
+    "interruptionsGiven": 29,
+    "interruptionsReceived": 8,
+    "interrupterRank": 70,
+    "interruptedRank": 322
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "minister",
+        "count": 13
+      },
+      {
+        "word": "wichtig",
+        "count": 12
+      },
+      {
+        "word": "schleswig",
+        "count": 10
+      },
+      {
+        "word": "haushaltsausschuss",
+        "count": 10
+      },
+      {
+        "word": "ostsee",
+        "count": 10
+      },
+      {
+        "word": "holstein",
+        "count": 9
+      },
+      {
+        "word": "jahr",
+        "count": 8
+      },
+      {
+        "word": "klima",
+        "count": 8
+      },
+      {
+        "word": "wissen",
+        "count": 8
+      },
+      {
+        "word": "klimaschutz",
+        "count": 8
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "holstein",
+        "count": 9,
+        "ratioParty": 249.1,
+        "ratioBundestag": 162.7
+      },
+      {
+        "word": "schleswig",
+        "count": 10,
+        "ratioParty": 237.2,
+        "ratioBundestag": 154.0
+      },
+      {
+        "word": "ostsee",
+        "count": 10,
+        "ratioParty": 110.7,
+        "ratioBundestag": 202.8
+      },
+      {
+        "word": "schnieder",
+        "count": 5,
+        "ratioParty": 63.9,
+        "ratioBundestag": 45.2
+      },
+      {
+        "word": "schneider",
+        "count": 7,
+        "ratioParty": 61.2,
+        "ratioBundestag": 57.1
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 547,
+    "partyAvgWords": 637,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.86,
+    "vsParliament": 0.89
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "6"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "3.280"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufe",
+      "value": "29"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Bettina Hagedorn häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Opposition",
+        "isCorrect": false
+      },
+      {
+        "text": "Kanzler",
+        "isCorrect": false
+      },
+      {
+        "text": "Holstein",
+        "isCorrect": true
+      },
+      {
+        "text": "Bürger",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Holstein\" nutzt Bettina Hagedorn 249.1× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "162.7× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🦊",
+    "name": "Fuchs",
+    "title": "Clevere Strategin",
+    "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+    "id": "fuchs",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüterin",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.856
+      },
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißige Abgeordnete",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 0.785
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 57.1,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 80.0,
+      "collaboration": 100.0,
+      "demand_intensity": 11.1,
+      "acknowledgment": 16.7,
+      "authority": 76.9,
+      "future_orientation": 81.0,
+      "emotional_intensity": 57.1,
+      "inclusivity": 56.9,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 6,
+      "words": 2003,
+      "adjectives": 7,
+      "verbs": 18
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 13.48,
+      "wirtschaft": 3.49,
+      "soziales": 1.5,
+      "sicherheit": 0.5,
+      "gesundheit": 0.0,
+      "europa": 1.5,
+      "digital": 1.0,
+      "bildung": 1.0,
+      "finanzen": 14.98,
+      "justiz": 0.0,
+      "arbeit": 1.0,
+      "mobilitaet": 3.49
+    },
+    "topTopics": [
+      {
+        "topic": "finanzen",
+        "score": 14.98,
+        "rank": 1
+      },
+      {
+        "topic": "klima",
+        "score": 13.48,
+        "rank": 2
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 3.49,
+        "rank": 3
+      },
+      {
+        "topic": "mobilitaet",
+        "score": 3.49,
+        "rank": 4
+      },
+      {
+        "topic": "soziales",
+        "score": 1.5,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "klimaschutz",
+          "count": 8
+        },
+        {
+          "word": "umwelt",
+          "count": 4
+        },
+        {
+          "word": "wälder",
+          "count": 3
+        },
+        {
+          "word": "energiewende",
+          "count": 2
+        },
+        {
+          "word": "energie",
+          "count": 2
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 5
+        },
+        {
+          "word": "markt",
+          "count": 1
+        },
+        {
+          "word": "betrieb",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 3
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "bundespolizei",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 2
+        },
+        {
+          "word": "abkommen",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "netz",
+          "count": 1
+        },
+        {
+          "word": "plattform",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "forschung",
+          "count": 1
+        },
+        {
+          "word": "schülerinnen",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushaltsausschuss",
+          "count": 10
+        },
+        {
+          "word": "haushalt",
+          "count": 7
+        },
+        {
+          "word": "investitionen",
+          "count": 5
+        },
+        {
+          "word": "etat",
+          "count": 3
+        },
+        {
+          "word": "sondervermögen",
+          "count": 3
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitsplätze",
+          "count": 2
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "verkehrsminister",
+          "count": 2
+        },
+        {
+          "word": "infrastruktur",
+          "count": 2
+        },
+        {
+          "word": "verkehrsinfrastruktur",
+          "count": 1
+        },
+        {
+          "word": "schiffe",
+          "count": 1
+        },
+        {
+          "word": "häfen",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

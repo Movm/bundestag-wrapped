@@ -1,0 +1,453 @@
+{
+  "name": "Dr. Karsten Wildberger",
+  "party": "CDU/CSU",
+  "slug": "karsten-wildberger",
+  "academicTitle": "Dr",
+  "speeches": 5,
+  "wortbeitraege": 22,
+  "befragungResponses": 22,
+  "totalWords": 7532,
+  "avgWords": 279,
+  "minWords": 9,
+  "maxWords": 1207,
+  "rankings": {
+    "speechRank": 378,
+    "wordsRank": 82,
+    "partySpeechRank": 106,
+    "partyWordsRank": 26,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 37.9,
+    "verbosityRank": 478,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 151,
+    "longestSpeechRank": 31
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 1,
+    "interrupterRank": null,
+    "interruptedRank": 566
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "unternehmen",
+        "count": 35
+      },
+      {
+        "word": "bürgerinnen",
+        "count": 34
+      },
+      {
+        "word": "digitale",
+        "count": 31
+      },
+      {
+        "word": "bürger",
+        "count": 28
+      },
+      {
+        "word": "deutschland",
+        "count": 27
+      },
+      {
+        "word": "menschen",
+        "count": 25
+      },
+      {
+        "word": "arbeiten",
+        "count": 24
+      },
+      {
+        "word": "staat",
+        "count": 18
+      },
+      {
+        "word": "ministerium",
+        "count": 18
+      },
+      {
+        "word": "land",
+        "count": 17
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "noots",
+        "count": 16,
+        "ratioParty": 220.0,
+        "ratioBundestag": 251.3
+      },
+      {
+        "word": "staatsvertrag",
+        "count": 9,
+        "ratioParty": 165.0,
+        "ratioBundestag": 239.2
+      },
+      {
+        "word": "glasfaser",
+        "count": 7,
+        "ratioParty": 55.0,
+        "ratioBundestag": 89.6
+      },
+      {
+        "word": "wallet",
+        "count": 8,
+        "ratioParty": 51.8,
+        "ratioBundestag": 95.3
+      },
+      {
+        "word": "datenschutz",
+        "count": 6,
+        "ratioParty": 50.8,
+        "ratioBundestag": 37.7
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "effektiv",
+        "count": 3,
+        "ratioParty": 10.0,
+        "ratioBundestag": 12.8
+      },
+      {
+        "word": "stark",
+        "count": 5,
+        "ratioParty": 3.7,
+        "ratioBundestag": 4.3
+      },
+      {
+        "word": "sicher",
+        "count": 8,
+        "ratioParty": 3.3,
+        "ratioBundestag": 3.7
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 279,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.41,
+    "vsParliament": 0.46
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "5"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "7.532"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Dr. Karsten Wildberger häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Gesellschaft",
+        "isCorrect": false
+      },
+      {
+        "text": "Antrag",
+        "isCorrect": false
+      },
+      {
+        "text": "Noots",
+        "isCorrect": true
+      },
+      {
+        "text": "Zukunft",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Noots\" nutzt Dr. Karsten Wildberger 220.0× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "251.3× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Dr. Karsten Wildberger häufiger als der Rest der CDU/CSU-Fraktion?",
+    "options": [
+      {
+        "text": "Falsch",
+        "isCorrect": false
+      },
+      {
+        "text": "Wichtig",
+        "isCorrect": false
+      },
+      {
+        "text": "Effektiv",
+        "isCorrect": true
+      },
+      {
+        "text": "Alt",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Effektiv\" nutzt Dr. Karsten Wildberger 10.0× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "12.8× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐬",
+    "name": "Delfin",
+    "title": "Diplomatischer Redner",
+    "reason": "Aktiv im Parlament, aber respektvoll ohne viele Zwischenrufe.",
+    "id": "delfin",
+    "alternatives": [
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Cleverer Stratege",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 1.0
+      },
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüter",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 1.0
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 95.7,
+      "aggression": 4.2,
+      "labeling": 0.0,
+      "solution_focus": 97.2,
+      "collaboration": 100.0,
+      "demand_intensity": 3.5,
+      "acknowledgment": 2.3,
+      "authority": 77.6,
+      "future_orientation": 95.3,
+      "emotional_intensity": 55.6,
+      "inclusivity": 71.3,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 27,
+      "words": 4812,
+      "adjectives": 24,
+      "verbs": 86
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.42,
+      "wirtschaft": 11.85,
+      "soziales": 0.21,
+      "sicherheit": 0.0,
+      "gesundheit": 0.21,
+      "europa": 4.16,
+      "digital": 16.63,
+      "bildung": 0.21,
+      "finanzen": 3.33,
+      "justiz": 2.29,
+      "arbeit": 0.83,
+      "mobilitaet": 3.95
+    },
+    "topTopics": [
+      {
+        "topic": "digital",
+        "score": 16.63,
+        "rank": 1
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 11.85,
+        "rank": 2
+      },
+      {
+        "topic": "europa",
+        "score": 4.16,
+        "rank": 3
+      },
+      {
+        "topic": "mobilitaet",
+        "score": 3.95,
+        "rank": 4
+      },
+      {
+        "topic": "finanzen",
+        "score": 3.33,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "klimaneutralität",
+          "count": 1
+        },
+        {
+          "word": "energie",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 35
+        },
+        {
+          "word": "wachstum",
+          "count": 11
+        },
+        {
+          "word": "mittelstand",
+          "count": 4
+        },
+        {
+          "word": "wettbewerbsfähigkeit",
+          "count": 2
+        },
+        {
+          "word": "fachkräftemangel",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "sozialleistungen",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "vorsorge",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 14
+        },
+        {
+          "word": "brüssel",
+          "count": 3
+        },
+        {
+          "word": "gipfel",
+          "count": 1
+        },
+        {
+          "word": "kooperation",
+          "count": 1
+        },
+        {
+          "word": "binnenmarkt",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 16
+        },
+        {
+          "word": "digital",
+          "count": 15
+        },
+        {
+          "word": "daten",
+          "count": 12
+        },
+        {
+          "word": "glasfaser",
+          "count": 7
+        },
+        {
+          "word": "technologie",
+          "count": 5
+        }
+      ],
+      "bildung": [
+        {
+          "word": "professor",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 6
+        },
+        {
+          "word": "entlastung",
+          "count": 4
+        },
+        {
+          "word": "kosten",
+          "count": 2
+        },
+        {
+          "word": "finanzminister",
+          "count": 1
+        },
+        {
+          "word": "sondervermögen",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "datenschutz",
+          "count": 6
+        },
+        {
+          "word": "grundrechte",
+          "count": 2
+        },
+        {
+          "word": "verordnung",
+          "count": 2
+        },
+        {
+          "word": "grundgesetz",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitsschutz",
+          "count": 1
+        },
+        {
+          "word": "arbeitnehmerinnen",
+          "count": 1
+        },
+        {
+          "word": "arbeitsplätze",
+          "count": 1
+        },
+        {
+          "word": "homeoffice",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 16
+        },
+        {
+          "word": "führerschein",
+          "count": 2
+        },
+        {
+          "word": "straße",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

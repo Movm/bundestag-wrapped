@@ -1,0 +1,301 @@
+{
+  "name": "Dr. Karl Lauterbach",
+  "party": "SPD",
+  "slug": "karl-lauterbach",
+  "academicTitle": "Dr",
+  "speeches": 1,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 964,
+  "avgWords": 482,
+  "minWords": 383,
+  "maxWords": 581,
+  "rankings": {
+    "speechRank": 575,
+    "wordsRank": 553,
+    "partySpeechRank": 101,
+    "partyWordsRank": 101,
+    "partySize": 109,
+    "totalSpeakers": 609,
+    "percentile": 5.6,
+    "verbosityRank": null,
+    "verbosityTotal": null,
+    "partyVerbosityRank": null,
+    "longestSpeechRank": 444
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 1,
+    "interrupterRank": null,
+    "interruptedRank": 538
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "jahren",
+        "count": 5
+      },
+      {
+        "word": "haushalt",
+        "count": 4
+      },
+      {
+        "word": "herausforderung",
+        "count": 4
+      },
+      {
+        "word": "technologien",
+        "count": 4
+      },
+      {
+        "word": "großen",
+        "count": 4
+      },
+      {
+        "word": "frauen",
+        "count": 4
+      },
+      {
+        "word": "ampel",
+        "count": 3
+      },
+      {
+        "word": "blicken",
+        "count": 3
+      },
+      {
+        "word": "zehn",
+        "count": 3
+      },
+      {
+        "word": "deutschland",
+        "count": 3
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "jahren",
+        "count": 5,
+        "ratioParty": 5.6,
+        "ratioBundestag": 5.0
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 482,
+    "partyAvgWords": 637,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.76,
+    "vsParliament": 0.79
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "1"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Dr. Karl Lauterbach häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Demokratie",
+        "isCorrect": false
+      },
+      {
+        "text": "Investitionen",
+        "isCorrect": false
+      },
+      {
+        "text": "Jahren",
+        "isCorrect": true
+      },
+      {
+        "text": "Rente",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Jahren\" nutzt Dr. Karl Lauterbach 5.6× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "5.0× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🐇",
+    "name": "Hase",
+    "title": "Wendiger Optimist",
+    "reason": "Mit positivem Blick reagierst du schnell auf neue Themen.",
+    "id": "hase",
+    "alternatives": [
+      {
+        "emoji": "🦦",
+        "name": "Otter",
+        "title": "Positiver Teamplayer",
+        "reason": "Du bringst gute Stimmung und konstruktive Beiträge ins Plenum.",
+        "id": "otter",
+        "score": 0.85
+      },
+      {
+        "emoji": "🦫",
+        "name": "Biber",
+        "title": "Konstruktiver Brückenbauer",
+        "reason": "Du baust Brücken zwischen Positionen – kooperativ und lösungsorientiert.",
+        "id": "biber",
+        "score": 0.8
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 100.0,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 100.0,
+      "collaboration": 50.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 0.0,
+      "authority": 70.4,
+      "future_orientation": 92.3,
+      "emotional_intensity": 50.0,
+      "inclusivity": 24.0,
+      "discriminatory": 0.0
+    },
+    "confidence": "low",
+    "sampleSize": {
+      "speeches": 2,
+      "words": 612,
+      "adjectives": 3,
+      "verbs": 7
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 4.9,
+      "wirtschaft": 1.63,
+      "soziales": 3.27,
+      "sicherheit": 0.0,
+      "gesundheit": 3.27,
+      "europa": 1.63,
+      "digital": 0.0,
+      "bildung": 11.44,
+      "finanzen": 9.8,
+      "justiz": 0.0,
+      "arbeit": 0.0,
+      "mobilitaet": 1.63
+    },
+    "topTopics": [
+      {
+        "topic": "bildung",
+        "score": 11.44,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 9.8,
+        "rank": 2
+      },
+      {
+        "topic": "klima",
+        "score": 4.9,
+        "rank": 3
+      },
+      {
+        "topic": "soziales",
+        "score": 3.27,
+        "rank": 4
+      },
+      {
+        "topic": "gesundheit",
+        "score": 3.27,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "klimaneutral",
+          "count": 1
+        },
+        {
+          "word": "erneuerbare",
+          "count": 1
+        },
+        {
+          "word": "klimawandel",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "wachstum",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 1
+        },
+        {
+          "word": "familien",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "pandemie",
+          "count": 1
+        },
+        {
+          "word": "covid",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "bafög",
+          "count": 3
+        },
+        {
+          "word": "wissenschaft",
+          "count": 2
+        },
+        {
+          "word": "forschung",
+          "count": 1
+        },
+        {
+          "word": "bildungssystem",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 4
+        },
+        {
+          "word": "sondervermögen",
+          "count": 1
+        },
+        {
+          "word": "investitionen",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

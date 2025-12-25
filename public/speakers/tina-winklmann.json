@@ -1,0 +1,306 @@
+{
+  "name": "Tina Winklmann",
+  "party": "GRÜNE",
+  "slug": "tina-winklmann",
+  "academicTitle": null,
+  "speeches": 3,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 2151,
+  "avgWords": 538,
+  "minWords": 422,
+  "maxWords": 589,
+  "rankings": {
+    "speechRank": 488,
+    "wordsRank": 444,
+    "partySpeechRank": 78,
+    "partyWordsRank": 69,
+    "partySize": 85,
+    "totalSpeakers": 609,
+    "percentile": 19.9,
+    "verbosityRank": 124,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 15,
+    "longestSpeechRank": 437
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 8,
+    "interrupterRank": null,
+    "interruptedRank": 338
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "sport",
+        "count": 21
+      },
+      {
+        "word": "land",
+        "count": 19
+      },
+      {
+        "word": "sportstätten",
+        "count": 8
+      },
+      {
+        "word": "spiele",
+        "count": 8
+      },
+      {
+        "word": "menschen",
+        "count": 7
+      },
+      {
+        "word": "ehrenamt",
+        "count": 6
+      },
+      {
+        "word": "gemeinsam",
+        "count": 6
+      },
+      {
+        "word": "frauen",
+        "count": 5
+      },
+      {
+        "word": "stehen",
+        "count": 5
+      },
+      {
+        "word": "deutschland",
+        "count": 5
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "sportstätten",
+        "count": 8,
+        "ratioParty": 712.4,
+        "ratioBundestag": 129.0
+      },
+      {
+        "word": "spiele",
+        "count": 8,
+        "ratioParty": 237.5,
+        "ratioBundestag": 127.3
+      },
+      {
+        "word": "sport",
+        "count": 21,
+        "ratioParty": 207.8,
+        "ratioBundestag": 138.0
+      },
+      {
+        "word": "begleiten",
+        "count": 5,
+        "ratioParty": 111.3,
+        "ratioBundestag": 73.0
+      },
+      {
+        "word": "ehrenamt",
+        "count": 6,
+        "ratioParty": 76.3,
+        "ratioBundestag": 57.8
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 538,
+    "partyAvgWords": 567,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.95,
+    "vsParliament": 0.88
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "3"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "2.151"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Tina Winklmann häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Haushalt",
+        "isCorrect": false
+      },
+      {
+        "text": "Sportstätten",
+        "isCorrect": true
+      },
+      {
+        "text": "Fraktion",
+        "isCorrect": false
+      },
+      {
+        "text": "Opposition",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Sportstätten\" nutzt Tina Winklmann 712.4× häufiger als der GRÜNE-Durchschnitt.",
+    "explanationBundestag": "129.0× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🐇",
+    "name": "Hase",
+    "title": "Wendige Optimistin",
+    "reason": "Mit positivem Blick reagierst du schnell auf neue Themen.",
+    "id": "hase",
+    "alternatives": [
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Clevere Strategin",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 0.853
+      },
+      {
+        "emoji": "🦦",
+        "name": "Otter",
+        "title": "Positive Teamplayerin",
+        "reason": "Du bringst gute Stimmung und konstruktive Beiträge ins Plenum.",
+        "id": "otter",
+        "score": 0.85
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 100.0,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 100.0,
+      "collaboration": 50.0,
+      "demand_intensity": 4.5,
+      "acknowledgment": 13.6,
+      "authority": 78.4,
+      "future_orientation": 95.0,
+      "emotional_intensity": 66.7,
+      "inclusivity": 74.4,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 4,
+      "words": 1342,
+      "adjectives": 1,
+      "verbs": 22
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.75,
+      "klima": 2.98,
+      "wirtschaft": 0.0,
+      "soziales": 4.47,
+      "sicherheit": 0.75,
+      "gesundheit": 0.0,
+      "europa": 0.0,
+      "digital": 0.0,
+      "bildung": 0.0,
+      "finanzen": 2.24,
+      "justiz": 0.75,
+      "arbeit": 0.0,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "soziales",
+        "score": 4.47,
+        "rank": 1
+      },
+      {
+        "topic": "klima",
+        "score": 2.98,
+        "rank": 2
+      },
+      {
+        "topic": "finanzen",
+        "score": 2.24,
+        "rank": 3
+      },
+      {
+        "topic": "migration",
+        "score": 0.75,
+        "rank": 4
+      },
+      {
+        "topic": "sicherheit",
+        "score": 0.75,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "integration",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "nachhaltigkeit",
+          "count": 1
+        },
+        {
+          "word": "klimaschutz",
+          "count": 1
+        },
+        {
+          "word": "energieeffizienz",
+          "count": 1
+        },
+        {
+          "word": "photovoltaik",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 2
+        },
+        {
+          "word": "barrierefreiheit",
+          "count": 2
+        },
+        {
+          "word": "inklusion",
+          "count": 2
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "extremismus",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "investitionen",
+          "count": 2
+        },
+        {
+          "word": "haushalt",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "diskriminierung",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

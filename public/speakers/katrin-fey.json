@@ -1,0 +1,465 @@
+{
+  "name": "Katrin Fey",
+  "party": "DIE LINKE",
+  "slug": "katrin-fey",
+  "academicTitle": null,
+  "speeches": 8,
+  "wortbeitraege": 2,
+  "befragungResponses": 0,
+  "totalWords": 2375,
+  "avgWords": 238,
+  "minWords": 51,
+  "maxWords": 358,
+  "rankings": {
+    "speechRank": 200,
+    "wordsRank": 422,
+    "partySpeechRank": 27,
+    "partyWordsRank": 46,
+    "partySize": 63,
+    "totalSpeakers": 609,
+    "percentile": 67.2,
+    "verbosityRank": 496,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 56,
+    "longestSpeechRank": 590
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 11,
+    "interrupterRank": 155,
+    "interruptedRank": 253
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 24
+      },
+      {
+        "word": "taser",
+        "count": 14
+      },
+      {
+        "word": "gesetzentwurf",
+        "count": 11
+      },
+      {
+        "word": "bundesregierung",
+        "count": 9
+      },
+      {
+        "word": "sudan",
+        "count": 9
+      },
+      {
+        "word": "humanitäre",
+        "count": 7
+      },
+      {
+        "word": "hilfe",
+        "count": 7
+      },
+      {
+        "word": "europol",
+        "count": 7
+      },
+      {
+        "word": "abgeordnete",
+        "count": 6
+      },
+      {
+        "word": "menschenrechte",
+        "count": 6
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "taser",
+        "count": 14,
+        "ratioParty": 1540.2,
+        "ratioBundestag": 436.7
+      },
+      {
+        "word": "menschenrecht",
+        "count": 6,
+        "ratioParty": 82.5,
+        "ratioBundestag": 254.5
+      },
+      {
+        "word": "europol",
+        "count": 7,
+        "ratioParty": 44.6,
+        "ratioBundestag": 172.6
+      },
+      {
+        "word": "sudan",
+        "count": 9,
+        "ratioParty": 41.3,
+        "ratioBundestag": 51.3
+      },
+      {
+        "word": "personen",
+        "count": 5,
+        "ratioParty": 30.6,
+        "ratioBundestag": 17.7
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "gefährlich",
+        "count": 3,
+        "ratioParty": 23.6,
+        "ratioBundestag": 32.5
+      },
+      {
+        "word": "rechts",
+        "count": 3,
+        "ratioParty": 6.1,
+        "ratioBundestag": 10.0
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 238,
+    "partyAvgWords": 521,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.46,
+    "vsParliament": 0.39
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "8"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "2.375"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Katrin Fey häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Bürger",
+        "isCorrect": false
+      },
+      {
+        "text": "Fraktion",
+        "isCorrect": false
+      },
+      {
+        "text": "Taser",
+        "isCorrect": true
+      },
+      {
+        "text": "Politik",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Taser\" nutzt Katrin Fey 1540.2× häufiger als der DIE LINKE-Durchschnitt.",
+    "explanationBundestag": "436.7× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Katrin Fey häufiger als der Rest der DIE LINKE-Fraktion?",
+    "options": [
+      {
+        "text": "Wirtschaftlich",
+        "isCorrect": false
+      },
+      {
+        "text": "Gefährlich",
+        "isCorrect": true
+      },
+      {
+        "text": "Gut",
+        "isCorrect": false
+      },
+      {
+        "text": "Politisch",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Gefährlich\" nutzt Katrin Fey 23.6× häufiger als der DIE LINKE-Durchschnitt.",
+    "explanationBundestag": "32.5× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🦊",
+    "name": "Fuchs",
+    "title": "Clevere Strategin",
+    "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+    "id": "fuchs",
+    "alternatives": [
+      {
+        "emoji": "🦉",
+        "name": "Eule",
+        "title": "Themenexpertin",
+        "reason": "Dein Fachwort \"Taser\" nutzt du 1540.2× häufiger als deine Fraktion.",
+        "id": "eule",
+        "score": 0.9
+      },
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüterin",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.895
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 33.3,
+      "aggression": 7.7,
+      "labeling": 23.1,
+      "solution_focus": 63.6,
+      "collaboration": 50.0,
+      "demand_intensity": 16.7,
+      "acknowledgment": 0.0,
+      "authority": 76.9,
+      "future_orientation": 87.0,
+      "emotional_intensity": 66.7,
+      "inclusivity": 32.1,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 10,
+      "words": 1571,
+      "adjectives": 13,
+      "verbs": 18
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 7.64,
+      "klima": 0.0,
+      "wirtschaft": 3.18,
+      "soziales": 6.37,
+      "sicherheit": 5.09,
+      "gesundheit": 5.73,
+      "europa": 7.0,
+      "digital": 3.18,
+      "bildung": 4.46,
+      "finanzen": 3.18,
+      "justiz": 14.0,
+      "arbeit": 0.0,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "justiz",
+        "score": 14.0,
+        "rank": 1
+      },
+      {
+        "topic": "migration",
+        "score": 7.64,
+        "rank": 2
+      },
+      {
+        "topic": "europa",
+        "score": 7.0,
+        "rank": 3
+      },
+      {
+        "topic": "soziales",
+        "score": 6.37,
+        "rank": 4
+      },
+      {
+        "topic": "gesundheit",
+        "score": 5.73,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "frontex",
+          "count": 3
+        },
+        {
+          "word": "grenzkontrollen",
+          "count": 2
+        },
+        {
+          "word": "familiennachzug",
+          "count": 2
+        },
+        {
+          "word": "subsidiär",
+          "count": 1
+        },
+        {
+          "word": "abschiebung",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 2
+        },
+        {
+          "word": "zoll",
+          "count": 2
+        },
+        {
+          "word": "selbstständige",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 3
+        },
+        {
+          "word": "mieten",
+          "count": 2
+        },
+        {
+          "word": "wohnungen",
+          "count": 1
+        },
+        {
+          "word": "rentenniveau",
+          "count": 1
+        },
+        {
+          "word": "armut",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "gewalt",
+          "count": 2
+        },
+        {
+          "word": "waffen",
+          "count": 2
+        },
+        {
+          "word": "polizei",
+          "count": 2
+        },
+        {
+          "word": "angriff",
+          "count": 1
+        },
+        {
+          "word": "kriminalität",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "prävention",
+          "count": 3
+        },
+        {
+          "word": "gesundheitssystem",
+          "count": 1
+        },
+        {
+          "word": "pflegekräfte",
+          "count": 1
+        },
+        {
+          "word": "psychisch",
+          "count": 1
+        },
+        {
+          "word": "krankenversicherung",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "krieg",
+          "count": 4
+        },
+        {
+          "word": "außenminister",
+          "count": 2
+        },
+        {
+          "word": "waffenlieferungen",
+          "count": 2
+        },
+        {
+          "word": "israel",
+          "count": 1
+        },
+        {
+          "word": "europa",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "daten",
+          "count": 4
+        },
+        {
+          "word": "datenverarbeitung",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "bildung",
+          "count": 5
+        },
+        {
+          "word": "kita",
+          "count": 1
+        },
+        {
+          "word": "schulen",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 3
+        },
+        {
+          "word": "kosten",
+          "count": 1
+        },
+        {
+          "word": "banken",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "menschenrechte",
+          "count": 6
+        },
+        {
+          "word": "strafrecht",
+          "count": 3
+        },
+        {
+          "word": "rechtsstaatlichkeit",
+          "count": 2
+        },
+        {
+          "word": "grundrechte",
+          "count": 2
+        },
+        {
+          "word": "strafen",
+          "count": 2
+        }
+      ]
+    }
+  }
+}

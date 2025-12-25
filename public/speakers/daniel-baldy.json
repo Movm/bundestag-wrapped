@@ -1,0 +1,434 @@
+{
+  "name": "Daniel Baldy",
+  "party": "SPD",
+  "slug": "daniel-baldy",
+  "academicTitle": null,
+  "speeches": 7,
+  "wortbeitraege": 2,
+  "befragungResponses": 0,
+  "totalWords": 4775,
+  "avgWords": 531,
+  "minWords": 327,
+  "maxWords": 760,
+  "rankings": {
+    "speechRank": 248,
+    "wordsRank": 203,
+    "partySpeechRank": 56,
+    "partyWordsRank": 50,
+    "partySize": 109,
+    "totalSpeakers": 609,
+    "percentile": 59.3,
+    "verbosityRank": 130,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 24,
+    "longestSpeechRank": 236
+  },
+  "drama": {
+    "interruptionsGiven": 16,
+    "interruptionsReceived": 2,
+    "interrupterRank": 113,
+    "interruptedRank": 496
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "deutschland",
+        "count": 26
+      },
+      {
+        "word": "drohnen",
+        "count": 16
+      },
+      {
+        "word": "infrastruktur",
+        "count": 14
+      },
+      {
+        "word": "russland",
+        "count": 13
+      },
+      {
+        "word": "klar",
+        "count": 13
+      },
+      {
+        "word": "bedrohungen",
+        "count": 10
+      },
+      {
+        "word": "hybride",
+        "count": 9
+      },
+      {
+        "word": "kritischer",
+        "count": 9
+      },
+      {
+        "word": "louvre",
+        "count": 9
+      },
+      {
+        "word": "nato",
+        "count": 9
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "lagebild",
+        "count": 5,
+        "ratioParty": 174.4,
+        "ratioBundestag": 97.3
+      },
+      {
+        "word": "kritischer",
+        "count": 9,
+        "ratioParty": 104.7,
+        "ratioBundestag": 112.6
+      },
+      {
+        "word": "kritis",
+        "count": 6,
+        "ratioParty": 78.5,
+        "ratioBundestag": 50.1
+      },
+      {
+        "word": "schiffe",
+        "count": 5,
+        "ratioParty": 74.8,
+        "ratioBundestag": 38.6
+      },
+      {
+        "word": "hybride",
+        "count": 9,
+        "ratioParty": 49.6,
+        "ratioBundestag": 75.1
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "sicher",
+        "count": 4,
+        "ratioParty": 2.1,
+        "ratioBundestag": 2.8
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 531,
+    "partyAvgWords": 637,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.83,
+    "vsParliament": 0.87
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "7"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "4.775"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufe",
+      "value": "16"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Daniel Baldy häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Bürger",
+        "isCorrect": false
+      },
+      {
+        "text": "Rente",
+        "isCorrect": false
+      },
+      {
+        "text": "Migration",
+        "isCorrect": false
+      },
+      {
+        "text": "Lagebild",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Lagebild\" nutzt Daniel Baldy 174.4× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "97.3× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Daniel Baldy häufiger als der Rest der SPD-Fraktion?",
+    "options": [
+      {
+        "text": "Sozial",
+        "isCorrect": false
+      },
+      {
+        "text": "Sicher",
+        "isCorrect": true
+      },
+      {
+        "text": "Wichtig",
+        "isCorrect": false
+      },
+      {
+        "text": "Alt",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Sicher\" nutzt Daniel Baldy 2.1× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "2.8× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐝",
+    "name": "Biene",
+    "title": "Fleißiger Abgeordneter",
+    "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+    "id": "biene",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüter",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.991
+      },
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Cleverer Stratege",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 0.882
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 91.7,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 85.0,
+      "collaboration": 75.0,
+      "demand_intensity": 10.7,
+      "acknowledgment": 3.6,
+      "authority": 55.8,
+      "future_orientation": 94.1,
+      "emotional_intensity": 22.2,
+      "inclusivity": 46.3,
+      "discriminatory": 0.32
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 9,
+      "words": 3167,
+      "adjectives": 12,
+      "verbs": 28
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.32,
+      "wirtschaft": 2.84,
+      "soziales": 0.32,
+      "sicherheit": 12.0,
+      "gesundheit": 0.0,
+      "europa": 13.89,
+      "digital": 2.21,
+      "bildung": 1.26,
+      "finanzen": 4.1,
+      "justiz": 0.95,
+      "arbeit": 0.32,
+      "mobilitaet": 6.95
+    },
+    "topTopics": [
+      {
+        "topic": "europa",
+        "score": 13.89,
+        "rank": 1
+      },
+      {
+        "topic": "sicherheit",
+        "score": 12.0,
+        "rank": 2
+      },
+      {
+        "topic": "mobilitaet",
+        "score": 6.95,
+        "rank": 3
+      },
+      {
+        "topic": "finanzen",
+        "score": 4.1,
+        "rank": 4
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 2.84,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "klimapolitik",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 7
+        },
+        {
+          "word": "handel",
+          "count": 2
+        }
+      ],
+      "soziales": [
+        {
+          "word": "sozialpolitik",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "bundeswehr",
+          "count": 7
+        },
+        {
+          "word": "soldaten",
+          "count": 7
+        },
+        {
+          "word": "polizei",
+          "count": 5
+        },
+        {
+          "word": "spionage",
+          "count": 3
+        },
+        {
+          "word": "abschreckung",
+          "count": 3
+        }
+      ],
+      "europa": [
+        {
+          "word": "russland",
+          "count": 13
+        },
+        {
+          "word": "nato",
+          "count": 9
+        },
+        {
+          "word": "putin",
+          "count": 8
+        },
+        {
+          "word": "europa",
+          "count": 7
+        },
+        {
+          "word": "ukraine",
+          "count": 2
+        }
+      ],
+      "digital": [
+        {
+          "word": "cybersicherheit",
+          "count": 2
+        },
+        {
+          "word": "desinformation",
+          "count": 2
+        },
+        {
+          "word": "medienkompetenz",
+          "count": 1
+        },
+        {
+          "word": "internet",
+          "count": 1
+        },
+        {
+          "word": "daten",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "bildung",
+          "count": 4
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 8
+        },
+        {
+          "word": "schuldenbremse",
+          "count": 2
+        },
+        {
+          "word": "rechnungshof",
+          "count": 1
+        },
+        {
+          "word": "investition",
+          "count": 1
+        },
+        {
+          "word": "bundeshaushalt",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "novelle",
+          "count": 2
+        },
+        {
+          "word": "gesetzgebung",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "beschäftigte",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 14
+        },
+        {
+          "word": "schiffe",
+          "count": 5
+        },
+        {
+          "word": "fliegen",
+          "count": 1
+        },
+        {
+          "word": "schiff",
+          "count": 1
+        },
+        {
+          "word": "schifffahrt",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

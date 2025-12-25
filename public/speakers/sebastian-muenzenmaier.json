@@ -1,0 +1,342 @@
+{
+  "name": "Sebastian Münzenmaier",
+  "party": "AfD",
+  "slug": "sebastian-muenzenmaier",
+  "academicTitle": null,
+  "speeches": 4,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 2941,
+  "avgWords": 735,
+  "minWords": 702,
+  "maxWords": 815,
+  "rankings": {
+    "speechRank": 458,
+    "wordsRank": 372,
+    "partySpeechRank": 112,
+    "partyWordsRank": 87,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 24.8,
+    "verbosityRank": 21,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 7,
+    "longestSpeechRank": 183
+  },
+  "drama": {
+    "interruptionsGiven": 27,
+    "interruptionsReceived": 24,
+    "interrupterRank": 78,
+    "interruptedRank": 94
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "hubertz",
+        "count": 19
+      },
+      {
+        "word": "ministerin",
+        "count": 17
+      },
+      {
+        "word": "deutschland",
+        "count": 10
+      },
+      {
+        "word": "bauen",
+        "count": 10
+      },
+      {
+        "word": "draußen",
+        "count": 8
+      },
+      {
+        "word": "land",
+        "count": 8
+      },
+      {
+        "word": "beispiel",
+        "count": 7
+      },
+      {
+        "word": "wohnen",
+        "count": 7
+      },
+      {
+        "word": "bürger",
+        "count": 7
+      },
+      {
+        "word": "mittlerweile",
+        "count": 6
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "hubertz",
+        "count": 19,
+        "ratioParty": 182.1,
+        "ratioBundestag": 194.5
+      },
+      {
+        "word": "wohnen",
+        "count": 7,
+        "ratioParty": 39.5,
+        "ratioBundestag": 18.8
+      },
+      {
+        "word": "draußen",
+        "count": 8,
+        "ratioParty": 18.7,
+        "ratioBundestag": 36.4
+      },
+      {
+        "word": "bauen",
+        "count": 10,
+        "ratioParty": 15.7,
+        "ratioBundestag": 10.8
+      },
+      {
+        "word": "ministerin",
+        "count": 17,
+        "ratioParty": 11.0,
+        "ratioBundestag": 12.9
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "weltfremd",
+        "count": 3,
+        "ratioParty": 574.9,
+        "ratioBundestag": 849.8
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 735,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 1.25,
+    "vsParliament": 1.2
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "4"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "2.941"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufe",
+      "value": "27"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Sebastian Münzenmaier häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Opposition",
+        "isCorrect": false
+      },
+      {
+        "text": "Hubertz",
+        "isCorrect": true
+      },
+      {
+        "text": "Europa",
+        "isCorrect": false
+      },
+      {
+        "text": "Koalition",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Hubertz\" nutzt Sebastian Münzenmaier 182.1× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "194.5× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Sebastian Münzenmaier häufiger als der Rest der AfD-Fraktion?",
+    "options": [
+      {
+        "text": "Alt",
+        "isCorrect": false
+      },
+      {
+        "text": "Richtig",
+        "isCorrect": false
+      },
+      {
+        "text": "Weltfremd",
+        "isCorrect": true
+      },
+      {
+        "text": "Schlecht",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Weltfremd\" nutzt Sebastian Münzenmaier 574.9× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "849.8× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 40.0,
+      "aggression": 0.0,
+      "labeling": 44.4,
+      "solution_focus": 80.0,
+      "collaboration": 50.0,
+      "demand_intensity": 37.5,
+      "acknowledgment": 0.0,
+      "authority": 82.5,
+      "future_orientation": 100.0,
+      "emotional_intensity": 77.8,
+      "inclusivity": 54.3,
+      "discriminatory": 1.02
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 4,
+      "words": 1960,
+      "adjectives": 9,
+      "verbs": 8
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.51,
+      "klima": 2.55,
+      "wirtschaft": 0.51,
+      "soziales": 7.14,
+      "sicherheit": 1.53,
+      "gesundheit": 0.0,
+      "europa": 0.0,
+      "digital": 0.0,
+      "bildung": 0.0,
+      "finanzen": 5.1,
+      "justiz": 1.02,
+      "arbeit": 0.0,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "soziales",
+        "score": 7.14,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 5.1,
+        "rank": 2
+      },
+      {
+        "topic": "klima",
+        "score": 2.55,
+        "rank": 3
+      },
+      {
+        "topic": "sicherheit",
+        "score": 1.53,
+        "rank": 4
+      },
+      {
+        "topic": "justiz",
+        "score": 1.02,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "flüchtlinge",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "fernwärme",
+          "count": 4
+        },
+        {
+          "word": "müll",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "insolvenzen",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "wohnung",
+          "count": 3
+        },
+        {
+          "word": "wohnungen",
+          "count": 3
+        },
+        {
+          "word": "familie",
+          "count": 2
+        },
+        {
+          "word": "mietpreisbremse",
+          "count": 1
+        },
+        {
+          "word": "armut",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "polizei",
+          "count": 2
+        },
+        {
+          "word": "verfassungsschutz",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "steuern",
+          "count": 3
+        },
+        {
+          "word": "kosten",
+          "count": 2
+        },
+        {
+          "word": "haushalt",
+          "count": 1
+        },
+        {
+          "word": "erbschaftsteuer",
+          "count": 1
+        },
+        {
+          "word": "steuererhöhung",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "gerichte",
+          "count": 1
+        },
+        {
+          "word": "urteil",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,401 @@
+{
+  "name": "Thomas Rachel",
+  "party": "CDU/CSU",
+  "slug": "thomas-rachel",
+  "academicTitle": null,
+  "speeches": 4,
+  "wortbeitraege": 2,
+  "befragungResponses": 0,
+  "totalWords": 2779,
+  "avgWords": 463,
+  "minWords": 45,
+  "maxWords": 598,
+  "rankings": {
+    "speechRank": 405,
+    "wordsRank": 388,
+    "partySpeechRank": 119,
+    "partyWordsRank": 120,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 33.5,
+    "verbosityRank": 218,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 80,
+    "longestSpeechRank": 425
+  },
+  "drama": {
+    "interruptionsGiven": 35,
+    "interruptionsReceived": 3,
+    "interrupterRank": 51,
+    "interruptedRank": 460
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 28
+      },
+      {
+        "word": "welt",
+        "count": 13
+      },
+      {
+        "word": "deutschland",
+        "count": 12
+      },
+      {
+        "word": "entwicklungszusammenarbeit",
+        "count": 11
+      },
+      {
+        "word": "leben",
+        "count": 10
+      },
+      {
+        "word": "sudan",
+        "count": 10
+      },
+      {
+        "word": "hilfe",
+        "count": 8
+      },
+      {
+        "word": "hunger",
+        "count": 8
+      },
+      {
+        "word": "entwicklungspolitik",
+        "count": 8
+      },
+      {
+        "word": "verantwortung",
+        "count": 8
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "südsudan",
+        "count": 7,
+        "ratioParty": 113.1,
+        "ratioBundestag": 92.3
+      },
+      {
+        "word": "hunger",
+        "count": 8,
+        "ratioParty": 110.8,
+        "ratioBundestag": 72.8
+      },
+      {
+        "word": "entwicklungspolitik",
+        "count": 8,
+        "ratioParty": 93.0,
+        "ratioBundestag": 67.4
+      },
+      {
+        "word": "sudan",
+        "count": 10,
+        "ratioParty": 59.3,
+        "ratioBundestag": 49.2
+      },
+      {
+        "word": "armut",
+        "count": 5,
+        "ratioParty": 53.8,
+        "ratioBundestag": 20.4
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 463,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.67,
+    "vsParliament": 0.76
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "4"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "2.779"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufe",
+      "value": "35"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Thomas Rachel häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Südsudan",
+        "isCorrect": true
+      },
+      {
+        "text": "Fraktion",
+        "isCorrect": false
+      },
+      {
+        "text": "Migration",
+        "isCorrect": false
+      },
+      {
+        "text": "Bildung",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Südsudan\" nutzt Thomas Rachel 113.1× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "92.3× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🐿️",
+    "name": "Eichhörnchen",
+    "title": "Themenhüter",
+    "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+    "id": "eichhoernchen",
+    "alternatives": [
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Cleverer Stratege",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 0.75
+      },
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißiger Abgeordneter",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 0.722
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 66.7,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 70.0,
+      "collaboration": 44.4,
+      "demand_intensity": 6.2,
+      "acknowledgment": 3.1,
+      "authority": 73.3,
+      "future_orientation": 84.6,
+      "emotional_intensity": 55.6,
+      "inclusivity": 60.4,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 6,
+      "words": 1831,
+      "adjectives": 3,
+      "verbs": 32
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 1.64,
+      "klima": 0.55,
+      "wirtschaft": 3.28,
+      "soziales": 5.46,
+      "sicherheit": 7.1,
+      "gesundheit": 2.73,
+      "europa": 6.01,
+      "digital": 0.0,
+      "bildung": 0.55,
+      "finanzen": 2.73,
+      "justiz": 1.09,
+      "arbeit": 0.0,
+      "mobilitaet": 0.55
+    },
+    "topTopics": [
+      {
+        "topic": "sicherheit",
+        "score": 7.1,
+        "rank": 1
+      },
+      {
+        "topic": "europa",
+        "score": 6.01,
+        "rank": 2
+      },
+      {
+        "topic": "soziales",
+        "score": 5.46,
+        "rank": 3
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 3.28,
+        "rank": 4
+      },
+      {
+        "topic": "gesundheit",
+        "score": 2.73,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "flüchtlinge",
+          "count": 1
+        },
+        {
+          "word": "geflüchtete",
+          "count": 1
+        },
+        {
+          "word": "migration",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "klimawandel",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "märkte",
+          "count": 2
+        },
+        {
+          "word": "unternehmen",
+          "count": 2
+        },
+        {
+          "word": "wettbewerb",
+          "count": 1
+        },
+        {
+          "word": "kapital",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "armut",
+          "count": 5
+        },
+        {
+          "word": "kinder",
+          "count": 5
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "gewalt",
+          "count": 4
+        },
+        {
+          "word": "soldaten",
+          "count": 4
+        },
+        {
+          "word": "extremismus",
+          "count": 1
+        },
+        {
+          "word": "polizisten",
+          "count": 1
+        },
+        {
+          "word": "bundeswehr",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "impfung",
+          "count": 1
+        },
+        {
+          "word": "gesundheitssystem",
+          "count": 1
+        },
+        {
+          "word": "epidemie",
+          "count": 1
+        },
+        {
+          "word": "kranke",
+          "count": 1
+        },
+        {
+          "word": "krankenhäuser",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "krieg",
+          "count": 3
+        },
+        {
+          "word": "völkerrecht",
+          "count": 2
+        },
+        {
+          "word": "wiederaufbau",
+          "count": 1
+        },
+        {
+          "word": "europa",
+          "count": 1
+        },
+        {
+          "word": "allianz",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "schüler",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "investitionen",
+          "count": 3
+        },
+        {
+          "word": "haushaltsentwurf",
+          "count": 1
+        },
+        {
+          "word": "haushalt",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "rechtsstaat",
+          "count": 1
+        },
+        {
+          "word": "menschenrechte",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

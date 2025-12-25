@@ -1,0 +1,336 @@
+{
+  "name": "Dr. Carsten Linnemann",
+  "party": "CDU/CSU",
+  "slug": "carsten-linnemann",
+  "academicTitle": "Dr",
+  "speeches": 4,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 2139,
+  "avgWords": 535,
+  "minWords": 363,
+  "maxWords": 705,
+  "rankings": {
+    "speechRank": 461,
+    "wordsRank": 446,
+    "partySpeechRank": 140,
+    "partyWordsRank": 141,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 24.3,
+    "verbosityRank": 126,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 49,
+    "longestSpeechRank": 296
+  },
+  "drama": {
+    "interruptionsGiven": 2,
+    "interruptionsReceived": 4,
+    "interrupterRank": 285,
+    "interruptedRank": 440
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 19
+      },
+      {
+        "word": "arbeiten",
+        "count": 18
+      },
+      {
+        "word": "deutschland",
+        "count": 11
+      },
+      {
+        "word": "sozialstaat",
+        "count": 9
+      },
+      {
+        "word": "aktivrente",
+        "count": 7
+      },
+      {
+        "word": "sozialleistungen",
+        "count": 6
+      },
+      {
+        "word": "länger",
+        "count": 6
+      },
+      {
+        "word": "letzten",
+        "count": 6
+      },
+      {
+        "word": "arbeit",
+        "count": 6
+      },
+      {
+        "word": "übrigens",
+        "count": 5
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "sozialleistungen",
+        "count": 6,
+        "ratioParty": 92.9,
+        "ratioBundestag": 92.0
+      },
+      {
+        "word": "aktivrente",
+        "count": 7,
+        "ratioParty": 37.7,
+        "ratioBundestag": 62.8
+      },
+      {
+        "word": "sozialstaat",
+        "count": 9,
+        "ratioParty": 32.0,
+        "ratioBundestag": 37.8
+      },
+      {
+        "word": "länger",
+        "count": 6,
+        "ratioParty": 24.7,
+        "ratioBundestag": 20.6
+      },
+      {
+        "word": "arbeiten",
+        "count": 18,
+        "ratioParty": 15.4,
+        "ratioBundestag": 17.5
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 535,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.78,
+    "vsParliament": 0.87
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "4"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "2.139"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Dr. Carsten Linnemann häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Gesellschaft",
+        "isCorrect": false
+      },
+      {
+        "text": "Familie",
+        "isCorrect": false
+      },
+      {
+        "text": "Sozialleistungen",
+        "isCorrect": true
+      },
+      {
+        "text": "Rente",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Sozialleistungen\" nutzt Dr. Carsten Linnemann 92.9× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "92.0× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🦦",
+    "name": "Otter",
+    "title": "Positiver Teamplayer",
+    "reason": "Du bringst gute Stimmung und konstruktive Beiträge ins Plenum.",
+    "id": "otter",
+    "alternatives": [
+      {
+        "emoji": "🐇",
+        "name": "Hase",
+        "title": "Wendiger Optimist",
+        "reason": "Mit positivem Blick reagierst du schnell auf neue Themen.",
+        "id": "hase",
+        "score": 0.9
+      },
+      {
+        "emoji": "🦫",
+        "name": "Biber",
+        "title": "Konstruktiver Brückenbauer",
+        "reason": "Du baust Brücken zwischen Positionen – kooperativ und lösungsorientiert.",
+        "id": "biber",
+        "score": 0.827
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 100.0,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 100.0,
+      "collaboration": 66.7,
+      "demand_intensity": 4.8,
+      "acknowledgment": 9.5,
+      "authority": 71.4,
+      "future_orientation": 95.0,
+      "emotional_intensity": 0.0,
+      "inclusivity": 46.9,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 4,
+      "words": 1376,
+      "adjectives": 6,
+      "verbs": 21
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.0,
+      "wirtschaft": 3.63,
+      "soziales": 22.53,
+      "sicherheit": 0.0,
+      "gesundheit": 1.45,
+      "europa": 0.0,
+      "digital": 0.0,
+      "bildung": 0.0,
+      "finanzen": 2.91,
+      "justiz": 0.0,
+      "arbeit": 7.99,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "soziales",
+        "score": 22.53,
+        "rank": 1
+      },
+      {
+        "topic": "arbeit",
+        "score": 7.99,
+        "rank": 2
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 3.63,
+        "rank": 3
+      },
+      {
+        "topic": "finanzen",
+        "score": 2.91,
+        "rank": 4
+      },
+      {
+        "topic": "gesundheit",
+        "score": 1.45,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "wirtschaft": [
+        {
+          "word": "insolvenzen",
+          "count": 1
+        },
+        {
+          "word": "industrie",
+          "count": 1
+        },
+        {
+          "word": "betriebe",
+          "count": 1
+        },
+        {
+          "word": "bruttoinlandsprodukt",
+          "count": 1
+        },
+        {
+          "word": "marktwirtschaft",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "sozialstaat",
+          "count": 9
+        },
+        {
+          "word": "sozialleistungen",
+          "count": 6
+        },
+        {
+          "word": "bürgergeld",
+          "count": 4
+        },
+        {
+          "word": "grundsicherung",
+          "count": 3
+        },
+        {
+          "word": "rente",
+          "count": 3
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "pflegekräfte",
+          "count": 1
+        },
+        {
+          "word": "prävention",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "steuern",
+          "count": 2
+        },
+        {
+          "word": "haushalt",
+          "count": 1
+        },
+        {
+          "word": "kosten",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitnehmer",
+          "count": 3
+        },
+        {
+          "word": "beschäftigung",
+          "count": 2
+        },
+        {
+          "word": "arbeitsplätze",
+          "count": 1
+        },
+        {
+          "word": "vereinbarkeit",
+          "count": 1
+        },
+        {
+          "word": "einkommen",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

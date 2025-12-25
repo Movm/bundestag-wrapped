@@ -1,0 +1,467 @@
+{
+  "name": "Agnieszka Brugger",
+  "party": "GRÜNE",
+  "slug": "agnieszka-brugger",
+  "academicTitle": null,
+  "speeches": 12,
+  "wortbeitraege": 3,
+  "befragungResponses": 0,
+  "totalWords": 7550,
+  "avgWords": 503,
+  "minWords": 93,
+  "maxWords": 947,
+  "rankings": {
+    "speechRank": 67,
+    "wordsRank": 81,
+    "partySpeechRank": 13,
+    "partyWordsRank": 11,
+    "partySize": 85,
+    "totalSpeakers": 609,
+    "percentile": 89.0,
+    "verbosityRank": 160,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 20,
+    "longestSpeechRank": 84
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 13,
+    "interrupterRank": null,
+    "interruptedRank": 210
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "ukraine",
+        "count": 24
+      },
+      {
+        "word": "land",
+        "count": 23
+      },
+      {
+        "word": "menschen",
+        "count": 22
+      },
+      {
+        "word": "frauen",
+        "count": 21
+      },
+      {
+        "word": "welt",
+        "count": 18
+      },
+      {
+        "word": "sicherheit",
+        "count": 18
+      },
+      {
+        "word": "letzten",
+        "count": 17
+      },
+      {
+        "word": "putin",
+        "count": 15
+      },
+      {
+        "word": "trump",
+        "count": 14
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "mädchen",
+        "count": 9,
+        "ratioParty": 48.0,
+        "ratioBundestag": 38.6
+      },
+      {
+        "word": "frozen",
+        "count": 5,
+        "ratioParty": 26.7,
+        "ratioBundestag": 141.2
+      },
+      {
+        "word": "stream",
+        "count": 6,
+        "ratioParty": 26.2,
+        "ratioBundestag": 36.3
+      },
+      {
+        "word": "putins",
+        "count": 7,
+        "ratioParty": 25.8,
+        "ratioBundestag": 28.2
+      },
+      {
+        "word": "moskau",
+        "count": 6,
+        "ratioParty": 24.0,
+        "ratioBundestag": 27.5
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "gefährlich",
+        "count": 3,
+        "ratioParty": 8.5,
+        "ratioBundestag": 10.4
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 503,
+    "partyAvgWords": 567,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.89,
+    "vsParliament": 0.82
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "12"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "7.550"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Agnieszka Brugger häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Steuern",
+        "isCorrect": false
+      },
+      {
+        "text": "Gesetzentwurf",
+        "isCorrect": false
+      },
+      {
+        "text": "Fraktion",
+        "isCorrect": false
+      },
+      {
+        "text": "Mädchen",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Mädchen\" nutzt Agnieszka Brugger 48.0× häufiger als der GRÜNE-Durchschnitt.",
+    "explanationBundestag": "38.6× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Agnieszka Brugger häufiger als der Rest der GRÜNE-Fraktion?",
+    "options": [
+      {
+        "text": "Falsch",
+        "isCorrect": false
+      },
+      {
+        "text": "Sicher",
+        "isCorrect": false
+      },
+      {
+        "text": "Gefährlich",
+        "isCorrect": true
+      },
+      {
+        "text": "Neu",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Gefährlich\" nutzt Agnieszka Brugger 8.5× häufiger als der GRÜNE-Durchschnitt.",
+    "explanationBundestag": "10.4× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐿️",
+    "name": "Eichhörnchen",
+    "title": "Themenhüterin",
+    "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+    "id": "eichhoernchen",
+    "alternatives": [
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißige Abgeordnete",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      },
+      {
+        "emoji": "🐬",
+        "name": "Delfin",
+        "title": "Diplomatische Rednerin",
+        "reason": "Aktiv im Parlament, aber respektvoll ohne viele Zwischenrufe.",
+        "id": "delfin",
+        "score": 0.8
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 53.3,
+      "aggression": 19.0,
+      "labeling": 9.5,
+      "solution_focus": 69.6,
+      "collaboration": 50.0,
+      "demand_intensity": 3.2,
+      "acknowledgment": 9.7,
+      "authority": 83.3,
+      "future_orientation": 85.5,
+      "emotional_intensity": 55.0,
+      "inclusivity": 71.7,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 15,
+      "words": 4907,
+      "adjectives": 21,
+      "verbs": 31
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.82,
+      "klima": 1.43,
+      "wirtschaft": 0.82,
+      "soziales": 1.43,
+      "sicherheit": 4.89,
+      "gesundheit": 0.61,
+      "europa": 22.62,
+      "digital": 0.41,
+      "bildung": 0.41,
+      "finanzen": 3.06,
+      "justiz": 1.02,
+      "arbeit": 0.0,
+      "mobilitaet": 0.61
+    },
+    "topTopics": [
+      {
+        "topic": "europa",
+        "score": 22.62,
+        "rank": 1
+      },
+      {
+        "topic": "sicherheit",
+        "score": 4.89,
+        "rank": 2
+      },
+      {
+        "topic": "finanzen",
+        "score": 3.06,
+        "rank": 3
+      },
+      {
+        "topic": "klima",
+        "score": 1.43,
+        "rank": 4
+      },
+      {
+        "topic": "soziales",
+        "score": 1.43,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "grenzkontrollen",
+          "count": 3
+        },
+        {
+          "word": "grenze",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "klimakrise",
+          "count": 5
+        },
+        {
+          "word": "klimaschutz",
+          "count": 1
+        },
+        {
+          "word": "klimapolitik",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 2
+        },
+        {
+          "word": "industrie",
+          "count": 1
+        },
+        {
+          "word": "insolvenz",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 3
+        },
+        {
+          "word": "familien",
+          "count": 1
+        },
+        {
+          "word": "kind",
+          "count": 1
+        },
+        {
+          "word": "familie",
+          "count": 1
+        },
+        {
+          "word": "bürgergeld",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "bundeswehr",
+          "count": 8
+        },
+        {
+          "word": "gewalt",
+          "count": 6
+        },
+        {
+          "word": "soldaten",
+          "count": 3
+        },
+        {
+          "word": "waffen",
+          "count": 1
+        },
+        {
+          "word": "militär",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "krankenhäuser",
+          "count": 1
+        },
+        {
+          "word": "krankenhaus",
+          "count": 1
+        },
+        {
+          "word": "kliniken",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "ukraine",
+          "count": 24
+        },
+        {
+          "word": "putin",
+          "count": 15
+        },
+        {
+          "word": "außenminister",
+          "count": 11
+        },
+        {
+          "word": "europa",
+          "count": 11
+        },
+        {
+          "word": "frieden",
+          "count": 8
+        }
+      ],
+      "digital": [
+        {
+          "word": "netz",
+          "count": 1
+        },
+        {
+          "word": "hackerangriff",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "universitäten",
+          "count": 1
+        },
+        {
+          "word": "bildung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "schuldenbremse",
+          "count": 4
+        },
+        {
+          "word": "kosten",
+          "count": 3
+        },
+        {
+          "word": "haushalt",
+          "count": 3
+        },
+        {
+          "word": "währung",
+          "count": 1
+        },
+        {
+          "word": "etat",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "gerichte",
+          "count": 1
+        },
+        {
+          "word": "grundgesetz",
+          "count": 1
+        },
+        {
+          "word": "rechtsstaat",
+          "count": 1
+        },
+        {
+          "word": "gefängnis",
+          "count": 1
+        },
+        {
+          "word": "gesetzgebung",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "verkehrsinfrastruktur",
+          "count": 1
+        },
+        {
+          "word": "bahn",
+          "count": 1
+        },
+        {
+          "word": "fahrzeuge",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

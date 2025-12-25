@@ -1,0 +1,429 @@
+{
+  "name": "Luke Hoß",
+  "party": "DIE LINKE",
+  "slug": "luke-hoss",
+  "academicTitle": null,
+  "speeches": 6,
+  "wortbeitraege": 2,
+  "befragungResponses": 0,
+  "totalWords": 2838,
+  "avgWords": 355,
+  "minWords": 94,
+  "maxWords": 793,
+  "rankings": {
+    "speechRank": 311,
+    "wordsRank": 381,
+    "partySpeechRank": 40,
+    "partyWordsRank": 38,
+    "partySize": 63,
+    "totalSpeakers": 609,
+    "percentile": 48.9,
+    "verbosityRank": 405,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 41,
+    "longestSpeechRank": 201
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 16,
+    "interrupterRank": 134,
+    "interruptedRank": 178
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 24
+      },
+      {
+        "word": "rechtsstaat",
+        "count": 9
+      },
+      {
+        "word": "innen",
+        "count": 9
+      },
+      {
+        "word": "geld",
+        "count": 8
+      },
+      {
+        "word": "staat",
+        "count": 8
+      },
+      {
+        "word": "abgeordnete",
+        "count": 7
+      },
+      {
+        "word": "knast",
+        "count": 7
+      },
+      {
+        "word": "bürger",
+        "count": 7
+      },
+      {
+        "word": "kinder",
+        "count": 7
+      },
+      {
+        "word": "leute",
+        "count": 6
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "knast",
+        "count": 7,
+        "ratioParty": 659.0,
+        "ratioBundestag": 2120.5
+      },
+      {
+        "word": "strafrecht",
+        "count": 5,
+        "ratioParty": 94.1,
+        "ratioBundestag": 110.8
+      },
+      {
+        "word": "strafe",
+        "count": 6,
+        "ratioParty": 80.7,
+        "ratioBundestag": 175.9
+      },
+      {
+        "word": "rechtsstaat",
+        "count": 9,
+        "ratioParty": 26.5,
+        "ratioBundestag": 18.3
+      },
+      {
+        "word": "jemand",
+        "count": 5,
+        "ratioParty": 14.7,
+        "ratioBundestag": 18.2
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "sicher",
+        "count": 3,
+        "ratioParty": 5.0,
+        "ratioBundestag": 3.7
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 355,
+    "partyAvgWords": 521,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.68,
+    "vsParliament": 0.58
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "6"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "2.838"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Luke Hoß häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Gesetzentwurf",
+        "isCorrect": false
+      },
+      {
+        "text": "Knast",
+        "isCorrect": true
+      },
+      {
+        "text": "Freiheit",
+        "isCorrect": false
+      },
+      {
+        "text": "Zukunft",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Knast\" nutzt Luke Hoß 659.0× häufiger als der DIE LINKE-Durchschnitt.",
+    "explanationBundestag": "2120.5× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Luke Hoß häufiger als der Rest der DIE LINKE-Fraktion?",
+    "options": [
+      {
+        "text": "Politisch",
+        "isCorrect": false
+      },
+      {
+        "text": "Klar",
+        "isCorrect": false
+      },
+      {
+        "text": "Stark",
+        "isCorrect": false
+      },
+      {
+        "text": "Sicher",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Sicher\" nutzt Luke Hoß 5.0× häufiger als der DIE LINKE-Durchschnitt.",
+    "explanationBundestag": "3.7× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐿️",
+    "name": "Eichhörnchen",
+    "title": "Themenhüter",
+    "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+    "id": "eichhoernchen",
+    "alternatives": [
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Cleverer Stratege",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 0.907
+      },
+      {
+        "emoji": "🦉",
+        "name": "Eule",
+        "title": "Themenexperte",
+        "reason": "Dein Fachwort \"Knast\" nutzt du 659.0× häufiger als deine Fraktion.",
+        "id": "eule",
+        "score": 0.88
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 70.0,
+      "aggression": 7.1,
+      "labeling": 21.4,
+      "solution_focus": 77.8,
+      "collaboration": 66.7,
+      "demand_intensity": 16.7,
+      "acknowledgment": 16.7,
+      "authority": 70.0,
+      "future_orientation": 78.8,
+      "emotional_intensity": 23.1,
+      "inclusivity": 35.9,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 8,
+      "words": 1833,
+      "adjectives": 14,
+      "verbs": 18
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.55,
+      "klima": 0.55,
+      "wirtschaft": 0.55,
+      "soziales": 11.46,
+      "sicherheit": 3.82,
+      "gesundheit": 1.64,
+      "europa": 0.55,
+      "digital": 1.09,
+      "bildung": 1.09,
+      "finanzen": 2.18,
+      "justiz": 19.64,
+      "arbeit": 0.55,
+      "mobilitaet": 2.18
+    },
+    "topTopics": [
+      {
+        "topic": "justiz",
+        "score": 19.64,
+        "rank": 1
+      },
+      {
+        "topic": "soziales",
+        "score": 11.46,
+        "rank": 2
+      },
+      {
+        "topic": "sicherheit",
+        "score": 3.82,
+        "rank": 3
+      },
+      {
+        "topic": "finanzen",
+        "score": 2.18,
+        "rank": 4
+      },
+      {
+        "topic": "mobilitaet",
+        "score": 2.18,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "migranten",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "klimakrise",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "werk",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 7
+        },
+        {
+          "word": "jugendliche",
+          "count": 3
+        },
+        {
+          "word": "wohnung",
+          "count": 2
+        },
+        {
+          "word": "familie",
+          "count": 2
+        },
+        {
+          "word": "kind",
+          "count": 2
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "polizisten",
+          "count": 3
+        },
+        {
+          "word": "polizei",
+          "count": 1
+        },
+        {
+          "word": "kriminalität",
+          "count": 1
+        },
+        {
+          "word": "armee",
+          "count": 1
+        },
+        {
+          "word": "gewalttat",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "krankenhaus",
+          "count": 3
+        }
+      ],
+      "europa": [
+        {
+          "word": "bündnis",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "computer",
+          "count": 1
+        },
+        {
+          "word": "internet",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "meister",
+          "count": 1
+        },
+        {
+          "word": "schüler",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "steuern",
+          "count": 1
+        },
+        {
+          "word": "steuerzahler",
+          "count": 1
+        },
+        {
+          "word": "haushalt",
+          "count": 1
+        },
+        {
+          "word": "kosten",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "rechtsstaat",
+          "count": 9
+        },
+        {
+          "word": "strafe",
+          "count": 6
+        },
+        {
+          "word": "strafrecht",
+          "count": 5
+        },
+        {
+          "word": "haft",
+          "count": 4
+        },
+        {
+          "word": "anwalt",
+          "count": 3
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "löhne",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "straße",
+          "count": 2
+        },
+        {
+          "word": "öpnv",
+          "count": 1
+        },
+        {
+          "word": "bahn",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

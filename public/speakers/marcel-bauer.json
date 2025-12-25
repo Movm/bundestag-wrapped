@@ -1,0 +1,410 @@
+{
+  "name": "Marcel Bauer",
+  "party": "DIE LINKE",
+  "slug": "marcel-bauer",
+  "academicTitle": null,
+  "speeches": 5,
+  "wortbeitraege": 3,
+  "befragungResponses": 0,
+  "totalWords": 2943,
+  "avgWords": 368,
+  "minWords": 67,
+  "maxWords": 678,
+  "rankings": {
+    "speechRank": 380,
+    "wordsRank": 371,
+    "partySpeechRank": 49,
+    "partyWordsRank": 37,
+    "partySize": 63,
+    "totalSpeakers": 609,
+    "percentile": 37.6,
+    "verbosityRank": 385,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 34,
+    "longestSpeechRank": 327
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 7,
+    "interrupterRank": 138,
+    "interruptedRank": 349
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 22
+      },
+      {
+        "word": "innen",
+        "count": 16
+      },
+      {
+        "word": "bauern",
+        "count": 16
+      },
+      {
+        "word": "linke",
+        "count": 13
+      },
+      {
+        "word": "bäuerinnen",
+        "count": 13
+      },
+      {
+        "word": "leben",
+        "count": 12
+      },
+      {
+        "word": "land",
+        "count": 11
+      },
+      {
+        "word": "landwirte",
+        "count": 11
+      },
+      {
+        "word": "landwirtinnen",
+        "count": 11
+      },
+      {
+        "word": "kinder",
+        "count": 11
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "bäuerinnen",
+        "count": 13,
+        "ratioParty": 589.8,
+        "ratioBundestag": 711.9
+      },
+      {
+        "word": "erderhitzung",
+        "count": 7,
+        "ratioParty": 211.7,
+        "ratioBundestag": 681.5
+      },
+      {
+        "word": "bauern",
+        "count": 16,
+        "ratioParty": 207.4,
+        "ratioBundestag": 126.3
+      },
+      {
+        "word": "rainer",
+        "count": 8,
+        "ratioParty": 181.5,
+        "ratioBundestag": 52.3
+      },
+      {
+        "word": "landwirtinnen",
+        "count": 11,
+        "ratioParty": 110.9,
+        "ratioBundestag": 143.9
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 368,
+    "partyAvgWords": 521,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.71,
+    "vsParliament": 0.6
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "5"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "2.943"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Marcel Bauer häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Bäuerinnen",
+        "isCorrect": true
+      },
+      {
+        "text": "Koalition",
+        "isCorrect": false
+      },
+      {
+        "text": "Kanzler",
+        "isCorrect": false
+      },
+      {
+        "text": "Investitionen",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Bäuerinnen\" nutzt Marcel Bauer 589.8× häufiger als der DIE LINKE-Durchschnitt.",
+    "explanationBundestag": "711.9× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🦫",
+    "name": "Biber",
+    "title": "Konstruktiver Brückenbauer",
+    "reason": "Du baust Brücken zwischen Positionen – kooperativ und lösungsorientiert.",
+    "id": "biber",
+    "alternatives": [
+      {
+        "emoji": "🐬",
+        "name": "Delfin",
+        "title": "Diplomatischer Redner",
+        "reason": "Aktiv im Parlament, aber respektvoll ohne viele Zwischenrufe.",
+        "id": "delfin",
+        "score": 0.95
+      },
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüter",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.918
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 75.0,
+      "aggression": 11.1,
+      "labeling": 0.0,
+      "solution_focus": 93.3,
+      "collaboration": 100.0,
+      "demand_intensity": 15.8,
+      "acknowledgment": 0.0,
+      "authority": 78.0,
+      "future_orientation": 88.9,
+      "emotional_intensity": 33.3,
+      "inclusivity": 61.0,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 8,
+      "words": 1901,
+      "adjectives": 9,
+      "verbs": 19
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 8.42,
+      "wirtschaft": 5.79,
+      "soziales": 14.73,
+      "sicherheit": 2.63,
+      "gesundheit": 1.58,
+      "europa": 2.1,
+      "digital": 0.0,
+      "bildung": 3.16,
+      "finanzen": 5.79,
+      "justiz": 0.0,
+      "arbeit": 3.68,
+      "mobilitaet": 1.05
+    },
+    "topTopics": [
+      {
+        "topic": "soziales",
+        "score": 14.73,
+        "rank": 1
+      },
+      {
+        "topic": "klima",
+        "score": 8.42,
+        "rank": 2
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 5.79,
+        "rank": 3
+      },
+      {
+        "topic": "finanzen",
+        "score": 5.79,
+        "rank": 4
+      },
+      {
+        "topic": "arbeit",
+        "score": 3.68,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "umwelt",
+          "count": 4
+        },
+        {
+          "word": "klimaschutz",
+          "count": 3
+        },
+        {
+          "word": "nachhaltigkeit",
+          "count": 2
+        },
+        {
+          "word": "energiewende",
+          "count": 1
+        },
+        {
+          "word": "wälder",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "betriebe",
+          "count": 4
+        },
+        {
+          "word": "produktion",
+          "count": 3
+        },
+        {
+          "word": "markt",
+          "count": 1
+        },
+        {
+          "word": "konzerne",
+          "count": 1
+        },
+        {
+          "word": "konkurrenz",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 11
+        },
+        {
+          "word": "rentner",
+          "count": 5
+        },
+        {
+          "word": "familien",
+          "count": 4
+        },
+        {
+          "word": "wohnungen",
+          "count": 2
+        },
+        {
+          "word": "renten",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "rüstung",
+          "count": 2
+        },
+        {
+          "word": "anschlag",
+          "count": 1
+        },
+        {
+          "word": "panzer",
+          "count": 1
+        },
+        {
+          "word": "armee",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "pflegekraft",
+          "count": 2
+        },
+        {
+          "word": "corona",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "krieg",
+          "count": 3
+        },
+        {
+          "word": "europa",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "forschung",
+          "count": 3
+        },
+        {
+          "word": "schulen",
+          "count": 2
+        },
+        {
+          "word": "bildung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 5
+        },
+        {
+          "word": "investitionen",
+          "count": 2
+        },
+        {
+          "word": "bundeshaushalt",
+          "count": 1
+        },
+        {
+          "word": "bank",
+          "count": 1
+        },
+        {
+          "word": "investition",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeiter",
+          "count": 5
+        },
+        {
+          "word": "lohn",
+          "count": 1
+        },
+        {
+          "word": "mindestlohn",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "öpnv",
+          "count": 1
+        },
+        {
+          "word": "verkehrswende",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

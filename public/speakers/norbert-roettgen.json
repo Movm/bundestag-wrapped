@@ -1,0 +1,400 @@
+{
+  "name": "Dr. Norbert Röttgen",
+  "party": "CDU/CSU",
+  "slug": "norbert-roettgen",
+  "academicTitle": "Dr",
+  "speeches": 13,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 9395,
+  "avgWords": 671,
+  "minWords": 310,
+  "maxWords": 928,
+  "rankings": {
+    "speechRank": 51,
+    "wordsRank": 41,
+    "partySpeechRank": 14,
+    "partyWordsRank": 13,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 91.6,
+    "verbosityRank": 36,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 12,
+    "longestSpeechRank": 93
+  },
+  "drama": {
+    "interruptionsGiven": 3,
+    "interruptionsReceived": 12,
+    "interrupterRank": 258,
+    "interruptedRank": 236
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "sicherheit",
+        "count": 45
+      },
+      {
+        "word": "europa",
+        "count": 42
+      },
+      {
+        "word": "ukraine",
+        "count": 34
+      },
+      {
+        "word": "frieden",
+        "count": 32
+      },
+      {
+        "word": "bundeswehr",
+        "count": 30
+      },
+      {
+        "word": "krieg",
+        "count": 29
+      },
+      {
+        "word": "deutschland",
+        "count": 23
+      },
+      {
+        "word": "neue",
+        "count": 23
+      },
+      {
+        "word": "aufgabe",
+        "count": 21
+      },
+      {
+        "word": "politik",
+        "count": 21
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "friedenspolitik",
+        "count": 9,
+        "ratioParty": 810.3,
+        "ratioBundestag": 182.0
+      },
+      {
+        "word": "rechtfertigung",
+        "count": 6,
+        "ratioParty": 540.2,
+        "ratioBundestag": 154.4
+      },
+      {
+        "word": "händen",
+        "count": 6,
+        "ratioParty": 49.1,
+        "ratioBundestag": 34.0
+      },
+      {
+        "word": "amerikanische",
+        "count": 8,
+        "ratioParty": 42.4,
+        "ratioBundestag": 39.1
+      },
+      {
+        "word": "tradition",
+        "count": 5,
+        "ratioParty": 40.9,
+        "ratioBundestag": 30.1
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "erfolgreich",
+        "count": 3,
+        "ratioParty": 2.5,
+        "ratioBundestag": 3.8
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 671,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.98,
+    "vsParliament": 1.09
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "13"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "9.395"
+    },
+    {
+      "emoji": "📊",
+      "label": "Top-Redner",
+      "value": "Top 9%"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Dr. Norbert Röttgen häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Friedenspolitik",
+        "isCorrect": true
+      },
+      {
+        "text": "Familie",
+        "isCorrect": false
+      },
+      {
+        "text": "Klima",
+        "isCorrect": false
+      },
+      {
+        "text": "Opposition",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Friedenspolitik\" nutzt Dr. Norbert Röttgen 810.3× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "182.0× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Dr. Norbert Röttgen häufiger als der Rest der CDU/CSU-Fraktion?",
+    "options": [
+      {
+        "text": "Groß",
+        "isCorrect": false
+      },
+      {
+        "text": "National",
+        "isCorrect": false
+      },
+      {
+        "text": "Erfolgreich",
+        "isCorrect": true
+      },
+      {
+        "text": "Klar",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Erfolgreich\" nutzt Dr. Norbert Röttgen 2.5× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "3.8× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🐿️",
+    "name": "Eichhörnchen",
+    "title": "Themenhüter",
+    "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+    "id": "eichhoernchen",
+    "alternatives": [
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißiger Abgeordneter",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      },
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Cleverer Stratege",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 0.987
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 73.3,
+      "aggression": 0.0,
+      "labeling": 11.8,
+      "solution_focus": 94.7,
+      "collaboration": 60.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 10.7,
+      "authority": 79.9,
+      "future_orientation": 84.4,
+      "emotional_intensity": 42.4,
+      "inclusivity": 60.6,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 14,
+      "words": 5869,
+      "adjectives": 17,
+      "verbs": 75
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.34,
+      "klima": 0.17,
+      "wirtschaft": 2.04,
+      "soziales": 0.17,
+      "sicherheit": 10.9,
+      "gesundheit": 0.0,
+      "europa": 37.83,
+      "digital": 0.0,
+      "bildung": 0.0,
+      "finanzen": 2.73,
+      "justiz": 0.34,
+      "arbeit": 0.0,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "europa",
+        "score": 37.83,
+        "rank": 1
+      },
+      {
+        "topic": "sicherheit",
+        "score": 10.9,
+        "rank": 2
+      },
+      {
+        "topic": "finanzen",
+        "score": 2.73,
+        "rank": 3
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 2.04,
+        "rank": 4
+      },
+      {
+        "topic": "migration",
+        "score": 0.34,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "integration",
+          "count": 1
+        },
+        {
+          "word": "grenze",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "energie",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "industrie",
+          "count": 3
+        },
+        {
+          "word": "handelspartner",
+          "count": 2
+        },
+        {
+          "word": "produktion",
+          "count": 2
+        },
+        {
+          "word": "handel",
+          "count": 1
+        },
+        {
+          "word": "zölle",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "bundeswehr",
+          "count": 30
+        },
+        {
+          "word": "verteidigung",
+          "count": 16
+        },
+        {
+          "word": "soldaten",
+          "count": 8
+        },
+        {
+          "word": "gewalt",
+          "count": 2
+        },
+        {
+          "word": "abschreckung",
+          "count": 2
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 42
+        },
+        {
+          "word": "ukraine",
+          "count": 34
+        },
+        {
+          "word": "frieden",
+          "count": 32
+        },
+        {
+          "word": "krieg",
+          "count": 29
+        },
+        {
+          "word": "nato",
+          "count": 13
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "etat",
+          "count": 5
+        },
+        {
+          "word": "haushalt",
+          "count": 3
+        },
+        {
+          "word": "schuldenbremse",
+          "count": 3
+        },
+        {
+          "word": "schulden",
+          "count": 2
+        },
+        {
+          "word": "sondervermögen",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "rechtsstaat",
+          "count": 1
+        },
+        {
+          "word": "gesetzgebung",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

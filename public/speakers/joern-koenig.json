@@ -1,0 +1,409 @@
+{
+  "name": "Jörn König",
+  "party": "AfD",
+  "slug": "joern-koenig",
+  "academicTitle": null,
+  "speeches": 12,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 5380,
+  "avgWords": 448,
+  "minWords": 24,
+  "maxWords": 632,
+  "rankings": {
+    "speechRank": 84,
+    "wordsRank": 158,
+    "partySpeechRank": 13,
+    "partyWordsRank": 34,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 86.2,
+    "verbosityRank": 250,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 58,
+    "longestSpeechRank": 386
+  },
+  "drama": {
+    "interruptionsGiven": 291,
+    "interruptionsReceived": 26,
+    "interrupterRank": 2,
+    "interruptedRank": 77
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "deutschland",
+        "count": 41
+      },
+      {
+        "word": "deutschen",
+        "count": 19
+      },
+      {
+        "word": "jahre",
+        "count": 17
+      },
+      {
+        "word": "sport",
+        "count": 16
+      },
+      {
+        "word": "jahren",
+        "count": 14
+      },
+      {
+        "word": "völlig",
+        "count": 12
+      },
+      {
+        "word": "regierung",
+        "count": 12
+      },
+      {
+        "word": "deutsche",
+        "count": 10
+      },
+      {
+        "word": "alternative",
+        "count": 9
+      },
+      {
+        "word": "endlich",
+        "count": 9
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "sportler",
+        "count": 5,
+        "ratioParty": 178.0,
+        "ratioBundestag": 216.0
+      },
+      {
+        "word": "olympische",
+        "count": 9,
+        "ratioParty": 96.1,
+        "ratioBundestag": 115.6
+      },
+      {
+        "word": "lasst",
+        "count": 5,
+        "ratioParty": 89.0,
+        "ratioBundestag": 47.5
+      },
+      {
+        "word": "spiele",
+        "count": 9,
+        "ratioParty": 80.1,
+        "ratioBundestag": 55.5
+      },
+      {
+        "word": "sportstätten",
+        "count": 5,
+        "ratioParty": 53.4,
+        "ratioBundestag": 29.7
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 448,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.76,
+    "vsParliament": 0.73
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "12"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "5.380"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufer",
+      "value": "#2 (291x)"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Jörn König häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Sportler",
+        "isCorrect": true
+      },
+      {
+        "text": "Bildung",
+        "isCorrect": false
+      },
+      {
+        "text": "Europa",
+        "isCorrect": false
+      },
+      {
+        "text": "Klima",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Sportler\" nutzt Jörn König 178.0× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "216.0× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 55.6,
+      "aggression": 21.4,
+      "labeling": 14.3,
+      "solution_focus": 72.2,
+      "collaboration": 66.7,
+      "demand_intensity": 12.0,
+      "acknowledgment": 4.0,
+      "authority": 86.8,
+      "future_orientation": 81.1,
+      "emotional_intensity": 80.0,
+      "inclusivity": 44.0,
+      "discriminatory": 0.29
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 12,
+      "words": 3502,
+      "adjectives": 14,
+      "verbs": 25
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 1.43,
+      "klima": 1.71,
+      "wirtschaft": 4.0,
+      "soziales": 6.57,
+      "sicherheit": 1.71,
+      "gesundheit": 0.29,
+      "europa": 1.14,
+      "digital": 2.0,
+      "bildung": 0.86,
+      "finanzen": 14.56,
+      "justiz": 0.29,
+      "arbeit": 1.71,
+      "mobilitaet": 3.14
+    },
+    "topTopics": [
+      {
+        "topic": "finanzen",
+        "score": 14.56,
+        "rank": 1
+      },
+      {
+        "topic": "soziales",
+        "score": 6.57,
+        "rank": 2
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 4.0,
+        "rank": 3
+      },
+      {
+        "topic": "mobilitaet",
+        "score": 3.14,
+        "rank": 4
+      },
+      {
+        "topic": "digital",
+        "score": 2.0,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "zuwanderung",
+          "count": 2
+        },
+        {
+          "word": "migration",
+          "count": 2
+        },
+        {
+          "word": "migranten",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "klimaschutz",
+          "count": 5
+        },
+        {
+          "word": "energiewende",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 6
+        },
+        {
+          "word": "mittelstand",
+          "count": 5
+        },
+        {
+          "word": "markt",
+          "count": 2
+        },
+        {
+          "word": "konzerne",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "familien",
+          "count": 7
+        },
+        {
+          "word": "familie",
+          "count": 6
+        },
+        {
+          "word": "kinder",
+          "count": 3
+        },
+        {
+          "word": "kind",
+          "count": 2
+        },
+        {
+          "word": "eltern",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "terroristen",
+          "count": 2
+        },
+        {
+          "word": "attentat",
+          "count": 1
+        },
+        {
+          "word": "angriff",
+          "count": 1
+        },
+        {
+          "word": "bundeswehr",
+          "count": 1
+        },
+        {
+          "word": "überwachung",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "sucht",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "russland",
+          "count": 2
+        },
+        {
+          "word": "china",
+          "count": 1
+        },
+        {
+          "word": "afrika",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "digital",
+          "count": 4
+        },
+        {
+          "word": "digitalisierung",
+          "count": 2
+        },
+        {
+          "word": "software",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "professor",
+          "count": 3
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "schulden",
+          "count": 9
+        },
+        {
+          "word": "steuerzahler",
+          "count": 9
+        },
+        {
+          "word": "steuern",
+          "count": 5
+        },
+        {
+          "word": "entlastung",
+          "count": 5
+        },
+        {
+          "word": "bundesrechnungshof",
+          "count": 3
+        }
+      ],
+      "justiz": [
+        {
+          "word": "grundgesetz",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitnehmer",
+          "count": 4
+        },
+        {
+          "word": "einkommen",
+          "count": 2
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 4
+        },
+        {
+          "word": "bahn",
+          "count": 3
+        },
+        {
+          "word": "radwege",
+          "count": 3
+        },
+        {
+          "word": "flughafen",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

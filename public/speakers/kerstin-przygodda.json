@@ -1,0 +1,308 @@
+{
+  "name": "Kerstin Przygodda",
+  "party": "AfD",
+  "slug": "kerstin-przygodda",
+  "academicTitle": null,
+  "speeches": 4,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 1536,
+  "avgWords": 384,
+  "minWords": 302,
+  "maxWords": 435,
+  "rankings": {
+    "speechRank": 438,
+    "wordsRank": 509,
+    "partySpeechRank": 107,
+    "partyWordsRank": 120,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 28.1,
+    "verbosityRank": 367,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 91,
+    "longestSpeechRank": 562
+  },
+  "drama": {
+    "interruptionsGiven": 6,
+    "interruptionsReceived": 7,
+    "interrupterRank": 198,
+    "interruptedRank": 353
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "frauen",
+        "count": 21
+      },
+      {
+        "word": "deutschland",
+        "count": 12
+      },
+      {
+        "word": "prien",
+        "count": 12
+      },
+      {
+        "word": "mädchen",
+        "count": 9
+      },
+      {
+        "word": "ministerin",
+        "count": 9
+      },
+      {
+        "word": "grünen",
+        "count": 7
+      },
+      {
+        "word": "familien",
+        "count": 7
+      },
+      {
+        "word": "grundgesetz",
+        "count": 7
+      },
+      {
+        "word": "kinder",
+        "count": 6
+      },
+      {
+        "word": "gewalt",
+        "count": 5
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "prien",
+        "count": 12,
+        "ratioParty": 235.0,
+        "ratioBundestag": 205.9
+      },
+      {
+        "word": "mädchen",
+        "count": 9,
+        "ratioParty": 223.3,
+        "ratioBundestag": 187.6
+      },
+      {
+        "word": "frauen",
+        "count": 21,
+        "ratioParty": 59.2,
+        "ratioBundestag": 37.4
+      },
+      {
+        "word": "grundgesetz",
+        "count": 7,
+        "ratioParty": 30.6,
+        "ratioBundestag": 34.4
+      },
+      {
+        "word": "kindern",
+        "count": 5,
+        "ratioParty": 26.6,
+        "ratioBundestag": 22.6
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 384,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.65,
+    "vsParliament": 0.63
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "4"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "1.536"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Kerstin Przygodda häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Verantwortung",
+        "isCorrect": false
+      },
+      {
+        "text": "Politik",
+        "isCorrect": false
+      },
+      {
+        "text": "Prien",
+        "isCorrect": true
+      },
+      {
+        "text": "Abstimmung",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Prien\" nutzt Kerstin Przygodda 235.0× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "205.9× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 50.0,
+      "aggression": 0.0,
+      "labeling": 33.3,
+      "solution_focus": 75.0,
+      "collaboration": 0.0,
+      "demand_intensity": 18.2,
+      "acknowledgment": 0.0,
+      "authority": 90.9,
+      "future_orientation": 94.1,
+      "emotional_intensity": 66.7,
+      "inclusivity": 64.9,
+      "discriminatory": 2.96
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 4,
+      "words": 1012,
+      "adjectives": 3,
+      "verbs": 11
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.99,
+      "klima": 0.0,
+      "wirtschaft": 0.99,
+      "soziales": 20.75,
+      "sicherheit": 6.92,
+      "gesundheit": 0.0,
+      "europa": 0.0,
+      "digital": 0.0,
+      "bildung": 7.91,
+      "finanzen": 2.96,
+      "justiz": 6.92,
+      "arbeit": 0.0,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "soziales",
+        "score": 20.75,
+        "rank": 1
+      },
+      {
+        "topic": "bildung",
+        "score": 7.91,
+        "rank": 2
+      },
+      {
+        "topic": "sicherheit",
+        "score": 6.92,
+        "rank": 3
+      },
+      {
+        "topic": "justiz",
+        "score": 6.92,
+        "rank": 4
+      },
+      {
+        "topic": "finanzen",
+        "score": 2.96,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "einwanderung",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "qualifikation",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "familien",
+          "count": 7
+        },
+        {
+          "word": "kinder",
+          "count": 6
+        },
+        {
+          "word": "familie",
+          "count": 5
+        },
+        {
+          "word": "eltern",
+          "count": 2
+        },
+        {
+          "word": "elterngeld",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "gewalt",
+          "count": 5
+        },
+        {
+          "word": "täter",
+          "count": 1
+        },
+        {
+          "word": "mord",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "bildung",
+          "count": 2
+        },
+        {
+          "word": "schüler",
+          "count": 2
+        },
+        {
+          "word": "lehrer",
+          "count": 1
+        },
+        {
+          "word": "klassenzimmer",
+          "count": 1
+        },
+        {
+          "word": "schulabschluss",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 2
+        },
+        {
+          "word": "steuerzahler",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "grundgesetz",
+          "count": 7
+        }
+      ]
+    }
+  }
+}

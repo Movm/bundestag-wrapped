@@ -1,0 +1,446 @@
+{
+  "name": "Dr. Matthias Hiller",
+  "party": "CDU/CSU",
+  "slug": "matthias-hiller",
+  "academicTitle": "Dr",
+  "speeches": 8,
+  "wortbeitraege": 2,
+  "befragungResponses": 0,
+  "totalWords": 4663,
+  "avgWords": 466,
+  "minWords": 51,
+  "maxWords": 859,
+  "rankings": {
+    "speechRank": 198,
+    "wordsRank": 209,
+    "partySpeechRank": 45,
+    "partyWordsRank": 61,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 67.5,
+    "verbosityRank": 213,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 78,
+    "longestSpeechRank": 136
+  },
+  "drama": {
+    "interruptionsGiven": 1,
+    "interruptionsReceived": 18,
+    "interrupterRank": 346,
+    "interruptedRank": 157
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "land",
+        "count": 16
+      },
+      {
+        "word": "deutschland",
+        "count": 11
+      },
+      {
+        "word": "aktivrente",
+        "count": 11
+      },
+      {
+        "word": "große",
+        "count": 10
+      },
+      {
+        "word": "steuern",
+        "count": 10
+      },
+      {
+        "word": "haushalt",
+        "count": 9
+      },
+      {
+        "word": "investitionen",
+        "count": 9
+      },
+      {
+        "word": "unternehmen",
+        "count": 9
+      },
+      {
+        "word": "würde",
+        "count": 9
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "grundfreibetrag",
+        "count": 5,
+        "ratioParty": 293.2,
+        "ratioBundestag": 459.3
+      },
+      {
+        "word": "transaktionen",
+        "count": 5,
+        "ratioParty": 293.2,
+        "ratioBundestag": 275.6
+      },
+      {
+        "word": "grundsteuer",
+        "count": 6,
+        "ratioParty": 263.9,
+        "ratioBundestag": 132.3
+      },
+      {
+        "word": "steuersystem",
+        "count": 6,
+        "ratioParty": 175.9,
+        "ratioBundestag": 114.0
+      },
+      {
+        "word": "steuerhinterziehung",
+        "count": 5,
+        "ratioParty": 146.6,
+        "ratioBundestag": 86.1
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 466,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.68,
+    "vsParliament": 0.76
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "8"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "4.663"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Dr. Matthias Hiller häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Koalition",
+        "isCorrect": false
+      },
+      {
+        "text": "Europa",
+        "isCorrect": false
+      },
+      {
+        "text": "Kanzler",
+        "isCorrect": false
+      },
+      {
+        "text": "Grundfreibetrag",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Grundfreibetrag\" nutzt Dr. Matthias Hiller 293.2× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "459.3× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🐝",
+    "name": "Biene",
+    "title": "Fleißiger Abgeordneter",
+    "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+    "id": "biene",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüter",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.987
+      },
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Cleverer Stratege",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 0.933
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 57.1,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 96.9,
+      "collaboration": 83.3,
+      "demand_intensity": 10.0,
+      "acknowledgment": 2.0,
+      "authority": 60.0,
+      "future_orientation": 86.6,
+      "emotional_intensity": 22.2,
+      "inclusivity": 63.1,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 10,
+      "words": 3020,
+      "adjectives": 14,
+      "verbs": 50
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.33,
+      "wirtschaft": 8.94,
+      "soziales": 4.97,
+      "sicherheit": 0.66,
+      "gesundheit": 2.98,
+      "europa": 1.32,
+      "digital": 0.66,
+      "bildung": 1.32,
+      "finanzen": 19.21,
+      "justiz": 2.65,
+      "arbeit": 3.64,
+      "mobilitaet": 1.99
+    },
+    "topTopics": [
+      {
+        "topic": "finanzen",
+        "score": 19.21,
+        "rank": 1
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 8.94,
+        "rank": 2
+      },
+      {
+        "topic": "soziales",
+        "score": 4.97,
+        "rank": 3
+      },
+      {
+        "topic": "arbeit",
+        "score": 3.64,
+        "rank": 4
+      },
+      {
+        "topic": "gesundheit",
+        "score": 2.98,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "klima": [
+        {
+          "word": "klimaneutralität",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 9
+        },
+        {
+          "word": "betriebe",
+          "count": 2
+        },
+        {
+          "word": "fachkräftemangel",
+          "count": 2
+        },
+        {
+          "word": "wettbewerbsfähigkeit",
+          "count": 2
+        },
+        {
+          "word": "standort",
+          "count": 2
+        }
+      ],
+      "soziales": [
+        {
+          "word": "rentner",
+          "count": 4
+        },
+        {
+          "word": "jugendliche",
+          "count": 4
+        },
+        {
+          "word": "kinder",
+          "count": 2
+        },
+        {
+          "word": "mietpreisbremse",
+          "count": 1
+        },
+        {
+          "word": "rente",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "bundeswehr",
+          "count": 1
+        },
+        {
+          "word": "verteidigung",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "gesundheitssystem",
+          "count": 3
+        },
+        {
+          "word": "krankenhäuser",
+          "count": 1
+        },
+        {
+          "word": "pflege",
+          "count": 1
+        },
+        {
+          "word": "krankenversicherung",
+          "count": 1
+        },
+        {
+          "word": "pflegeversicherung",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "bündnis",
+          "count": 2
+        },
+        {
+          "word": "krieg",
+          "count": 1
+        },
+        {
+          "word": "europa",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 1
+        },
+        {
+          "word": "netzausbau",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "schulen",
+          "count": 1
+        },
+        {
+          "word": "ausbildung",
+          "count": 1
+        },
+        {
+          "word": "bildung",
+          "count": 1
+        },
+        {
+          "word": "forschung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "steuern",
+          "count": 10
+        },
+        {
+          "word": "haushalt",
+          "count": 9
+        },
+        {
+          "word": "investitionen",
+          "count": 9
+        },
+        {
+          "word": "steuerpolitik",
+          "count": 7
+        },
+        {
+          "word": "steuerhinterziehung",
+          "count": 5
+        }
+      ],
+      "justiz": [
+        {
+          "word": "gerichte",
+          "count": 2
+        },
+        {
+          "word": "beschluss",
+          "count": 1
+        },
+        {
+          "word": "urteile",
+          "count": 1
+        },
+        {
+          "word": "gericht",
+          "count": 1
+        },
+        {
+          "word": "anklage",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "einkommen",
+          "count": 6
+        },
+        {
+          "word": "arbeitslosigkeit",
+          "count": 1
+        },
+        {
+          "word": "vereinbarkeit",
+          "count": 1
+        },
+        {
+          "word": "minijob",
+          "count": 1
+        },
+        {
+          "word": "arbeitnehmer",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 4
+        },
+        {
+          "word": "nahverkehr",
+          "count": 1
+        },
+        {
+          "word": "fahrzeug",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,384 @@
+{
+  "name": "Jan van Aken",
+  "party": "DIE LINKE",
+  "slug": "jan-van-aken",
+  "academicTitle": "van",
+  "speeches": 5,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 2796,
+  "avgWords": 559,
+  "minWords": 221,
+  "maxWords": 927,
+  "rankings": {
+    "speechRank": 366,
+    "wordsRank": 386,
+    "partySpeechRank": 47,
+    "partyWordsRank": 39,
+    "partySize": 63,
+    "totalSpeakers": 609,
+    "percentile": 39.9,
+    "verbosityRank": 105,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 7,
+    "longestSpeechRank": 95
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 2,
+    "interrupterRank": null,
+    "interruptedRank": 512
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "israel",
+        "count": 16
+      },
+      {
+        "word": "menschen",
+        "count": 13
+      },
+      {
+        "word": "oktober",
+        "count": 13
+      },
+      {
+        "word": "geld",
+        "count": 11
+      },
+      {
+        "word": "steuern",
+        "count": 11
+      },
+      {
+        "word": "gaza",
+        "count": 10
+      },
+      {
+        "word": "einfach",
+        "count": 8
+      },
+      {
+        "word": "jahr",
+        "count": 8
+      },
+      {
+        "word": "endlich",
+        "count": 8
+      },
+      {
+        "word": "deutschland",
+        "count": 7
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "steuertricks",
+        "count": 6,
+        "ratioParty": 289.3,
+        "ratioBundestag": 1116.7
+      },
+      {
+        "word": "oktober",
+        "count": 13,
+        "ratioParty": 104.5,
+        "ratioBundestag": 61.1
+      },
+      {
+        "word": "rechtfertigen",
+        "count": 5,
+        "ratioParty": 60.3,
+        "ratioBundestag": 89.5
+      },
+      {
+        "word": "juden",
+        "count": 6,
+        "ratioParty": 57.9,
+        "ratioBundestag": 60.0
+      },
+      {
+        "word": "jüdinnen",
+        "count": 5,
+        "ratioParty": 53.6,
+        "ratioBundestag": 93.1
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 559,
+    "partyAvgWords": 521,
+    "parliamentAvgWords": 613,
+    "vsParty": 1.07,
+    "vsParliament": 0.91
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "5"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "2.796"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Jan van Aken häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Steuertricks",
+        "isCorrect": true
+      },
+      {
+        "text": "Koalition",
+        "isCorrect": false
+      },
+      {
+        "text": "Verantwortung",
+        "isCorrect": false
+      },
+      {
+        "text": "Gesetzentwurf",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Steuertricks\" nutzt Jan van Aken 289.3× häufiger als der DIE LINKE-Durchschnitt.",
+    "explanationBundestag": "1116.7× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🐬",
+    "name": "Delfin",
+    "title": "Diplomatischer Redner",
+    "reason": "Aktiv im Parlament, aber respektvoll ohne viele Zwischenrufe.",
+    "id": "delfin",
+    "alternatives": [
+      {
+        "emoji": "🦫",
+        "name": "Biber",
+        "title": "Konstruktiver Brückenbauer",
+        "reason": "Du baust Brücken zwischen Positionen – kooperativ und lösungsorientiert.",
+        "id": "biber",
+        "score": 0.871
+      },
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Cleverer Stratege",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 0.867
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 50.0,
+      "aggression": 33.3,
+      "labeling": 0.0,
+      "solution_focus": 57.1,
+      "collaboration": 100.0,
+      "demand_intensity": 10.0,
+      "acknowledgment": 10.0,
+      "authority": 78.6,
+      "future_orientation": 77.8,
+      "emotional_intensity": 20.0,
+      "inclusivity": 50.0,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 5,
+      "words": 1790,
+      "adjectives": 6,
+      "verbs": 10
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 1.12,
+      "klima": 1.12,
+      "wirtschaft": 2.23,
+      "soziales": 2.23,
+      "sicherheit": 3.35,
+      "gesundheit": 0.56,
+      "europa": 15.64,
+      "digital": 0.0,
+      "bildung": 0.56,
+      "finanzen": 13.97,
+      "justiz": 0.56,
+      "arbeit": 1.68,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "europa",
+        "score": 15.64,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 13.97,
+        "rank": 2
+      },
+      {
+        "topic": "sicherheit",
+        "score": 3.35,
+        "rank": 3
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 2.23,
+        "rank": 4
+      },
+      {
+        "topic": "soziales",
+        "score": 2.23,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "grenze",
+          "count": 2
+        }
+      ],
+      "klima": [
+        {
+          "word": "wärmepumpe",
+          "count": 1
+        },
+        {
+          "word": "erneuerbare",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "betrieb",
+          "count": 1
+        },
+        {
+          "word": "konzerne",
+          "count": 1
+        },
+        {
+          "word": "handwerk",
+          "count": 1
+        },
+        {
+          "word": "pleite",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "wohnung",
+          "count": 2
+        },
+        {
+          "word": "miete",
+          "count": 1
+        },
+        {
+          "word": "rente",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "angriff",
+          "count": 2
+        },
+        {
+          "word": "terroranschlag",
+          "count": 1
+        },
+        {
+          "word": "terror",
+          "count": 1
+        },
+        {
+          "word": "verbrechen",
+          "count": 1
+        },
+        {
+          "word": "armee",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "krankenhäuser",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "israel",
+          "count": 16
+        },
+        {
+          "word": "frieden",
+          "count": 7
+        },
+        {
+          "word": "krieg",
+          "count": 2
+        },
+        {
+          "word": "kriegsverbrechen",
+          "count": 2
+        },
+        {
+          "word": "völkerrecht",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "kita",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "steuern",
+          "count": 11
+        },
+        {
+          "word": "steuer",
+          "count": 4
+        },
+        {
+          "word": "erbschaftsteuer",
+          "count": 3
+        },
+        {
+          "word": "haushalt",
+          "count": 2
+        },
+        {
+          "word": "steuererhöhung",
+          "count": 2
+        }
+      ],
+      "justiz": [
+        {
+          "word": "menschenrechte",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "gehalt",
+          "count": 3
+        }
+      ]
+    }
+  }
+}

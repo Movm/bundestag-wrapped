@@ -1,0 +1,356 @@
+{
+  "name": "Marvin Schulz",
+  "party": "CDU/CSU",
+  "slug": "marvin-schulz",
+  "academicTitle": null,
+  "speeches": 5,
+  "wortbeitraege": 2,
+  "befragungResponses": 0,
+  "totalWords": 2588,
+  "avgWords": 370,
+  "minWords": 86,
+  "maxWords": 608,
+  "rankings": {
+    "speechRank": 373,
+    "wordsRank": 400,
+    "partySpeechRank": 103,
+    "partyWordsRank": 123,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 38.8,
+    "verbosityRank": 381,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 130,
+    "longestSpeechRank": 412
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 8,
+    "interrupterRank": null,
+    "interruptedRank": 321
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "intelligenz",
+        "count": 13
+      },
+      {
+        "word": "haushalt",
+        "count": 13
+      },
+      {
+        "word": "künstliche",
+        "count": 9
+      },
+      {
+        "word": "insofern",
+        "count": 9
+      },
+      {
+        "word": "eines",
+        "count": 8
+      },
+      {
+        "word": "deutschland",
+        "count": 7
+      },
+      {
+        "word": "kritik",
+        "count": 7
+      },
+      {
+        "word": "digitale",
+        "count": 7
+      },
+      {
+        "word": "schwerpunkte",
+        "count": 7
+      },
+      {
+        "word": "jugendlichen",
+        "count": 6
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "liter",
+        "count": 5,
+        "ratioParty": 197.9,
+        "ratioBundestag": 176.9
+      },
+      {
+        "word": "intelligenz",
+        "count": 13,
+        "ratioParty": 72.2,
+        "ratioBundestag": 110.0
+      },
+      {
+        "word": "künstliche",
+        "count": 9,
+        "ratioParty": 71.2,
+        "ratioBundestag": 106.1
+      },
+      {
+        "word": "jugendlichen",
+        "count": 6,
+        "ratioParty": 54.3,
+        "ratioBundestag": 51.7
+      },
+      {
+        "word": "stiftung",
+        "count": 5,
+        "ratioParty": 49.5,
+        "ratioBundestag": 29.1
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 370,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.54,
+    "vsParliament": 0.6
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "5"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "2.588"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Marvin Schulz häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Abstimmung",
+        "isCorrect": false
+      },
+      {
+        "text": "Gesetz",
+        "isCorrect": false
+      },
+      {
+        "text": "Liter",
+        "isCorrect": true
+      },
+      {
+        "text": "Antrag",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Liter\" nutzt Marvin Schulz 197.9× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "176.9× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🦊",
+    "name": "Fuchs",
+    "title": "Cleverer Stratege",
+    "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+    "id": "fuchs",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüter",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.866
+      },
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißiger Abgeordneter",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 0.761
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 50.0,
+      "aggression": 0.0,
+      "labeling": 50.0,
+      "solution_focus": 82.4,
+      "collaboration": 0.0,
+      "demand_intensity": 4.5,
+      "acknowledgment": 9.1,
+      "authority": 69.7,
+      "future_orientation": 80.0,
+      "emotional_intensity": 25.0,
+      "inclusivity": 60.5,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 7,
+      "words": 1682,
+      "adjectives": 4,
+      "verbs": 22
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.0,
+      "wirtschaft": 2.97,
+      "soziales": 1.78,
+      "sicherheit": 0.0,
+      "gesundheit": 1.19,
+      "europa": 0.59,
+      "digital": 3.57,
+      "bildung": 4.76,
+      "finanzen": 8.92,
+      "justiz": 2.97,
+      "arbeit": 0.0,
+      "mobilitaet": 1.78
+    },
+    "topTopics": [
+      {
+        "topic": "finanzen",
+        "score": 8.92,
+        "rank": 1
+      },
+      {
+        "topic": "bildung",
+        "score": 4.76,
+        "rank": 2
+      },
+      {
+        "topic": "digital",
+        "score": 3.57,
+        "rank": 3
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 2.97,
+        "rank": 4
+      },
+      {
+        "topic": "justiz",
+        "score": 2.97,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "wirtschaft": [
+        {
+          "word": "werk",
+          "count": 2
+        },
+        {
+          "word": "wachstum",
+          "count": 1
+        },
+        {
+          "word": "unternehmen",
+          "count": 1
+        },
+        {
+          "word": "standort",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 3
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "ärztin",
+          "count": 1
+        },
+        {
+          "word": "pflege",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "digital",
+          "count": 4
+        },
+        {
+          "word": "algorithmen",
+          "count": 1
+        },
+        {
+          "word": "daten",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "bildung",
+          "count": 5
+        },
+        {
+          "word": "schule",
+          "count": 2
+        },
+        {
+          "word": "lehrerin",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 13
+        },
+        {
+          "word": "haushaltsausschuss",
+          "count": 1
+        },
+        {
+          "word": "bundeshaushalt",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "verordnung",
+          "count": 2
+        },
+        {
+          "word": "rechtsstaat",
+          "count": 2
+        },
+        {
+          "word": "gesetzgebung",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "stau",
+          "count": 1
+        },
+        {
+          "word": "infrastruktur",
+          "count": 1
+        },
+        {
+          "word": "straßen",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

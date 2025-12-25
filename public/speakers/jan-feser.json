@@ -1,0 +1,388 @@
+{
+  "name": "Jan Feser",
+  "party": "AfD",
+  "slug": "jan-feser",
+  "academicTitle": null,
+  "speeches": 6,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 4083,
+  "avgWords": 583,
+  "minWords": 147,
+  "maxWords": 944,
+  "rankings": {
+    "speechRank": 338,
+    "wordsRank": 249,
+    "partySpeechRank": 80,
+    "partyWordsRank": 52,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 44.5,
+    "verbosityRank": 80,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 20,
+    "longestSpeechRank": 85
+  },
+  "drama": {
+    "interruptionsGiven": 14,
+    "interruptionsReceived": 9,
+    "interrupterRank": 127,
+    "interruptedRank": 303
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "worden",
+        "count": 11
+      },
+      {
+        "word": "bürgergeld",
+        "count": 10
+      },
+      {
+        "word": "menschen",
+        "count": 9
+      },
+      {
+        "word": "jobcenter",
+        "count": 8
+      },
+      {
+        "word": "behinderung",
+        "count": 8
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "behinderung",
+        "count": 8,
+        "ratioParty": 557.6,
+        "ratioBundestag": 137.6
+      },
+      {
+        "word": "puncto",
+        "count": 6,
+        "ratioParty": 418.2,
+        "ratioBundestag": 743.0
+      },
+      {
+        "word": "jähriger",
+        "count": 6,
+        "ratioParty": 139.4,
+        "ratioBundestag": 285.8
+      },
+      {
+        "word": "jobcenter",
+        "count": 8,
+        "ratioParty": 111.5,
+        "ratioBundestag": 64.3
+      },
+      {
+        "word": "vorhanden",
+        "count": 5,
+        "ratioParty": 29.0,
+        "ratioBundestag": 34.8
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "effektiv",
+        "count": 4,
+        "ratioParty": 39.8,
+        "ratioBundestag": 31.0
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 583,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.99,
+    "vsParliament": 0.95
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "6"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "4.083"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufe",
+      "value": "14"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Jan Feser häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Familie",
+        "isCorrect": false
+      },
+      {
+        "text": "Bürger",
+        "isCorrect": false
+      },
+      {
+        "text": "Rente",
+        "isCorrect": false
+      },
+      {
+        "text": "Behinderung",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Behinderung\" nutzt Jan Feser 557.6× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "137.6× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Jan Feser häufiger als der Rest der AfD-Fraktion?",
+    "options": [
+      {
+        "text": "Stark",
+        "isCorrect": false
+      },
+      {
+        "text": "Effektiv",
+        "isCorrect": true
+      },
+      {
+        "text": "National",
+        "isCorrect": false
+      },
+      {
+        "text": "Richtig",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Effektiv\" nutzt Jan Feser 39.8× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "31.0× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 76.9,
+      "aggression": 7.1,
+      "labeling": 0.0,
+      "solution_focus": 83.3,
+      "collaboration": 60.0,
+      "demand_intensity": 15.0,
+      "acknowledgment": 5.0,
+      "authority": 61.2,
+      "future_orientation": 80.4,
+      "emotional_intensity": 12.5,
+      "inclusivity": 24.2,
+      "discriminatory": 0.74
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 7,
+      "words": 2689,
+      "adjectives": 14,
+      "verbs": 20
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 1.86,
+      "klima": 0.37,
+      "wirtschaft": 2.6,
+      "soziales": 11.9,
+      "sicherheit": 2.6,
+      "gesundheit": 1.12,
+      "europa": 0.74,
+      "digital": 0.0,
+      "bildung": 0.0,
+      "finanzen": 4.46,
+      "justiz": 1.12,
+      "arbeit": 6.69,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "soziales",
+        "score": 11.9,
+        "rank": 1
+      },
+      {
+        "topic": "arbeit",
+        "score": 6.69,
+        "rank": 2
+      },
+      {
+        "topic": "finanzen",
+        "score": 4.46,
+        "rank": 3
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 2.6,
+        "rank": 4
+      },
+      {
+        "topic": "sicherheit",
+        "score": 2.6,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "integration",
+          "count": 2
+        },
+        {
+          "word": "kriegsflüchtlinge",
+          "count": 2
+        },
+        {
+          "word": "flüchtlinge",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "energiewende",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "firma",
+          "count": 2
+        },
+        {
+          "word": "kredit",
+          "count": 1
+        },
+        {
+          "word": "unternehmen",
+          "count": 1
+        },
+        {
+          "word": "marktwirtschaft",
+          "count": 1
+        },
+        {
+          "word": "betrieb",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "bürgergeld",
+          "count": 10
+        },
+        {
+          "word": "behinderung",
+          "count": 8
+        },
+        {
+          "word": "sozialstaat",
+          "count": 3
+        },
+        {
+          "word": "inklusion",
+          "count": 3
+        },
+        {
+          "word": "sozialleistungen",
+          "count": 2
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "täter",
+          "count": 5
+        },
+        {
+          "word": "gewalt",
+          "count": 1
+        },
+        {
+          "word": "angriff",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "krankenhaus",
+          "count": 1
+        },
+        {
+          "word": "sucht",
+          "count": 1
+        },
+        {
+          "word": "corona",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "ukrainer",
+          "count": 2
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "kosten",
+          "count": 4
+        },
+        {
+          "word": "haushaltsplan",
+          "count": 3
+        },
+        {
+          "word": "steuern",
+          "count": 2
+        },
+        {
+          "word": "steuer",
+          "count": 1
+        },
+        {
+          "word": "finanzierung",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "grundgesetz",
+          "count": 2
+        },
+        {
+          "word": "strafen",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "jobcenter",
+          "count": 8
+        },
+        {
+          "word": "arbeitsplätze",
+          "count": 3
+        },
+        {
+          "word": "sozialabgaben",
+          "count": 2
+        },
+        {
+          "word": "beschäftigung",
+          "count": 2
+        },
+        {
+          "word": "arbeitsplatz",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

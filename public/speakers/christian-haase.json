@@ -1,0 +1,445 @@
+{
+  "name": "Christian Haase",
+  "party": "CDU/CSU",
+  "slug": "christian-haase",
+  "academicTitle": null,
+  "speeches": 9,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 6648,
+  "avgWords": 739,
+  "minWords": 465,
+  "maxWords": 1058,
+  "rankings": {
+    "speechRank": 180,
+    "wordsRank": 100,
+    "partySpeechRank": 41,
+    "partyWordsRank": 31,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 70.4,
+    "verbosityRank": 20,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 6,
+    "longestSpeechRank": 52
+  },
+  "drama": {
+    "interruptionsGiven": 4,
+    "interruptionsReceived": 14,
+    "interrupterRank": 242,
+    "interruptedRank": 203
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "deutschland",
+        "count": 27
+      },
+      {
+        "word": "kommunen",
+        "count": 24
+      },
+      {
+        "word": "land",
+        "count": 16
+      },
+      {
+        "word": "haushalt",
+        "count": 15
+      },
+      {
+        "word": "investitionen",
+        "count": 14
+      },
+      {
+        "word": "nächsten",
+        "count": 13
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "ausgangslage",
+        "count": 5,
+        "ratioParty": 90.5,
+        "ratioBundestag": 117.0
+      },
+      {
+        "word": "kommunalen",
+        "count": 11,
+        "ratioParty": 38.7,
+        "ratioBundestag": 46.5
+      },
+      {
+        "word": "gucken",
+        "count": 5,
+        "ratioParty": 26.4,
+        "ratioBundestag": 15.9
+      },
+      {
+        "word": "konsolidieren",
+        "count": 7,
+        "ratioParty": 25.3,
+        "ratioBundestag": 51.6
+      },
+      {
+        "word": "kommunale",
+        "count": 8,
+        "ratioParty": 24.7,
+        "ratioBundestag": 28.2
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 739,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 1.07,
+    "vsParliament": 1.21
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "9"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "6.648"
+    },
+    {
+      "emoji": "📚",
+      "label": "Wortreichster",
+      "value": "#20 von 521"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Christian Haase häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Ausschuss",
+        "isCorrect": false
+      },
+      {
+        "text": "Gesellschaft",
+        "isCorrect": false
+      },
+      {
+        "text": "Ausgangslage",
+        "isCorrect": true
+      },
+      {
+        "text": "Wirtschaft",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Ausgangslage\" nutzt Christian Haase 90.5× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "117.0× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🐿️",
+    "name": "Eichhörnchen",
+    "title": "Themenhüter",
+    "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+    "id": "eichhoernchen",
+    "alternatives": [
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißiger Abgeordneter",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      },
+      {
+        "emoji": "🦚",
+        "name": "Pfau",
+        "title": "Eloquenter Redner",
+        "reason": "Mit Ø 739 Wörtern pro Rede gehörst du zu den ausführlichsten Rednern.",
+        "id": "pfau",
+        "score": 0.867
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 90.0,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 96.4,
+      "collaboration": 66.7,
+      "demand_intensity": 3.2,
+      "acknowledgment": 4.8,
+      "authority": 80.0,
+      "future_orientation": 90.5,
+      "emotional_intensity": 50.0,
+      "inclusivity": 74.1,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 9,
+      "words": 4182,
+      "adjectives": 10,
+      "verbs": 63
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.24,
+      "klima": 1.91,
+      "wirtschaft": 6.7,
+      "soziales": 1.2,
+      "sicherheit": 2.87,
+      "gesundheit": 0.96,
+      "europa": 0.96,
+      "digital": 0.48,
+      "bildung": 1.2,
+      "finanzen": 15.54,
+      "justiz": 0.24,
+      "arbeit": 0.96,
+      "mobilitaet": 4.78
+    },
+    "topTopics": [
+      {
+        "topic": "finanzen",
+        "score": 15.54,
+        "rank": 1
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 6.7,
+        "rank": 2
+      },
+      {
+        "topic": "mobilitaet",
+        "score": 4.78,
+        "rank": 3
+      },
+      {
+        "topic": "sicherheit",
+        "score": 2.87,
+        "rank": 4
+      },
+      {
+        "topic": "klima",
+        "score": 1.91,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "grenze",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "energiewende",
+          "count": 2
+        },
+        {
+          "word": "klimaneutralität",
+          "count": 2
+        },
+        {
+          "word": "klimawandel",
+          "count": 2
+        },
+        {
+          "word": "klimaschutz",
+          "count": 1
+        },
+        {
+          "word": "nachhaltig",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "wirtschaftswachstum",
+          "count": 9
+        },
+        {
+          "word": "unternehmen",
+          "count": 6
+        },
+        {
+          "word": "wettbewerbsfähigkeit",
+          "count": 3
+        },
+        {
+          "word": "rezession",
+          "count": 2
+        },
+        {
+          "word": "betrieb",
+          "count": 2
+        }
+      ],
+      "soziales": [
+        {
+          "word": "barrierefreiheit",
+          "count": 1
+        },
+        {
+          "word": "bürgergeld",
+          "count": 1
+        },
+        {
+          "word": "grundsicherung",
+          "count": 1
+        },
+        {
+          "word": "kinder",
+          "count": 1
+        },
+        {
+          "word": "jugendhilfe",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "bundeswehr",
+          "count": 2
+        },
+        {
+          "word": "verteidigung",
+          "count": 2
+        },
+        {
+          "word": "verteidigungsfähigkeit",
+          "count": 1
+        },
+        {
+          "word": "polizei",
+          "count": 1
+        },
+        {
+          "word": "verfassungsschutz",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "krankenhäuser",
+          "count": 1
+        },
+        {
+          "word": "corona",
+          "count": 1
+        },
+        {
+          "word": "krankenhaus",
+          "count": 1
+        },
+        {
+          "word": "krankenstand",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 3
+        },
+        {
+          "word": "ukraine",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 2
+        }
+      ],
+      "bildung": [
+        {
+          "word": "schulen",
+          "count": 3
+        },
+        {
+          "word": "forschung",
+          "count": 1
+        },
+        {
+          "word": "bildung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 15
+        },
+        {
+          "word": "investitionen",
+          "count": 14
+        },
+        {
+          "word": "sondervermögen",
+          "count": 6
+        },
+        {
+          "word": "finanzminister",
+          "count": 5
+        },
+        {
+          "word": "schulden",
+          "count": 5
+        }
+      ],
+      "justiz": [
+        {
+          "word": "bundesverfassungsgericht",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitsplätze",
+          "count": 1
+        },
+        {
+          "word": "arbeitnehmer",
+          "count": 1
+        },
+        {
+          "word": "sozialversicherung",
+          "count": 1
+        },
+        {
+          "word": "arbeitslosenquote",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "straße",
+          "count": 4
+        },
+        {
+          "word": "straßen",
+          "count": 4
+        },
+        {
+          "word": "infrastruktur",
+          "count": 4
+        },
+        {
+          "word": "schiene",
+          "count": 3
+        },
+        {
+          "word": "bahn",
+          "count": 2
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,377 @@
+{
+  "name": "Ralph Brinkhaus",
+  "party": "CDU/CSU",
+  "slug": "ralph-brinkhaus",
+  "academicTitle": null,
+  "speeches": 5,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 3623,
+  "avgWords": 604,
+  "minWords": 252,
+  "maxWords": 871,
+  "rankings": {
+    "speechRank": 386,
+    "wordsRank": 297,
+    "partySpeechRank": 111,
+    "partyWordsRank": 92,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 36.6,
+    "verbosityRank": 66,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 30,
+    "longestSpeechRank": 125
+  },
+  "drama": {
+    "interruptionsGiven": 5,
+    "interruptionsReceived": 0,
+    "interrupterRank": 208,
+    "interruptedRank": null
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "ministerium",
+        "count": 19
+      },
+      {
+        "word": "staatsmodernisierung",
+        "count": 17
+      },
+      {
+        "word": "menschen",
+        "count": 14
+      },
+      {
+        "word": "wichtig",
+        "count": 13
+      },
+      {
+        "word": "ehrlich",
+        "count": 11
+      },
+      {
+        "word": "land",
+        "count": 11
+      },
+      {
+        "word": "minister",
+        "count": 10
+      },
+      {
+        "word": "richtig",
+        "count": 10
+      },
+      {
+        "word": "digitalisierung",
+        "count": 10
+      },
+      {
+        "word": "wildberger",
+        "count": 8
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "check",
+        "count": 5,
+        "ratioParty": 398.9,
+        "ratioBundestag": 749.2
+      },
+      {
+        "word": "reallabore",
+        "count": 6,
+        "ratioParty": 205.1,
+        "ratioBundestag": 172.9
+      },
+      {
+        "word": "experimentierklauseln",
+        "count": 5,
+        "ratioParty": 170.9,
+        "ratioBundestag": 340.5
+      },
+      {
+        "word": "wildberger",
+        "count": 8,
+        "ratioParty": 73.6,
+        "ratioBundestag": 50.8
+      },
+      {
+        "word": "staatsmodernisierung",
+        "count": 17,
+        "ratioParty": 61.6,
+        "ratioBundestag": 96.5
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "schlecht",
+        "count": 6,
+        "ratioParty": 38.8,
+        "ratioBundestag": 21.7
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 604,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.88,
+    "vsParliament": 0.99
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "5"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "3.623"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Ralph Brinkhaus häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Wirtschaft",
+        "isCorrect": false
+      },
+      {
+        "text": "Reform",
+        "isCorrect": false
+      },
+      {
+        "text": "Check",
+        "isCorrect": true
+      },
+      {
+        "text": "Antrag",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Check\" nutzt Ralph Brinkhaus 398.9× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "749.2× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Ralph Brinkhaus häufiger als der Rest der CDU/CSU-Fraktion?",
+    "options": [
+      {
+        "text": "Notwendig",
+        "isCorrect": false
+      },
+      {
+        "text": "Europäisch",
+        "isCorrect": false
+      },
+      {
+        "text": "Wichtig",
+        "isCorrect": false
+      },
+      {
+        "text": "Schlecht",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Schlecht\" nutzt Ralph Brinkhaus 38.8× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "21.7× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🦊",
+    "name": "Fuchs",
+    "title": "Cleverer Stratege",
+    "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+    "id": "fuchs",
+    "alternatives": [
+      {
+        "emoji": "🦫",
+        "name": "Biber",
+        "title": "Konstruktiver Brückenbauer",
+        "reason": "Du baust Brücken zwischen Positionen – kooperativ und lösungsorientiert.",
+        "id": "biber",
+        "score": 0.875
+      },
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüter",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.87
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 38.5,
+      "aggression": 0.0,
+      "labeling": 7.1,
+      "solution_focus": 91.7,
+      "collaboration": 100.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 9.5,
+      "authority": 82.8,
+      "future_orientation": 84.6,
+      "emotional_intensity": 20.0,
+      "inclusivity": 67.6,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 6,
+      "words": 2223,
+      "adjectives": 14,
+      "verbs": 21
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.45,
+      "klima": 0.9,
+      "wirtschaft": 1.8,
+      "soziales": 0.0,
+      "sicherheit": 2.25,
+      "gesundheit": 0.0,
+      "europa": 0.45,
+      "digital": 9.0,
+      "bildung": 1.35,
+      "finanzen": 0.0,
+      "justiz": 1.8,
+      "arbeit": 0.0,
+      "mobilitaet": 0.45
+    },
+    "topTopics": [
+      {
+        "topic": "digital",
+        "score": 9.0,
+        "rank": 1
+      },
+      {
+        "topic": "sicherheit",
+        "score": 2.25,
+        "rank": 2
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 1.8,
+        "rank": 3
+      },
+      {
+        "topic": "justiz",
+        "score": 1.8,
+        "rank": 4
+      },
+      {
+        "topic": "bildung",
+        "score": 1.35,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "migration",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "ökosystem",
+          "count": 1
+        },
+        {
+          "word": "klimawandel",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 2
+        },
+        {
+          "word": "wettbewerbsfähigkeit",
+          "count": 1
+        },
+        {
+          "word": "marktwirtschaft",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "bundeswehr",
+          "count": 3
+        },
+        {
+          "word": "verteidigungsfähigkeit",
+          "count": 1
+        },
+        {
+          "word": "extremismus",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "russland",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 10
+        },
+        {
+          "word": "digital",
+          "count": 2
+        },
+        {
+          "word": "software",
+          "count": 2
+        },
+        {
+          "word": "cybersicherheit",
+          "count": 1
+        },
+        {
+          "word": "cloud",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "kita",
+          "count": 1
+        },
+        {
+          "word": "universitäten",
+          "count": 1
+        },
+        {
+          "word": "wissenschaft",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "rechtsstaat",
+          "count": 3
+        },
+        {
+          "word": "gesetzgebung",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

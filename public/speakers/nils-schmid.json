@@ -1,0 +1,374 @@
+{
+  "name": "Dr. Nils Schmid",
+  "party": "SPD",
+  "slug": "nils-schmid",
+  "academicTitle": "Dr",
+  "speeches": 3,
+  "wortbeitraege": 47,
+  "befragungResponses": 46,
+  "totalWords": 4776,
+  "avgWords": 96,
+  "minWords": 17,
+  "maxWords": 719,
+  "rankings": {
+    "speechRank": 514,
+    "wordsRank": 202,
+    "partySpeechRank": 89,
+    "partyWordsRank": 49,
+    "partySize": 109,
+    "totalSpeakers": 609,
+    "percentile": 15.6,
+    "verbosityRank": 520,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 91,
+    "longestSpeechRank": 278
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 6,
+    "interrupterRank": null,
+    "interruptedRank": 382
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "soldaten",
+        "count": 18
+      },
+      {
+        "word": "bundeswehr",
+        "count": 18
+      },
+      {
+        "word": "soldatinnen",
+        "count": 17
+      },
+      {
+        "word": "nato",
+        "count": 15
+      },
+      {
+        "word": "litauen",
+        "count": 13
+      },
+      {
+        "word": "bundesregierung",
+        "count": 12
+      },
+      {
+        "word": "antwort",
+        "count": 10
+      },
+      {
+        "word": "versorgung",
+        "count": 9
+      },
+      {
+        "word": "jahr",
+        "count": 8
+      },
+      {
+        "word": "beitrag",
+        "count": 8
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "litauen",
+        "count": 13,
+        "ratioParty": 70.6,
+        "ratioBundestag": 133.6
+      },
+      {
+        "word": "operation",
+        "count": 7,
+        "ratioParty": 54.3,
+        "ratioBundestag": 51.5
+      },
+      {
+        "word": "sichergestellt",
+        "count": 6,
+        "ratioParty": 43.4,
+        "ratioBundestag": 69.6
+      },
+      {
+        "word": "mission",
+        "count": 7,
+        "ratioParty": 29.2,
+        "ratioBundestag": 22.0
+      },
+      {
+        "word": "bosnien",
+        "count": 7,
+        "ratioParty": 27.1,
+        "ratioBundestag": 30.3
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 96,
+    "partyAvgWords": 637,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.15,
+    "vsParliament": 0.16
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "3"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "4.776"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Dr. Nils Schmid häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Bildung",
+        "isCorrect": false
+      },
+      {
+        "text": "Litauen",
+        "isCorrect": true
+      },
+      {
+        "text": "Kinder",
+        "isCorrect": false
+      },
+      {
+        "text": "Arbeit",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Litauen\" nutzt Dr. Nils Schmid 70.6× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "133.6× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🐝",
+    "name": "Biene",
+    "title": "Fleißiger Abgeordneter",
+    "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+    "id": "biene",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüter",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 0.991
+      },
+      {
+        "emoji": "🦜",
+        "name": "Papagei",
+        "title": "Neugieriger Fragesteller",
+        "reason": "Mit vielen Fragen bringst du wichtige Themen auf den Tisch.",
+        "id": "papagei",
+        "score": 0.928
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 80.0,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 71.0,
+      "collaboration": 80.0,
+      "demand_intensity": 2.5,
+      "acknowledgment": 7.5,
+      "authority": 61.8,
+      "future_orientation": 95.3,
+      "emotional_intensity": 0.0,
+      "inclusivity": 55.1,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 50,
+      "words": 3055,
+      "adjectives": 10,
+      "verbs": 40
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 1.31,
+      "klima": 0.0,
+      "wirtschaft": 1.64,
+      "soziales": 0.33,
+      "sicherheit": 21.6,
+      "gesundheit": 3.93,
+      "europa": 13.75,
+      "digital": 0.33,
+      "bildung": 0.65,
+      "finanzen": 0.65,
+      "justiz": 0.0,
+      "arbeit": 0.0,
+      "mobilitaet": 0.98
+    },
+    "topTopics": [
+      {
+        "topic": "sicherheit",
+        "score": 21.6,
+        "rank": 1
+      },
+      {
+        "topic": "europa",
+        "score": 13.75,
+        "rank": 2
+      },
+      {
+        "topic": "gesundheit",
+        "score": 3.93,
+        "rank": 3
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 1.64,
+        "rank": 4
+      },
+      {
+        "topic": "migration",
+        "score": 1.31,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "obergrenze",
+          "count": 2
+        },
+        {
+          "word": "mittelmeer",
+          "count": 2
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "industrie",
+          "count": 2
+        },
+        {
+          "word": "firmen",
+          "count": 2
+        },
+        {
+          "word": "produktion",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "fürsorge",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "soldaten",
+          "count": 18
+        },
+        {
+          "word": "bundeswehr",
+          "count": 18
+        },
+        {
+          "word": "verteidigungsfähigkeit",
+          "count": 8
+        },
+        {
+          "word": "verteidigung",
+          "count": 6
+        },
+        {
+          "word": "streitkräfte",
+          "count": 5
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "operation",
+          "count": 7
+        },
+        {
+          "word": "behandlung",
+          "count": 2
+        },
+        {
+          "word": "kliniken",
+          "count": 1
+        },
+        {
+          "word": "notfall",
+          "count": 1
+        },
+        {
+          "word": "prävention",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "nato",
+          "count": 15
+        },
+        {
+          "word": "europa",
+          "count": 5
+        },
+        {
+          "word": "ukraine",
+          "count": 5
+        },
+        {
+          "word": "krieg",
+          "count": 4
+        },
+        {
+          "word": "frieden",
+          "count": 3
+        }
+      ],
+      "digital": [
+        {
+          "word": "daten",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "fortbildung",
+          "count": 1
+        },
+        {
+          "word": "ausbildung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 1
+        },
+        {
+          "word": "sondervermögen",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 3
+        }
+      ]
+    }
+  }
+}

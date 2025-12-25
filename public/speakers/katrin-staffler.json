@@ -1,0 +1,261 @@
+{
+  "name": "Katrin Staffler",
+  "party": "CDU/CSU",
+  "slug": "katrin-staffler",
+  "academicTitle": null,
+  "speeches": 2,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 772,
+  "avgWords": 386,
+  "minWords": 239,
+  "maxWords": 533,
+  "rankings": {
+    "speechRank": 555,
+    "wordsRank": 573,
+    "partySpeechRank": 179,
+    "partyWordsRank": 189,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 8.9,
+    "verbosityRank": null,
+    "verbosityTotal": null,
+    "partyVerbosityRank": null,
+    "longestSpeechRank": 498
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 0,
+    "interrupterRank": null,
+    "interruptedRank": null
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "pflege",
+        "count": 15
+      },
+      {
+        "word": "menschen",
+        "count": 9
+      },
+      {
+        "word": "pflegebedürftigen",
+        "count": 6
+      },
+      {
+        "word": "deutschland",
+        "count": 5
+      },
+      {
+        "word": "braucht",
+        "count": 5
+      },
+      {
+        "word": "gesetz",
+        "count": 4
+      },
+      {
+        "word": "deutschen",
+        "count": 3
+      },
+      {
+        "word": "versorgung",
+        "count": 3
+      },
+      {
+        "word": "pflegekräfte",
+        "count": 3
+      },
+      {
+        "word": "möglich",
+        "count": 3
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "pflegebedürftigen",
+        "count": 6,
+        "ratioParty": 677.1,
+        "ratioBundestag": 783.2
+      },
+      {
+        "word": "pflege",
+        "count": 15,
+        "ratioParty": 116.7,
+        "ratioBundestag": 134.2
+      },
+      {
+        "word": "braucht",
+        "count": 5,
+        "ratioParty": 11.0,
+        "ratioBundestag": 10.8
+      },
+      {
+        "word": "menschen",
+        "count": 9,
+        "ratioParty": 5.7,
+        "ratioBundestag": 4.4
+      },
+      {
+        "word": "deutschland",
+        "count": 5,
+        "ratioParty": 2.2,
+        "ratioBundestag": 2.4
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 386,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.56,
+    "vsParliament": 0.63
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "2"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Katrin Staffler häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Familie",
+        "isCorrect": false
+      },
+      {
+        "text": "Minister",
+        "isCorrect": false
+      },
+      {
+        "text": "Pflegebedürftigen",
+        "isCorrect": true
+      },
+      {
+        "text": "Debatte",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Pflegebedürftigen\" nutzt Katrin Staffler 677.1× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "783.2× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🦫",
+    "name": "Biber",
+    "title": "Konstruktive Brückenbauerin",
+    "reason": "Du baust Brücken zwischen Positionen – kooperativ und lösungsorientiert.",
+    "id": "biber",
+    "alternatives": [
+      {
+        "emoji": "🦦",
+        "name": "Otter",
+        "title": "Positive Teamplayerin",
+        "reason": "Du bringst gute Stimmung und konstruktive Beiträge ins Plenum.",
+        "id": "otter",
+        "score": 0.8
+      },
+      {
+        "emoji": "🐬",
+        "name": "Delfin",
+        "title": "Diplomatische Rednerin",
+        "reason": "Aktiv im Parlament, aber respektvoll ohne viele Zwischenrufe.",
+        "id": "delfin",
+        "score": 0.8
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 50.0,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 100.0,
+      "collaboration": 100.0,
+      "demand_intensity": 0.0,
+      "acknowledgment": 15.4,
+      "authority": 63.6,
+      "future_orientation": 100.0,
+      "emotional_intensity": 100.0,
+      "inclusivity": 72.7,
+      "discriminatory": 0.0
+    },
+    "confidence": "low",
+    "sampleSize": {
+      "speeches": 2,
+      "words": 473,
+      "adjectives": 0,
+      "verbs": 13
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.0,
+      "wirtschaft": 0.0,
+      "soziales": 4.23,
+      "sicherheit": 0.0,
+      "gesundheit": 42.28,
+      "europa": 0.0,
+      "digital": 0.0,
+      "bildung": 0.0,
+      "finanzen": 2.11,
+      "justiz": 0.0,
+      "arbeit": 0.0,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "gesundheit",
+        "score": 42.28,
+        "rank": 1
+      },
+      {
+        "topic": "soziales",
+        "score": 4.23,
+        "rank": 2
+      },
+      {
+        "topic": "finanzen",
+        "score": 2.11,
+        "rank": 3
+      }
+    ],
+    "topicWords": {
+      "soziales": [
+        {
+          "word": "sozialstaat",
+          "count": 2
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "pflege",
+          "count": 15
+        },
+        {
+          "word": "pflegekräfte",
+          "count": 3
+        },
+        {
+          "word": "krankenpflege",
+          "count": 1
+        },
+        {
+          "word": "prävention",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "entlastung",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

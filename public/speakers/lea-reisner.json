@@ -1,0 +1,400 @@
+{
+  "name": "Lea Reisner",
+  "party": "DIE LINKE",
+  "slug": "lea-reisner",
+  "academicTitle": null,
+  "speeches": 6,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 3143,
+  "avgWords": 449,
+  "minWords": 374,
+  "maxWords": 607,
+  "rankings": {
+    "speechRank": 330,
+    "wordsRank": 352,
+    "partySpeechRank": 42,
+    "partyWordsRank": 34,
+    "partySize": 63,
+    "totalSpeakers": 609,
+    "percentile": 45.8,
+    "verbosityRank": 249,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 18,
+    "longestSpeechRank": 416
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 4,
+    "interrupterRank": 243,
+    "interruptedRank": 419
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 27
+      },
+      {
+        "word": "bundesregierung",
+        "count": 13
+      },
+      {
+        "word": "gaza",
+        "count": 12
+      },
+      {
+        "word": "deutschland",
+        "count": 9
+      },
+      {
+        "word": "habe",
+        "count": 8
+      },
+      {
+        "word": "menschenrechte",
+        "count": 7
+      },
+      {
+        "word": "regierung",
+        "count": 7
+      },
+      {
+        "word": "leben",
+        "count": 7
+      },
+      {
+        "word": "innen",
+        "count": 7
+      },
+      {
+        "word": "außenpolitik",
+        "count": 7
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "irini",
+        "count": 5,
+        "ratioParty": 135.1,
+        "ratioBundestag": 59.3
+      },
+      {
+        "word": "unabhängige",
+        "count": 5,
+        "ratioParty": 23.8,
+        "ratioBundestag": 53.7
+      },
+      {
+        "word": "hunger",
+        "count": 6,
+        "ratioParty": 23.2,
+        "ratioBundestag": 46.1
+      },
+      {
+        "word": "völkerrecht",
+        "count": 5,
+        "ratioParty": 20.3,
+        "ratioBundestag": 37.7
+      },
+      {
+        "word": "außenpolitik",
+        "count": 7,
+        "ratioParty": 18.3,
+        "ratioBundestag": 20.1
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 449,
+    "partyAvgWords": 521,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.86,
+    "vsParliament": 0.73
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "6"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "3.143"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Lea Reisner häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Irini",
+        "isCorrect": true
+      },
+      {
+        "text": "Bürger",
+        "isCorrect": false
+      },
+      {
+        "text": "Gesellschaft",
+        "isCorrect": false
+      },
+      {
+        "text": "Ausschuss",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Irini\" nutzt Lea Reisner 135.1× häufiger als der DIE LINKE-Durchschnitt.",
+    "explanationBundestag": "59.3× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🐿️",
+    "name": "Eichhörnchen",
+    "title": "Themenhüterin",
+    "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+    "id": "eichhoernchen",
+    "alternatives": [
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißige Abgeordnete",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 0.83
+      },
+      {
+        "emoji": "🦀",
+        "name": "Krabbe",
+        "title": "Hartnäckige Debattiererin",
+        "reason": "Du hältst an deinen Positionen fest und lässt nicht locker.",
+        "id": "krabbe",
+        "score": 0.822
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 80.0,
+      "aggression": 14.3,
+      "labeling": 14.3,
+      "solution_focus": 55.6,
+      "collaboration": 20.0,
+      "demand_intensity": 22.2,
+      "acknowledgment": 0.0,
+      "authority": 84.2,
+      "future_orientation": 76.2,
+      "emotional_intensity": 60.0,
+      "inclusivity": 31.5,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 7,
+      "words": 2126,
+      "adjectives": 7,
+      "verbs": 18
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 2.82,
+      "klima": 0.94,
+      "wirtschaft": 0.94,
+      "soziales": 5.64,
+      "sicherheit": 8.94,
+      "gesundheit": 3.76,
+      "europa": 22.58,
+      "digital": 0.0,
+      "bildung": 0.94,
+      "finanzen": 1.88,
+      "justiz": 3.76,
+      "arbeit": 0.0,
+      "mobilitaet": 0.94
+    },
+    "topTopics": [
+      {
+        "topic": "europa",
+        "score": 22.58,
+        "rank": 1
+      },
+      {
+        "topic": "sicherheit",
+        "score": 8.94,
+        "rank": 2
+      },
+      {
+        "topic": "soziales",
+        "score": 5.64,
+        "rank": 3
+      },
+      {
+        "topic": "gesundheit",
+        "score": 3.76,
+        "rank": 4
+      },
+      {
+        "topic": "justiz",
+        "score": 3.76,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "mittelmeer",
+          "count": 4
+        },
+        {
+          "word": "geflüchtete",
+          "count": 2
+        }
+      ],
+      "klima": [
+        {
+          "word": "offshore",
+          "count": 1
+        },
+        {
+          "word": "klimawandel",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "konzerne",
+          "count": 1
+        },
+        {
+          "word": "märkte",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 4
+        },
+        {
+          "word": "armut",
+          "count": 3
+        },
+        {
+          "word": "kind",
+          "count": 2
+        },
+        {
+          "word": "familie",
+          "count": 2
+        },
+        {
+          "word": "behinderte",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "waffen",
+          "count": 6
+        },
+        {
+          "word": "verbrechen",
+          "count": 5
+        },
+        {
+          "word": "gewalt",
+          "count": 3
+        },
+        {
+          "word": "armee",
+          "count": 2
+        },
+        {
+          "word": "militär",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "operation",
+          "count": 3
+        },
+        {
+          "word": "gesundheitswesen",
+          "count": 2
+        },
+        {
+          "word": "krankenhäuser",
+          "count": 1
+        },
+        {
+          "word": "ärzte",
+          "count": 1
+        },
+        {
+          "word": "gesundheitssystem",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "außenpolitik",
+          "count": 7
+        },
+        {
+          "word": "krieg",
+          "count": 6
+        },
+        {
+          "word": "völkerrecht",
+          "count": 5
+        },
+        {
+          "word": "ukraine",
+          "count": 5
+        },
+        {
+          "word": "diplomatie",
+          "count": 4
+        }
+      ],
+      "bildung": [
+        {
+          "word": "bildung",
+          "count": 1
+        },
+        {
+          "word": "lehrerin",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 4
+        }
+      ],
+      "justiz": [
+        {
+          "word": "menschenrechte",
+          "count": 7
+        },
+        {
+          "word": "rechtsstaat",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 1
+        },
+        {
+          "word": "flughafen",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

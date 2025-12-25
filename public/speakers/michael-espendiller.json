@@ -1,0 +1,511 @@
+{
+  "name": "Dr. Michael Espendiller",
+  "party": "AfD",
+  "slug": "michael-espendiller",
+  "academicTitle": "Dr",
+  "speeches": 14,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 13504,
+  "avgWords": 965,
+  "minWords": 118,
+  "maxWords": 2329,
+  "rankings": {
+    "speechRank": 33,
+    "wordsRank": 8,
+    "partySpeechRank": 6,
+    "partyWordsRank": 2,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 94.6,
+    "verbosityRank": 7,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 3,
+    "longestSpeechRank": 7
+  },
+  "drama": {
+    "interruptionsGiven": 84,
+    "interruptionsReceived": 22,
+    "interrupterRank": 18,
+    "interruptedRank": 107
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "deutschland",
+        "count": 61
+      },
+      {
+        "word": "jahr",
+        "count": 47
+      },
+      {
+        "word": "land",
+        "count": 44
+      },
+      {
+        "word": "einfach",
+        "count": 41
+      },
+      {
+        "word": "geld",
+        "count": 36
+      },
+      {
+        "word": "schulden",
+        "count": 34
+      },
+      {
+        "word": "regierung",
+        "count": 29
+      },
+      {
+        "word": "weiter",
+        "count": 25
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "bildschirmen",
+        "count": 12,
+        "ratioParty": 251.9,
+        "ratioBundestag": 188.9
+      },
+      {
+        "word": "dieter",
+        "count": 5,
+        "ratioParty": 209.9,
+        "ratioBundestag": 157.4
+      },
+      {
+        "word": "patriot",
+        "count": 5,
+        "ratioParty": 42.0,
+        "ratioBundestag": 47.2
+      },
+      {
+        "word": "wirtschaftswunder",
+        "count": 5,
+        "ratioParty": 30.0,
+        "ratioBundestag": 118.0
+      },
+      {
+        "word": "zinszahlungen",
+        "count": 5,
+        "ratioParty": 26.2,
+        "ratioBundestag": 72.6
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "schlecht",
+        "count": 4,
+        "ratioParty": 2.7,
+        "ratioBundestag": 3.6
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 965,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 1.64,
+    "vsParliament": 1.57
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "14"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "13.504"
+    },
+    {
+      "emoji": "📚",
+      "label": "Wortreichster",
+      "value": "#7 von 521"
+    },
+    {
+      "emoji": "📏",
+      "label": "Längste Rede",
+      "value": "#7 (2.329 Wörter)"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufer",
+      "value": "#18 (84x)"
+    },
+    {
+      "emoji": "📊",
+      "label": "Top-Redner",
+      "value": "Top 6%"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Dr. Michael Espendiller häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Wirtschaft",
+        "isCorrect": false
+      },
+      {
+        "text": "Bildschirmen",
+        "isCorrect": true
+      },
+      {
+        "text": "Arbeit",
+        "isCorrect": false
+      },
+      {
+        "text": "Verantwortung",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Bildschirmen\" nutzt Dr. Michael Espendiller 251.9× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "188.9× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Dr. Michael Espendiller häufiger als der Rest der AfD-Fraktion?",
+    "options": [
+      {
+        "text": "Richtig",
+        "isCorrect": false
+      },
+      {
+        "text": "Neu",
+        "isCorrect": false
+      },
+      {
+        "text": "Schlecht",
+        "isCorrect": true
+      },
+      {
+        "text": "National",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Schlecht\" nutzt Dr. Michael Espendiller 2.7× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "3.6× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 43.5,
+      "aggression": 7.4,
+      "labeling": 7.4,
+      "solution_focus": 48.7,
+      "collaboration": 55.6,
+      "demand_intensity": 0.0,
+      "acknowledgment": 7.7,
+      "authority": 76.0,
+      "future_orientation": 84.9,
+      "emotional_intensity": 51.3,
+      "inclusivity": 54.7,
+      "discriminatory": 0.57
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 14,
+      "words": 8783,
+      "adjectives": 27,
+      "verbs": 52
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.46,
+      "klima": 0.8,
+      "wirtschaft": 2.85,
+      "soziales": 2.39,
+      "sicherheit": 1.02,
+      "gesundheit": 1.59,
+      "europa": 2.85,
+      "digital": 0.0,
+      "bildung": 0.8,
+      "finanzen": 20.84,
+      "justiz": 0.34,
+      "arbeit": 0.68,
+      "mobilitaet": 1.48
+    },
+    "topTopics": [
+      {
+        "topic": "finanzen",
+        "score": 20.84,
+        "rank": 1
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 2.85,
+        "rank": 2
+      },
+      {
+        "topic": "europa",
+        "score": 2.85,
+        "rank": 3
+      },
+      {
+        "topic": "soziales",
+        "score": 2.39,
+        "rank": 4
+      },
+      {
+        "topic": "gesundheit",
+        "score": 1.59,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "flüchtlinge",
+          "count": 2
+        },
+        {
+          "word": "deutschkurs",
+          "count": 1
+        },
+        {
+          "word": "migranten",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "klimapolitik",
+          "count": 2
+        },
+        {
+          "word": "energie",
+          "count": 2
+        },
+        {
+          "word": "emissionshandel",
+          "count": 1
+        },
+        {
+          "word": "klimaneutralität",
+          "count": 1
+        },
+        {
+          "word": "umwelt",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "wirtschaftswachstum",
+          "count": 5
+        },
+        {
+          "word": "unternehmen",
+          "count": 4
+        },
+        {
+          "word": "rezession",
+          "count": 2
+        },
+        {
+          "word": "firma",
+          "count": 2
+        },
+        {
+          "word": "fachkräftemangel",
+          "count": 2
+        }
+      ],
+      "soziales": [
+        {
+          "word": "rente",
+          "count": 7
+        },
+        {
+          "word": "renten",
+          "count": 3
+        },
+        {
+          "word": "bürgergeld",
+          "count": 2
+        },
+        {
+          "word": "familie",
+          "count": 2
+        },
+        {
+          "word": "rentenniveau",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "angriff",
+          "count": 3
+        },
+        {
+          "word": "bundeswehr",
+          "count": 3
+        },
+        {
+          "word": "bundespolizei",
+          "count": 1
+        },
+        {
+          "word": "verteidigung",
+          "count": 1
+        },
+        {
+          "word": "waffen",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "gesundheitssystem",
+          "count": 4
+        },
+        {
+          "word": "krankenversicherung",
+          "count": 3
+        },
+        {
+          "word": "krankenkassen",
+          "count": 2
+        },
+        {
+          "word": "ärzte",
+          "count": 2
+        },
+        {
+          "word": "krankenhäuser",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "ukraine",
+          "count": 9
+        },
+        {
+          "word": "brüssel",
+          "count": 3
+        },
+        {
+          "word": "krieg",
+          "count": 2
+        },
+        {
+          "word": "europa",
+          "count": 2
+        },
+        {
+          "word": "putin",
+          "count": 2
+        }
+      ],
+      "bildung": [
+        {
+          "word": "bildung",
+          "count": 2
+        },
+        {
+          "word": "schule",
+          "count": 1
+        },
+        {
+          "word": "schüler",
+          "count": 1
+        },
+        {
+          "word": "schulen",
+          "count": 1
+        },
+        {
+          "word": "forschung",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "schulden",
+          "count": 34
+        },
+        {
+          "word": "haushalt",
+          "count": 20
+        },
+        {
+          "word": "kosten",
+          "count": 17
+        },
+        {
+          "word": "bundeshaushalt",
+          "count": 16
+        },
+        {
+          "word": "steuern",
+          "count": 16
+        }
+      ],
+      "justiz": [
+        {
+          "word": "verfassungswidrig",
+          "count": 1
+        },
+        {
+          "word": "verfassung",
+          "count": 1
+        },
+        {
+          "word": "bundesverfassungsgericht",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "arbeitskräfte",
+          "count": 2
+        },
+        {
+          "word": "rentenversicherung",
+          "count": 1
+        },
+        {
+          "word": "arbeitsplätze",
+          "count": 1
+        },
+        {
+          "word": "einkommen",
+          "count": 1
+        },
+        {
+          "word": "überstunden",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "infrastruktur",
+          "count": 7
+        },
+        {
+          "word": "straßen",
+          "count": 2
+        },
+        {
+          "word": "fliegen",
+          "count": 1
+        },
+        {
+          "word": "führerschein",
+          "count": 1
+        },
+        {
+          "word": "auto",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

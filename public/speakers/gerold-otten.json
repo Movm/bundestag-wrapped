@@ -1,0 +1,402 @@
+{
+  "name": "Gerold Otten",
+  "party": "AfD",
+  "slug": "gerold-otten",
+  "academicTitle": null,
+  "speeches": 10,
+  "wortbeitraege": 1,
+  "befragungResponses": 0,
+  "totalWords": 5716,
+  "avgWords": 520,
+  "minWords": 270,
+  "maxWords": 759,
+  "rankings": {
+    "speechRank": 128,
+    "wordsRank": 139,
+    "partySpeechRank": 24,
+    "partyWordsRank": 28,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 79.0,
+    "verbosityRank": 136,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 33,
+    "longestSpeechRank": 239
+  },
+  "drama": {
+    "interruptionsGiven": 42,
+    "interruptionsReceived": 10,
+    "interrupterRank": 44,
+    "interruptedRank": 271
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "nationalen",
+        "count": 18
+      },
+      {
+        "word": "mission",
+        "count": 16
+      },
+      {
+        "word": "irini",
+        "count": 16
+      },
+      {
+        "word": "unifil",
+        "count": 16
+      },
+      {
+        "word": "bundesregierung",
+        "count": 14
+      },
+      {
+        "word": "deutschland",
+        "count": 13
+      },
+      {
+        "word": "sicherheitsrat",
+        "count": 13
+      },
+      {
+        "word": "waffen",
+        "count": 12
+      },
+      {
+        "word": "mandat",
+        "count": 12
+      },
+      {
+        "word": "deutsche",
+        "count": 11
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "unmiss",
+        "count": 11,
+        "ratioParty": 1068.3,
+        "ratioBundestag": 169.9
+      },
+      {
+        "word": "maritime",
+        "count": 9,
+        "ratioParty": 874.1,
+        "ratioBundestag": 162.1
+      },
+      {
+        "word": "sicherheitsrats",
+        "count": 8,
+        "ratioParty": 777.0,
+        "ratioBundestag": 691.8
+      },
+      {
+        "word": "force",
+        "count": 10,
+        "ratioParty": 323.7,
+        "ratioBundestag": 308.8
+      },
+      {
+        "word": "hisbollah",
+        "count": 6,
+        "ratioParty": 291.4,
+        "ratioBundestag": 51.9
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "unfähig",
+        "count": 3,
+        "ratioParty": 58.3,
+        "ratioBundestag": 216.2
+      },
+      {
+        "word": "wirkungslos",
+        "count": 3,
+        "ratioParty": 16.2,
+        "ratioBundestag": 40.5
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 520,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.89,
+    "vsParliament": 0.85
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "10"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "5.716"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufe",
+      "value": "42"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Gerold Otten häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Debatte",
+        "isCorrect": false
+      },
+      {
+        "text": "Ausschuss",
+        "isCorrect": false
+      },
+      {
+        "text": "Unmiss",
+        "isCorrect": true
+      },
+      {
+        "text": "Haushalt",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Unmiss\" nutzt Gerold Otten 1068.3× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "169.9× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Gerold Otten häufiger als der Rest der AfD-Fraktion?",
+    "options": [
+      {
+        "text": "Groß",
+        "isCorrect": false
+      },
+      {
+        "text": "Unfähig",
+        "isCorrect": true
+      },
+      {
+        "text": "Sicher",
+        "isCorrect": false
+      },
+      {
+        "text": "Falsch",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Unfähig\" nutzt Gerold Otten 58.3× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "216.2× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 42.9,
+      "aggression": 16.7,
+      "labeling": 5.6,
+      "solution_focus": 82.4,
+      "collaboration": 54.5,
+      "demand_intensity": 9.6,
+      "acknowledgment": 3.8,
+      "authority": 77.8,
+      "future_orientation": 65.4,
+      "emotional_intensity": 71.4,
+      "inclusivity": 43.8,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 11,
+      "words": 3848,
+      "adjectives": 18,
+      "verbs": 52
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 4.16,
+      "klima": 0.26,
+      "wirtschaft": 0.52,
+      "soziales": 0.0,
+      "sicherheit": 12.21,
+      "gesundheit": 0.26,
+      "europa": 9.1,
+      "digital": 0.26,
+      "bildung": 0.78,
+      "finanzen": 1.56,
+      "justiz": 0.0,
+      "arbeit": 0.0,
+      "mobilitaet": 2.6
+    },
+    "topTopics": [
+      {
+        "topic": "sicherheit",
+        "score": 12.21,
+        "rank": 1
+      },
+      {
+        "topic": "europa",
+        "score": 9.1,
+        "rank": 2
+      },
+      {
+        "topic": "migration",
+        "score": 4.16,
+        "rank": 3
+      },
+      {
+        "topic": "mobilitaet",
+        "score": 2.6,
+        "rank": 4
+      },
+      {
+        "topic": "finanzen",
+        "score": 1.56,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "migranten",
+          "count": 6
+        },
+        {
+          "word": "mittelmeer",
+          "count": 3
+        },
+        {
+          "word": "schlepper",
+          "count": 2
+        },
+        {
+          "word": "migration",
+          "count": 2
+        },
+        {
+          "word": "zuwanderung",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "klimawandel",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 1
+        },
+        {
+          "word": "produktion",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "waffen",
+          "count": 12
+        },
+        {
+          "word": "bundeswehr",
+          "count": 7
+        },
+        {
+          "word": "soldaten",
+          "count": 6
+        },
+        {
+          "word": "gewalt",
+          "count": 4
+        },
+        {
+          "word": "polizisten",
+          "count": 3
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "operation",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 8
+        },
+        {
+          "word": "nato",
+          "count": 4
+        },
+        {
+          "word": "afrika",
+          "count": 3
+        },
+        {
+          "word": "außenpolitik",
+          "count": 3
+        },
+        {
+          "word": "krieg",
+          "count": 3
+        }
+      ],
+      "digital": [
+        {
+          "word": "netz",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "forschung",
+          "count": 2
+        },
+        {
+          "word": "schüler",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 2
+        },
+        {
+          "word": "haushaltsentwurf",
+          "count": 1
+        },
+        {
+          "word": "etat",
+          "count": 1
+        },
+        {
+          "word": "bank",
+          "count": 1
+        },
+        {
+          "word": "steuern",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "schiffe",
+          "count": 7
+        },
+        {
+          "word": "schiff",
+          "count": 2
+        },
+        {
+          "word": "seeverkehr",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

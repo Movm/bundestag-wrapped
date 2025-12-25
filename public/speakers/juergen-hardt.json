@@ -1,0 +1,490 @@
+{
+  "name": "Jürgen Hardt",
+  "party": "CDU/CSU",
+  "slug": "juergen-hardt",
+  "academicTitle": null,
+  "speeches": 17,
+  "wortbeitraege": 2,
+  "befragungResponses": 0,
+  "totalWords": 11721,
+  "avgWords": 617,
+  "minWords": 146,
+  "maxWords": 937,
+  "rankings": {
+    "speechRank": 15,
+    "wordsRank": 17,
+    "partySpeechRank": 3,
+    "partyWordsRank": 6,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 97.5,
+    "verbosityRank": 54,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 23,
+    "longestSpeechRank": 88
+  },
+  "drama": {
+    "interruptionsGiven": 16,
+    "interruptionsReceived": 22,
+    "interrupterRank": 115,
+    "interruptedRank": 110
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "deutschland",
+        "count": 44
+      },
+      {
+        "word": "israel",
+        "count": 40
+      },
+      {
+        "word": "ukraine",
+        "count": 24
+      },
+      {
+        "word": "diesen",
+        "count": 23
+      },
+      {
+        "word": "menschen",
+        "count": 23
+      },
+      {
+        "word": "gazastreifen",
+        "count": 23
+      },
+      {
+        "word": "russland",
+        "count": 22
+      },
+      {
+        "word": "welt",
+        "count": 22
+      },
+      {
+        "word": "staaten",
+        "count": 21
+      },
+      {
+        "word": "deutschen",
+        "count": 20
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "iranpolitik",
+        "count": 5,
+        "ratioParty": 354.6,
+        "ratioBundestag": 1117.5
+      },
+      {
+        "word": "palästinensische",
+        "count": 6,
+        "ratioParty": 212.8,
+        "ratioBundestag": 58.3
+      },
+      {
+        "word": "sowjetunion",
+        "count": 5,
+        "ratioParty": 118.2,
+        "ratioBundestag": 93.1
+      },
+      {
+        "word": "gazastreifen",
+        "count": 23,
+        "ratioParty": 74.1,
+        "ratioBundestag": 90.2
+      },
+      {
+        "word": "diplomaten",
+        "count": 6,
+        "ratioParty": 70.9,
+        "ratioBundestag": 134.1
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "rechts",
+        "count": 3,
+        "ratioParty": 2.4,
+        "ratioBundestag": 2.1
+      },
+      {
+        "word": "falsch",
+        "count": 3,
+        "ratioParty": 2.3,
+        "ratioBundestag": 2.1
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 617,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.9,
+    "vsParliament": 1.01
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "17"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "11.721"
+    },
+    {
+      "emoji": "🏆",
+      "label": "Rang (Reden)",
+      "value": "#15 von 609"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufe",
+      "value": "16"
+    },
+    {
+      "emoji": "🥇",
+      "label": "Rang in CDU/CSU",
+      "value": "#3 von 203"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Jürgen Hardt häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Gesellschaft",
+        "isCorrect": false
+      },
+      {
+        "text": "Ausschuss",
+        "isCorrect": false
+      },
+      {
+        "text": "Verantwortung",
+        "isCorrect": false
+      },
+      {
+        "text": "Iranpolitik",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Iranpolitik\" nutzt Jürgen Hardt 354.6× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "1117.5× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Jürgen Hardt häufiger als der Rest der CDU/CSU-Fraktion?",
+    "options": [
+      {
+        "text": "Klar",
+        "isCorrect": false
+      },
+      {
+        "text": "Rechts",
+        "isCorrect": true
+      },
+      {
+        "text": "Jung",
+        "isCorrect": false
+      },
+      {
+        "text": "Sozial",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Rechts\" nutzt Jürgen Hardt 2.4× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "2.1× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🦁",
+    "name": "Löwe",
+    "title": "Fraktionsstimme",
+    "reason": "Als #3 in der CDU/CSU-Fraktion bist du eine führende Stimme.",
+    "id": "loewe",
+    "alternatives": [
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Cleverer Stratege",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 1.0
+      },
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüter",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 1.0
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 70.4,
+      "aggression": 5.9,
+      "labeling": 14.7,
+      "solution_focus": 75.0,
+      "collaboration": 63.6,
+      "demand_intensity": 8.3,
+      "acknowledgment": 6.7,
+      "authority": 83.3,
+      "future_orientation": 68.8,
+      "emotional_intensity": 36.2,
+      "inclusivity": 48.5,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 19,
+      "words": 7428,
+      "adjectives": 34,
+      "verbs": 60
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.54,
+      "klima": 0.13,
+      "wirtschaft": 0.4,
+      "soziales": 0.27,
+      "sicherheit": 6.73,
+      "gesundheit": 0.13,
+      "europa": 28.94,
+      "digital": 0.27,
+      "bildung": 0.67,
+      "finanzen": 1.62,
+      "justiz": 0.54,
+      "arbeit": 0.13,
+      "mobilitaet": 1.35
+    },
+    "topTopics": [
+      {
+        "topic": "europa",
+        "score": 28.94,
+        "rank": 1
+      },
+      {
+        "topic": "sicherheit",
+        "score": 6.73,
+        "rank": 2
+      },
+      {
+        "topic": "finanzen",
+        "score": 1.62,
+        "rank": 3
+      },
+      {
+        "topic": "mobilitaet",
+        "score": 1.35,
+        "rank": 4
+      },
+      {
+        "topic": "bildung",
+        "score": 0.67,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "flüchtlinge",
+          "count": 1
+        },
+        {
+          "word": "asyl",
+          "count": 1
+        },
+        {
+          "word": "schutzstatus",
+          "count": 1
+        },
+        {
+          "word": "mittelmeer",
+          "count": 1
+        }
+      ],
+      "klima": [
+        {
+          "word": "nachhaltig",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "zoll",
+          "count": 1
+        },
+        {
+          "word": "wirtschaftspolitik",
+          "count": 1
+        },
+        {
+          "word": "handelsabkommen",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kind",
+          "count": 1
+        },
+        {
+          "word": "wohnung",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "terroristen",
+          "count": 9
+        },
+        {
+          "word": "waffen",
+          "count": 8
+        },
+        {
+          "word": "gewalt",
+          "count": 6
+        },
+        {
+          "word": "bundeswehr",
+          "count": 5
+        },
+        {
+          "word": "soldaten",
+          "count": 5
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "vorsorge",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "israel",
+          "count": 40
+        },
+        {
+          "word": "ukraine",
+          "count": 24
+        },
+        {
+          "word": "russland",
+          "count": 22
+        },
+        {
+          "word": "nato",
+          "count": 18
+        },
+        {
+          "word": "europa",
+          "count": 17
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 1
+        },
+        {
+          "word": "internet",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "studierende",
+          "count": 1
+        },
+        {
+          "word": "schüler",
+          "count": 1
+        },
+        {
+          "word": "kindergarten",
+          "count": 1
+        },
+        {
+          "word": "bildung",
+          "count": 1
+        },
+        {
+          "word": "hochschulen",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 5
+        },
+        {
+          "word": "schulden",
+          "count": 2
+        },
+        {
+          "word": "mehrwertsteuer",
+          "count": 1
+        },
+        {
+          "word": "schuldenbremse",
+          "count": 1
+        },
+        {
+          "word": "kosten",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "rechtsstaat",
+          "count": 2
+        },
+        {
+          "word": "diskriminierung",
+          "count": 1
+        },
+        {
+          "word": "gleichberechtigung",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "überstunden",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "hafen",
+          "count": 3
+        },
+        {
+          "word": "fahrzeuge",
+          "count": 2
+        },
+        {
+          "word": "straßen",
+          "count": 2
+        },
+        {
+          "word": "autos",
+          "count": 1
+        },
+        {
+          "word": "fliegen",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

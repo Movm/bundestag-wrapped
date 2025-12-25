@@ -1,0 +1,316 @@
+{
+  "name": "Aaron Valent",
+  "party": "DIE LINKE",
+  "slug": "aaron-valent",
+  "academicTitle": null,
+  "speeches": 5,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 1262,
+  "avgWords": 252,
+  "minWords": 147,
+  "maxWords": 300,
+  "rankings": {
+    "speechRank": 375,
+    "wordsRank": 528,
+    "partySpeechRank": 48,
+    "partyWordsRank": 57,
+    "partySize": 63,
+    "totalSpeakers": 609,
+    "percentile": 38.4,
+    "verbosityRank": 491,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 55,
+    "longestSpeechRank": 598
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 5,
+    "interrupterRank": null,
+    "interruptedRank": 392
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "menschen",
+        "count": 10
+      },
+      {
+        "word": "darf",
+        "count": 7
+      },
+      {
+        "word": "regierung",
+        "count": 6
+      },
+      {
+        "word": "verfahren",
+        "count": 6
+      },
+      {
+        "word": "staat",
+        "count": 4
+      },
+      {
+        "word": "digitalisierung",
+        "count": 4
+      },
+      {
+        "word": "demokratie",
+        "count": 4
+      },
+      {
+        "word": "verantwortung",
+        "count": 4
+      },
+      {
+        "word": "schutz",
+        "count": 3
+      },
+      {
+        "word": "erst",
+        "count": 3
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "verfahren",
+        "count": 6,
+        "ratioParty": 27.5,
+        "ratioBundestag": 17.4
+      },
+      {
+        "word": "regierung",
+        "count": 6,
+        "ratioParty": 4.9,
+        "ratioBundestag": 6.4
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 252,
+    "partyAvgWords": 521,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.48,
+    "vsParliament": 0.41
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "5"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "1.262"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Aaron Valent häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Kanzler",
+        "isCorrect": false
+      },
+      {
+        "text": "Verfahren",
+        "isCorrect": true
+      },
+      {
+        "text": "Sicherheit",
+        "isCorrect": false
+      },
+      {
+        "text": "Kinder",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Verfahren\" nutzt Aaron Valent 27.5× häufiger als der DIE LINKE-Durchschnitt.",
+    "explanationBundestag": "17.4× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🦦",
+    "name": "Otter",
+    "title": "Positiver Teamplayer",
+    "reason": "Du bringst gute Stimmung und konstruktive Beiträge ins Plenum.",
+    "id": "otter",
+    "alternatives": [
+      {
+        "emoji": "🦫",
+        "name": "Biber",
+        "title": "Konstruktiver Brückenbauer",
+        "reason": "Du baust Brücken zwischen Positionen – kooperativ und lösungsorientiert.",
+        "id": "biber",
+        "score": 0.688
+      },
+      {
+        "emoji": "🐬",
+        "name": "Delfin",
+        "title": "Diplomatischer Redner",
+        "reason": "Aktiv im Parlament, aber respektvoll ohne viele Zwischenrufe.",
+        "id": "delfin",
+        "score": 0.675
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 87.5,
+      "aggression": 0.0,
+      "labeling": 0.0,
+      "solution_focus": 62.5,
+      "collaboration": 50.0,
+      "demand_intensity": 11.1,
+      "acknowledgment": 0.0,
+      "authority": 47.1,
+      "future_orientation": 90.0,
+      "emotional_intensity": 83.3,
+      "inclusivity": 39.1,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 5,
+      "words": 840,
+      "adjectives": 8,
+      "verbs": 9
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 1.19,
+      "klima": 0.0,
+      "wirtschaft": 2.38,
+      "soziales": 0.0,
+      "sicherheit": 1.19,
+      "gesundheit": 1.19,
+      "europa": 0.0,
+      "digital": 10.71,
+      "bildung": 0.0,
+      "finanzen": 3.57,
+      "justiz": 8.33,
+      "arbeit": 2.38,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "digital",
+        "score": 10.71,
+        "rank": 1
+      },
+      {
+        "topic": "justiz",
+        "score": 8.33,
+        "rank": 2
+      },
+      {
+        "topic": "finanzen",
+        "score": 3.57,
+        "rank": 3
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 2.38,
+        "rank": 4
+      },
+      {
+        "topic": "arbeit",
+        "score": 2.38,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "asyl",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 1
+        },
+        {
+          "word": "markt",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "angriff",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "sucht",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 4
+        },
+        {
+          "word": "daten",
+          "count": 3
+        },
+        {
+          "word": "software",
+          "count": 1
+        },
+        {
+          "word": "digital",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 2
+        },
+        {
+          "word": "kosten",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "menschenrechte",
+          "count": 2
+        },
+        {
+          "word": "haftung",
+          "count": 1
+        },
+        {
+          "word": "datenschutz",
+          "count": 1
+        },
+        {
+          "word": "rechtsstaat",
+          "count": 1
+        },
+        {
+          "word": "strafen",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "einkommen",
+          "count": 1
+        },
+        {
+          "word": "arbeitnehmerinnen",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

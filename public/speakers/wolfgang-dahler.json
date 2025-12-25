@@ -1,0 +1,338 @@
+{
+  "name": "Wolfgang Dahler",
+  "party": "CDU/CSU",
+  "slug": "wolfgang-dahler",
+  "academicTitle": null,
+  "speeches": 4,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 1777,
+  "avgWords": 444,
+  "minWords": 364,
+  "maxWords": 536,
+  "rankings": {
+    "speechRank": 446,
+    "wordsRank": 479,
+    "partySpeechRank": 134,
+    "partyWordsRank": 154,
+    "partySize": 203,
+    "totalSpeakers": 609,
+    "percentile": 26.8,
+    "verbosityRank": 259,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 96,
+    "longestSpeechRank": 493
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 2,
+    "interrupterRank": null,
+    "interruptedRank": 518
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "elterngeld",
+        "count": 15
+      },
+      {
+        "word": "familien",
+        "count": 12
+      },
+      {
+        "word": "kinder",
+        "count": 7
+      },
+      {
+        "word": "eltern",
+        "count": 7
+      },
+      {
+        "word": "haushalt",
+        "count": 6
+      },
+      {
+        "word": "ministerin",
+        "count": 5
+      },
+      {
+        "word": "beruf",
+        "count": 5
+      },
+      {
+        "word": "familie",
+        "count": 5
+      },
+      {
+        "word": "deutschland",
+        "count": 5
+      },
+      {
+        "word": "verantwortung",
+        "count": 5
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "elterngeld",
+        "count": 15,
+        "ratioParty": 355.7,
+        "ratioBundestag": 293.5
+      },
+      {
+        "word": "ganztag",
+        "count": 5,
+        "ratioParty": 204.8,
+        "ratioBundestag": 149.9
+      },
+      {
+        "word": "beruf",
+        "count": 5,
+        "ratioParty": 50.1,
+        "ratioBundestag": 54.2
+      },
+      {
+        "word": "eltern",
+        "count": 7,
+        "ratioParty": 48.5,
+        "ratioBundestag": 33.0
+      },
+      {
+        "word": "familien",
+        "count": 12,
+        "ratioParty": 29.7,
+        "ratioBundestag": 23.7
+      }
+    ],
+    "signatureAdjectives": []
+  },
+  "comparison": {
+    "speakerAvgWords": 444,
+    "partyAvgWords": 688,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.65,
+    "vsParliament": 0.72
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "4"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "1.777"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Wolfgang Dahler häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Elterngeld",
+        "isCorrect": true
+      },
+      {
+        "text": "Politik",
+        "isCorrect": false
+      },
+      {
+        "text": "Energie",
+        "isCorrect": false
+      },
+      {
+        "text": "Verantwortung",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Elterngeld\" nutzt Wolfgang Dahler 355.7× häufiger als der CDU/CSU-Durchschnitt.",
+    "explanationBundestag": "293.5× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": null,
+  "spiritAnimal": {
+    "emoji": "🦫",
+    "name": "Biber",
+    "title": "Konstruktiver Brückenbauer",
+    "reason": "Du baust Brücken zwischen Positionen – kooperativ und lösungsorientiert.",
+    "id": "biber",
+    "alternatives": [
+      {
+        "emoji": "🦊",
+        "name": "Fuchs",
+        "title": "Cleverer Stratege",
+        "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+        "id": "fuchs",
+        "score": 0.853
+      },
+      {
+        "emoji": "🦦",
+        "name": "Otter",
+        "title": "Positiver Teamplayer",
+        "reason": "Du bringst gute Stimmung und konstruktive Beiträge ins Plenum.",
+        "id": "otter",
+        "score": 0.848
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 72.7,
+      "aggression": 0.0,
+      "labeling": 8.3,
+      "solution_focus": 100.0,
+      "collaboration": 85.7,
+      "demand_intensity": 0.0,
+      "acknowledgment": 0.0,
+      "authority": 80.0,
+      "future_orientation": 87.5,
+      "emotional_intensity": 40.0,
+      "inclusivity": 64.0,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 4,
+      "words": 1183,
+      "adjectives": 12,
+      "verbs": 22
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 0.0,
+      "klima": 0.0,
+      "wirtschaft": 0.85,
+      "soziales": 49.87,
+      "sicherheit": 0.85,
+      "gesundheit": 0.0,
+      "europa": 0.85,
+      "digital": 1.69,
+      "bildung": 4.23,
+      "finanzen": 7.61,
+      "justiz": 0.0,
+      "arbeit": 6.76,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "soziales",
+        "score": 49.87,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 7.61,
+        "rank": 2
+      },
+      {
+        "topic": "arbeit",
+        "score": 6.76,
+        "rank": 3
+      },
+      {
+        "topic": "bildung",
+        "score": 4.23,
+        "rank": 4
+      },
+      {
+        "topic": "digital",
+        "score": 1.69,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "wirtschaft": [
+        {
+          "word": "selbstständige",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "elterngeld",
+          "count": 15
+        },
+        {
+          "word": "familien",
+          "count": 12
+        },
+        {
+          "word": "kinder",
+          "count": 7
+        },
+        {
+          "word": "eltern",
+          "count": 7
+        },
+        {
+          "word": "familie",
+          "count": 5
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "gewalt",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "europa",
+          "count": 1
+        }
+      ],
+      "digital": [
+        {
+          "word": "digitalisierung",
+          "count": 1
+        },
+        {
+          "word": "netzwerk",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "bildung",
+          "count": 2
+        },
+        {
+          "word": "schule",
+          "count": 2
+        },
+        {
+          "word": "schulen",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 6
+        },
+        {
+          "word": "finanzierung",
+          "count": 2
+        },
+        {
+          "word": "kosten",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "vereinbarkeit",
+          "count": 3
+        },
+        {
+          "word": "kündigungsschutz",
+          "count": 3
+        },
+        {
+          "word": "arbeitsplatz",
+          "count": 2
+        }
+      ]
+    }
+  }
+}

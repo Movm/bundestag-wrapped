@@ -1,0 +1,491 @@
+{
+  "name": "Sebastian Fiedler",
+  "party": "SPD",
+  "slug": "sebastian-fiedler",
+  "academicTitle": null,
+  "speeches": 16,
+  "wortbeitraege": 2,
+  "befragungResponses": 0,
+  "totalWords": 10936,
+  "avgWords": 608,
+  "minWords": 291,
+  "maxWords": 1021,
+  "rankings": {
+    "speechRank": 24,
+    "wordsRank": 29,
+    "partySpeechRank": 7,
+    "partyWordsRank": 6,
+    "partySize": 109,
+    "totalSpeakers": 609,
+    "percentile": 96.1,
+    "verbosityRank": 62,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 8,
+    "longestSpeechRank": 65
+  },
+  "drama": {
+    "interruptionsGiven": 19,
+    "interruptionsReceived": 55,
+    "interrupterRank": 107,
+    "interruptedRank": 11
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "wichtig",
+        "count": 30
+      },
+      {
+        "word": "sicherheit",
+        "count": 29
+      },
+      {
+        "word": "deutschland",
+        "count": 29
+      },
+      {
+        "word": "koalition",
+        "count": 26
+      },
+      {
+        "word": "worden",
+        "count": 21
+      },
+      {
+        "word": "fraktion",
+        "count": 21
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "befugnissen",
+        "count": 5,
+        "ratioParty": 237.9,
+        "ratioBundestag": 60.3
+      },
+      {
+        "word": "insoweit",
+        "count": 9,
+        "ratioParty": 85.6,
+        "ratioBundestag": 72.3
+      },
+      {
+        "word": "innenausschuss",
+        "count": 5,
+        "ratioParty": 79.3,
+        "ratioBundestag": 75.3
+      },
+      {
+        "word": "erläutern",
+        "count": 5,
+        "ratioParty": 34.0,
+        "ratioBundestag": 33.5
+      },
+      {
+        "word": "terrorismus",
+        "count": 5,
+        "ratioParty": 34.0,
+        "ratioBundestag": 26.8
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "rechts",
+        "count": 6,
+        "ratioParty": 5.3,
+        "ratioBundestag": 4.6
+      },
+      {
+        "word": "falsch",
+        "count": 4,
+        "ratioParty": 3.5,
+        "ratioBundestag": 3.0
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 608,
+    "partyAvgWords": 637,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.95,
+    "vsParliament": 0.99
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "16"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "10.936"
+    },
+    {
+      "emoji": "⚡",
+      "label": "Zwischenrufe",
+      "value": "19"
+    },
+    {
+      "emoji": "📊",
+      "label": "Top-Redner",
+      "value": "Top 4%"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Sebastian Fiedler häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Minister",
+        "isCorrect": false
+      },
+      {
+        "text": "Ausschuss",
+        "isCorrect": false
+      },
+      {
+        "text": "Befugnissen",
+        "isCorrect": true
+      },
+      {
+        "text": "Haushalt",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Befugnissen\" nutzt Sebastian Fiedler 237.9× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "60.3× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Sebastian Fiedler häufiger als der Rest der SPD-Fraktion?",
+    "options": [
+      {
+        "text": "Stark",
+        "isCorrect": false
+      },
+      {
+        "text": "Schlecht",
+        "isCorrect": false
+      },
+      {
+        "text": "Rechts",
+        "isCorrect": true
+      },
+      {
+        "text": "Wichtig",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Rechts\" nutzt Sebastian Fiedler 5.3× häufiger als der SPD-Durchschnitt.",
+    "explanationBundestag": "4.6× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": {
+    "emoji": "🦊",
+    "name": "Fuchs",
+    "title": "Cleverer Stratege",
+    "reason": "Mit eigenem Vokabular hebst du dich von der Fraktion ab.",
+    "id": "fuchs",
+    "alternatives": [
+      {
+        "emoji": "🐿️",
+        "name": "Eichhörnchen",
+        "title": "Themenhüter",
+        "reason": "Du hast deine Spezialthemen, die du immer wieder einbringst.",
+        "id": "eichhoernchen",
+        "score": 1.0
+      },
+      {
+        "emoji": "🐝",
+        "name": "Biene",
+        "title": "Fleißiger Abgeordneter",
+        "reason": "Zuverlässig und engagiert – ein wichtiger Teil des Parlaments.",
+        "id": "biene",
+        "score": 1.0
+      }
+    ]
+  },
+  "toneProfile": {
+    "scores": {
+      "affirmative": 65.2,
+      "aggression": 0.0,
+      "labeling": 23.3,
+      "solution_focus": 86.0,
+      "collaboration": 78.6,
+      "demand_intensity": 4.1,
+      "acknowledgment": 18.9,
+      "authority": 79.2,
+      "future_orientation": 86.4,
+      "emotional_intensity": 33.3,
+      "inclusivity": 47.5,
+      "discriminatory": 0.15
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 18,
+      "words": 6889,
+      "adjectives": 30,
+      "verbs": 74
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 4.35,
+      "klima": 0.0,
+      "wirtschaft": 0.58,
+      "soziales": 0.73,
+      "sicherheit": 9.44,
+      "gesundheit": 0.44,
+      "europa": 6.1,
+      "digital": 1.31,
+      "bildung": 0.29,
+      "finanzen": 1.16,
+      "justiz": 3.92,
+      "arbeit": 0.15,
+      "mobilitaet": 1.74
+    },
+    "topTopics": [
+      {
+        "topic": "sicherheit",
+        "score": 9.44,
+        "rank": 1
+      },
+      {
+        "topic": "europa",
+        "score": 6.1,
+        "rank": 2
+      },
+      {
+        "topic": "migration",
+        "score": 4.35,
+        "rank": 3
+      },
+      {
+        "topic": "justiz",
+        "score": 3.92,
+        "rank": 4
+      },
+      {
+        "topic": "mobilitaet",
+        "score": 1.74,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "migration",
+          "count": 6
+        },
+        {
+          "word": "asyl",
+          "count": 3
+        },
+        {
+          "word": "grenzkontrollen",
+          "count": 3
+        },
+        {
+          "word": "integration",
+          "count": 2
+        },
+        {
+          "word": "schleuser",
+          "count": 2
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 1
+        },
+        {
+          "word": "zoll",
+          "count": 1
+        },
+        {
+          "word": "werk",
+          "count": 1
+        },
+        {
+          "word": "markt",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "mietpreisbremse",
+          "count": 1
+        },
+        {
+          "word": "kinder",
+          "count": 1
+        },
+        {
+          "word": "behinderung",
+          "count": 1
+        },
+        {
+          "word": "eltern",
+          "count": 1
+        },
+        {
+          "word": "jugendliche",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "bundespolizei",
+          "count": 17
+        },
+        {
+          "word": "polizisten",
+          "count": 8
+        },
+        {
+          "word": "kriminalität",
+          "count": 7
+        },
+        {
+          "word": "gewalt",
+          "count": 7
+        },
+        {
+          "word": "terrorismus",
+          "count": 5
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "prävention",
+          "count": 1
+        },
+        {
+          "word": "kranke",
+          "count": 1
+        },
+        {
+          "word": "sucht",
+          "count": 1
+        }
+      ],
+      "europa": [
+        {
+          "word": "russland",
+          "count": 13
+        },
+        {
+          "word": "europa",
+          "count": 10
+        },
+        {
+          "word": "putin",
+          "count": 8
+        },
+        {
+          "word": "europäisch",
+          "count": 3
+        },
+        {
+          "word": "kreml",
+          "count": 2
+        }
+      ],
+      "digital": [
+        {
+          "word": "desinformation",
+          "count": 3
+        },
+        {
+          "word": "netz",
+          "count": 2
+        },
+        {
+          "word": "internet",
+          "count": 1
+        },
+        {
+          "word": "datenverarbeitung",
+          "count": 1
+        },
+        {
+          "word": "daten",
+          "count": 1
+        }
+      ],
+      "bildung": [
+        {
+          "word": "ausbildung",
+          "count": 1
+        },
+        {
+          "word": "schule",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "haushalt",
+          "count": 5
+        },
+        {
+          "word": "haushaltsentwurf",
+          "count": 1
+        },
+        {
+          "word": "schulden",
+          "count": 1
+        },
+        {
+          "word": "steuern",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "rechtsstaat",
+          "count": 6
+        },
+        {
+          "word": "gerichte",
+          "count": 6
+        },
+        {
+          "word": "menschenrechte",
+          "count": 3
+        },
+        {
+          "word": "straftaten",
+          "count": 2
+        },
+        {
+          "word": "justizminister",
+          "count": 2
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "sozialabgaben",
+          "count": 1
+        }
+      ],
+      "mobilitaet": [
+        {
+          "word": "straßen",
+          "count": 5
+        },
+        {
+          "word": "infrastruktur",
+          "count": 4
+        },
+        {
+          "word": "bahn",
+          "count": 2
+        },
+        {
+          "word": "luftverkehr",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

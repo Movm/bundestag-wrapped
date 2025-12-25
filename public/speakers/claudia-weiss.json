@@ -1,0 +1,377 @@
+{
+  "name": "Claudia Weiss",
+  "party": "AfD",
+  "slug": "claudia-weiss",
+  "academicTitle": null,
+  "speeches": 7,
+  "wortbeitraege": 0,
+  "befragungResponses": 0,
+  "totalWords": 2748,
+  "avgWords": 393,
+  "minWords": 240,
+  "maxWords": 465,
+  "rankings": {
+    "speechRank": 292,
+    "wordsRank": 391,
+    "partySpeechRank": 70,
+    "partyWordsRank": 90,
+    "partySize": 148,
+    "totalSpeakers": 609,
+    "percentile": 52.1,
+    "verbosityRank": 352,
+    "verbosityTotal": 521,
+    "partyVerbosityRank": 85,
+    "longestSpeechRank": 547
+  },
+  "drama": {
+    "interruptionsGiven": 0,
+    "interruptionsReceived": 4,
+    "interrupterRank": null,
+    "interruptedRank": 433
+  },
+  "words": {
+    "topWords": [
+      {
+        "word": "pflege",
+        "count": 21
+      },
+      {
+        "word": "menschen",
+        "count": 10
+      },
+      {
+        "word": "braucht",
+        "count": 9
+      },
+      {
+        "word": "bundesregierung",
+        "count": 9
+      },
+      {
+        "word": "leistungen",
+        "count": 9
+      },
+      {
+        "word": "pflegekräfte",
+        "count": 9
+      },
+      {
+        "word": "gesetz",
+        "count": 8
+      },
+      {
+        "word": "klar",
+        "count": 8
+      },
+      {
+        "word": "darf",
+        "count": 8
+      },
+      {
+        "word": "versorgung",
+        "count": 6
+      }
+    ],
+    "signatureWords": [
+      {
+        "word": "pflegekräfte",
+        "count": 9,
+        "ratioParty": 119.3,
+        "ratioBundestag": 99.1
+      },
+      {
+        "word": "pflege",
+        "count": 21,
+        "ratioParty": 107.0,
+        "ratioBundestag": 47.7
+      },
+      {
+        "word": "kinderkliniken",
+        "count": 5,
+        "ratioParty": 26.5,
+        "ratioBundestag": 2203.3
+      },
+      {
+        "word": "krankenhäuser",
+        "count": 6,
+        "ratioParty": 25.4,
+        "ratioBundestag": 29.9
+      },
+      {
+        "word": "ländlichen",
+        "count": 5,
+        "ratioParty": 24.2,
+        "ratioBundestag": 15.7
+      }
+    ],
+    "signatureAdjectives": [
+      {
+        "word": "gerecht",
+        "count": 3,
+        "ratioParty": 14.5,
+        "ratioBundestag": 6.3
+      }
+    ]
+  },
+  "comparison": {
+    "speakerAvgWords": 393,
+    "partyAvgWords": 587,
+    "parliamentAvgWords": 613,
+    "vsParty": 0.67,
+    "vsParliament": 0.64
+  },
+  "funFacts": [
+    {
+      "emoji": "🎤",
+      "label": "Reden gehalten",
+      "value": "7"
+    },
+    {
+      "emoji": "📝",
+      "label": "Wörter gesprochen",
+      "value": "2.748"
+    }
+  ],
+  "signatureQuiz": {
+    "question": "Welches Wort nutzt Claudia Weiss häufiger als der Rest der Fraktion?",
+    "options": [
+      {
+        "text": "Debatte",
+        "isCorrect": false
+      },
+      {
+        "text": "Investitionen",
+        "isCorrect": false
+      },
+      {
+        "text": "Opposition",
+        "isCorrect": false
+      },
+      {
+        "text": "Pflegekräfte",
+        "isCorrect": true
+      }
+    ],
+    "explanationParty": "\"Pflegekräfte\" nutzt Claudia Weiss 119.3× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "99.1× häufiger als der Bundestag-Durchschnitt."
+  },
+  "signatureAdjectiveQuiz": {
+    "question": "Welches Adjektiv nutzt Claudia Weiss häufiger als der Rest der AfD-Fraktion?",
+    "options": [
+      {
+        "text": "Gerecht",
+        "isCorrect": true
+      },
+      {
+        "text": "Wirtschaftlich",
+        "isCorrect": false
+      },
+      {
+        "text": "Jung",
+        "isCorrect": false
+      },
+      {
+        "text": "Gefährlich",
+        "isCorrect": false
+      }
+    ],
+    "explanationParty": "\"Gerecht\" nutzt Claudia Weiss 14.5× häufiger als der AfD-Durchschnitt.",
+    "explanationBundestag": "6.3× häufiger als der Bundestag-Durchschnitt."
+  },
+  "spiritAnimal": null,
+  "toneProfile": {
+    "scores": {
+      "affirmative": 77.8,
+      "aggression": 9.1,
+      "labeling": 9.1,
+      "solution_focus": 50.0,
+      "collaboration": 0.0,
+      "demand_intensity": 23.8,
+      "acknowledgment": 0.0,
+      "authority": 88.9,
+      "future_orientation": 84.2,
+      "emotional_intensity": 60.0,
+      "inclusivity": 64.9,
+      "discriminatory": 0.0
+    },
+    "confidence": "sufficient",
+    "sampleSize": {
+      "speeches": 7,
+      "words": 1890,
+      "adjectives": 11,
+      "verbs": 21
+    }
+  },
+  "topics": {
+    "scores": {
+      "migration": 1.59,
+      "klima": 0.0,
+      "wirtschaft": 2.12,
+      "soziales": 8.47,
+      "sicherheit": 0.53,
+      "gesundheit": 31.75,
+      "europa": 0.0,
+      "digital": 0.53,
+      "bildung": 0.0,
+      "finanzen": 9.52,
+      "justiz": 0.53,
+      "arbeit": 1.59,
+      "mobilitaet": 0.0
+    },
+    "topTopics": [
+      {
+        "topic": "gesundheit",
+        "score": 31.75,
+        "rank": 1
+      },
+      {
+        "topic": "finanzen",
+        "score": 9.52,
+        "rank": 2
+      },
+      {
+        "topic": "soziales",
+        "score": 8.47,
+        "rank": 3
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 2.12,
+        "rank": 4
+      },
+      {
+        "topic": "migration",
+        "score": 1.59,
+        "rank": 5
+      }
+    ],
+    "topicWords": {
+      "migration": [
+        {
+          "word": "asyl",
+          "count": 1
+        },
+        {
+          "word": "migration",
+          "count": 1
+        },
+        {
+          "word": "asylbewerber",
+          "count": 1
+        }
+      ],
+      "wirtschaft": [
+        {
+          "word": "unternehmen",
+          "count": 2
+        },
+        {
+          "word": "werk",
+          "count": 1
+        },
+        {
+          "word": "mittelstand",
+          "count": 1
+        }
+      ],
+      "soziales": [
+        {
+          "word": "kinder",
+          "count": 5
+        },
+        {
+          "word": "familien",
+          "count": 3
+        },
+        {
+          "word": "kind",
+          "count": 2
+        },
+        {
+          "word": "familie",
+          "count": 1
+        },
+        {
+          "word": "sozialsystem",
+          "count": 1
+        }
+      ],
+      "sicherheit": [
+        {
+          "word": "anschlag",
+          "count": 1
+        }
+      ],
+      "gesundheit": [
+        {
+          "word": "pflege",
+          "count": 21
+        },
+        {
+          "word": "pflegekräfte",
+          "count": 9
+        },
+        {
+          "word": "krankenhäuser",
+          "count": 6
+        },
+        {
+          "word": "kliniken",
+          "count": 4
+        },
+        {
+          "word": "krankenkassen",
+          "count": 3
+        }
+      ],
+      "digital": [
+        {
+          "word": "daten",
+          "count": 1
+        }
+      ],
+      "finanzen": [
+        {
+          "word": "finanzierung",
+          "count": 6
+        },
+        {
+          "word": "kosten",
+          "count": 4
+        },
+        {
+          "word": "entlastung",
+          "count": 2
+        },
+        {
+          "word": "haushalt",
+          "count": 2
+        },
+        {
+          "word": "defizit",
+          "count": 1
+        }
+      ],
+      "justiz": [
+        {
+          "word": "vorschrift",
+          "count": 1
+        }
+      ],
+      "arbeit": [
+        {
+          "word": "beitragssatz",
+          "count": 1
+        },
+        {
+          "word": "arbeitnehmer",
+          "count": 1
+        },
+        {
+          "word": "überstunden",
+          "count": 1
+        }
+      ]
+    }
+  }
+}
