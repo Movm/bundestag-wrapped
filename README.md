@@ -1,20 +1,64 @@
 # Bundestag Wrapped
 
+![Bundestag Wrapped - A Year in Review](social-preview.png)
+
 Your Year in Parliament - A data visualization of German Bundestag speeches.
 
 ## Overview
 
-Bundestag Wrapped is a static React application that visualizes speech data from the German Bundestag. It presents party statistics, speaker profiles, tone analysis, and searchable speech databases in an engaging, Spotify Wrapped-style format.
+Bundestag Wrapped is a multi-platform application that visualizes speech data from the German Bundestag. It presents party statistics, speaker profiles, tone analysis, and searchable speech databases in an engaging, Spotify Wrapped-style format.
+
+The project consists of three main components:
+- **Web App** - React SPA for desktop and mobile browsers
+- **Mobile App** - Native iOS/Android app built with Expo/React Native
+- **OG Image Service** - Server-side image generation for social sharing
+
+## Project Structure
+
+```
+bundestag-wrapped/
+├── src/                    # Web app source
+│   ├── components/         # React components and pages
+│   ├── shared/             # Cross-platform shared code
+│   ├── hooks/              # React Query data fetching
+│   └── lib/                # Utilities, party colors, sharepics
+├── mobile/                 # Native mobile app (Expo/React Native)
+│   ├── app/                # Expo Router pages
+│   ├── slides/             # Native slide components
+│   ├── components/         # Mobile-specific components
+│   └── hooks/              # Mobile data fetching
+├── api/                    # OG Image generation service
+│   └── src/                # Hono server with Satori/resvg
+├── public/                 # Static data files
+└── docker-compose.yml      # Full stack deployment
+```
 
 ## Tech Stack
 
+### Web App
 - React 19 + TypeScript
 - Vite 7
 - TailwindCSS 4
 - TanStack React Query
 - Motion (animations)
+- React Router 7
+
+### Mobile App
+- Expo SDK 54
+- React Native 0.81
+- Expo Router 6
+- NativeWind (Tailwind for RN)
+- Moti + Reanimated (animations)
+- React Query
+
+### OG Image Service
+- Hono (web framework)
+- Satori (JSX to SVG)
+- resvg-js (SVG to PNG)
 
 ## Development
+
+### Web App
 
 ```bash
 # Install dependencies
@@ -28,6 +72,43 @@ npm test
 
 # Build for production
 npm run build
+
+# Lint code
+npm run lint
+```
+
+### Mobile App
+
+```bash
+cd mobile
+
+# Install dependencies
+npm install
+
+# Start Expo dev server
+npm start
+
+# Run on iOS simulator
+npm run ios
+
+# Run on Android emulator
+npm run android
+```
+
+### OG Image Service
+
+```bash
+cd api
+
+# Install dependencies
+npm install
+
+# Start dev server with hot reload
+npm run dev
+
+# Build for production
+npm run build
+npm start
 ```
 
 ## Data Source
@@ -50,11 +131,25 @@ noun-analysis export-all ./data -r ./results -o /path/to/bundestag-wrapped/publi
 
 ## Deployment
 
-### Docker
+### Docker Compose (Full Stack)
+
+The recommended way to deploy includes both the web app and OG image service:
+
+```bash
+docker compose up -d
+```
+
+This starts:
+- **Web** (port 3000) - Nginx serving the static SPA with API proxy
+- **API** (internal port 3001) - OG image generation service
+
+The nginx config proxies `/api/*` requests to the API service.
+
+### Docker (Web Only)
 
 ```bash
 docker build -t bundestag-wrapped .
-docker run -p 80:80 bundestag-wrapped
+docker run -p 3000:3000 bundestag-wrapped
 ```
 
 ### Static Hosting
@@ -65,6 +160,56 @@ Build and deploy the `dist/` folder to any static hosting (Vercel, Netlify, etc.
 npm run build
 # Deploy dist/ folder
 ```
+
+Note: Without the API service, OG image generation will not work.
+
+### Mobile App Distribution
+
+The mobile app uses EAS (Expo Application Services) for builds:
+
+```bash
+cd mobile
+
+# Build for Android (APK)
+eas build --platform android --profile production
+
+# Build for iOS (App Store)
+eas build --platform ios --profile production
+```
+
+## API Endpoints
+
+The OG image service provides:
+
+| Endpoint | Description |
+|----------|-------------|
+| `GET /health` | Health check |
+| `GET /og/speaker/:slug` | Generate speaker sharepic (1080x1080 PNG) |
+| `GET /og/quiz?score=X&total=Y&name=Z` | Generate quiz result sharepic |
+
+Images are cached to the filesystem for performance.
+
+## Architecture Details
+
+### Shared Code
+
+The `src/shared/` directory contains platform-agnostic code used by both web and mobile:
+
+- Animation timings and configurations
+- Quiz data and configurations
+- Party color utilities
+- Topic metadata
+
+### Mobile Data Strategy
+
+The mobile app bundles `wrapped.json` for offline support. Speaker data is fetched from the production web server on demand.
+
+### Slide System
+
+Both platforms share a similar slide architecture:
+- Modular slides with consistent naming (`intro-*`, `quiz-*`, `info-*`, `reveal-*`, `chart-*`)
+- Shared data structures and quiz logic
+- Platform-specific rendering (DOM vs React Native)
 
 ## Related Repositories
 
