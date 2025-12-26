@@ -10,6 +10,7 @@ interface ScrollContainerProps {
 
 export interface ScrollContainerRef {
   scrollToNextSlide: (currentSlideId: string) => void;
+  scrollToSlide: (slideId: string) => void;
   containerRef: HTMLDivElement | null;
 }
 
@@ -47,6 +48,10 @@ export const ScrollContainer = forwardRef<ScrollContainerRef, ScrollContainerPro
         const sections = Array.from(containerRef.current?.querySelectorAll('[data-slide-id]') || []);
         const idx = sections.findIndex(s => s.getAttribute('data-slide-id') === currentSlideId);
         sections[idx + 1]?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      },
+      scrollToSlide: (slideId: string) => {
+        const section = containerRef.current?.querySelector(`[data-slide-id="${slideId}"]`);
+        section?.scrollIntoView({ behavior: 'instant', block: 'start' });
       },
       get containerRef() {
         return containerRef.current;

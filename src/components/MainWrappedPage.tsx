@@ -38,6 +38,7 @@ export function MainWrappedPage({ isMenuOpen, onMenuToggle }: MainWrappedPagePro
     correctCount,
     quizNumber,
     currentSection,
+    initialSection,
     handleQuizAnswer,
     setCurrentSection,
     isQuizAnswered,
@@ -48,7 +49,22 @@ export function MainWrappedPage({ isMenuOpen, onMenuToggle }: MainWrappedPagePro
   useAutoScroll(currentSection, scrollContainerRef);
 
   // Track if intro slide has been started (for scroll lock)
-  const [introStarted, setIntroStarted] = useState(false);
+  // If we're restoring past intro, mark as started
+  const [introStarted, setIntroStarted] = useState(
+    () => initialSection !== null && initialSection !== 'intro'
+  );
+
+  // Restore scroll position on mount if we have saved progress
+  const hasRestoredRef = useRef(false);
+  useEffect(() => {
+    if (initialSection && !hasRestoredRef.current && !loading && data) {
+      hasRestoredRef.current = true;
+      // Small delay to ensure ScrollContainer is mounted
+      requestAnimationFrame(() => {
+        scrollContainerRef.current?.scrollToSlide(initialSection);
+      });
+    }
+  }, [initialSection, loading, data]);
 
   const handleQuizComplete = useCallback((slideId: string) => {
     if (slideId === 'intro') {

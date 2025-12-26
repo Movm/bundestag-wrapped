@@ -1,5 +1,10 @@
-import { useState, useCallback, useMemo, useRef } from 'react';
+import { useState, useCallback, useMemo, useRef, useEffect } from 'react';
 import { SLIDES, TOTAL_QUIZ_QUESTIONS, type SlideType } from './constants';
+import {
+  getWrappedProgress,
+  setWrappedProgress,
+  clearWrappedProgress,
+} from '@/lib/wrapped-storage';
 
 // Pre-compute quiz slides at module level
 const QUIZ_SLIDES = SLIDES.filter((s) => s.startsWith('quiz-'));
@@ -13,6 +18,9 @@ export interface ScrollWrappedState {
   // Current slide
   currentSection: SlideType;
 
+  // Restored section (for scroll restoration on mount)
+  initialSection: SlideType | null;
+
   // Actions
   handleQuizAnswer: (quizId: string, isCorrect: boolean) => void;
   setCurrentSection: (section: SlideType) => void;
@@ -22,9 +30,47 @@ export interface ScrollWrappedState {
   quizAnsweredMap: Record<string, boolean>;
 }
 
+// Load initial state from localStorage
+function getInitialState() {
+  const saved = getWrappedProgress();
+  if (saved && SLIDES.includes(saved.currentSection as SlideType)) {
+    return {
+      quizAnswers: saved.quizAnswers,
+      currentSection: saved.currentSection as SlideType,
+    };
+  }
+  return { quizAnswers: {}, currentSection: 'intro' as SlideType };
+}
+
 export function useScrollWrapped(): ScrollWrappedState {
-  const [quizAnswers, setQuizAnswers] = useState<Record<string, boolean>>({});
-  const [currentSection, setCurrentSection] = useState<SlideType>('intro');
+  const initialState = useMemo(() => getInitialState(), []);
+  const [quizAnswers, setQuizAnswers] = useState<Record<string, boolean>>(
+    initialState.quizAnswers
+  );
+  const [currentSection, setCurrentSection] = useState<SlideType>(
+    initialState.currentSection
+  );
+
+  // Track initial section for scroll restoration (null after first render)
+  const initialSectionRef = useRef<SlideType | null>(
+    initialState.currentSection !== 'intro' ? initialState.currentSection : null
+  );
+
+  // Persist progress to localStorage on changes
+  useEffect(() => {
+    // Don't persist if on intro with no answers (fresh state)
+    if (currentSection === 'intro' && Object.keys(quizAnswers).length === 0) {
+      return;
+    }
+
+    // Clear progress when user completes the experience
+    if (currentSection === 'finale') {
+      clearWrappedProgress();
+      return;
+    }
+
+    setWrappedProgress({ quizAnswers, currentSection });
+  }, [quizAnswers, currentSection]);
 
   // Calculate correct count from answers
   const correctCount = useMemo(
@@ -64,6 +110,7 @@ export function useScrollWrapped(): ScrollWrappedState {
     correctCount,
     quizNumber,
     currentSection,
+    initialSection: initialSectionRef.current,
     handleQuizAnswer,
     setCurrentSection,
     isQuizAnswered,
