@@ -10,7 +10,15 @@ def getVersionFromPackageJson() {
     return "1.0.0"
 }
 
-def getVersionCodeFromGit() {
+def getVersionCode() {
+    // CI: Use GITHUB_RUN_NUMBER (unique per workflow run, always increases)
+    def runNumber = System.getenv("GITHUB_RUN_NUMBER")
+    if (runNumber != null) {
+        // Offset by 100 to ensure CI versions are always higher than local builds
+        return runNumber.toInteger() + 100
+    }
+
+    // Local: Use git commit count
     try {
         def stdout = new ByteArrayOutputStream()
         exec {
@@ -19,17 +27,15 @@ def getVersionCodeFromGit() {
             workingDir = rootProject.projectDir
         }
         def count = stdout.toString().trim().toInteger()
-        // Start from 1 and add commit count (ensures versionCode always increases)
         return count + 1
     } catch (Exception e) {
-        // Fallback if git is not available (e.g., in some CI environments)
         logger.warn("Could not get git commit count, using fallback versionCode")
         return 1
     }
 }
 
 def appVersionName = getVersionFromPackageJson()
-def appVersionCode = getVersionCodeFromGit()
+def appVersionCode = getVersionCode()
 
 // Log version info during build
 logger.lifecycle("Auto-versioning: versionName=${appVersionName}, versionCode=${appVersionCode}")
