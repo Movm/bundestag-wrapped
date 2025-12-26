@@ -7,13 +7,13 @@ WORKDIR /app
 
 # Install dependencies
 FROM base AS deps
-COPY package.json ./
+COPY api/package.json ./
 RUN npm install
 
 # Build
 FROM base AS builder
 COPY --from=deps /app/node_modules ./node_modules
-COPY . .
+COPY api/ .
 RUN npm run build
 
 # Production
@@ -25,13 +25,14 @@ ENV PORT=3001
 # Copy built files and node_modules
 COPY --from=builder /app/dist ./dist
 COPY --from=deps /app/node_modules ./node_modules
-COPY package.json ./
+COPY api/package.json ./
+
+# Copy speaker data for OG image generation (baked into image for Coolify)
+COPY public/speakers /data/speakers
 
 # Create cache directory
 RUN mkdir -p .cache
 
-# The DATA_DIR environment variable should point to where speaker JSON files are
-# This can be mounted as a volume or set to a URL for remote fetching
 ENV DATA_DIR=/data
 
 EXPOSE 3001
