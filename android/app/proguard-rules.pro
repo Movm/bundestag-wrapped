@@ -5,17 +5,50 @@
 # For more details, see
 #   http://developer.android.com/guide/developing/tools/proguard.html
 
-# If your project uses WebView with JS, uncomment the following
-# and specify the fully qualified class name to the JavaScript interface
-# class:
-#-keepclassmembers class fqcn.of.javascript.interface.for.webview {
-#   public *;
-#}
+# ===== Capacitor =====
+# Keep all Capacitor core classes
+-keep class com.getcapacitor.** { *; }
 
-# Uncomment this to preserve the line number information for
-# debugging stack traces.
-#-keepattributes SourceFile,LineNumberTable
+# Keep Capacitor plugin annotations and annotated classes
+-keep @com.getcapacitor.annotation.CapacitorPlugin public class * { *; }
+-keep @com.getcapacitor.annotation.Permission public class * { *; }
 
-# If you keep the line number information, uncomment this to
-# hide the original source file name.
-#-renamesourcefileattribute SourceFile
+# Keep all classes that extend Capacitor Plugin
+-keep class * extends com.getcapacitor.Plugin { *; }
+
+# Keep JavaScript interface methods (critical for WebView bridge)
+-keepclassmembers class * {
+    @android.webkit.JavascriptInterface <methods>;
+}
+
+# ===== WebView =====
+# Keep WebView and WebViewClient methods
+-keepclassmembers class * extends android.webkit.WebView {
+    public *;
+}
+
+-keepclassmembers class * extends android.webkit.WebViewClient {
+    public void *(android.webkit.WebView, java.lang.String);
+    public boolean *(android.webkit.WebView, java.lang.String);
+    public void *(android.webkit.WebView, android.graphics.Bitmap);
+    public void *(android.webkit.WebView, java.lang.String, android.graphics.Bitmap);
+}
+
+-keepclassmembers class * extends android.webkit.WebChromeClient {
+    public void *(android.webkit.WebView, java.lang.String, java.lang.String);
+    public boolean *(android.webkit.WebView, java.lang.String);
+}
+
+# ===== AndroidX / Support Libraries =====
+-keep class androidx.** { *; }
+-keep interface androidx.** { *; }
+
+# ===== Debugging =====
+# Keep line numbers for better crash reports
+-keepattributes SourceFile,LineNumberTable
+-renamesourcefileattribute SourceFile
+
+# ===== Serialization =====
+# Keep Gson/JSON serialization (if used by plugins)
+-keepattributes Signature
+-keepattributes *Annotation*
