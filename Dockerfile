@@ -21,8 +21,8 @@ FROM nginx:alpine
 # Copy built assets
 COPY --from=builder /app/dist /usr/share/nginx/html
 
-# Copy nginx config (with API proxy for docker-compose)
-COPY nginx-compose.conf /etc/nginx/conf.d/default.conf
+# Copy nginx config
+COPY nginx.conf /etc/nginx/conf.d/default.conf
 
 # Expose port
 EXPOSE 3000
