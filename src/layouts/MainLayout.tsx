@@ -1,10 +1,8 @@
 import { Outlet } from 'react-router';
 import { Header } from '@/components/ui/Header';
 import { MobileMenu } from '@/components/ui/MobileMenu';
-import { TabNavigation } from '@/components/ui/TabNavigation';
 import { SkipLink } from '@/components/ui/SkipLink';
 import { useMenuState } from '@/hooks/useMenuState';
-import { isNative } from '@/lib/capacitor';
 
 interface MainLayoutProps {
   variant?: 'dark' | 'light';
@@ -16,18 +14,11 @@ export function MainLayout({ variant = 'dark' }: MainLayoutProps) {
   return (
     <>
       <SkipLink />
-      {/* Hide header on native - use tab navigation instead */}
-      {!isNative() && (
-        <Header variant={variant} isMenuOpen={isMenuOpen} onMenuToggle={toggleMenu} />
-      )}
-      {/* Show drawer menu on web, tab navigation on native */}
-      {!isNative() && (
-        <MobileMenu isOpen={isMenuOpen} onClose={closeMenu} variant={variant} />
-      )}
-      <main id="main-content" className={isNative() ? 'pb-20' : ''}>
+      <Header variant={variant} isMenuOpen={isMenuOpen} onMenuToggle={toggleMenu} />
+      <MobileMenu isOpen={isMenuOpen} onClose={closeMenu} variant={variant} />
+      <main id="main-content">
         <Outlet />
       </main>
-      <TabNavigation />
     </>
   );
 }

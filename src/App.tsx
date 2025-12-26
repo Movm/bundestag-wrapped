@@ -2,9 +2,7 @@ import { lazy, Suspense } from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router';
 import { DarkLayout, LightLayout } from '@/layouts/MainLayout';
 import { MobileMenu } from '@/components/ui/MobileMenu';
-import { TabNavigation } from '@/components/ui/TabNavigation';
 import { useMenuState } from '@/hooks/useMenuState';
-import { isNative } from '@/lib/capacitor';
 
 // Critical path - keep eager
 import { MainWrappedPage } from '@/components/MainWrappedPage';
@@ -35,12 +33,8 @@ function MainWrappedRoute() {
 
   return (
     <>
-      {/* Show drawer menu on web, tab navigation on native */}
-      {!isNative() && (
-        <MobileMenu isOpen={isMenuOpen} onClose={closeMenu} variant="dark" />
-      )}
+      <MobileMenu isOpen={isMenuOpen} onClose={closeMenu} variant="dark" />
       <MainWrappedPage isMenuOpen={isMenuOpen} onMenuToggle={toggleMenu} />
-      <TabNavigation />
     </>
   );
 }

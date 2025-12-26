@@ -6,3 +6,4 @@ export { SlideSection } from './SlideSection';
 export { ScrollProgressBar } from './ScrollProgressBar';
 export { useQuizGate } from './useQuizGate';
 export { useAutoScroll } from './useAutoScroll';
+export { useSlideTransitionSound } from '@/lib/sounds';

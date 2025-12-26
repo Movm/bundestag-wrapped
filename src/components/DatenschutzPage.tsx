@@ -72,6 +72,79 @@ export function DatenschutzPage() {
               Bei Fragen können Sie sich dennoch jederzeit an uns wenden.
             </p>
           </section>
+
+          <section>
+            <h2 className="text-lg font-semibold text-white mb-2">6. Sound Credits</h2>
+            <p className="mb-2">
+              Diese Website verwendet Sounds von{' '}
+              <a
+                href="https://freesound.org"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-pink-400 hover:text-pink-300 underline"
+              >
+                Freesound.org
+              </a>:
+            </p>
+            <ul className="list-disc list-inside space-y-1 ml-2">
+              <li>
+                <a
+                  href="https://freesound.org/people/nckn/sounds/256112/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-pink-400 hover:text-pink-300 underline"
+                >
+                  pleasant-done-notification.wav
+                </a>{' '}
+                von{' '}
+                <a
+                  href="https://freesound.org/people/nckn/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-pink-400 hover:text-pink-300 underline"
+                >
+                  nckn
+                </a>{' '}
+                – Lizenz:{' '}
+                <a
+                  href="https://creativecommons.org/licenses/by-nc/4.0/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-pink-400 hover:text-pink-300 underline"
+                >
+                  CC BY-NC 4.0
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://freesound.org/people/The-Sacha-Rush/sounds/472506/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-pink-400 hover:text-pink-300 underline"
+                >
+                  appearance-effect.wav
+                </a>{' '}
+                von{' '}
+                <a
+                  href="https://freesound.org/people/The-Sacha-Rush/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-pink-400 hover:text-pink-300 underline"
+                >
+                  The-Sacha-Rush
+                </a>{' '}
+                – Lizenz:{' '}
+                <a
+                  href="https://creativecommons.org/publicdomain/zero/1.0/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-pink-400 hover:text-pink-300 underline"
+                >
+                  CC0 1.0
+                </a>
+              </li>
+            </ul>
+          </section>
         </div>
 
         <p className="text-white/40 text-xs mt-10">
