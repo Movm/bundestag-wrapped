@@ -1,0 +1,45 @@
+{
+  "expo": {
+    "name": "Bundestag Wrapped",
+    "slug": "bundestag-wrapped",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "scheme": "bundestag-wrapped",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0a0a0f"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "de.bundestag.wrapped",
+      "backgroundColor": "#0a0a0f"
+    },
+    "android": {
+      "package": "de.bundestag.wrapped",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#0a0a0f"
+      },
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false
+    },
+    "plugins": [
+      "expo-router",
+      "expo-notifications"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "e90065cb-b810-4f0a-9323-ba6a6253d841"
+      }
+    },
+    "owner": "moritzius"
+  }
+}

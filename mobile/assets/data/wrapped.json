@@ -1,0 +1,3247 @@
+{
+  "metadata": {
+    "totalSpeeches": 4226,
+    "redenCount": 4226,
+    "wortbeitraegeCount": 2114,
+    "totalWords": 2522024,
+    "partyCount": 5,
+    "speakerCount": 600,
+    "wahlperiode": 21,
+    "sitzungen": 50
+  },
+  "parties": [
+    {
+      "party": "CDU/CSU",
+      "speeches": 1208,
+      "wortbeitraege": 956,
+      "totalWords": 758744,
+      "uniqueSpeakers": 197,
+      "topWords": [
+        {
+          "word": "deutschland",
+          "count": 2153
+        },
+        {
+          "word": "land",
+          "count": 2139
+        },
+        {
+          "word": "mensch",
+          "count": 1584
+        },
+        {
+          "word": "euro",
+          "count": 1245
+        },
+        {
+          "word": "haushalt",
+          "count": 847
+        },
+        {
+          "word": "milliarde",
+          "count": 786
+        },
+        {
+          "word": "europa",
+          "count": 713
+        }
+      ],
+      "signatureWords": [
+        {
+          "word": "wettbewerbsfähigkeit",
+          "ratio": 4.9
+        },
+        {
+          "word": "europa",
+          "ratio": 2.1
+        },
+        {
+          "word": "schritt",
+          "ratio": 2.3
+        },
+        {
+          "word": "wachstum",
+          "ratio": 2.9
+        },
+        {
+          "word": "marktwirtschaft",
+          "ratio": 4.2
+        }
+      ],
+      "keyTopics": [
+        {
+          "word": "europa",
+          "count": 713,
+          "ratio": 2.1
+        },
+        {
+          "word": "weg",
+          "count": 698,
+          "ratio": 1.7
+        },
+        {
+          "word": "wirtschaft",
+          "count": 546,
+          "ratio": 1.6
+        },
+        {
+          "word": "kommune",
+          "count": 503,
+          "ratio": 1.5
+        },
+        {
+          "word": "ziel",
+          "count": 481,
+          "ratio": 1.9
+        }
+      ],
+      "avgSpeechLength": 628,
+      "descriptiveness": 21.9,
+      "topSpeaker": {
+        "name": "Dr. Konrad Körner",
+        "speeches": 23
+      }
+    },
+    {
+      "party": "AfD",
+      "speeches": 983,
+      "wortbeitraege": 279,
+      "totalWords": 582343,
+      "uniqueSpeakers": 148,
+      "topWords": [
+        {
+          "word": "deutschland",
+          "count": 2164
+        },
+        {
+          "word": "euro",
+          "count": 1622
+        },
+        {
+          "word": "land",
+          "count": 1259
+        },
+        {
+          "word": "milliarde",
+          "count": 1027
+        },
+        {
+          "word": "bürger",
+          "count": 1015
+        },
+        {
+          "word": "mensch",
+          "count": 855
+        },
+        {
+          "word": "million",
+          "count": 681
+        }
+      ],
+      "signatureWords": [
+        {
+          "word": "altpartei",
+          "ratio": 82.4
+        },
+        {
+          "word": "steuerzahler",
+          "ratio": 14.8
+        },
+        {
+          "word": "bürger",
+          "ratio": 4.7
+        },
+        {
+          "word": "steuergeld",
+          "ratio": 8.9
+        },
+        {
+          "word": "wähler",
+          "ratio": 10.9
+        }
+      ],
+      "keyTopics": [
+        {
+          "word": "deutschland",
+          "count": 2164,
+          "ratio": 1.8
+        },
+        {
+          "word": "bürger",
+          "count": 1015,
+          "ratio": 4.7
+        },
+        {
+          "word": "regierung",
+          "count": 637,
+          "ratio": 1.9
+        },
+        {
+          "word": "politik",
+          "count": 600,
+          "ratio": 1.6
+        },
+        {
+          "word": "staat",
+          "count": 547,
+          "ratio": 1.6
+        }
+      ],
+      "avgSpeechLength": 592,
+      "descriptiveness": 21.6,
+      "topSpeaker": {
+        "name": "Stephan Brandner",
+        "speeches": 26
+      }
+    },
+    {
+      "party": "SPD",
+      "speeches": 834,
+      "wortbeitraege": 519,
+      "totalWords": 504269,
+      "uniqueSpeakers": 106,
+      "topWords": [
+        {
+          "word": "land",
+          "count": 1525
+        },
+        {
+          "word": "mensch",
+          "count": 1472
+        },
+        {
+          "word": "deutschland",
+          "count": 1052
+        },
+        {
+          "word": "euro",
+          "count": 914
+        },
+        {
+          "word": "haushalt",
+          "count": 596
+        },
+        {
+          "word": "milliarde",
+          "count": 557
+        },
+        {
+          "word": "dank",
+          "count": 530
+        }
+      ],
+      "signatureWords": [
+        {
+          "word": "zusammenhalt",
+          "ratio": 3.3
+        },
+        {
+          "word": "signal",
+          "ratio": 2.2
+        },
+        {
+          "word": "schwarzarbeit",
+          "ratio": 4.3
+        },
+        {
+          "word": "arbeitsplatz",
+          "ratio": 2.1
+        },
+        {
+          "word": "zusammenarbeit",
+          "ratio": 2.3
+        }
+      ],
+      "keyTopics": [
+        {
+          "word": "sicherheit",
+          "count": 506,
+          "ratio": 1.7
+        },
+        {
+          "word": "weg",
+          "count": 438,
+          "ratio": 1.6
+        },
+        {
+          "word": "investition",
+          "count": 324,
+          "ratio": 1.6
+        },
+        {
+          "word": "infrastruktur",
+          "count": 287,
+          "ratio": 1.6
+        },
+        {
+          "word": "koalitionsvertrag",
+          "count": 229,
+          "ratio": 1.6
+        }
+      ],
+      "avgSpeechLength": 604,
+      "descriptiveness": 20.9,
+      "topSpeaker": {
+        "name": "Frauke Heiligenstadt",
+        "speeches": 23
+      }
+    },
+    {
+      "party": "GRÜNE",
+      "speeches": 660,
+      "wortbeitraege": 236,
+      "totalWords": 388088,
+      "uniqueSpeakers": 85,
+      "topWords": [
+        {
+          "word": "mensch",
+          "count": 1420
+        },
+        {
+          "word": "land",
+          "count": 957
+        },
+        {
+          "word": "euro",
+          "count": 690
+        },
+        {
+          "word": "deutschland",
+          "count": 676
+        },
+        {
+          "word": "geld",
+          "count": 482
+        },
+        {
+          "word": "milliarde",
+          "count": 459
+        },
+        {
+          "word": "bundesregierung",
+          "count": 410
+        }
+      ],
+      "signatureWords": [
+        {
+          "word": "klimakrise",
+          "ratio": 3.8
+        },
+        {
+          "word": "lücke",
+          "ratio": 4.0
+        },
+        {
+          "word": "rechtsextreme",
+          "ratio": 5.2
+        },
+        {
+          "word": "gas",
+          "ratio": 3.3
+        },
+        {
+          "word": "jens spahn",
+          "ratio": 3.4
+        }
+      ],
+      "keyTopics": [
+        {
+          "word": "geld",
+          "count": 482,
+          "ratio": 1.5
+        },
+        {
+          "word": "koalition",
+          "count": 294,
+          "ratio": 1.6
+        },
+        {
+          "word": "klimaschutz",
+          "count": 228,
+          "ratio": 1.9
+        },
+        {
+          "word": "sondervermögen",
+          "count": 204,
+          "ratio": 1.9
+        },
+        {
+          "word": "ukraine",
+          "count": 183,
+          "ratio": 1.6
+        }
+      ],
+      "avgSpeechLength": 588,
+      "descriptiveness": 18.8,
+      "topSpeaker": {
+        "name": "Dr. Paula Piechotta",
+        "speeches": 22
+      }
+    },
+    {
+      "party": "DIE LINKE",
+      "speeches": 515,
+      "wortbeitraege": 118,
+      "totalWords": 279377,
+      "uniqueSpeakers": 63,
+      "topWords": [
+        {
+          "word": "mensch",
+          "count": 1258
+        },
+        {
+          "word": "euro",
+          "count": 690
+        },
+        {
+          "word": "land",
+          "count": 544
+        },
+        {
+          "word": "milliarde",
+          "count": 446
+        },
+        {
+          "word": "deutschland",
+          "count": 395
+        },
+        {
+          "word": "bundesregierung",
+          "count": 354
+        },
+        {
+          "word": "geld",
+          "count": 324
+        }
+      ],
+      "signatureWords": [
+        {
+          "word": "aufrüstung",
+          "ratio": 24.8
+        },
+        {
+          "word": "vermögensteuer",
+          "ratio": 29.0
+        },
+        {
+          "word": "rüstung",
+          "ratio": 21.2
+        },
+        {
+          "word": "profit",
+          "ratio": 21.8
+        },
+        {
+          "word": "superreiche",
+          "ratio": 17.5
+        }
+      ],
+      "keyTopics": [
+        {
+          "word": "mensch",
+          "count": 1258,
+          "ratio": 1.8
+        },
+        {
+          "word": "bundesregierung",
+          "count": 354,
+          "ratio": 1.5
+        },
+        {
+          "word": "kind",
+          "count": 263,
+          "ratio": 1.6
+        },
+        {
+          "word": "kommune",
+          "count": 186,
+          "ratio": 1.5
+        },
+        {
+          "word": "leben",
+          "count": 178,
+          "ratio": 1.8
+        }
+      ],
+      "avgSpeechLength": 542,
+      "descriptiveness": 19.8,
+      "topSpeaker": {
+        "name": "Sascha Wagner",
+        "speeches": 24
+      }
+    }
+  ],
+  "drama": {
+    "topZwischenrufer": [
+      {
+        "name": "Stephan Brandner",
+        "party": "AfD",
+        "count": 777
+      },
+      {
+        "name": "Jörn König",
+        "party": "AfD",
+        "count": 291
+      },
+      {
+        "name": "Dr. Götz Frömming",
+        "party": "AfD",
+        "count": 286
+      },
+      {
+        "name": "Dr. Bernd Baumann",
+        "party": "AfD",
+        "count": 217
+      },
+      {
+        "name": "Marc Bernhard",
+        "party": "AfD",
+        "count": 181
+      }
+    ],
+    "mostInterrupted": [
+      {
+        "name": "Friedrich Merz",
+        "party": "CDU/CSU",
+        "count": 166
+      },
+      {
+        "name": "Jens Spahn",
+        "party": "CDU/CSU",
+        "count": 114
+      },
+      {
+        "name": "Stephan Brandner",
+        "party": "AfD",
+        "count": 96
+      },
+      {
+        "name": "Dr. Paula Piechotta",
+        "party": "GRÜNE",
+        "count": 94
+      },
+      {
+        "name": "Lars Klingbeil",
+        "party": "SPD",
+        "count": 93
+      }
+    ],
+    "applauseChampions": [
+      {
+        "party": "CDU/CSU",
+        "count": 9696
+      },
+      {
+        "party": "SPD",
+        "count": 8116
+      },
+      {
+        "party": "AfD",
+        "count": 6659
+      },
+      {
+        "party": "DIE LINKE",
+        "count": 3744
+      },
+      {
+        "party": "GRÜNE",
+        "count": 3505
+      }
+    ],
+    "loudestHecklers": [
+      {
+        "party": "AfD",
+        "count": 4516
+      },
+      {
+        "party": "CDU/CSU",
+        "count": 1616
+      },
+      {
+        "party": "SPD",
+        "count": 1057
+      },
+      {
+        "party": "Die Linke",
+        "count": 815
+      }
+    ],
+    "zwischenrufStats": {
+      "total": 8004,
+      "positive": 1430,
+      "negative": 891,
+      "neutral": 5683,
+      "positivePercent": 17.9,
+      "negativePercent": 11.1,
+      "neutralPercent": 71.0,
+      "classification": {
+        "positive": "Zustimmung (genau, richtig, bravo, stimmt, ...)",
+        "negative": "Kritik (unsinn, quatsch, falsch, lüge, ...)",
+        "neutral": "Nicht klar zuordnenbar (Fragen, Kommentare, ...)"
+      }
+    }
+  },
+  "topSpeakers": [
+    {
+      "name": "Stephan Brandner",
+      "party": "AfD",
+      "speeches": 26
+    },
+    {
+      "name": "Stefan Seidler",
+      "party": "fraktionslos",
+      "speeches": 26
+    },
+    {
+      "name": "Sascha Wagner",
+      "party": "DIE LINKE",
+      "speeches": 24
+    },
+    {
+      "name": "Dr. Konrad Körner",
+      "party": "CDU/CSU",
+      "speeches": 23
+    },
+    {
+      "name": "Frauke Heiligenstadt",
+      "party": "SPD",
+      "speeches": 23
+    },
+    {
+      "name": "Dr. Paula Piechotta",
+      "party": "GRÜNE",
+      "speeches": 22
+    },
+    {
+      "name": "Clara Bünger",
+      "party": "DIE LINKE",
+      "speeches": 22
+    },
+    {
+      "name": "Helge Lindh",
+      "party": "SPD",
+      "speeches": 20
+    },
+    {
+      "name": "Kay Gottschalk",
+      "party": "AfD",
+      "speeches": 19
+    },
+    {
+      "name": "Wolfgang Wiehle",
+      "party": "AfD",
+      "speeches": 19
+    },
+    {
+      "name": "Markus Frohnmaier",
+      "party": "AfD",
+      "speeches": 19
+    },
+    {
+      "name": "Christian Görke",
+      "party": "DIE LINKE",
+      "speeches": 19
+    },
+    {
+      "name": "Christian Moser",
+      "party": "CDU/CSU",
+      "speeches": 18
+    },
+    {
+      "name": "Dr. Irene Mihalic",
+      "party": "GRÜNE",
+      "speeches": 18
+    },
+    {
+      "name": "Jürgen Hardt",
+      "party": "CDU/CSU",
+      "speeches": 17
+    },
+    {
+      "name": "Siemtje Möller",
+      "party": "SPD",
+      "speeches": 17
+    },
+    {
+      "name": "Dunja Kreiser",
+      "party": "SPD",
+      "speeches": 17
+    },
+    {
+      "name": "Hakan Demir",
+      "party": "SPD",
+      "speeches": 17
+    },
+    {
+      "name": "Marc Bernhard",
+      "party": "AfD",
+      "speeches": 16
+    },
+    {
+      "name": "Leon Eckert",
+      "party": "GRÜNE",
+      "speeches": 16
+    }
+  ],
+  "topBefragungResponders": [
+    {
+      "name": "Friedrich Merz",
+      "party": "CDU/CSU",
+      "responses": 86
+    },
+    {
+      "name": "Lars Klingbeil",
+      "party": "SPD",
+      "responses": 79
+    },
+    {
+      "name": "Frank Schwabe",
+      "party": "SPD",
+      "responses": 62
+    },
+    {
+      "name": "Stefan Rouenhoff",
+      "party": "CDU/CSU",
+      "responses": 61
+    },
+    {
+      "name": "Verena Hubertz",
+      "party": "SPD",
+      "responses": 60
+    },
+    {
+      "name": "Dr. Johann David Wadephul",
+      "party": "CDU/CSU",
+      "responses": 54
+    },
+    {
+      "name": "Karin Prien",
+      "party": "CDU/CSU",
+      "responses": 53
+    },
+    {
+      "name": "Thorsten Frei",
+      "party": "CDU/CSU",
+      "responses": 52
+    },
+    {
+      "name": "Alexander Dobrindt",
+      "party": "CDU/CSU",
+      "responses": 47
+    },
+    {
+      "name": "Daniela Ludwig",
+      "party": "CDU/CSU",
+      "responses": 46
+    },
+    {
+      "name": "Dr. Nils Schmid",
+      "party": "SPD",
+      "responses": 46
+    },
+    {
+      "name": "Nina Warken",
+      "party": "CDU/CSU",
+      "responses": 45
+    },
+    {
+      "name": "Patrick Schnieder",
+      "party": "CDU/CSU",
+      "responses": 41
+    },
+    {
+      "name": "Boris Pistorius",
+      "party": "SPD",
+      "responses": 41
+    },
+    {
+      "name": "Bärbel Bas",
+      "party": "SPD",
+      "responses": 40
+    },
+    {
+      "name": "Florian Hahn",
+      "party": "CDU/CSU",
+      "responses": 39
+    },
+    {
+      "name": "Gitta Connemann",
+      "party": "CDU/CSU",
+      "responses": 37
+    },
+    {
+      "name": "Carsten Schneider",
+      "party": "SPD",
+      "responses": 37
+    },
+    {
+      "name": "Dr. Silke Launert",
+      "party": "CDU/CSU",
+      "responses": 35
+    },
+    {
+      "name": "Dorothee Bär",
+      "party": "CDU/CSU",
+      "responses": 34
+    }
+  ],
+  "topSpeakersByWords": [
+    {
+      "name": "Friedrich Merz",
+      "party": "CDU/CSU",
+      "totalWords": 37752,
+      "speeches": 98
+    },
+    {
+      "name": "Lars Klingbeil",
+      "party": "SPD",
+      "totalWords": 33810,
+      "speeches": 93
+    },
+    {
+      "name": "Jens Spahn",
+      "party": "CDU/CSU",
+      "totalWords": 17911,
+      "speeches": 12
+    },
+    {
+      "name": "Alexander Dobrindt",
+      "party": "CDU/CSU",
+      "totalWords": 16968,
+      "speeches": 61
+    },
+    {
+      "name": "Dr. Paula Piechotta",
+      "party": "GRÜNE",
+      "totalWords": 15957,
+      "speeches": 23
+    },
+    {
+      "name": "Dr. Johann David Wadephul",
+      "party": "CDU/CSU",
+      "totalWords": 15089,
+      "speeches": 67
+    },
+    {
+      "name": "Stephan Brandner",
+      "party": "AfD",
+      "totalWords": 14679,
+      "speeches": 37
+    },
+    {
+      "name": "Dr. Michael Espendiller",
+      "party": "AfD",
+      "totalWords": 13504,
+      "speeches": 14
+    },
+    {
+      "name": "Heidi Reichinnek",
+      "party": "DIE LINKE",
+      "totalWords": 13308,
+      "speeches": 13
+    },
+    {
+      "name": "Tino Chrupalla",
+      "party": "AfD",
+      "totalWords": 13087,
+      "speeches": 10
+    },
+    {
+      "name": "Boris Pistorius",
+      "party": "SPD",
+      "totalWords": 12930,
+      "speeches": 48
+    },
+    {
+      "name": "Dr. Dietmar Bartsch",
+      "party": "DIE LINKE",
+      "totalWords": 12122,
+      "speeches": 16
+    },
+    {
+      "name": "Helge Lindh",
+      "party": "SPD",
+      "totalWords": 12030,
+      "speeches": 24
+    },
+    {
+      "name": "Clara Bünger",
+      "party": "DIE LINKE",
+      "totalWords": 12007,
+      "speeches": 28
+    },
+    {
+      "name": "Mechthilde Wittmann",
+      "party": "CDU/CSU",
+      "totalWords": 11915,
+      "speeches": 17
+    },
+    {
+      "name": "Carsten Schneider",
+      "party": "SPD",
+      "totalWords": 11792,
+      "speeches": 48
+    },
+    {
+      "name": "Jürgen Hardt",
+      "party": "CDU/CSU",
+      "totalWords": 11721,
+      "speeches": 19
+    },
+    {
+      "name": "Christian Moser",
+      "party": "CDU/CSU",
+      "totalWords": 11621,
+      "speeches": 23
+    },
+    {
+      "name": "Nina Warken",
+      "party": "CDU/CSU",
+      "totalWords": 11534,
+      "speeches": 58
+    },
+    {
+      "name": "Kay Gottschalk",
+      "party": "AfD",
+      "totalWords": 11366,
+      "speeches": 19
+    }
+  ],
+  "topSpeakersByAvgWords": [
+    {
+      "name": "Friedrich Merz",
+      "party": "CDU/CSU",
+      "avgWords": 1638,
+      "totalWords": 19658,
+      "speeches": 12
+    },
+    {
+      "name": "Katharina Dröge",
+      "party": "GRÜNE",
+      "avgWords": 1598,
+      "totalWords": 11192,
+      "speeches": 7
+    },
+    {
+      "name": "Lars Klingbeil",
+      "party": "SPD",
+      "avgWords": 1566,
+      "totalWords": 21932,
+      "speeches": 14
+    },
+    {
+      "name": "Jens Spahn",
+      "party": "CDU/CSU",
+      "avgWords": 1558,
+      "totalWords": 14023,
+      "speeches": 9
+    },
+    {
+      "name": "Tino Chrupalla",
+      "party": "AfD",
+      "avgWords": 1352,
+      "totalWords": 12169,
+      "speeches": 9
+    },
+    {
+      "name": "Dr. Alice Weidel",
+      "party": "AfD",
+      "avgWords": 1157,
+      "totalWords": 9259,
+      "speeches": 8
+    },
+    {
+      "name": "Dr. Matthias Miersch",
+      "party": "SPD",
+      "avgWords": 1066,
+      "totalWords": 8534,
+      "speeches": 8
+    },
+    {
+      "name": "Heidi Reichinnek",
+      "party": "DIE LINKE",
+      "avgWords": 991,
+      "totalWords": 11899,
+      "speeches": 12
+    },
+    {
+      "name": "Dr. Michael Espendiller",
+      "party": "AfD",
+      "avgWords": 964,
+      "totalWords": 13504,
+      "speeches": 14
+    },
+    {
+      "name": "Thomas Ladzinski",
+      "party": "AfD",
+      "avgWords": 898,
+      "totalWords": 7187,
+      "speeches": 8
+    },
+    {
+      "name": "Katherina Reiche",
+      "party": "CDU/CSU",
+      "avgWords": 897,
+      "totalWords": 4488,
+      "speeches": 5
+    },
+    {
+      "name": "Ulrike Schielke-Ziesing",
+      "party": "AfD",
+      "avgWords": 875,
+      "totalWords": 7004,
+      "speeches": 8
+    },
+    {
+      "name": "Britta Haßelmann",
+      "party": "GRÜNE",
+      "avgWords": 870,
+      "totalWords": 6091,
+      "speeches": 7
+    },
+    {
+      "name": "Dr. Dietmar Bartsch",
+      "party": "DIE LINKE",
+      "avgWords": 867,
+      "totalWords": 6073,
+      "speeches": 7
+    },
+    {
+      "name": "Patrick Schnieder",
+      "party": "CDU/CSU",
+      "avgWords": 860,
+      "totalWords": 4302,
+      "speeches": 5
+    },
+    {
+      "name": "Dr. Gottfried Curio",
+      "party": "AfD",
+      "avgWords": 822,
+      "totalWords": 8220,
+      "speeches": 10
+    },
+    {
+      "name": "Dr. Mathias Middelberg",
+      "party": "CDU/CSU",
+      "avgWords": 783,
+      "totalWords": 7050,
+      "speeches": 9
+    },
+    {
+      "name": "Franziska Hoppermann",
+      "party": "CDU/CSU",
+      "avgWords": 779,
+      "totalWords": 4676,
+      "speeches": 6
+    },
+    {
+      "name": "Alois Rainer",
+      "party": "CDU/CSU",
+      "avgWords": 772,
+      "totalWords": 5409,
+      "speeches": 7
+    },
+    {
+      "name": "Ines Schwerdtner",
+      "party": "DIE LINKE",
+      "avgWords": 770,
+      "totalWords": 10012,
+      "speeches": 13
+    }
+  ],
+  "hotTopics": [
+    "mensch",
+    "deutschland",
+    "land",
+    "euro",
+    "milliarde",
+    "haushalt",
+    "dank",
+    "million",
+    "bundesregierung",
+    "geld",
+    "politik",
+    "sicherheit",
+    "staat",
+    "weg",
+    "verantwortung"
+  ],
+  "toneAnalysis": {
+    "parties": [
+      {
+        "party": "CDU/CSU",
+        "scores": {
+          "affirmative": 91.1,
+          "aggression": 0.7,
+          "labeling": 4.6,
+          "solution_focus": 87.0,
+          "collaboration": 61.2,
+          "demand_intensity": 6.6,
+          "acknowledgment": 8.9,
+          "authority": 76.0,
+          "future_orientation": 100.0,
+          "emotional_intensity": 47.8,
+          "inclusivity": 75.2,
+          "discriminatory": 0.04
+        },
+        "topAffirmative": [
+          {
+            "word": "stark",
+            "count": 361
+          },
+          {
+            "word": "sozial",
+            "count": 321
+          },
+          {
+            "word": "wirtschaftlich",
+            "count": 310
+          },
+          {
+            "word": "zentral",
+            "count": 203
+          },
+          {
+            "word": "verlässlich",
+            "count": 138
+          }
+        ],
+        "topCritical": [
+          {
+            "word": "kritisch",
+            "count": 75
+          },
+          {
+            "word": "gefährlich",
+            "count": 30
+          },
+          {
+            "word": "teuer",
+            "count": 17
+          },
+          {
+            "word": "schwach",
+            "count": 16
+          },
+          {
+            "word": "fatal",
+            "count": 14
+          }
+        ],
+        "topAggressive": [
+          {
+            "word": "unverantwortlich",
+            "count": 2
+          },
+          {
+            "word": "verantwortungslos",
+            "count": 2
+          },
+          {
+            "word": "absurd",
+            "count": 2
+          },
+          {
+            "word": "rücksichtslos",
+            "count": 2
+          },
+          {
+            "word": "erbärmlich",
+            "count": 2
+          }
+        ],
+        "topLabeling": [
+          {
+            "word": "ideologisch",
+            "count": 36
+          },
+          {
+            "word": "populistisch",
+            "count": 21
+          },
+          {
+            "word": "sozialistisch",
+            "count": 18
+          },
+          {
+            "word": "radikal",
+            "count": 9
+          },
+          {
+            "word": "rechtsextrem",
+            "count": 9
+          }
+        ],
+        "topSolution": [
+          {
+            "word": "schaffen",
+            "count": 819
+          },
+          {
+            "word": "stärken",
+            "count": 567
+          },
+          {
+            "word": "investieren",
+            "count": 374
+          },
+          {
+            "word": "unterstützen",
+            "count": 327
+          },
+          {
+            "word": "erreichen",
+            "count": 310
+          }
+        ],
+        "topProblem": [
+          {
+            "word": "verhindern",
+            "count": 115
+          },
+          {
+            "word": "reduzieren",
+            "count": 96
+          },
+          {
+            "word": "gefährden",
+            "count": 75
+          },
+          {
+            "word": "abbauen",
+            "count": 69
+          },
+          {
+            "word": "bedrohen",
+            "count": 63
+          }
+        ],
+        "topCollaborative": [
+          {
+            "word": "diskutieren",
+            "count": 150
+          },
+          {
+            "word": "beraten",
+            "count": 147
+          },
+          {
+            "word": "beteiligen",
+            "count": 53
+          },
+          {
+            "word": "berücksichtigen",
+            "count": 47
+          },
+          {
+            "word": "verhandeln",
+            "count": 40
+          }
+        ],
+        "topConfrontational": [
+          {
+            "word": "bekämpfen",
+            "count": 73
+          },
+          {
+            "word": "drohen",
+            "count": 51
+          },
+          {
+            "word": "kritisieren",
+            "count": 45
+          },
+          {
+            "word": "ablehnen",
+            "count": 44
+          },
+          {
+            "word": "angreifen",
+            "count": 36
+          }
+        ],
+        "topDemanding": [
+          {
+            "word": "fordern",
+            "count": 237
+          },
+          {
+            "word": "bestehen",
+            "count": 128
+          },
+          {
+            "word": "verpflichten",
+            "count": 53
+          },
+          {
+            "word": "durchsetzen",
+            "count": 52
+          },
+          {
+            "word": "verlangen",
+            "count": 42
+          }
+        ],
+        "topAcknowledging": [
+          {
+            "word": "freuen",
+            "count": 242
+          },
+          {
+            "word": "danken",
+            "count": 167
+          },
+          {
+            "word": "bedanken",
+            "count": 84
+          },
+          {
+            "word": "betonen",
+            "count": 71
+          },
+          {
+            "word": "achten",
+            "count": 53
+          }
+        ]
+      },
+      {
+        "party": "AfD",
+        "scores": {
+          "affirmative": 73.5,
+          "aggression": 6.8,
+          "labeling": 15.8,
+          "solution_focus": 70.9,
+          "collaboration": 38.2,
+          "demand_intensity": 12.9,
+          "acknowledgment": 5.8,
+          "authority": 75.7,
+          "future_orientation": 100.0,
+          "emotional_intensity": 53.2,
+          "inclusivity": 52.7,
+          "discriminatory": 0.37
+        },
+        "topAffirmative": [
+          {
+            "word": "wirtschaftlich",
+            "count": 142
+          },
+          {
+            "word": "sozial",
+            "count": 119
+          },
+          {
+            "word": "demokratisch",
+            "count": 113
+          },
+          {
+            "word": "stark",
+            "count": 88
+          },
+          {
+            "word": "sicher",
+            "count": 71
+          }
+        ],
+        "topCritical": [
+          {
+            "word": "teuer",
+            "count": 83
+          },
+          {
+            "word": "kritisch",
+            "count": 58
+          },
+          {
+            "word": "gescheitert",
+            "count": 35
+          },
+          {
+            "word": "gefährlich",
+            "count": 28
+          },
+          {
+            "word": "fatal",
+            "count": 25
+          }
+        ],
+        "topAggressive": [
+          {
+            "word": "absurd",
+            "count": 24
+          },
+          {
+            "word": "unsinnig",
+            "count": 16
+          },
+          {
+            "word": "verantwortungslos",
+            "count": 10
+          },
+          {
+            "word": "korrupt",
+            "count": 9
+          },
+          {
+            "word": "peinlich",
+            "count": 9
+          }
+        ],
+        "topLabeling": [
+          {
+            "word": "ideologisch",
+            "count": 173
+          },
+          {
+            "word": "sozialistisch",
+            "count": 42
+          },
+          {
+            "word": "radikal",
+            "count": 28
+          },
+          {
+            "word": "linksextrem",
+            "count": 17
+          },
+          {
+            "word": "kommunistisch",
+            "count": 9
+          }
+        ],
+        "topSolution": [
+          {
+            "word": "schaffen",
+            "count": 400
+          },
+          {
+            "word": "finanzieren",
+            "count": 174
+          },
+          {
+            "word": "schützen",
+            "count": 160
+          },
+          {
+            "word": "erhalten",
+            "count": 135
+          },
+          {
+            "word": "fördern",
+            "count": 115
+          }
+        ],
+        "topProblem": [
+          {
+            "word": "verhindern",
+            "count": 115
+          },
+          {
+            "word": "streichen",
+            "count": 107
+          },
+          {
+            "word": "zerstören",
+            "count": 105
+          },
+          {
+            "word": "scheitern",
+            "count": 84
+          },
+          {
+            "word": "gefährden",
+            "count": 62
+          }
+        ],
+        "topCollaborative": [
+          {
+            "word": "zustimmen",
+            "count": 75
+          },
+          {
+            "word": "diskutieren",
+            "count": 46
+          },
+          {
+            "word": "beraten",
+            "count": 39
+          },
+          {
+            "word": "verhandeln",
+            "count": 27
+          },
+          {
+            "word": "beteiligen",
+            "count": 26
+          }
+        ],
+        "topConfrontational": [
+          {
+            "word": "ablehnen",
+            "count": 86
+          },
+          {
+            "word": "kritisieren",
+            "count": 65
+          },
+          {
+            "word": "drohen",
+            "count": 54
+          },
+          {
+            "word": "warnen",
+            "count": 53
+          },
+          {
+            "word": "bekämpfen",
+            "count": 51
+          }
+        ],
+        "topDemanding": [
+          {
+            "word": "fordern",
+            "count": 360
+          },
+          {
+            "word": "bestehen",
+            "count": 98
+          },
+          {
+            "word": "zwingen",
+            "count": 58
+          },
+          {
+            "word": "durchsetzen",
+            "count": 50
+          },
+          {
+            "word": "verlangen",
+            "count": 34
+          }
+        ],
+        "topAcknowledging": [
+          {
+            "word": "freuen",
+            "count": 73
+          },
+          {
+            "word": "danken",
+            "count": 46
+          },
+          {
+            "word": "feiern",
+            "count": 42
+          },
+          {
+            "word": "begrüßen",
+            "count": 37
+          },
+          {
+            "word": "bedanken",
+            "count": 30
+          }
+        ]
+      },
+      {
+        "party": "SPD",
+        "scores": {
+          "affirmative": 90.7,
+          "aggression": 1.0,
+          "labeling": 3.7,
+          "solution_focus": 88.5,
+          "collaboration": 62.7,
+          "demand_intensity": 5.2,
+          "acknowledgment": 10.7,
+          "authority": 75.7,
+          "future_orientation": 99.9,
+          "emotional_intensity": 47.2,
+          "inclusivity": 74.5,
+          "discriminatory": 0.02
+        },
+        "topAffirmative": [
+          {
+            "word": "sozial",
+            "count": 283
+          },
+          {
+            "word": "stark",
+            "count": 248
+          },
+          {
+            "word": "demokratisch",
+            "count": 171
+          },
+          {
+            "word": "zentral",
+            "count": 161
+          },
+          {
+            "word": "wirtschaftlich",
+            "count": 146
+          }
+        ],
+        "topCritical": [
+          {
+            "word": "kritisch",
+            "count": 59
+          },
+          {
+            "word": "gefährlich",
+            "count": 32
+          },
+          {
+            "word": "dramatisch",
+            "count": 18
+          },
+          {
+            "word": "schwach",
+            "count": 10
+          },
+          {
+            "word": "teuer",
+            "count": 10
+          }
+        ],
+        "topAggressive": [
+          {
+            "word": "unfassbar",
+            "count": 6
+          },
+          {
+            "word": "absurd",
+            "count": 4
+          },
+          {
+            "word": "unverantwortlich",
+            "count": 3
+          },
+          {
+            "word": "heuchlerisch",
+            "count": 2
+          },
+          {
+            "word": "verlogen",
+            "count": 1
+          }
+        ],
+        "topLabeling": [
+          {
+            "word": "ideologisch",
+            "count": 19
+          },
+          {
+            "word": "rechtsextrem",
+            "count": 16
+          },
+          {
+            "word": "populistisch",
+            "count": 11
+          },
+          {
+            "word": "linksradikal",
+            "count": 8
+          },
+          {
+            "word": "verfassungsfeindlich",
+            "count": 7
+          }
+        ],
+        "topSolution": [
+          {
+            "word": "schaffen",
+            "count": 510
+          },
+          {
+            "word": "investieren",
+            "count": 504
+          },
+          {
+            "word": "stärken",
+            "count": 405
+          },
+          {
+            "word": "unterstützen",
+            "count": 267
+          },
+          {
+            "word": "schützen",
+            "count": 230
+          }
+        ],
+        "topProblem": [
+          {
+            "word": "verhindern",
+            "count": 63
+          },
+          {
+            "word": "gefährden",
+            "count": 47
+          },
+          {
+            "word": "bedrohen",
+            "count": 47
+          },
+          {
+            "word": "zerstören",
+            "count": 40
+          },
+          {
+            "word": "abbauen",
+            "count": 39
+          }
+        ],
+        "topCollaborative": [
+          {
+            "word": "diskutieren",
+            "count": 144
+          },
+          {
+            "word": "beraten",
+            "count": 100
+          },
+          {
+            "word": "beteiligen",
+            "count": 57
+          },
+          {
+            "word": "verhandeln",
+            "count": 48
+          },
+          {
+            "word": "berücksichtigen",
+            "count": 29
+          }
+        ],
+        "topConfrontational": [
+          {
+            "word": "bekämpfen",
+            "count": 47
+          },
+          {
+            "word": "angreifen",
+            "count": 44
+          },
+          {
+            "word": "ablehnen",
+            "count": 41
+          },
+          {
+            "word": "kritisieren",
+            "count": 29
+          },
+          {
+            "word": "drohen",
+            "count": 23
+          }
+        ],
+        "topDemanding": [
+          {
+            "word": "fordern",
+            "count": 116
+          },
+          {
+            "word": "bestehen",
+            "count": 59
+          },
+          {
+            "word": "verpflichten",
+            "count": 42
+          },
+          {
+            "word": "durchsetzen",
+            "count": 29
+          },
+          {
+            "word": "verlangen",
+            "count": 27
+          }
+        ],
+        "topAcknowledging": [
+          {
+            "word": "freuen",
+            "count": 214
+          },
+          {
+            "word": "danken",
+            "count": 140
+          },
+          {
+            "word": "betonen",
+            "count": 81
+          },
+          {
+            "word": "bedanken",
+            "count": 67
+          },
+          {
+            "word": "begrüßen",
+            "count": 46
+          }
+        ]
+      },
+      {
+        "party": "GRÜNE",
+        "scores": {
+          "affirmative": 81.2,
+          "aggression": 3.7,
+          "labeling": 7.8,
+          "solution_focus": 75.3,
+          "collaboration": 45.6,
+          "demand_intensity": 8.7,
+          "acknowledgment": 7.6,
+          "authority": 77.2,
+          "future_orientation": 100.0,
+          "emotional_intensity": 52.2,
+          "inclusivity": 51.4,
+          "discriminatory": 0.05
+        },
+        "topAffirmative": [
+          {
+            "word": "sozial",
+            "count": 121
+          },
+          {
+            "word": "stark",
+            "count": 102
+          },
+          {
+            "word": "demokratisch",
+            "count": 100
+          },
+          {
+            "word": "zentral",
+            "count": 90
+          },
+          {
+            "word": "wirtschaftlich",
+            "count": 48
+          }
+        ],
+        "topCritical": [
+          {
+            "word": "kritisch",
+            "count": 37
+          },
+          {
+            "word": "teuer",
+            "count": 30
+          },
+          {
+            "word": "gefährlich",
+            "count": 26
+          },
+          {
+            "word": "fatal",
+            "count": 20
+          },
+          {
+            "word": "schlimm",
+            "count": 11
+          }
+        ],
+        "topAggressive": [
+          {
+            "word": "absurd",
+            "count": 10
+          },
+          {
+            "word": "unehrlich",
+            "count": 7
+          },
+          {
+            "word": "lächerlich",
+            "count": 4
+          },
+          {
+            "word": "unfassbar",
+            "count": 4
+          },
+          {
+            "word": "dreist",
+            "count": 4
+          }
+        ],
+        "topLabeling": [
+          {
+            "word": "rechtsextrem",
+            "count": 45
+          },
+          {
+            "word": "ideologisch",
+            "count": 17
+          },
+          {
+            "word": "radikal",
+            "count": 8
+          },
+          {
+            "word": "populistisch",
+            "count": 7
+          },
+          {
+            "word": "extremistisch",
+            "count": 7
+          }
+        ],
+        "topSolution": [
+          {
+            "word": "schaffen",
+            "count": 330
+          },
+          {
+            "word": "unterstützen",
+            "count": 161
+          },
+          {
+            "word": "schützen",
+            "count": 154
+          },
+          {
+            "word": "investieren",
+            "count": 146
+          },
+          {
+            "word": "stärken",
+            "count": 126
+          }
+        ],
+        "topProblem": [
+          {
+            "word": "kürzen",
+            "count": 123
+          },
+          {
+            "word": "streichen",
+            "count": 73
+          },
+          {
+            "word": "verhindern",
+            "count": 48
+          },
+          {
+            "word": "zerstören",
+            "count": 48
+          },
+          {
+            "word": "scheitern",
+            "count": 44
+          }
+        ],
+        "topCollaborative": [
+          {
+            "word": "diskutieren",
+            "count": 69
+          },
+          {
+            "word": "zustimmen",
+            "count": 45
+          },
+          {
+            "word": "beraten",
+            "count": 32
+          },
+          {
+            "word": "beteiligen",
+            "count": 32
+          },
+          {
+            "word": "verhandeln",
+            "count": 20
+          }
+        ],
+        "topConfrontational": [
+          {
+            "word": "angreifen",
+            "count": 64
+          },
+          {
+            "word": "drohen",
+            "count": 42
+          },
+          {
+            "word": "kritisieren",
+            "count": 40
+          },
+          {
+            "word": "ablehnen",
+            "count": 40
+          },
+          {
+            "word": "bekämpfen",
+            "count": 34
+          }
+        ],
+        "topDemanding": [
+          {
+            "word": "fordern",
+            "count": 167
+          },
+          {
+            "word": "durchsetzen",
+            "count": 39
+          },
+          {
+            "word": "verpflichten",
+            "count": 29
+          },
+          {
+            "word": "bestehen",
+            "count": 28
+          },
+          {
+            "word": "zwingen",
+            "count": 26
+          }
+        ],
+        "topAcknowledging": [
+          {
+            "word": "freuen",
+            "count": 82
+          },
+          {
+            "word": "danken",
+            "count": 39
+          },
+          {
+            "word": "feiern",
+            "count": 36
+          },
+          {
+            "word": "betonen",
+            "count": 30
+          },
+          {
+            "word": "anerkennen",
+            "count": 29
+          }
+        ]
+      },
+      {
+        "party": "DIE LINKE",
+        "scores": {
+          "affirmative": 82.0,
+          "aggression": 5.1,
+          "labeling": 7.1,
+          "solution_focus": 69.6,
+          "collaboration": 39.7,
+          "demand_intensity": 13.3,
+          "acknowledgment": 5.5,
+          "authority": 76.8,
+          "future_orientation": 100.0,
+          "emotional_intensity": 54.4,
+          "inclusivity": 43.8,
+          "discriminatory": 0.04
+        },
+        "topAffirmative": [
+          {
+            "word": "sozial",
+            "count": 240
+          },
+          {
+            "word": "demokratisch",
+            "count": 93
+          },
+          {
+            "word": "zentral",
+            "count": 52
+          },
+          {
+            "word": "stark",
+            "count": 47
+          },
+          {
+            "word": "sicher",
+            "count": 44
+          }
+        ],
+        "topCritical": [
+          {
+            "word": "teuer",
+            "count": 24
+          },
+          {
+            "word": "kritisch",
+            "count": 22
+          },
+          {
+            "word": "gefährlich",
+            "count": 20
+          },
+          {
+            "word": "schlimm",
+            "count": 12
+          },
+          {
+            "word": "verfehlt",
+            "count": 12
+          }
+        ],
+        "topAggressive": [
+          {
+            "word": "absurd",
+            "count": 11
+          },
+          {
+            "word": "lächerlich",
+            "count": 5
+          },
+          {
+            "word": "dreist",
+            "count": 5
+          },
+          {
+            "word": "peinlich",
+            "count": 4
+          },
+          {
+            "word": "skandalös",
+            "count": 4
+          }
+        ],
+        "topLabeling": [
+          {
+            "word": "rechtsextrem",
+            "count": 33
+          },
+          {
+            "word": "radikal",
+            "count": 9
+          },
+          {
+            "word": "ideologisch",
+            "count": 6
+          },
+          {
+            "word": "nationalistisch",
+            "count": 5
+          },
+          {
+            "word": "rechtsradikal",
+            "count": 5
+          }
+        ],
+        "topSolution": [
+          {
+            "word": "schaffen",
+            "count": 191
+          },
+          {
+            "word": "schützen",
+            "count": 106
+          },
+          {
+            "word": "stärken",
+            "count": 99
+          },
+          {
+            "word": "helfen",
+            "count": 96
+          },
+          {
+            "word": "unterstützen",
+            "count": 79
+          }
+        ],
+        "topProblem": [
+          {
+            "word": "kürzen",
+            "count": 109
+          },
+          {
+            "word": "verhindern",
+            "count": 78
+          },
+          {
+            "word": "streichen",
+            "count": 62
+          },
+          {
+            "word": "gefährden",
+            "count": 39
+          },
+          {
+            "word": "verschärfen",
+            "count": 26
+          }
+        ],
+        "topCollaborative": [
+          {
+            "word": "zustimmen",
+            "count": 32
+          },
+          {
+            "word": "diskutieren",
+            "count": 32
+          },
+          {
+            "word": "beteiligen",
+            "count": 19
+          },
+          {
+            "word": "berücksichtigen",
+            "count": 15
+          },
+          {
+            "word": "beraten",
+            "count": 14
+          }
+        ],
+        "topConfrontational": [
+          {
+            "word": "drohen",
+            "count": 46
+          },
+          {
+            "word": "bekämpfen",
+            "count": 44
+          },
+          {
+            "word": "kritisieren",
+            "count": 35
+          },
+          {
+            "word": "ablehnen",
+            "count": 25
+          },
+          {
+            "word": "warnen",
+            "count": 22
+          }
+        ],
+        "topDemanding": [
+          {
+            "word": "fordern",
+            "count": 219
+          },
+          {
+            "word": "zwingen",
+            "count": 36
+          },
+          {
+            "word": "bestehen",
+            "count": 32
+          },
+          {
+            "word": "durchsetzen",
+            "count": 31
+          },
+          {
+            "word": "verlangen",
+            "count": 24
+          }
+        ],
+        "topAcknowledging": [
+          {
+            "word": "freuen",
+            "count": 31
+          },
+          {
+            "word": "anerkennen",
+            "count": 19
+          },
+          {
+            "word": "feiern",
+            "count": 19
+          },
+          {
+            "word": "danken",
+            "count": 17
+          },
+          {
+            "word": "betonen",
+            "count": 16
+          }
+        ]
+      }
+    ],
+    "partyProfiles": {
+      "CDU/CSU": {
+        "party": "CDU/CSU",
+        "category": "affirmative",
+        "categoryName": "Positiv",
+        "emoji": "🏛️",
+        "description": "Höchster Positivitätswert (Adjektive)",
+        "rank": 1,
+        "totalParties": 5,
+        "score": 91.1,
+        "traits": [
+          "Positiv",
+          "Inklusiv",
+          "Kooperativ"
+        ],
+        "scores": {
+          "affirmative": 91.1,
+          "aggression": 0.7,
+          "labeling": 4.6,
+          "solution_focus": 87.0,
+          "collaboration": 61.2,
+          "demand_intensity": 6.6,
+          "acknowledgment": 8.9,
+          "authority": 76.0,
+          "future_orientation": 100.0,
+          "emotional_intensity": 47.8,
+          "inclusivity": 75.2,
+          "discriminatory": 0.04
+        }
+      },
+      "AfD": {
+        "party": "AfD",
+        "category": "aggression",
+        "categoryName": "Aggressiv",
+        "emoji": "😤",
+        "description": "Höchster Aggressionsindex (Adjektive)",
+        "rank": 1,
+        "totalParties": 5,
+        "score": 6.8,
+        "traits": [
+          "Aggressiv",
+          "Fordernd"
+        ],
+        "scores": {
+          "affirmative": 73.5,
+          "aggression": 6.8,
+          "labeling": 15.8,
+          "solution_focus": 70.9,
+          "collaboration": 38.2,
+          "demand_intensity": 12.9,
+          "acknowledgment": 5.8,
+          "authority": 75.7,
+          "future_orientation": 100.0,
+          "emotional_intensity": 53.2,
+          "inclusivity": 52.7,
+          "discriminatory": 0.37
+        }
+      },
+      "SPD": {
+        "party": "SPD",
+        "category": "solution_focus",
+        "categoryName": "Lösungsorientiert",
+        "emoji": "🛠️",
+        "description": "Höchste Lösungsorientierung (Verben)",
+        "rank": 1,
+        "totalParties": 5,
+        "score": 88.5,
+        "traits": [
+          "Kooperativ",
+          "Lösungsorientiert",
+          "Positiv"
+        ],
+        "scores": {
+          "affirmative": 90.7,
+          "aggression": 1.0,
+          "labeling": 3.7,
+          "solution_focus": 88.5,
+          "collaboration": 62.7,
+          "demand_intensity": 5.2,
+          "acknowledgment": 10.7,
+          "authority": 75.7,
+          "future_orientation": 99.9,
+          "emotional_intensity": 47.2,
+          "inclusivity": 74.5,
+          "discriminatory": 0.02
+        }
+      },
+      "GRÜNE": {
+        "party": "GRÜNE",
+        "category": "solution_focus",
+        "categoryName": "Lösungsorientiert",
+        "emoji": "⚖️",
+        "description": "Höchste Lösungsorientierung (Verben)",
+        "rank": 3,
+        "totalParties": 5,
+        "score": 75.3,
+        "traits": [],
+        "scores": {
+          "affirmative": 81.2,
+          "aggression": 3.7,
+          "labeling": 7.8,
+          "solution_focus": 75.3,
+          "collaboration": 45.6,
+          "demand_intensity": 8.7,
+          "acknowledgment": 7.6,
+          "authority": 77.2,
+          "future_orientation": 100.0,
+          "emotional_intensity": 52.2,
+          "inclusivity": 51.4,
+          "discriminatory": 0.05
+        }
+      },
+      "DIE LINKE": {
+        "party": "DIE LINKE",
+        "category": "demand_intensity",
+        "categoryName": "Fordernd",
+        "emoji": "✊",
+        "description": "Höchste Forderungsintensität (Verben)",
+        "rank": 1,
+        "totalParties": 5,
+        "score": 13.3,
+        "traits": [
+          "Fordernd",
+          "Aggressiv"
+        ],
+        "scores": {
+          "affirmative": 82.0,
+          "aggression": 5.1,
+          "labeling": 7.1,
+          "solution_focus": 69.6,
+          "collaboration": 39.7,
+          "demand_intensity": 13.3,
+          "acknowledgment": 5.5,
+          "authority": 76.8,
+          "future_orientation": 100.0,
+          "emotional_intensity": 54.4,
+          "inclusivity": 43.8,
+          "discriminatory": 0.04
+        }
+      }
+    },
+    "rankings": {
+      "affirmative": [
+        {
+          "party": "CDU/CSU",
+          "score": 91.1
+        },
+        {
+          "party": "SPD",
+          "score": 90.7
+        },
+        {
+          "party": "DIE LINKE",
+          "score": 82.0
+        },
+        {
+          "party": "GRÜNE",
+          "score": 81.2
+        },
+        {
+          "party": "AfD",
+          "score": 73.5
+        }
+      ],
+      "aggression": [
+        {
+          "party": "AfD",
+          "score": 6.8
+        },
+        {
+          "party": "DIE LINKE",
+          "score": 5.1
+        },
+        {
+          "party": "GRÜNE",
+          "score": 3.7
+        },
+        {
+          "party": "SPD",
+          "score": 1.0
+        },
+        {
+          "party": "CDU/CSU",
+          "score": 0.7
+        }
+      ],
+      "labeling": [
+        {
+          "party": "AfD",
+          "score": 15.8
+        },
+        {
+          "party": "GRÜNE",
+          "score": 7.8
+        },
+        {
+          "party": "DIE LINKE",
+          "score": 7.1
+        },
+        {
+          "party": "CDU/CSU",
+          "score": 4.6
+        },
+        {
+          "party": "SPD",
+          "score": 3.7
+        }
+      ],
+      "solutionFocus": [
+        {
+          "party": "SPD",
+          "score": 88.5
+        },
+        {
+          "party": "CDU/CSU",
+          "score": 87.0
+        },
+        {
+          "party": "GRÜNE",
+          "score": 75.3
+        },
+        {
+          "party": "AfD",
+          "score": 70.9
+        },
+        {
+          "party": "DIE LINKE",
+          "score": 69.6
+        }
+      ],
+      "collaboration": [
+        {
+          "party": "SPD",
+          "score": 62.7
+        },
+        {
+          "party": "CDU/CSU",
+          "score": 61.2
+        },
+        {
+          "party": "GRÜNE",
+          "score": 45.6
+        },
+        {
+          "party": "DIE LINKE",
+          "score": 39.7
+        },
+        {
+          "party": "AfD",
+          "score": 38.2
+        }
+      ],
+      "demandIntensity": [
+        {
+          "party": "DIE LINKE",
+          "score": 13.3
+        },
+        {
+          "party": "AfD",
+          "score": 12.9
+        },
+        {
+          "party": "GRÜNE",
+          "score": 8.7
+        },
+        {
+          "party": "CDU/CSU",
+          "score": 6.6
+        },
+        {
+          "party": "SPD",
+          "score": 5.2
+        }
+      ],
+      "acknowledgment": [
+        {
+          "party": "SPD",
+          "score": 10.7
+        },
+        {
+          "party": "CDU/CSU",
+          "score": 8.9
+        },
+        {
+          "party": "GRÜNE",
+          "score": 7.6
+        },
+        {
+          "party": "AfD",
+          "score": 5.8
+        },
+        {
+          "party": "DIE LINKE",
+          "score": 5.5
+        }
+      ],
+      "authority": [
+        {
+          "party": "GRÜNE",
+          "score": 77.2
+        },
+        {
+          "party": "DIE LINKE",
+          "score": 76.8
+        },
+        {
+          "party": "CDU/CSU",
+          "score": 76.0
+        },
+        {
+          "party": "AfD",
+          "score": 75.7
+        },
+        {
+          "party": "SPD",
+          "score": 75.7
+        }
+      ],
+      "futureOrientation": [
+        {
+          "party": "CDU/CSU",
+          "score": 100.0
+        },
+        {
+          "party": "AfD",
+          "score": 100.0
+        },
+        {
+          "party": "GRÜNE",
+          "score": 100.0
+        },
+        {
+          "party": "DIE LINKE",
+          "score": 100.0
+        },
+        {
+          "party": "SPD",
+          "score": 99.9
+        }
+      ],
+      "emotionalIntensity": [
+        {
+          "party": "DIE LINKE",
+          "score": 54.4
+        },
+        {
+          "party": "AfD",
+          "score": 53.2
+        },
+        {
+          "party": "GRÜNE",
+          "score": 52.2
+        },
+        {
+          "party": "CDU/CSU",
+          "score": 47.8
+        },
+        {
+          "party": "SPD",
+          "score": 47.2
+        }
+      ],
+      "inclusivity": [
+        {
+          "party": "CDU/CSU",
+          "score": 75.2
+        },
+        {
+          "party": "SPD",
+          "score": 74.5
+        },
+        {
+          "party": "AfD",
+          "score": 52.7
+        },
+        {
+          "party": "GRÜNE",
+          "score": 51.4
+        },
+        {
+          "party": "DIE LINKE",
+          "score": 43.8
+        }
+      ],
+      "discriminatory": [
+        {
+          "party": "AfD",
+          "score": 0.37
+        },
+        {
+          "party": "GRÜNE",
+          "score": 0.05
+        },
+        {
+          "party": "CDU/CSU",
+          "score": 0.04
+        },
+        {
+          "party": "DIE LINKE",
+          "score": 0.04
+        },
+        {
+          "party": "SPD",
+          "score": 0.02
+        }
+      ],
+      "discriminatoryCounts": [
+        {
+          "party": "AfD",
+          "count": 181
+        },
+        {
+          "party": "CDU/CSU",
+          "count": 25
+        },
+        {
+          "party": "GRÜNE",
+          "count": 17
+        },
+        {
+          "party": "SPD",
+          "count": 10
+        },
+        {
+          "party": "DIE LINKE",
+          "count": 9
+        }
+      ]
+    }
+  },
+  "topicAnalysis": {
+    "byParty": {
+      "AfD": {
+        "migration": 2.0,
+        "klima": 2.33,
+        "wirtschaft": 4.09,
+        "soziales": 4.57,
+        "sicherheit": 3.53,
+        "gesundheit": 1.6,
+        "europa": 4.04,
+        "digital": 1.42,
+        "bildung": 1.65,
+        "finanzen": 11.85,
+        "justiz": 4.58,
+        "arbeit": 1.43
+      },
+      "CDU/CSU": {
+        "migration": 1.52,
+        "klima": 2.15,
+        "wirtschaft": 5.34,
+        "soziales": 3.3,
+        "sicherheit": 3.35,
+        "gesundheit": 1.76,
+        "europa": 6.81,
+        "digital": 1.82,
+        "bildung": 1.52,
+        "finanzen": 8.11,
+        "justiz": 5.15,
+        "arbeit": 1.54
+      },
+      "GRÜNE": {
+        "migration": 1.16,
+        "klima": 3.85,
+        "wirtschaft": 3.58,
+        "soziales": 4.88,
+        "sicherheit": 2.72,
+        "gesundheit": 1.62,
+        "europa": 5.86,
+        "digital": 1.46,
+        "bildung": 1.67,
+        "finanzen": 9.27,
+        "justiz": 5.8,
+        "arbeit": 1.3
+      },
+      "SPD": {
+        "migration": 1.07,
+        "klima": 2.99,
+        "wirtschaft": 3.94,
+        "soziales": 4.46,
+        "sicherheit": 3.62,
+        "gesundheit": 1.55,
+        "europa": 5.73,
+        "digital": 1.65,
+        "bildung": 2.12,
+        "finanzen": 8.8,
+        "justiz": 5.52,
+        "arbeit": 2.32
+      },
+      "DIE LINKE": {
+        "migration": 1.56,
+        "klima": 2.82,
+        "wirtschaft": 2.99,
+        "soziales": 8.14,
+        "sicherheit": 3.85,
+        "gesundheit": 2.26,
+        "europa": 3.83,
+        "digital": 1.32,
+        "bildung": 2.46,
+        "finanzen": 10.97,
+        "justiz": 6.56,
+        "arbeit": 2.74
+      },
+      "fraktionslos": {
+        "migration": 1.25,
+        "klima": 3.12,
+        "wirtschaft": 2.34,
+        "soziales": 0.62,
+        "sicherheit": 0.62,
+        "gesundheit": 0.31,
+        "europa": 1.09,
+        "digital": 1.09,
+        "bildung": 0.16,
+        "finanzen": 12.49,
+        "justiz": 6.09,
+        "arbeit": 0.16
+      }
+    },
+    "overall": {
+      "migration": 1.49,
+      "klima": 2.68,
+      "wirtschaft": 4.26,
+      "soziales": 4.54,
+      "sicherheit": 3.4,
+      "gesundheit": 1.71,
+      "europa": 5.5,
+      "digital": 1.59,
+      "bildung": 1.79,
+      "finanzen": 9.58,
+      "justiz": 5.34,
+      "arbeit": 1.76
+    },
+    "topTopics": [
+      {
+        "topic": "finanzen",
+        "score": 9.58,
+        "rank": 1
+      },
+      {
+        "topic": "europa",
+        "score": 5.5,
+        "rank": 2
+      },
+      {
+        "topic": "justiz",
+        "score": 5.34,
+        "rank": 3
+      },
+      {
+        "topic": "soziales",
+        "score": 4.54,
+        "rank": 4
+      },
+      {
+        "topic": "wirtschaft",
+        "score": 4.26,
+        "rank": 5
+      },
+      {
+        "topic": "sicherheit",
+        "score": 3.4,
+        "rank": 6
+      }
+    ]
+  },
+  "funFacts": [
+    {
+      "emoji": "📅",
+      "value": "50,440",
+      "label": "Wörter pro Sitzungstag",
+      "category": "general"
+    },
+    {
+      "emoji": "🎤",
+      "value": "596",
+      "label": "Wörter pro Rede",
+      "category": "general"
+    },
+    {
+      "emoji": "📚",
+      "value": "50",
+      "label": "Bücher-Äquivalent",
+      "category": "general"
+    },
+    {
+      "emoji": "💢",
+      "value": "7%",
+      "label": "Aggression (AfD)",
+      "sublabel": "aggressivste Sprache",
+      "category": "tone"
+    },
+    {
+      "emoji": "🏷️",
+      "value": "16%",
+      "label": "Etikettierung (AfD)",
+      "sublabel": "\"ideologisch\", \"radikal\"...",
+      "category": "tone"
+    },
+    {
+      "emoji": "🤝",
+      "value": "63%",
+      "label": "Kooperation (SPD)",
+      "sublabel": "kooperativste Sprache",
+      "category": "tone"
+    },
+    {
+      "emoji": "🎯",
+      "value": "\"ideologisch\"",
+      "label": "173× (AfD)",
+      "sublabel": "häufigstes Label",
+      "category": "tone"
+    },
+    {
+      "emoji": "🔥",
+      "value": "\"absurd\"",
+      "label": "24× (AfD)",
+      "sublabel": "häufigstes Kampfwort",
+      "category": "tone"
+    },
+    {
+      "emoji": "📊",
+      "value": "18%",
+      "label": "Positivitäts-Spread",
+      "sublabel": "CDU/CSU vs AfD",
+      "category": "tone"
+    },
+    {
+      "emoji": "👩",
+      "value": "33%",
+      "label": "Rednerinnen",
+      "sublabel": "199 von 608",
+      "category": "gender"
+    },
+    {
+      "emoji": "🏆",
+      "value": "64%",
+      "label": "Frauenanteil (GRÜNE)",
+      "sublabel": "höchster Frauenanteil",
+      "category": "gender"
+    },
+    {
+      "emoji": "🎤",
+      "value": "Hubertz",
+      "label": "67 Reden",
+      "sublabel": "Top-Rednerin",
+      "category": "gender"
+    },
+    {
+      "emoji": "🗣️",
+      "value": "4.5x",
+      "label": "Männer unterbrechen mehr",
+      "sublabel": "6,551 vs 1,440",
+      "category": "gender"
+    }
+  ],
+  "genderAnalysis": {
+    "distribution": {
+      "male": 409,
+      "female": 199,
+      "unknown": 0,
+      "femalePercent": 32.7
+    },
+    "byParty": [
+      {
+        "party": "GRÜNE",
+        "male": 31,
+        "female": 54,
+        "femaleRatio": 63.5
+      },
+      {
+        "party": "DIE LINKE",
+        "male": 25,
+        "female": 38,
+        "femaleRatio": 60.3
+      },
+      {
+        "party": "SPD",
+        "male": 62,
+        "female": 47,
+        "femaleRatio": 43.1
+      },
+      {
+        "party": "CDU/CSU",
+        "male": 160,
+        "female": 43,
+        "femaleRatio": 21.2
+      },
+      {
+        "party": "AfD",
+        "male": 131,
+        "female": 17,
+        "femaleRatio": 11.5
+      }
+    ],
+    "topFemaleSpeakersReden": [
+      {
+        "name": "Frauke Heiligenstadt",
+        "party": "SPD",
+        "count": 23
+      },
+      {
+        "name": "Clara Bünger",
+        "party": "DIE LINKE",
+        "count": 22
+      },
+      {
+        "name": "Dr. Paula Piechotta",
+        "party": "GRÜNE",
+        "count": 22
+      },
+      {
+        "name": "Dr. Irene Mihalic",
+        "party": "GRÜNE",
+        "count": 18
+      },
+      {
+        "name": "Siemtje Möller",
+        "party": "SPD",
+        "count": 17
+      },
+      {
+        "name": "Dunja Kreiser",
+        "party": "SPD",
+        "count": 17
+      },
+      {
+        "name": "Sonja Eichwede",
+        "party": "SPD",
+        "count": 16
+      },
+      {
+        "name": "Luise Amtsberg",
+        "party": "GRÜNE",
+        "count": 15
+      },
+      {
+        "name": "Jamila Schäfer",
+        "party": "GRÜNE",
+        "count": 15
+      },
+      {
+        "name": "Dr. Ottilie Klein",
+        "party": "CDU/CSU",
+        "count": 14
+      }
+    ],
+    "topMaleSpeakersReden": [
+      {
+        "name": "Stefan Seidler",
+        "party": "fraktionslos",
+        "count": 26
+      },
+      {
+        "name": "Stephan Brandner",
+        "party": "AfD",
+        "count": 26
+      },
+      {
+        "name": "Sascha Wagner",
+        "party": "DIE LINKE",
+        "count": 24
+      },
+      {
+        "name": "Dr. Konrad Körner",
+        "party": "CDU/CSU",
+        "count": 23
+      },
+      {
+        "name": "Helge Lindh",
+        "party": "SPD",
+        "count": 20
+      },
+      {
+        "name": "Kay Gottschalk",
+        "party": "AfD",
+        "count": 19
+      },
+      {
+        "name": "Wolfgang Wiehle",
+        "party": "AfD",
+        "count": 19
+      },
+      {
+        "name": "Markus Frohnmaier",
+        "party": "AfD",
+        "count": 19
+      },
+      {
+        "name": "Christian Görke",
+        "party": "DIE LINKE",
+        "count": 19
+      },
+      {
+        "name": "Christian Moser",
+        "party": "CDU/CSU",
+        "count": 18
+      }
+    ],
+    "topFemaleSpeakersAll": [
+      {
+        "name": "Verena Hubertz",
+        "party": "SPD",
+        "count": 67
+      },
+      {
+        "name": "Karin Prien",
+        "party": "CDU/CSU",
+        "count": 59
+      },
+      {
+        "name": "Nina Warken",
+        "party": "CDU/CSU",
+        "count": 58
+      },
+      {
+        "name": "Bärbel Bas",
+        "party": "SPD",
+        "count": 50
+      },
+      {
+        "name": "Daniela Ludwig",
+        "party": "CDU/CSU",
+        "count": 49
+      },
+      {
+        "name": "Dorothee Bär",
+        "party": "CDU/CSU",
+        "count": 43
+      },
+      {
+        "name": "Katherina Reiche",
+        "party": "CDU/CSU",
+        "count": 39
+      },
+      {
+        "name": "Dr. Silke Launert",
+        "party": "CDU/CSU",
+        "count": 35
+      },
+      {
+        "name": "Dr. Stefanie Hubig",
+        "party": "SPD",
+        "count": 34
+      },
+      {
+        "name": "Clara Bünger",
+        "party": "DIE LINKE",
+        "count": 28
+      }
+    ],
+    "topMaleSpeakersAll": [
+      {
+        "name": "Friedrich Merz",
+        "party": "CDU/CSU",
+        "count": 98
+      },
+      {
+        "name": "Lars Klingbeil",
+        "party": "SPD",
+        "count": 93
+      },
+      {
+        "name": "Dr. Johann David Wadephul",
+        "party": "CDU/CSU",
+        "count": 67
+      },
+      {
+        "name": "Frank Schwabe",
+        "party": "SPD",
+        "count": 63
+      },
+      {
+        "name": "Stefan Rouenhoff",
+        "party": "CDU/CSU",
+        "count": 63
+      },
+      {
+        "name": "Alexander Dobrindt",
+        "party": "CDU/CSU",
+        "count": 61
+      },
+      {
+        "name": "Thorsten Frei",
+        "party": "CDU/CSU",
+        "count": 55
+      },
+      {
+        "name": "Dr. Nils Schmid",
+        "party": "SPD",
+        "count": 50
+      },
+      {
+        "name": "Boris Pistorius",
+        "party": "SPD",
+        "count": 48
+      },
+      {
+        "name": "Carsten Schneider",
+        "party": "SPD",
+        "count": 48
+      }
+    ],
+    "interruptionPatterns": {
+      "maleInterruptions": 6551,
+      "femaleInterruptions": 1440,
+      "maleInterrupted": 5280,
+      "femaleInterrupted": 2724
+    },
+    "speechLength": {
+      "male": 415.7587844254511,
+      "female": 394.72744360902254,
+      "unknown": 0
+    },
+    "academicTitles": {
+      "male": 0.18536585365853658,
+      "female": 0.1658291457286432
+    },
+    "_metrics": {
+      "reden": "Formal podium speeches only",
+      "wortmeldungen": "All activity including questions, interventions"
+    }
+  },
+  "moinSpeakers": [
+    {
+      "name": "Stefan Seidler",
+      "party": "fraktionslos",
+      "count": 27
+    },
+    {
+      "name": "Uwe Schmidt",
+      "party": "SPD",
+      "count": 7
+    },
+    {
+      "name": "Dr. Anja Reinalter",
+      "party": "GRÜNE",
+      "count": 2
+    }
+  ],
+  "topQuestionAskers": [
+    {
+      "name": "Dr. Rainer Kraft",
+      "party": "AfD",
+      "count": 29
+    },
+    {
+      "name": "Stefan Schröder",
+      "party": "AfD",
+      "count": 17
+    },
+    {
+      "name": "Dr. Sandra Detzer",
+      "party": "GRÜNE",
+      "count": 13
+    },
+    {
+      "name": "Martin Reichardt",
+      "party": "AfD",
+      "count": 12
+    },
+    {
+      "name": "Dr. Janosch Dahmen",
+      "party": "GRÜNE",
+      "count": 12
+    },
+    {
+      "name": "Bernd Schattner",
+      "party": "AfD",
+      "count": 11
+    },
+    {
+      "name": "Dr. Ingo Hahn",
+      "party": "AfD",
+      "count": 11
+    },
+    {
+      "name": "Pascal Meiser",
+      "party": "DIE LINKE",
+      "count": 11
+    },
+    {
+      "name": "Stephan Brandner",
+      "party": "AfD",
+      "count": 10
+    },
+    {
+      "name": "Nicole Gohlke",
+      "party": "DIE LINKE",
+      "count": 10
+    }
+  ]
+}
