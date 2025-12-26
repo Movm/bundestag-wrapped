@@ -3,6 +3,7 @@ import { motion, AnimatePresence } from 'motion/react';
 import { useWrappedData } from '@/hooks/useDataQueries';
 import { Header } from '@/components/ui/Header';
 import { Footer } from '@/components/ui/Footer';
+import { isNative } from '@/lib/capacitor';
 import { SEO } from '@/components/seo/SEO';
 import { SITE_CONFIG } from '@/components/seo/constants';
 import { BackgroundSystem } from '@/components/ui/BackgroundSystem';
@@ -109,7 +110,7 @@ export function MainWrappedPage({ isMenuOpen, onMenuToggle }: MainWrappedPagePro
     );
   }
 
-  const showHeader = currentSection === 'intro';
+  const showHeader = !isNative() && currentSection === 'intro';
   const showFooter = currentSection === 'finale';
 
   const websiteSchema = {
@@ -183,7 +184,8 @@ export function MainWrappedPage({ isMenuOpen, onMenuToggle }: MainWrappedPagePro
               exit={{ opacity: 0, y: 20 }}
               transition={{ duration: 0.3 }}
             >
-              <Footer />
+              {/* Hide footer on native - tab navigation handles navigation */}
+              {!isNative() && <Footer />}
             </motion.div>
           )}
         </AnimatePresence>

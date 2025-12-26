@@ -2,6 +2,8 @@ import { motion, AnimatePresence } from 'motion/react';
 import { useState, useMemo } from 'react';
 import { getPartyBgColor, PARTY_COLORS } from '@/lib/party-colors';
 import { Confetti } from './Confetti';
+import { isNative, isPluginAvailable } from '@/lib/capacitor';
+import { Haptics, NotificationType } from '@capacitor/haptics';
 
 export interface QuizConfig {
   question: string;
@@ -141,11 +143,27 @@ export function SlideQuiz({
     [quiz.options]
   );
 
-  const handleSelect = (answer: string) => {
+  const handleSelect = async (answer: string) => {
     if (showResult) return;
+
+    const correct = answer === quiz.correctAnswer;
+
+    // Trigger haptic feedback on native platforms
+    if (isNative() && isPluginAvailable('Haptics')) {
+      try {
+        if (correct) {
+          await Haptics.notification({ type: NotificationType.Success });
+        } else {
+          await Haptics.notification({ type: NotificationType.Error });
+        }
+      } catch {
+        // Haptics not available, continue silently
+      }
+    }
+
     setSelectedAnswer(answer);
     setShowResult(true);
-    onAnswer(answer === quiz.correctAnswer);
+    onAnswer(correct);
   };
 
   const handleOverlayComplete = () => {

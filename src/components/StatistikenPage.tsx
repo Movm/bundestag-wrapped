@@ -2,6 +2,7 @@ import { motion } from 'motion/react';
 import { useWrappedData } from '@/hooks/useDataQueries';
 import { BackgroundSystem } from '@/components/ui/BackgroundSystem';
 import { Footer } from '@/components/ui/Footer';
+import { isNative } from '@/lib/capacitor';
 import { HeroSection } from './statistiken/HeroSection';
 import { PartySection } from './statistiken/PartySection';
 import { SpeakerSection } from './statistiken/SpeakerSection';
@@ -84,7 +85,8 @@ export function StatistikenPage() {
         </section>
       </main>
 
-      <Footer />
+      {/* Hide footer on native - tab navigation handles navigation */}
+      {!isNative() && <Footer />}
     </div>
   );
 }

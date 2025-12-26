@@ -1,4 +1,7 @@
 import { BG_COLORS, BRAND_COLORS } from './design-tokens';
+import { isNative, isPluginAvailable } from './capacitor';
+import { Share } from '@capacitor/share';
+import { Haptics, ImpactStyle } from '@capacitor/haptics';
 
 export interface ShareImageData {
   correctCount: number;
@@ -256,7 +259,56 @@ export function downloadShareImage(canvas: HTMLCanvasElement, userName?: string)
   }, 'image/png');
 }
 
+/**
+ * Convert canvas to base64 data URL
+ */
+function canvasToBase64(canvas: HTMLCanvasElement): Promise<string> {
+  return new Promise((resolve, reject) => {
+    canvas.toBlob((blob) => {
+      if (!blob) {
+        reject(new Error('Failed to create blob'));
+        return;
+      }
+      const reader = new FileReader();
+      reader.onloadend = () => {
+        const base64 = reader.result as string;
+        resolve(base64);
+      };
+      reader.onerror = reject;
+      reader.readAsDataURL(blob);
+    }, 'image/png');
+  });
+}
+
+/**
+ * Share image using native Capacitor Share or Web Share API
+ */
 export async function shareImage(canvas: HTMLCanvasElement): Promise<boolean> {
+  // Try native Capacitor share first
+  if (isNative() && isPluginAvailable('Share')) {
+    try {
+      // Trigger haptic feedback on native
+      if (isPluginAvailable('Haptics')) {
+        await Haptics.impact({ style: ImpactStyle.Light });
+      }
+
+      const base64 = await canvasToBase64(canvas);
+
+      await Share.share({
+        title: 'Mein Bundestag Wrapped 2025',
+        text: 'Schau dir mein Bundestag Wrapped 2025 Ergebnis an!',
+        url: 'https://bundestag-wrapped.de',
+        files: [base64],
+        dialogTitle: 'Teilen',
+      });
+
+      return true;
+    } catch (error) {
+      console.warn('Native share failed, falling back to web share:', error);
+    }
+  }
+
+  // Fallback to Web Share API
   if (!navigator.share || !navigator.canShare) {
     return false;
   }
