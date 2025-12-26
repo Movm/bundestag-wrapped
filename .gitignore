@@ -23,17 +23,13 @@ dist-ssr
 *.sln
 *.sw?
 
-# Capacitor
-ios/App/Pods
-ios/App/App/public
-ios/App/DerivedData
-android/app/src/main/assets/public
-android/.gradle
-android/build
-android/app/build
-*.xcworkspace
-*.xcuserdata
-
 # Signing keys (never commit)
 *.keystore
 *.jks
+
+# Claude Code local settings
+.claude/
+
+# API backend
+api/node_modules
+api/.cache
