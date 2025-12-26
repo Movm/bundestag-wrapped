@@ -18,7 +18,7 @@ import { QuizTemplate, type QuizShareData } from './quiz-template.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const CACHE_DIR = join(__dirname, '../.cache');
-const DATA_DIR = process.env.DATA_DIR || join(__dirname, '../../public');
+const DATA_URL = process.env.DATA_URL || 'https://bundestag-wrapped.de';
 
 // Ensure cache directory exists
 await mkdir(CACHE_DIR, { recursive: true });
@@ -62,12 +62,18 @@ async function loadLogo(): Promise<string> {
   return logoBase64;
 }
 
-// Load speaker data from JSON files
+// Load speaker data via HTTP from main site
 async function loadSpeakerData(slug: string): Promise<SpeakerShareData | null> {
   try {
-    const filePath = join(DATA_DIR, 'speakers', `${slug}.json`);
-    const content = await readFile(filePath, 'utf-8');
-    const data = JSON.parse(content);
+    const url = `${DATA_URL}/speakers/${slug}.json`;
+    const response = await fetch(url);
+
+    if (!response.ok) {
+      console.error(`Failed to fetch speaker data: ${response.status}`);
+      return null;
+    }
+
+    const data = await response.json();
 
     // Extract share data from full speaker data
     const signatureWords = data.words?.signatureWords || [];
@@ -288,7 +294,7 @@ app.get('/og/quiz', async (c) => {
 // Start server
 const port = parseInt(process.env.PORT || '3001', 10);
 console.log(`OG Image service starting on port ${port}`);
-console.log(`Data directory: ${DATA_DIR}`);
+console.log(`Data URL: ${DATA_URL}`);
 
 serve({
   fetch: app.fetch,

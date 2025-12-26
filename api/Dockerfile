@@ -1,5 +1,8 @@
 # Bundestag Wrapped OG Image Service
 # Generates speaker sharepics using Satori + resvg-js
+#
+# Build context: ./api (standalone service)
+# Speaker data is fetched via HTTP from main site
 
 FROM node:22-slim AS base
 
@@ -7,13 +10,13 @@ WORKDIR /app
 
 # Install dependencies
 FROM base AS deps
-COPY api/package.json ./
+COPY package.json ./
 RUN npm install
 
 # Build
 FROM base AS builder
 COPY --from=deps /app/node_modules ./node_modules
-COPY api/ .
+COPY . .
 RUN npm run build
 
 # Production
@@ -25,15 +28,13 @@ ENV PORT=3001
 # Copy built files and node_modules
 COPY --from=builder /app/dist ./dist
 COPY --from=deps /app/node_modules ./node_modules
-COPY api/package.json ./
-
-# Copy speaker data for OG image generation (baked into image for Coolify)
-COPY public/speakers /data/speakers
+COPY package.json ./
 
 # Create cache directory
 RUN mkdir -p .cache
 
-ENV DATA_DIR=/data
+# Data URL - fetches speaker JSON from main site
+ENV DATA_URL=https://bundestag-wrapped.de
 
 EXPOSE 3001
 
