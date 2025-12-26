@@ -56,7 +56,7 @@ jobs:
         if: ${{ github.event.inputs.build_type == 'development' || github.event.inputs.build_type == '' }}
         run: |
           cd ios/App
-          xcodebuild -workspace App.xcworkspace \
+          xcodebuild -project App.xcodeproj \
             -scheme App \
             -configuration Release \
             -sdk iphoneos \
@@ -111,7 +111,7 @@ jobs:
         if: ${{ github.event.inputs.build_type == 'testflight' || github.event.inputs.build_type == 'app-store' }}
         run: |
           cd ios/App
-          xcodebuild -workspace App.xcworkspace \
+          xcodebuild -project App.xcodeproj \
             -scheme App \
             -configuration Release \
             -sdk iphoneos \
