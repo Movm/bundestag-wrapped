@@ -1,5 +1,6 @@
 import { useState, type ReactNode } from 'react';
 import { motion } from 'motion/react';
+import { playSound } from '@/lib/sounds';
 
 interface FlipCardProps {
   /** Content shown on the front (initial) side */
@@ -31,6 +32,14 @@ export function FlipCard({
   const handleTouchStart = () => {
     setIsTouchDevice(true);
     setIsFlipped((prev) => !prev);
+    playSound('click');
+  };
+
+  const handleHoverStart = () => {
+    if (!isTouchDevice) {
+      setIsFlipped(true);
+      playSound('click');
+    }
   };
 
   return (
@@ -38,7 +47,7 @@ export function FlipCard({
       animate={{ rotateY: isFlipped ? 180 : 0 }}
       transition={{ duration: 0.6, type: 'spring', stiffness: 100, damping: 15 }}
       onTouchStart={handleTouchStart}
-      onHoverStart={() => !isTouchDevice && setIsFlipped(true)}
+      onHoverStart={handleHoverStart}
       onHoverEnd={() => !isTouchDevice && setIsFlipped(false)}
       whileHover={hoverScale && !isTouchDevice ? { scale: 1.03 } : undefined}
       className={`cursor-pointer relative ${className}`}

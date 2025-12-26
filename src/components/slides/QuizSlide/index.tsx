@@ -2,6 +2,7 @@ import { memo, useState, useEffect, useRef, useMemo } from 'react';
 import { motion, AnimatePresence, useInView } from 'motion/react';
 import type { QuizQuestion } from '@/data/wrapped';
 import { getPartyBgColor, PARTY_COLORS } from '@/lib/party-colors';
+import { playSound } from '@/lib/sounds';
 import {
   Confetti,
   ScrollHint,
@@ -39,6 +40,7 @@ const EMOJI_FLOAT_ANIMATIONS = [
 
 function SuccessOverlay({ onComplete }: { onComplete: () => void }) {
   useEffect(() => {
+    playSound('correct');
     const timer = setTimeout(onComplete, 2000);
     return () => clearTimeout(timer);
   }, [onComplete]);
@@ -88,6 +90,7 @@ function WrongOverlay({
   onComplete: () => void;
 }) {
   useEffect(() => {
+    playSound('wrong');
     const timer = setTimeout(onComplete, 2500);
     return () => clearTimeout(timer);
   }, [onComplete]);
@@ -186,6 +189,7 @@ export const QuizSlide = memo(function QuizSlide({
 
   const handleSelect = (answer: string) => {
     if (showResult || isAnswered) return;
+    playSound('click');
     setSelectedAnswer(answer);
     setShowResult(true);
     onAnswer(answer === question.correctAnswer);

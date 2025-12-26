@@ -1,9 +1,8 @@
 import { motion, AnimatePresence } from 'motion/react';
-import { useState, useMemo } from 'react';
+import { useState, useMemo, useEffect } from 'react';
 import { getPartyBgColor, PARTY_COLORS } from '@/lib/party-colors';
+import { playSound } from '@/lib/sounds';
 import { Confetti } from './Confetti';
-import { isNative, isPluginAvailable } from '@/lib/capacitor';
-import { Haptics, NotificationType } from '@capacitor/haptics';
 
 export interface QuizConfig {
   question: string;
@@ -63,6 +62,10 @@ interface SlideQuizProps {
 const FALLBACK_COLORS = ['#2d2d3a', '#363647', '#3f3f52', '#4a4a5e'];
 
 function SuccessOverlay({ onComplete }: { onComplete: () => void }) {
+  useEffect(() => {
+    playSound('correct');
+  }, []);
+
   return (
     <motion.div
       initial={{ opacity: 0 }}
@@ -92,6 +95,10 @@ function WrongOverlay({
   explanation: string[];
   onComplete: () => void;
 }) {
+  useEffect(() => {
+    playSound('wrong');
+  }, []);
+
   return (
     <motion.div
       initial={{ opacity: 0 }}
@@ -143,24 +150,11 @@ export function SlideQuiz({
     [quiz.options]
   );
 
-  const handleSelect = async (answer: string) => {
+  const handleSelect = (answer: string) => {
     if (showResult) return;
 
+    playSound('click');
     const correct = answer === quiz.correctAnswer;
-
-    // Trigger haptic feedback on native platforms
-    if (isNative() && isPluginAvailable('Haptics')) {
-      try {
-        if (correct) {
-          await Haptics.notification({ type: NotificationType.Success });
-        } else {
-          await Haptics.notification({ type: NotificationType.Error });
-        }
-      } catch {
-        // Haptics not available, continue silently
-      }
-    }
-
     setSelectedAnswer(answer);
     setShowResult(true);
     onAnswer(correct);

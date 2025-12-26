@@ -6,6 +6,7 @@ import {
   CHARGE_DURATION,
   FLIGHT_DURATION,
 } from '../shared';
+import { playSound } from '@/lib/sounds';
 
 const TEXT_HIDE_DURATION = 0.4;
 
@@ -19,6 +20,7 @@ export const IntroSlide = memo(function IntroSlide({ onStart }: IntroSlideProps)
   >('idle');
 
   const handleStart = useCallback(() => {
+    playSound('start');
     setLaunchPhase('hiding');
 
     setTimeout(() => {
