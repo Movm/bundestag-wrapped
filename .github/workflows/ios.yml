@@ -46,8 +46,8 @@ jobs:
       - name: Build web assets
         run: npm run build
 
-      - name: Copy web assets to iOS
-        run: npx cap copy ios
+      - name: Sync to iOS
+        run: npx cap sync ios
 
       - name: Select Xcode version
         run: sudo xcode-select -s /Applications/Xcode_16.1.app
@@ -56,7 +56,7 @@ jobs:
         if: ${{ github.event.inputs.build_type == 'development' || github.event.inputs.build_type == '' }}
         run: |
           cd ios/App
-          xcodebuild -project App.xcodeproj \
+          xcodebuild -workspace App.xcworkspace \
             -scheme App \
             -configuration Release \
             -sdk iphoneos \
@@ -69,7 +69,7 @@ jobs:
 
       - name: Upload unsigned archive
         if: ${{ github.event.inputs.build_type == 'development' || github.event.inputs.build_type == '' }}
-        uses: actions/upload-artifact@v6
+        uses: actions/upload-artifact@v4
         with:
           name: ios-unsigned-archive
           path: ios/App/build/App.xcarchive
@@ -111,7 +111,7 @@ jobs:
         if: ${{ github.event.inputs.build_type == 'testflight' || github.event.inputs.build_type == 'app-store' }}
         run: |
           cd ios/App
-          xcodebuild -project App.xcodeproj \
+          xcodebuild -workspace App.xcworkspace \
             -scheme App \
             -configuration Release \
             -sdk iphoneos \
@@ -159,7 +159,7 @@ jobs:
 
       - name: Upload IPA artifact
         if: ${{ github.event.inputs.build_type == 'testflight' || github.event.inputs.build_type == 'app-store' }}
-        uses: actions/upload-artifact@v6
+        uses: actions/upload-artifact@v4
         with:
           name: ios-ipa
           path: ios/App/build/export/*.ipa
