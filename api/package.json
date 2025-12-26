@@ -1,0 +1,22 @@
+{
+  "name": "bundestag-wrapped-og",
+  "version": "1.0.0",
+  "description": "OG Image generation service for Bundestag Wrapped",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "dependencies": {
+    "@hono/node-server": "^1.19.7",
+    "@resvg/resvg-js": "^2.6.2",
+    "hono": "^4.7.0",
+    "satori": "^0.12.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0"
+  }
+}
