@@ -16,7 +16,10 @@
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "de.bundestag.wrapped",
-      "backgroundColor": "#0a0a0f"
+      "backgroundColor": "#0a0a0f",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
     },
     "android": {
       "package": "de.bundestag.wrapped",
