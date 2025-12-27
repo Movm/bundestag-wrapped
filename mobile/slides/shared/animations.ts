@@ -265,6 +265,59 @@ export const bubbleAnimations = {
   hint: () => fadeInEntering(1000),
 };
 
+// ─────────────────────────────────────────────────────────────
+// Enhanced Stagger Animations (100ms per item - fast but readable)
+// Previously 400ms which caused 2+ second delays for 5 items
+// ─────────────────────────────────────────────────────────────
+
+/**
+ * Slide-up entrance with scale - for TopSpeakers (podium feel)
+ */
+export const slideUpStaggerEntering = (index: number, baseDelay: number = 200) =>
+  FadeInUp.delay(baseDelay + index * 100)
+    .springify()
+    .stiffness(120)
+    .damping(14);
+
+/**
+ * Rotate-in entrance - for Vocabulary (playful word reveal)
+ */
+export const rotateInStaggerEntering = (index: number, baseDelay: number = 200) =>
+  ZoomIn.delay(baseDelay + index * 100)
+    .springify()
+    .stiffness(100)
+    .damping(12);
+
+/**
+ * Lively scale entrance - for Speeches (subtle energy)
+ */
+export const bouncyStaggerEntering = (index: number, baseDelay: number = 200) =>
+  ZoomIn.delay(baseDelay + index * 100)
+    .springify()
+    .stiffness(140)
+    .damping(14);
+
+/**
+ * Directional slide-in - for ToneAnalysis (float from different directions)
+ */
+export const directionalStaggerEntering = (index: number, baseDelay: number = 200) => {
+  // Alternate between left and right for visual interest
+  const Animation = index % 2 === 0 ? SlideInLeft : SlideInRight;
+  return Animation.delay(baseDelay + index * 100)
+    .springify()
+    .stiffness(100)
+    .damping(14);
+};
+
+/**
+ * Tilt-in entrance - for Topics (subtle rotation reveal)
+ */
+export const tiltInStaggerEntering = (index: number, baseDelay: number = 200) =>
+  ZoomIn.delay(baseDelay + index * 100)
+    .springify()
+    .stiffness(110)
+    .damping(12);
+
 /**
  * Chart/stats animation sequence
  */

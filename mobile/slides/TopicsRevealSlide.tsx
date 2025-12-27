@@ -1,4 +1,4 @@
-import React, { useMemo, useCallback } from 'react';
+import React, { useMemo } from 'react';
 import { View, Text, StyleSheet, Dimensions, Pressable } from 'react-native';
 import Animated, {
   useSharedValue,
@@ -14,7 +14,7 @@ import type { TopicAnalysis } from '@/data/wrapped';
 import { getPartyBgColor } from '@/lib/party-colors';
 import { FLOAT_ANIMATIONS, BUBBLE_POSITIONS } from '@/shared/animations/timings';
 import { TOPIC_BY_ID, type TopicMeta } from '@/shared/constants/topics';
-import { SlideContainer, SlideHeader } from './shared';
+import { SlideContainer, SlideHeader, tiltInStaggerEntering, fadeInEntering } from './shared';
 
 const { width: SCREEN_WIDTH, height: SCREEN_HEIGHT } = Dimensions.get('window');
 
@@ -45,13 +45,19 @@ interface TopicBubbleProps {
 
 const BUBBLE_SIZE = Math.min(SCREEN_WIDTH * 0.33, 150);
 
-function TopicBubble({ topic, rank, index, position, partyRankings }: TopicBubbleProps) {
+const TopicBubble = React.memo(function TopicBubble({ topic, rank, index, position, partyRankings }: TopicBubbleProps) {
   const [isFlipped, setIsFlipped] = React.useState(false);
   const floatConfig = FLOAT_ANIMATIONS[index] || FLOAT_ANIMATIONS[0];
 
-  // Float animation
+  // Float animation - shared values are stable refs
   const translateX = useSharedValue(0);
   const translateY = useSharedValue(0);
+
+  // Memoize gradient colors
+  const gradientColors = React.useMemo(
+    () => [topic.color, topic.color + 'dd'] as const,
+    [topic.color]
+  );
 
   React.useEffect(() => {
     const duration = floatConfig.duration;
@@ -73,7 +79,7 @@ function TopicBubble({ topic, rank, index, position, partyRankings }: TopicBubbl
       -1,
       true
     );
-  }, [floatConfig, translateX, translateY]);
+  }, [floatConfig]);
 
   const floatStyle = useAnimatedStyle(() => ({
     transform: [{ translateX: translateX.value }, { translateY: translateY.value }],
@@ -86,7 +92,7 @@ function TopicBubble({ topic, rank, index, position, partyRankings }: TopicBubbl
 
   return (
     <Animated.View
-      entering={ZoomIn.delay(150 + index * 120).springify()}
+      entering={tiltInStaggerEntering(index, 200)}
       style={[
         styles.bubbleContainer,
         {
@@ -98,7 +104,7 @@ function TopicBubble({ topic, rank, index, position, partyRankings }: TopicBubbl
       <Animated.View style={floatStyle}>
         <Pressable onPress={handlePress}>
           <LinearGradient
-            colors={[topic.color, topic.color + 'dd']}
+            colors={gradientColors}
             start={{ x: 0, y: 0 }}
             end={{ x: 1, y: 1 }}
             style={styles.bubble}
@@ -130,7 +136,7 @@ function TopicBubble({ topic, rank, index, position, partyRankings }: TopicBubbl
       </Animated.View>
     </Animated.View>
   );
-}
+});
 
 // ─────────────────────────────────────────────────────────────
 // Main Component
@@ -142,19 +148,21 @@ export function TopicsRevealSlide({ topicAnalysis }: TopicsRevealSlideProps) {
   // Get top 5 topics for bubble layout
   const displayTopics = useMemo(() => topTopics.slice(0, 5), [topTopics]);
 
-  // Calculate party rankings for a given topic
-  const getPartyRankings = useCallback(
-    (topicId: string): PartyRanking[] => {
+  // Pre-compute party rankings for all displayed topics at once
+  // This avoids recalculating rankings for each bubble on every render
+  const allPartyRankings = useMemo(() => {
+    const result: Record<string, PartyRanking[]> = {};
+    for (const topicScore of displayTopics) {
       const rankings: PartyRanking[] = [];
       for (const [party, topics] of Object.entries(byParty)) {
         if (party === 'fraktionslos') continue;
-        const score = topics[topicId] || 0;
+        const score = topics[topicScore.topic] || 0;
         rankings.push({ party, score });
       }
-      return rankings.sort((a, b) => b.score - a.score);
-    },
-    [byParty]
-  );
+      result[topicScore.topic] = rankings.sort((a, b) => b.score - a.score);
+    }
+    return result;
+  }, [displayTopics, byParty]);
 
   return (
     <SlideContainer>
@@ -178,14 +186,14 @@ export function TopicsRevealSlide({ topicAnalysis }: TopicsRevealSlideProps) {
             rank={topicScore.rank}
             index={i}
             position={BUBBLE_POSITIONS.fiveItems[i]}
-            partyRankings={getPartyRankings(topicScore.topic)}
+            partyRankings={allPartyRankings[topicScore.topic]}
           />
         );
       })}
 
       {/* Hint */}
       <Animated.Text
-        entering={ZoomIn.delay(1000)}
+        entering={fadeInEntering(2200)}
         style={styles.hint}
       >
         Tippe auf eine Blase für Details

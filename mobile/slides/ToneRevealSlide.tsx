@@ -13,7 +13,7 @@ import { LinearGradient } from 'expo-linear-gradient';
 import type { ToneAnalysis, PartyProfile, ExtendedToneScores } from '@/data/wrapped';
 import { getPartyColor } from '@/lib/party-colors';
 import { FLOAT_ANIMATIONS, BUBBLE_POSITIONS } from '@/shared/animations/timings';
-import { SlideContainer, SlideHeader } from './shared';
+import { SlideContainer, SlideHeader, directionalStaggerEntering } from './shared';
 
 const { width: SCREEN_WIDTH, height: SCREEN_HEIGHT } = Dimensions.get('window');
 
@@ -99,12 +99,24 @@ interface ToneBubbleProps {
 
 const BUBBLE_SIZE = Math.min(SCREEN_WIDTH * 0.35, 160);
 
-function ToneBubble({ profile, index, position }: ToneBubbleProps) {
+const ToneBubble = React.memo(function ToneBubble({ profile, index, position }: ToneBubbleProps) {
   const [isFlipped, setIsFlipped] = React.useState(false);
   const floatConfig = FLOAT_ANIMATIONS[index] || FLOAT_ANIMATIONS[0];
 
+  // Float animation - shared values are stable refs
   const translateX = useSharedValue(0);
   const translateY = useSharedValue(0);
+
+  // Memoize gradient colors and computed values
+  const partyColor = getPartyColor(profile.party);
+  const gradientColors = React.useMemo(
+    () => [partyColor + 'cc', partyColor] as const,
+    [partyColor]
+  );
+  const holisticSummary = React.useMemo(
+    () => getHolisticSummary(profile.scores),
+    [profile.scores]
+  );
 
   React.useEffect(() => {
     const duration = floatConfig.duration;
@@ -126,7 +138,7 @@ function ToneBubble({ profile, index, position }: ToneBubbleProps) {
       -1,
       true
     );
-  }, [floatConfig, translateX, translateY]);
+  }, [floatConfig]);
 
   const floatStyle = useAnimatedStyle(() => ({
     transform: [{ translateX: translateX.value }, { translateY: translateY.value }],
@@ -137,12 +149,9 @@ function ToneBubble({ profile, index, position }: ToneBubbleProps) {
     setIsFlipped((prev) => !prev);
   };
 
-  const partyColor = getPartyColor(profile.party);
-  const holisticSummary = getHolisticSummary(profile.scores);
-
   return (
     <Animated.View
-      entering={ZoomIn.delay(150 + index * 120).springify()}
+      entering={directionalStaggerEntering(index, 200)}
       style={[
         styles.bubbleContainer,
         {
@@ -154,7 +163,7 @@ function ToneBubble({ profile, index, position }: ToneBubbleProps) {
       <Animated.View style={floatStyle}>
         <Pressable onPress={handlePress}>
           <LinearGradient
-            colors={[partyColor + 'cc', partyColor]}
+            colors={gradientColors}
             start={{ x: 0, y: 0 }}
             end={{ x: 1, y: 1 }}
             style={styles.bubble}
@@ -181,7 +190,7 @@ function ToneBubble({ profile, index, position }: ToneBubbleProps) {
       </Animated.View>
     </Animated.View>
   );
-}
+});
 
 // ─────────────────────────────────────────────────────────────
 // Main Component

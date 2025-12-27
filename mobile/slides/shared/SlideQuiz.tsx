@@ -172,7 +172,7 @@ interface QuizButtonProps {
   onPress: () => void;
 }
 
-function QuizButton({
+const QuizButton = React.memo(function QuizButton({
   option,
   index,
   baseColor,
@@ -244,7 +244,7 @@ function QuizButton({
       </Animated.View>
     </Animated.View>
   );
-}
+});
 
 // ─────────────────────────────────────────────────────────────
 // Main Component

@@ -18,6 +18,7 @@ import {
   StatusBar,
   Pressable,
   ListRenderItem,
+  Platform,
 } from 'react-native';
 import Animated, {
   useAnimatedStyle,
@@ -140,10 +141,12 @@ export function WrappedScrollContainer<T>({
           onMomentumScrollEnd={handleMomentumScrollEnd}
           scrollEnabled={!isScrollLocked}
           bounces={false}
-          initialNumToRender={1}
-          maxToRenderPerBatch={2}
-          windowSize={3}
-          removeClippedSubviews={false}
+          initialNumToRender={2}
+          maxToRenderPerBatch={3}
+          windowSize={5}
+          // Android: Enable to unmount off-screen slides (saves memory & stops animations)
+          // iOS: Keep false as it can cause visual glitches with complex animations
+          removeClippedSubviews={Platform.OS === 'android'}
         />
       </View>
     </SlideAnimationProvider>

@@ -17,6 +17,7 @@ import {
   SlideContainer,
   SlideHeader,
   bubbleAnimations,
+  rotateInStaggerEntering,
 } from './shared';
 
 const { width: SCREEN_WIDTH, height: SCREEN_HEIGHT } = Dimensions.get('window');
@@ -41,13 +42,19 @@ interface PartyBubbleProps {
 
 const BUBBLE_SIZE = Math.min(SCREEN_WIDTH * 0.35, 160);
 
-function PartyBubble({ party, index, position }: PartyBubbleProps) {
+const PartyBubble = React.memo(function PartyBubble({ party, index, position }: PartyBubbleProps) {
   const [isFlipped, setIsFlipped] = React.useState(false);
   const floatConfig = FLOAT_ANIMATIONS[index] || FLOAT_ANIMATIONS[0];
 
-  // Float animation
+  // Float animation - shared values are stable refs
   const translateX = useSharedValue(0);
   const translateY = useSharedValue(0);
+
+  // Memoize gradient colors
+  const gradientColors = React.useMemo(
+    () => [getPartyColor(party.party) + 'cc', getPartyColor(party.party)] as const,
+    [party.party]
+  );
 
   React.useEffect(() => {
     const duration = floatConfig.duration;
@@ -69,7 +76,7 @@ function PartyBubble({ party, index, position }: PartyBubbleProps) {
       -1,
       true
     );
-  }, [floatConfig, translateX, translateY]);
+  }, [floatConfig]);
 
   const floatStyle = useAnimatedStyle(() => ({
     transform: [{ translateX: translateX.value }, { translateY: translateY.value }],
@@ -80,13 +87,12 @@ function PartyBubble({ party, index, position }: PartyBubbleProps) {
     setIsFlipped((prev) => !prev);
   };
 
-  const partyColor = getPartyColor(party.party);
   const signatureWord = party.signatureWords[0];
   const backWords = party.signatureWords.slice(0, 5);
 
   return (
     <Animated.View
-      entering={bubbleAnimations.bubble(index)}
+      entering={rotateInStaggerEntering(index, 200)}
       style={[
         styles.bubbleContainer,
         {
@@ -98,7 +104,7 @@ function PartyBubble({ party, index, position }: PartyBubbleProps) {
       <Animated.View style={floatStyle}>
         <Pressable onPress={handlePress}>
           <LinearGradient
-            colors={[partyColor + 'cc', partyColor]}
+            colors={gradientColors}
             start={{ x: 0, y: 0 }}
             end={{ x: 1, y: 1 }}
             style={styles.bubble}
@@ -130,7 +136,7 @@ function PartyBubble({ party, index, position }: PartyBubbleProps) {
       </Animated.View>
     </Animated.View>
   );
-}
+});
 
 // ─────────────────────────────────────────────────────────────
 // Main Component

@@ -4,7 +4,7 @@
  * Slides use this context to know when they become visible and should animate.
  */
 
-import React, { createContext, useContext } from 'react';
+import React, { createContext, useContext, useMemo } from 'react';
 
 interface SlideAnimationContextValue {
   currentIndex: number;
@@ -21,8 +21,12 @@ export function SlideAnimationProvider({
   currentIndex: number;
   children: React.ReactNode;
 }) {
+  // Memoize context value to prevent re-renders when object identity changes
+  // Without this, every slide wrapper re-renders on every scroll
+  const value = useMemo(() => ({ currentIndex }), [currentIndex]);
+
   return (
-    <SlideAnimationContext.Provider value={{ currentIndex }}>
+    <SlideAnimationContext.Provider value={value}>
       {children}
     </SlideAnimationContext.Provider>
   );

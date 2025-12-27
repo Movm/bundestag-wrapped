@@ -1,5 +1,6 @@
 import React from 'react';
-import { Text, View, StyleSheet } from 'react-native';
+import { View, StyleSheet } from 'react-native';
+import Animated, { FadeIn, FadeInDown, ZoomIn } from 'react-native-reanimated';
 import { SlideContainer } from './SlideContainer';
 
 interface SlideIntroProps {
@@ -12,15 +13,39 @@ interface SlideIntroProps {
  * SlideIntro - Native intro phase for a slide
  *
  * Shows emoji with one sentence. Title optional.
- * Note: Entrance animations are handled by SlideAnimationWrapper
+ * Animations: emoji pops in, title slides up, subtitle fades in later.
  */
 export function SlideIntro({ emoji, title, subtitle }: SlideIntroProps) {
   return (
     <SlideContainer>
       <View style={styles.content}>
-        <Text style={styles.emoji}>{emoji}</Text>
-        {title && <Text style={styles.title}>{title}</Text>}
-        {subtitle && <Text style={styles.subtitle}>{subtitle}</Text>}
+        {/* Emoji with zoom pop effect */}
+        <Animated.Text
+          entering={ZoomIn.delay(100).springify()}
+          style={styles.emoji}
+        >
+          {emoji}
+        </Animated.Text>
+
+        {/* Title with slide-up animation */}
+        {title && (
+          <Animated.Text
+            entering={FadeInDown.delay(300).springify()}
+            style={styles.title}
+          >
+            {title}
+          </Animated.Text>
+        )}
+
+        {/* Subtitle with delayed fade-in */}
+        {subtitle && (
+          <Animated.Text
+            entering={FadeIn.delay(800).duration(400)}
+            style={styles.subtitle}
+          >
+            {subtitle}
+          </Animated.Text>
+        )}
       </View>
     </SlideContainer>
   );

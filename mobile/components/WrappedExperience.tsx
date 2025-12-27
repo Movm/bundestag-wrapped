@@ -11,6 +11,7 @@ import { WrappedScrollContainer } from './WrappedScrollContainer';
 import { useWrappedScroll } from '../hooks/useWrappedScroll';
 import { SlideAnimationWrapper } from './SlideAnimationWrapper';
 import { useSlideTransitionSound } from '~/lib/sounds';
+import { useThemeMusic } from '~/lib/theme-music';
 
 interface WrappedExperienceProps {
   data: WrappedData;
@@ -52,6 +53,9 @@ export function WrappedExperience({ data, onComplete }: WrappedExperienceProps) 
   // Play whoosh sound on slide transitions
   useSlideTransitionSound(currentSlide);
 
+  // Play theme music based on current slide section
+  useThemeMusic(currentSlide);
+
   // Quiz handlers
   const handleQuizAnswer = useCallback(
     (isCorrect: boolean) => {
@@ -71,6 +75,14 @@ export function WrappedExperience({ data, onComplete }: WrappedExperienceProps) 
     scrollState.handleItemComplete();
   }, [currentSlide, answeredQuizzes, scrollState]);
 
+  // Restart handler - resets all state and scrolls back to first slide
+  const handleRestart = useCallback(() => {
+    setQuizNumber(1);
+    setCorrectCount(0);
+    setAnsweredQuizzes(new Set());
+    scrollState.reset();
+  }, [scrollState]);
+
   // Render slide
   const renderItem = useCallback(
     ({ item: slide, index }: { item: SlideType; index: number }) => (
@@ -85,10 +97,11 @@ export function WrappedExperience({ data, onComplete }: WrappedExperienceProps) 
           onQuizEnter={() => {}}
           onQuizComplete={handleQuizComplete}
           onStart={scrollState.handleStart}
+          onRestart={handleRestart}
         />
       </SlideAnimationWrapper>
     ),
-    [data, quizNumber, correctCount, isQuizAnswered, handleQuizAnswer, handleQuizComplete, scrollState.handleStart]
+    [data, quizNumber, correctCount, isQuizAnswered, handleQuizAnswer, handleQuizComplete, scrollState.handleStart, handleRestart]
   );
 
   // Key extractor

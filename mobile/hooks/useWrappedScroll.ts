@@ -56,6 +56,9 @@ export interface UseWrappedScrollReturn<T> {
   goToItem: (index: number, animated?: boolean) => void;
   nextItem: () => void;
   previousItem: () => void;
+
+  // Reset
+  reset: () => void;
 }
 
 // ─────────────────────────────────────────────────────────────
@@ -122,6 +125,13 @@ export function useWrappedScroll<T>({
       goToItem(currentIndex - 1);
     }
   }, [currentIndex, goToItem]);
+
+  const reset = useCallback(() => {
+    setCurrentIndex(0);
+    setHasStarted(false);
+    setAnsweredItems(new Set());
+    flatListRef.current?.scrollToOffset({ offset: 0, animated: false });
+  }, []);
 
   // ─────────────────────────────────────────────────────────────
   // Handlers
@@ -239,5 +249,6 @@ export function useWrappedScroll<T>({
     goToItem,
     nextItem,
     previousItem,
+    reset,
   };
 }

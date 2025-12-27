@@ -20,6 +20,7 @@ import {
   emojiPopEntering,
   fadeUpEntering,
   fadeInEntering,
+  bouncyStaggerEntering,
 } from './shared';
 
 const { width: SCREEN_WIDTH, height: SCREEN_HEIGHT } = Dimensions.get('window');
@@ -43,13 +44,19 @@ interface SpeechBubbleProps {
   bubbleSize: number;
 }
 
-function SpeechBubble({ party, index, position, bubbleSize }: SpeechBubbleProps) {
+const SpeechBubble = React.memo(function SpeechBubble({ party, index, position, bubbleSize }: SpeechBubbleProps) {
   const [isFlipped, setIsFlipped] = React.useState(false);
   const floatConfig = FLOAT_ANIMATIONS[index] || FLOAT_ANIMATIONS[0];
 
-  // Float animation
+  // Float animation - shared values are stable refs
   const translateX = useSharedValue(0);
   const translateY = useSharedValue(0);
+
+  // Memoize gradient colors
+  const gradientColors = React.useMemo(
+    () => [getPartyColor(party.party) + 'cc', getPartyColor(party.party)] as const,
+    [party.party]
+  );
 
   React.useEffect(() => {
     const duration = floatConfig.duration;
@@ -71,7 +78,7 @@ function SpeechBubble({ party, index, position, bubbleSize }: SpeechBubbleProps)
       -1,
       true
     );
-  }, [floatConfig, translateX, translateY]);
+  }, [floatConfig]);
 
   const floatStyle = useAnimatedStyle(() => ({
     transform: [{ translateX: translateX.value }, { translateY: translateY.value }],
@@ -82,11 +89,9 @@ function SpeechBubble({ party, index, position, bubbleSize }: SpeechBubbleProps)
     setIsFlipped((prev) => !prev);
   };
 
-  const partyColor = getPartyColor(party.party);
-
   return (
     <Animated.View
-      entering={bubbleAnimations.bubble(index)}
+      entering={bouncyStaggerEntering(index, 200)}
       style={[
         styles.bubbleContainer,
         {
@@ -100,7 +105,7 @@ function SpeechBubble({ party, index, position, bubbleSize }: SpeechBubbleProps)
       <Animated.View style={floatStyle}>
         <Pressable onPress={handlePress}>
           <LinearGradient
-            colors={[partyColor + 'cc', partyColor]}
+            colors={gradientColors}
             start={{ x: 0, y: 0 }}
             end={{ x: 1, y: 1 }}
             style={[styles.bubble, { width: bubbleSize, height: bubbleSize, borderRadius: bubbleSize / 2 }]}
@@ -128,7 +133,7 @@ function SpeechBubble({ party, index, position, bubbleSize }: SpeechBubbleProps)
       </Animated.View>
     </Animated.View>
   );
-}
+});
 
 // ─────────────────────────────────────────────────────────────
 // Main Component
