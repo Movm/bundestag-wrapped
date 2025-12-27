@@ -7,10 +7,19 @@ export interface SpeechesData {
   speeches: Speech[]
 }
 
+// Static data never changes during a session - cache indefinitely
+const STATIC_DATA_OPTIONS = {
+  staleTime: Infinity,  // Data is never considered stale
+  gcTime: Infinity,     // Keep in cache indefinitely (prevents GC)
+  refetchOnWindowFocus: false,
+  refetchOnReconnect: false,
+} as const
+
 export function useWrappedData() {
   return useQuery<WrappedData, Error>({
     queryKey: ['wrapped'],
     queryFn: loadWrappedData,
+    ...STATIC_DATA_OPTIONS,
   })
 }
 
@@ -18,6 +27,7 @@ export function useSpeakerIndex() {
   return useQuery<SpeakerIndex, Error>({
     queryKey: ['speakerIndex'],
     queryFn: loadSpeakerIndex,
+    ...STATIC_DATA_OPTIONS,
   })
 }
 
@@ -26,6 +36,7 @@ export function useSpeakerData(slug: string) {
     queryKey: ['speaker', slug],
     queryFn: () => loadSpeakerData(slug),
     enabled: !!slug,
+    ...STATIC_DATA_OPTIONS,
   })
 }
 
@@ -36,6 +47,7 @@ export function useSpeechesDb() {
       if (!r.ok) throw new Error('Failed to load speeches')
       return r.json()
     }),
+    ...STATIC_DATA_OPTIONS,
   })
 }
 
@@ -46,5 +58,6 @@ export function useWordsIndex() {
       if (!r.ok) throw new Error('Failed to load words index')
       return r.json()
     }),
+    ...STATIC_DATA_OPTIONS,
   })
 }
