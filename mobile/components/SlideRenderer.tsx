@@ -1,5 +1,6 @@
 import React, { memo } from 'react';
-import { View, Text, StyleSheet } from 'react-native';
+import { View, Text, StyleSheet, Pressable } from 'react-native';
+import { useRouter } from 'expo-router';
 import type { WrappedData } from '@/data/wrapped';
 import { QUIZZES } from '@/data/quizzes';
 import { INFO_SLIDES } from '@/data/info-slides';
@@ -9,7 +10,6 @@ import {
   SlideQuiz,
   SlideContainer,
 } from '../slides/shared';
-import { TopSpeakersSlide } from '../slides/TopSpeakersSlide';
 import { TopicsRevealSlide } from '../slides/TopicsRevealSlide';
 import { VocabularyRevealSlide } from '../slides/VocabularyRevealSlide';
 import { SpeechesChartSlide } from '../slides/SpeechesChartSlide';
@@ -39,7 +39,6 @@ export const SLIDES = [
   'quiz-speeches',
   'info-speeches',
   'chart-speeches',
-  'reveal-speakers',
   'intro-drama',
   'quiz-drama',
   'info-drama',
@@ -58,7 +57,6 @@ export const SLIDES = [
   'intro-swiftie',
   'quiz-swiftie',
   'reveal-swiftie',
-  'quiz-zwischenfragen',
   'intro-tone',
   'quiz-tone',
   'info-tone',
@@ -72,7 +70,7 @@ export const SLIDES = [
 
 export type SlideType = (typeof SLIDES)[number];
 
-export const TOTAL_QUIZ_QUESTIONS = 11;
+export const TOTAL_QUIZ_QUESTIONS = 10;
 
 export const AUTO_SCROLL_SLIDES = new Set<SlideType>([
   'intro-topics',
@@ -120,13 +118,28 @@ function PlaceholderSlide({ slideType }: { slideType: string }) {
 // End Slide
 // ─────────────────────────────────────────────────────────────
 
-function EndSlide() {
+function EndSlide({ onRestart }: { onRestart?: () => void }) {
+  const router = useRouter();
+
   return (
     <SlideContainer>
       <View style={styles.endContent}>
         <Text style={styles.endEmoji}>🎉</Text>
         <Text style={styles.endTitle}>Das war's!</Text>
         <Text style={styles.endSubtitle}>Bundestag Wrapped 2025</Text>
+
+        <View style={styles.endButtons}>
+          <Pressable style={styles.restartButton} onPress={onRestart}>
+            <Text style={styles.restartButtonText}>Nochmal starten</Text>
+          </Pressable>
+          <Pressable
+            style={styles.speakerButton}
+            onPress={() => router.push('/')}
+          >
+            <Text style={styles.speakerButtonText}>Abgeordnete ansehen</Text>
+          </Pressable>
+        </View>
+
         <Text style={styles.endCredits}>
           Daten: Offene Parlamentsdaten{'\n'}
           Made with ❤️ in Berlin
@@ -150,6 +163,7 @@ interface SlideRendererProps {
   onQuizEnter: () => void;
   onQuizComplete: () => void;
   onStart: () => void;
+  onRestart?: () => void;
 }
 
 export const SlideRenderer = memo(function SlideRenderer({
@@ -162,6 +176,7 @@ export const SlideRenderer = memo(function SlideRenderer({
   onQuizEnter,
   onQuizComplete,
   onStart,
+  onRestart,
 }: SlideRendererProps) {
   switch (slide) {
     // ─────────────────────────────────────────────────────────
@@ -210,18 +225,8 @@ export const SlideRenderer = memo(function SlideRenderer({
     case 'chart-speeches':
       return <SpeechesChartSlide parties={data.parties} />;
 
-    case 'reveal-speakers':
-      return (
-        <TopSpeakersSlide
-          speakers={data.topSpeakers}
-          speakersByWords={data.topSpeakersByWords}
-          speakersByAvgWords={data.topSpeakersByAvgWords}
-          phase="result"
-        />
-      );
-
     // ─────────────────────────────────────────────────────────
-    // Drama Section (placeholder for now)
+    // Drama Section
     // ─────────────────────────────────────────────────────────
     case 'intro-drama':
       return (
@@ -351,8 +356,7 @@ export const SlideRenderer = memo(function SlideRenderer({
     case 'quiz-discriminatory':
     case 'quiz-common-words':
     case 'quiz-tone':
-    case 'quiz-gender':
-    case 'quiz-zwischenfragen': {
+    case 'quiz-gender': {
       const question = QUIZZES[slide];
       if (!question) return <PlaceholderSlide slideType={slide} />;
 
@@ -396,7 +400,7 @@ export const SlideRenderer = memo(function SlideRenderer({
       );
 
     case 'finale':
-      return <EndSlide />;
+      return <EndSlide onRestart={onRestart} />;
 
     // ─────────────────────────────────────────────────────────
     // Default (shouldn't happen)
@@ -447,6 +451,34 @@ const styles = StyleSheet.create({
     fontSize: 18,
     color: 'rgba(255, 255, 255, 0.6)',
     marginBottom: 24,
+  },
+  endButtons: {
+    width: '100%',
+    gap: 12,
+    marginBottom: 24,
+  },
+  restartButton: {
+    width: '100%',
+    paddingVertical: 14,
+    borderRadius: 12,
+    backgroundColor: '#ec4899',
+  },
+  restartButtonText: {
+    color: '#ffffff',
+    fontSize: 16,
+    fontWeight: '700',
+    textAlign: 'center',
+  },
+  speakerButton: {
+    width: '100%',
+    paddingVertical: 14,
+    borderRadius: 12,
+    backgroundColor: 'rgba(255, 255, 255, 0.1)',
+  },
+  speakerButtonText: {
+    color: '#ffffff',
+    fontSize: 16,
+    textAlign: 'center',
   },
   endCredits: {
     fontSize: 14,

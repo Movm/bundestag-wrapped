@@ -9,7 +9,6 @@ import {
   VocabularySlide,
   SpeechesSlide,
   DramaSlide,
-  TopSpeakersSlide,
   TopicsSlide,
   CommonWordsSlide,
   MoinSlide,
@@ -41,15 +40,6 @@ export function getSlideShareData(slide: SlideType, data: WrappedData): SlideDat
       };
     case 'reveal-drama':
       return { type: 'drama', drama: data.drama };
-    case 'reveal-speakers':
-      return {
-        type: 'topSpeakers',
-        data: {
-          speakers: data.topSpeakers,
-          byWords: data.topSpeakersByWords,
-          byAvgWords: data.topSpeakersByAvgWords,
-        },
-      };
     case 'reveal-common-words':
       return { type: 'commonWords', data: { topics: data.hotTopics } };
     case 'reveal-moin':
@@ -78,6 +68,7 @@ interface SlideRendererProps {
   onQuizAnswer: (isCorrect: boolean) => void;
   onQuizEnter: () => void;
   onQuizComplete: () => void;
+  onRestart?: () => void;
 }
 
 export const SlideRenderer = memo(function SlideRenderer({
@@ -89,6 +80,7 @@ export const SlideRenderer = memo(function SlideRenderer({
   onQuizAnswer,
   onQuizEnter,
   onQuizComplete,
+  onRestart,
 }: SlideRendererProps) {
   const renderSlideContent = () => {
     switch (slide) {
@@ -179,8 +171,7 @@ export const SlideRenderer = memo(function SlideRenderer({
     case 'quiz-discriminatory':
     case 'quiz-common-words':
     case 'quiz-tone':
-    case 'quiz-gender':
-    case 'quiz-zwischenfragen': {
+    case 'quiz-gender': {
       const question = QUIZZES[slide];
       return (
         <QuizSlide
@@ -191,6 +182,7 @@ export const SlideRenderer = memo(function SlideRenderer({
           onAnswer={onQuizAnswer}
           onEnterView={onQuizEnter}
           onComplete={onQuizComplete}
+          slideId={slide}
         />
       );
     }
@@ -211,16 +203,6 @@ export const SlideRenderer = memo(function SlideRenderer({
 
     case 'reveal-discriminatory':
       return <DiscriminatorySlide toneAnalysis={data.toneAnalysis} phase="result" />;
-
-    case 'reveal-speakers':
-      return (
-        <TopSpeakersSlide
-          speakers={data.topSpeakers}
-          speakersByWords={data.topSpeakersByWords}
-          speakersByAvgWords={data.topSpeakersByAvgWords}
-          phase="result"
-        />
-      );
 
     case 'reveal-common-words':
       return <CommonWordsSlide topics={data.hotTopics} phase="result" />;
@@ -244,7 +226,7 @@ export const SlideRenderer = memo(function SlideRenderer({
       );
 
     case 'finale':
-      return <EndSlide />;
+      return <EndSlide onRestart={onRestart} />;
 
     default:
       return null;

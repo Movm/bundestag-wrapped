@@ -7,7 +7,6 @@ export * from './types';
 export * from './moin';
 export * from './drama';
 export * from './gender';
-export * from './top-speakers';
 export * from './vocabulary';
 export * from './speeches';
 export * from './common-words';

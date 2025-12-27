@@ -14,24 +14,6 @@ export interface MoinSpeaker {
   count: number;
 }
 
-export interface TopSpeaker {
-  name: string;
-  party: string;
-  speeches: number;
-}
-
-export interface TopSpeakerByWords {
-  name: string;
-  party: string;
-  totalWords: number;
-}
-
-export interface TopSpeakerByAvgWords {
-  name: string;
-  party: string;
-  avgWords: number;
-}
-
 export interface Zwischenrufer {
   name: string;
   party: string;
@@ -332,192 +314,6 @@ export function renderMoinSharepic(
       const col = i % 2, row = Math.floor(i / 2);
       drawMoinCard(ctx, s, i + 1, gridX + col * (cardWidth + gap), cardsY + row * (cardHeight + gap), cardWidth, cardHeight);
     });
-  }
-
-  drawFooter(ctx, centerX);
-}
-
-// ============ TOP SPEAKERS SLIDE ============
-
-export interface TopSpeakersData {
-  speakers: TopSpeaker[];
-  byWords?: TopSpeakerByWords[];
-  byAvgWords?: TopSpeakerByAvgWords[];
-}
-
-interface MedalData {
-  emoji: string;
-  title: string;
-  name: string;
-  party: string;
-  value: string;
-}
-
-function drawMedalCard(
-  ctx: CanvasRenderingContext2D,
-  medal: MedalData,
-  rank: number,
-  x: number,
-  y: number,
-  w: number,
-  h: number
-): void {
-  const isChampion = rank === 1;
-  const partyColor = getPartyColor(medal.party);
-
-  // Background
-  if (isChampion) {
-    const g = ctx.createLinearGradient(x, y, x + w, y + h);
-    g.addColorStop(0, `${CHAMPION_COLORS.bg}50`);
-    g.addColorStop(1, `${CHAMPION_COLORS.bgLight}30`);
-    ctx.fillStyle = g;
-  } else {
-    ctx.fillStyle = 'rgba(255, 255, 255, 0.08)';
-  }
-  drawRoundedRect(ctx, x, y, w, h, 24);
-  ctx.fill();
-  ctx.strokeStyle = isChampion ? `${CHAMPION_COLORS.border}80` : 'rgba(255, 255, 255, 0.15)';
-  ctx.lineWidth = isChampion ? 3 : 2;
-  drawRoundedRect(ctx, x, y, w, h, 24);
-  ctx.stroke();
-
-  const cx = x + w / 2;
-  let cy = y + 30;
-
-  // Crown for champion
-  if (isChampion) {
-    ctx.font = '36px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif';
-    ctx.textAlign = 'center';
-    ctx.fillText('👑', cx + 55, cy + 10);
-  }
-
-  // Emoji
-  ctx.font = `${isChampion ? 60 : 50}px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif`;
-  ctx.textAlign = 'center';
-  if (isChampion) {
-    ctx.shadowColor = `${CHAMPION_COLORS.bg}80`;
-    ctx.shadowBlur = 20;
-  }
-  ctx.fillText(medal.emoji, cx, cy + 50);
-  ctx.shadowBlur = 0;
-  cy += isChampion ? 75 : 65;
-
-  // Title (category)
-  ctx.font = `bold ${isChampion ? 18 : 16}px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif`;
-  ctx.fillStyle = 'rgba(255, 255, 255, 0.5)';
-  ctx.fillText(medal.title, cx, cy);
-  cy += isChampion ? 32 : 28;
-
-  // Name
-  ctx.font = `bold ${isChampion ? 24 : 20}px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif`;
-  ctx.fillStyle = '#ffffff';
-  let name = medal.name;
-  while (ctx.measureText(name).width > w - 40 && name.length > 3) name = name.slice(0, -1);
-  if (name !== medal.name) name = name.slice(0, -2) + '...';
-  ctx.fillText(name, cx, cy);
-  cy += 30;
-
-  // Party pill
-  ctx.font = 'bold 14px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif';
-  const pw = ctx.measureText(medal.party).width + 24;
-  drawRoundedRect(ctx, cx - pw / 2, cy - 16, pw, 26, 13);
-  ctx.fillStyle = partyColor;
-  ctx.fill();
-  ctx.fillStyle = partyColor === '#FFFFFF' ? '#000' : '#fff';
-  ctx.fillText(medal.party, cx, cy);
-  cy += 36;
-
-  // Value pill
-  ctx.font = `bold ${isChampion ? 20 : 18}px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif`;
-  const vw = ctx.measureText(medal.value).width + 28;
-  drawRoundedRect(ctx, cx - vw / 2, cy - 22, vw, 36, 18);
-  ctx.fillStyle = isChampion ? `${CHAMPION_COLORS.bg}40` : 'rgba(255, 255, 255, 0.1)';
-  ctx.fill();
-  ctx.fillStyle = isChampion ? CHAMPION_COLORS.border : 'rgba(255, 255, 255, 0.8)';
-  ctx.fillText(medal.value, cx, cy);
-}
-
-export function renderTopSpeakersSharepic(
-  canvas: HTMLCanvasElement,
-  data: TopSpeakersData
-): void {
-  const setup = setupCanvas(canvas);
-  if (!setup) return;
-  const { ctx, centerX } = setup;
-  const centerY = SIZE / 2;
-
-  drawHeader(ctx);
-
-  const { speakers, byWords = [], byAvgWords = [] } = data;
-
-  // Medal data
-  const medals: MedalData[] = [
-    speakers[0] && {
-      emoji: '🎤',
-      title: 'Meiste Reden',
-      name: speakers[0].name,
-      party: speakers[0].party,
-      value: `${speakers[0].speeches} Reden`,
-    },
-    byWords[0] && {
-      emoji: '📝',
-      title: 'Meiste Wörter',
-      name: byWords[0].name,
-      party: byWords[0].party,
-      value: `${Math.round(byWords[0].totalWords / 1000)}k Wörter`,
-    },
-    byAvgWords[0] && {
-      emoji: '📊',
-      title: 'Längste Reden',
-      name: byAvgWords[0].name,
-      party: byAvgWords[0].party,
-      value: `Ø ${byAvgWords[0].avgWords} Wörter`,
-    },
-  ].filter(Boolean) as MedalData[];
-
-  // Calculate content dimensions for centering
-  const cardWidth = 230, cardHeight = 240, gap = 24;
-  const champW = 280, champH = 280;
-  const titleHeight = 130;
-  const cardsHeight = champH + gap + cardHeight;
-  const totalHeight = titleHeight + 30 + cardsHeight;
-  const startY = centerY - totalHeight / 2;
-
-  // Title
-  ctx.font = '70px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif';
-  ctx.textAlign = 'center';
-  ctx.shadowColor = `${BRAND_COLORS.primary}50`;
-  ctx.shadowBlur = 30;
-  ctx.fillText('🏆', centerX, startY + 50);
-  ctx.shadowBlur = 0;
-
-  ctx.font = 'bold 48px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif';
-  ctx.fillStyle = '#ffffff';
-  ctx.fillText('Top Speakers', centerX, startY + 105);
-
-  ctx.font = '24px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif';
-  ctx.fillStyle = 'rgba(255, 255, 255, 0.6)';
-  ctx.fillText('Die Rekordhalter des Bundestags', centerX, startY + 135);
-
-  const cardsY = startY + titleHeight + 30;
-
-  // Row 1: Champion centered
-  if (medals[0]) {
-    drawMedalCard(ctx, medals[0], 1, centerX - champW / 2, cardsY, champW, champH);
-  }
-
-  // Row 2: #2 and #3 side by side
-  if (medals.length >= 2) {
-    const row2W = cardWidth * 2 + gap;
-    const row2X = centerX - row2W / 2;
-    const row2Y = cardsY + champH + gap;
-
-    if (medals[1]) {
-      drawMedalCard(ctx, medals[1], 2, row2X, row2Y, cardWidth, cardHeight);
-    }
-    if (medals[2]) {
-      drawMedalCard(ctx, medals[2], 3, row2X + cardWidth + gap, row2Y, cardWidth, cardHeight);
-    }
   }
 
   drawFooter(ctx, centerX);
@@ -1150,7 +946,6 @@ export type SlideType =
   | 'moin'
   | 'drama'
   | 'gender'
-  | 'topSpeakers'
   | 'vocabulary'
   | 'speeches'
   | 'commonWords'
@@ -1161,7 +956,6 @@ export type SlideData =
   | { type: 'moin'; speakers: MoinSpeaker[] }
   | { type: 'drama'; drama: DramaStats }
   | { type: 'gender'; genderAnalysis: GenderAnalysis }
-  | { type: 'topSpeakers'; data: TopSpeakersData }
   | { type: 'vocabulary'; data: VocabularyData }
   | { type: 'speeches'; data: SpeechesData }
   | { type: 'commonWords'; data: CommonWordsData }
@@ -1178,9 +972,6 @@ export function renderSlideSharepic(canvas: HTMLCanvasElement, slideData: SlideD
       break;
     case 'gender':
       renderGenderSharepic(canvas, slideData.genderAnalysis);
-      break;
-    case 'topSpeakers':
-      renderTopSpeakersSharepic(canvas, slideData.data);
       break;
     case 'vocabulary':
       renderVocabularySharepic(canvas, slideData.data);

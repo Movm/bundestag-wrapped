@@ -8,9 +8,6 @@
 // Shared components (used by all slides)
 export * from './shared';
 
-// Feature slides
-export { TopSpeakersSlide } from './TopSpeakersSlide';
-
 // TODO: Add remaining feature slides as they are built
 // export { TopicsSlide } from './TopicsSlide';
 // export { VocabularySlide } from './VocabularySlide';

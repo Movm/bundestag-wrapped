@@ -8,7 +8,6 @@ export { ComparisonSlide, type ComparisonItem } from './ComparisonSlide';
 export { VocabularySlide } from './VocabularySlide';
 export { SpeechesSlide } from './SpeechesSlide';
 export { DramaSlide } from './DramaSlide';
-export { TopSpeakersSlide } from './TopSpeakersSlide';
 export { TopicsSlide } from './TopicsSlide';
 export { CommonWordsSlide } from './CommonWordsSlide';
 export { ToneAnalysisSlide } from './ToneAnalysisSlide';

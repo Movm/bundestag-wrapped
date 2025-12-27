@@ -24,12 +24,11 @@ export const SLIDES = [
   'info-signature',
   'reveal-signature',
 
-  // Speech Volume + Top Speakers
+  // Speech Volume
   'intro-speeches',
   'quiz-speeches',
   'info-speeches',
   'chart-speeches',
-  'reveal-speakers',
 
   // Drama
   'intro-drama',
@@ -59,9 +58,6 @@ export const SLIDES = [
   'quiz-swiftie',
   'reveal-swiftie',
 
-  // Zwischenfragen
-  'quiz-zwischenfragen',
-
   // Tone Analysis
   'intro-tone',
   'quiz-tone',
@@ -82,7 +78,7 @@ export const SLIDES = [
 
 export type SlideType = (typeof SLIDES)[number];
 
-export const TOTAL_QUIZ_QUESTIONS = 11;
+export const TOTAL_QUIZ_QUESTIONS = 10;
 
 // Slides that auto-scroll to next after a delay (section intros and info slides)
 export const AUTO_SCROLL_SLIDES = new Set<SlideType>([
@@ -114,7 +110,6 @@ export const SHAREABLE_SLIDES = new Set<SlideType>([
   'chart-speeches',         // Speeches
   'reveal-drama',           // Drama
   'reveal-discriminatory',  // Discriminatory Language
-  'reveal-speakers',        // Top Speakers
   'reveal-common-words',    // Common Words
   'reveal-moin',            // Moin
   'reveal-swiftie',         // Swiftie
