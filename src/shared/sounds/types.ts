@@ -5,9 +5,9 @@
  * Used by both web (browser Audio) and mobile (expo-av).
  */
 
-// Web uses: click, correct, wrong, start, whoosh
-// Mobile uses: click, correct, wrong, whoosh (no start button on mobile)
-export type SoundType = 'click' | 'correct' | 'wrong' | 'start' | 'whoosh';
+// Web uses: click, correct, wrong, start, whoosh, hover
+// Mobile uses: click, correct, wrong, whoosh (no hover on mobile - touch only)
+export type SoundType = 'click' | 'correct' | 'wrong' | 'start' | 'whoosh' | 'hover';
 
 export const SOUND_PATHS: Record<SoundType, string> = {
   click: '/sounds/click.wav',
@@ -15,12 +15,14 @@ export const SOUND_PATHS: Record<SoundType, string> = {
   wrong: '/sounds/wrong.wav',
   start: '/sounds/start.wav',
   whoosh: '/sounds/whoosh.mp3',
+  hover: '/sounds/click.wav', // Reuses click at lower volume
 };
 
 export const SOUND_VOLUMES: Record<SoundType, number> = {
-  click: 0.15,
-  correct: 0.25,
-  wrong: 0.25,
-  start: 0.25,
-  whoosh: 0.12,
+  click: 0.7,
+  correct: 0.85,
+  wrong: 0.85,
+  start: 0.9,
+  whoosh: 0.5,
+  hover: 0.25, // Subtle hover feedback
 };
