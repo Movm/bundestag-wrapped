@@ -10,8 +10,11 @@ import {
   GenderAnalysisSection,
   ZwischenrufeSection,
   SignatureWordsSection,
+  TopicsSection,
+  DataDownloadSection,
   SpeakerWrappedSection,
   LimitationsSection,
+  MusicCreditsSection,
   DocFooter,
 } from './dokumentation';
 import { SEO } from '@/components/seo/SEO';
@@ -54,8 +57,11 @@ export function DokumentationPage() {
       <GenderAnalysisSection />
       <ZwischenrufeSection />
       <SignatureWordsSection />
+      <TopicsSection />
+      <DataDownloadSection />
       <SpeakerWrappedSection />
       <LimitationsSection />
+      <MusicCreditsSection />
       <DocFooter />
       </div>
     </>

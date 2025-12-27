@@ -110,7 +110,7 @@ export const categories: Category[] = [
   {
     id: 'rede',
     name: 'Rede',
-    count: 3472,
+    count: 4226,
     color: '#10b981',
     description: 'Formelle Reden, die vom Präsidium angekündigt und mit einer Anrede an das Präsidium eröffnet werden.',
     examples: [
@@ -278,7 +278,7 @@ export const limitations = [
 ];
 
 export const statsData = [
-  { label: 'Beiträge analysiert', value: '4.798' },
+  { label: 'Beiträge analysiert', value: '6.340' },
   { label: 'Kategorien', value: '8' },
   { label: 'Klassifikationsrate', value: '100%' },
   { label: 'Protokolle', value: '50' },
