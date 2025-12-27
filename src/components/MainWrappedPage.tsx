@@ -8,6 +8,8 @@ import { SEO } from '@/components/seo/SEO';
 import { SITE_CONFIG } from '@/components/seo/constants';
 import { BackgroundSystem } from '@/components/ui/BackgroundSystem';
 import { getSlideIntensity } from '@/lib/background-config';
+import { themeMusic, getThemeForSlide } from '@/lib/theme-music';
+import { clearWrappedProgress } from '@/lib/wrapped-storage';
 import {
   ScrollContainer,
   SlideSection,
@@ -58,6 +60,18 @@ export function MainWrappedPage({ isMenuOpen, onMenuToggle }: MainWrappedPagePro
     () => initialSection !== null && initialSection !== 'intro'
   );
 
+  // Get current theme for the section
+  const currentTheme = introStarted ? getThemeForSlide(currentSection) : null;
+
+  // Switch background theme music based on current section
+  useEffect(() => {
+    // Only switch themes after intro has started (user clicked start button)
+    if (!introStarted) return;
+
+    const theme = getThemeForSlide(currentSection);
+    themeMusic.playTheme(theme);
+  }, [currentSection, introStarted]);
+
   // Restore scroll position on mount if we have saved progress
   const hasRestoredRef = useRef(false);
   useEffect(() => {
@@ -77,6 +91,12 @@ export function MainWrappedPage({ isMenuOpen, onMenuToggle }: MainWrappedPagePro
     setTimeout(() => {
       scrollContainerRef.current?.scrollToNextSlide(slideId);
     }, 100);
+  }, []);
+
+  // Restart handler - clears progress and reloads page
+  const handleRestart = useCallback(() => {
+    clearWrappedProgress();
+    window.location.reload();
   }, []);
 
   // Stable section change handler
@@ -163,13 +183,14 @@ export function MainWrappedPage({ isMenuOpen, onMenuToggle }: MainWrappedPagePro
       </AnimatePresence>
 
       <AnimatePresence>
-        {!showHeader && <FloatingAudioControls />}
+        {!showHeader && <FloatingAudioControls currentTheme={currentTheme} />}
       </AnimatePresence>
 
       <BackgroundSystem
+        slideId={currentSection}
         intensity={getSlideIntensity(currentSection)}
         scrollContainer={scrollContainerRef.current?.containerRef}
-        sparkles={{ color: 'rgb(147 51 234 / 0.15)', count: 40 }}
+        sparkles={true}
       />
 
       <div className="relative z-10">
@@ -189,6 +210,7 @@ export function MainWrappedPage({ isMenuOpen, onMenuToggle }: MainWrappedPagePro
                 onQuizAnswer={slideCallbacks[slideId].onQuizAnswer}
                 onQuizEnter={noop}
                 onQuizComplete={slideCallbacks[slideId].onQuizComplete}
+                onRestart={handleRestart}
               />
             </SlideSection>
           ))}
