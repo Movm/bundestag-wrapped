@@ -3,6 +3,13 @@ import { useState, useMemo, useEffect } from 'react';
 import { getPartyBgColor, PARTY_COLORS } from '@/lib/party-colors';
 import { playSound } from '@/lib/sounds';
 import { Confetti } from './Confetti';
+import { getThemeConfig } from '@/shared/theme-backgrounds/types';
+
+// Convert RGB string "r, g, b" to hex "#rrggbb"
+function rgbToHex(rgb: string): string {
+  const [r, g, b] = rgb.split(',').map(n => parseInt(n.trim(), 10));
+  return `#${r.toString(16).padStart(2, '0')}${g.toString(16).padStart(2, '0')}${b.toString(16).padStart(2, '0')}`;
+}
 
 export interface QuizConfig {
   question: string;
@@ -57,11 +64,19 @@ interface SlideQuizProps {
   emoji?: string;
   badge?: string;
   partyColor?: string;
+  /** Current slide ID for themed confetti colors */
+  slideId?: string;
 }
 
 const FALLBACK_COLORS = ['#2d2d3a', '#363647', '#3f3f52', '#4a4a5e'];
 
-function SuccessOverlay({ onComplete }: { onComplete: () => void }) {
+function SuccessOverlay({
+  onComplete,
+  confettiColors,
+}: {
+  onComplete: () => void;
+  confettiColors?: string[];
+}) {
   useEffect(() => {
     playSound('correct');
   }, []);
@@ -74,7 +89,7 @@ function SuccessOverlay({ onComplete }: { onComplete: () => void }) {
       onAnimationComplete={() => setTimeout(onComplete, 1500)}
       className="fixed inset-0 z-50 flex items-center justify-center pointer-events-none"
     >
-      <Confetti count={20} />
+      <Confetti count={20} colors={confettiColors} />
       <motion.div
         initial={{ scale: 0 }}
         animate={{ scale: 1 }}
@@ -132,12 +147,25 @@ export function SlideQuiz({
   emoji,
   badge,
   partyColor: _partyColor,
+  slideId,
 }: SlideQuizProps) {
   const quiz = useMemo(() => normalizeQuizConfig(rawQuiz), [rawQuiz]);
   const [selectedAnswer, setSelectedAnswer] = useState<string | null>(null);
   const [showResult, setShowResult] = useState(false);
 
   const isCorrect = selectedAnswer === quiz.correctAnswer;
+
+  // Get confetti colors from theme
+  const confettiColors = useMemo(() => {
+    if (!slideId) return undefined;
+    const config = getThemeConfig(slideId);
+    return [
+      rgbToHex(config.colors.primary),
+      rgbToHex(config.colors.secondary),
+      rgbToHex(config.colors.glow),
+      '#ffffff', // White accent
+    ];
+  }, [slideId]);
 
   const optionColors = useMemo(
     () =>
@@ -169,7 +197,7 @@ export function SlideQuiz({
     <div className="min-h-screen flex flex-col items-center justify-center px-6 py-8">
       <AnimatePresence>
         {showResult && isCorrect && (
-          <SuccessOverlay onComplete={handleOverlayComplete} />
+          <SuccessOverlay onComplete={handleOverlayComplete} confettiColors={confettiColors} />
         )}
         {showResult && !isCorrect && (
           <WrongOverlay
@@ -233,6 +261,7 @@ export function SlideQuiz({
               <motion.button
                 key={i}
                 onClick={() => handleSelect(option)}
+                onMouseEnter={() => !showResult && playSound('hover')}
                 style={style}
                 className={`aspect-[4/3] p-4 rounded-2xl flex items-center justify-center text-center transition-all hover:brightness-110 ${ringClass} ${
                   showResult ? 'cursor-default opacity-50' : 'cursor-pointer'

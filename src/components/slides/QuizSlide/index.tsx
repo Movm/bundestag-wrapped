@@ -3,6 +3,7 @@ import { motion, AnimatePresence, useInView } from 'motion/react';
 import type { QuizQuestion } from '@/data/wrapped';
 import { getPartyBgColor, PARTY_COLORS } from '@/lib/party-colors';
 import { playSound } from '@/lib/sounds';
+import { getThemeConfig } from '@/shared/theme-backgrounds/types';
 import {
   Confetti,
   ScrollHint,
@@ -12,6 +13,12 @@ import {
   featuredWordVariants,
 } from '../shared';
 
+// Convert RGB string "r, g, b" to hex "#rrggbb"
+function rgbToHex(rgb: string): string {
+  const [r, g, b] = rgb.split(',').map(n => parseInt(n.trim(), 10));
+  return `#${r.toString(16).padStart(2, '0')}${g.toString(16).padStart(2, '0')}${b.toString(16).padStart(2, '0')}`;
+}
+
 interface QuizSlideProps {
   question: QuizQuestion;
   questionNumber: number;
@@ -20,6 +27,8 @@ interface QuizSlideProps {
   onAnswer: (isCorrect: boolean) => void;
   onEnterView: () => void;
   onComplete: () => void;
+  /** Current slide ID for themed confetti colors */
+  slideId?: string;
 }
 
 const FALLBACK_COLORS = ['#2d2d3a', '#363647', '#3f3f52', '#4a4a5e'];
@@ -38,7 +47,13 @@ const EMOJI_FLOAT_ANIMATIONS = [
   { y: [0, -8, 0], rotate: [0, 3, 0], duration: 4.2 },
 ];
 
-function SuccessOverlay({ onComplete }: { onComplete: () => void }) {
+function SuccessOverlay({
+  onComplete,
+  confettiColors,
+}: {
+  onComplete: () => void;
+  confettiColors?: string[];
+}) {
   useEffect(() => {
     playSound('correct');
     const timer = setTimeout(onComplete, 2000);
@@ -52,7 +67,7 @@ function SuccessOverlay({ onComplete }: { onComplete: () => void }) {
       exit={{ opacity: 0 }}
       className="fixed inset-0 z-50 flex items-center justify-center pointer-events-none"
     >
-      <Confetti count={30} />
+      <Confetti count={30} colors={confettiColors} />
       <motion.div
         initial={{ scale: 0, rotate: -10 }}
         animate={{ scale: 1, rotate: 0 }}
@@ -162,6 +177,7 @@ export const QuizSlide = memo(function QuizSlide({
   onAnswer,
   onEnterView,
   onComplete,
+  slideId,
 }: QuizSlideProps) {
   const ref = useRef<HTMLDivElement>(null);
   const isInView = useInView(ref, { amount: 0.5 });
@@ -171,6 +187,18 @@ export const QuizSlide = memo(function QuizSlide({
   const [showLockHint, setShowLockHint] = useState(false);
 
   const isCorrect = selectedAnswer === question.correctAnswer;
+
+  // Get confetti colors from theme
+  const confettiColors = useMemo(() => {
+    if (!slideId) return undefined;
+    const config = getThemeConfig(slideId);
+    return [
+      rgbToHex(config.colors.primary),
+      rgbToHex(config.colors.secondary),
+      rgbToHex(config.colors.glow),
+      '#ffffff', // White accent
+    ];
+  }, [slideId]);
 
   useEffect(() => {
     if (isInView && !isAnswered && !hasTriggeredEnter) {
@@ -223,7 +251,7 @@ export const QuizSlide = memo(function QuizSlide({
 
       <AnimatePresence>
         {showResult && isCorrect && (
-          <SuccessOverlay onComplete={handleOverlayComplete} />
+          <SuccessOverlay onComplete={handleOverlayComplete} confettiColors={confettiColors} />
         )}
         {showResult && !isCorrect && (
           <WrongOverlay
@@ -311,6 +339,7 @@ export const QuizSlide = memo(function QuizSlide({
                 <motion.button
                   key={i}
                   onClick={() => handleSelect(option)}
+                  onMouseEnter={() => !isDisabled && playSound('hover')}
                   initial={{
                     opacity: 0,
                     scale: 0,
@@ -381,6 +410,7 @@ export const QuizSlide = memo(function QuizSlide({
                 <motion.button
                   key={i}
                   onClick={() => handleSelect(option)}
+                  onMouseEnter={() => !isDisabled && playSound('hover')}
                   variants={optionButtonVariants}
                   custom={i}
                   style={style}

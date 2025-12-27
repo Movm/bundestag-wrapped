@@ -1,18 +1,23 @@
 import { memo, useMemo } from 'react';
 import { motion } from 'motion/react';
 
-const COLORS = ['#000000', '#DD0000', '#FFCC00']; // German flag colors
+const DEFAULT_COLORS = ['#000000', '#DD0000', '#FFCC00']; // German flag colors
 
 interface ConfettiProps {
   count?: number;
+  /** Custom colors for confetti particles (defaults to German flag colors) */
+  colors?: string[];
 }
 
 /**
  * Memoized confetti animation component.
  * Pre-computes random values to prevent recalculation on re-renders.
  */
-export const Confetti = memo(function Confetti({ count = 20 }: ConfettiProps) {
-  // Pre-compute random values ONCE when count changes
+export const Confetti = memo(function Confetti({
+  count = 20,
+  colors = DEFAULT_COLORS,
+}: ConfettiProps) {
+  // Pre-compute random values ONCE when count/colors changes
   const particles = useMemo(
     () =>
       Array.from({ length: count }, (_, i) => ({
@@ -22,9 +27,9 @@ export const Confetti = memo(function Confetti({ count = 20 }: ConfettiProps) {
         xEnd: Math.random() * 200 - 100,
         rotate: Math.random() * 720 - 360,
         delay: Math.random() * 0.3,
-        color: COLORS[i % COLORS.length],
+        color: colors[i % colors.length],
       })),
-    [count]
+    [count, colors]
   );
 
   return (
