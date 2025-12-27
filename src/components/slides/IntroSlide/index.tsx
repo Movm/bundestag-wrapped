@@ -21,6 +21,7 @@ export const IntroSlide = memo(function IntroSlide({ onStart }: IntroSlideProps)
 
   const handleStart = useCallback(() => {
     playSound('start');
+    // Theme music is started by MainWrappedPage when introStarted becomes true
     setLaunchPhase('hiding');
 
     setTimeout(() => {

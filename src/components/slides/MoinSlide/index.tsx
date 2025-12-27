@@ -64,6 +64,7 @@ export const MoinSlide = memo(function MoinSlide({
         emoji="👋"
         title="Moin!"
         subtitle="Ein norddeutsches Grußwort hat es in den Bundestag geschafft."
+        slideId="intro-moin"
       />
     );
   }

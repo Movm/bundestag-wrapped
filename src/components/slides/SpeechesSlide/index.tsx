@@ -47,6 +47,7 @@ export const SpeechesSlide = memo(function SpeechesSlide({
         emoji="🎤"
         title="Manche reden mehr als andere."
         subtitle="Weißt du, wer am meisten am Rednerpult stand?"
+        slideId="intro-speeches"
       />
     );
   }

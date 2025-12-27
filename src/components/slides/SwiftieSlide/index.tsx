@@ -50,6 +50,7 @@ export const SwiftieSlide = memo(function SwiftieSlide({
         emoji="💜"
         title="Shake it off!"
         subtitle="Ein Popstar hat es in den Bundestag geschafft."
+        slideId="intro-swiftie"
       />
     );
   }

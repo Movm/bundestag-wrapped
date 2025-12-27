@@ -36,6 +36,7 @@ export const DramaSlide = memo(function DramaSlide({
         emoji="🎭"
         title="Im Bundestag wird dazwischengerufen."
         subtitle="Wer stört am meisten?"
+        slideId="intro-drama"
       />
     );
   }

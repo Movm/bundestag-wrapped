@@ -17,7 +17,8 @@ export const TopicsSlide = memo(function TopicsSlide({
       <SlideIntro
         emoji="📊"
         title="Worüber spricht der Bundestag?"
-        subtitle="12 Themen im Fokus"
+        subtitle="13 Themen im Fokus"
+        slideId="intro-topics"
       />
     );
   }

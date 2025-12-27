@@ -18,6 +18,7 @@ export const ToneAnalysisSlide = memo(function ToneAnalysisSlide({
         emoji="🎭"
         title="Jede Fraktion hat ihren eigenen Ton."
         subtitle="Welches Emoji passt zur SPD?"
+        slideId="intro-tone"
       />
     );
   }

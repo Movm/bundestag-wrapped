@@ -43,6 +43,7 @@ export const GenderSlide = memo(function GenderSlide({
         emoji="👩‍💼"
         title="Geschlechterverteilung"
         subtitle="Wer spricht wie oft im Bundestag?"
+        slideId="intro-gender"
       />
     );
   }

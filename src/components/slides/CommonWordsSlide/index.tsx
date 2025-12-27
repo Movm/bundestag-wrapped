@@ -34,6 +34,7 @@ export const CommonWordsSlide = memo(function CommonWordsSlide({
         emoji="📊"
         title="Diese Wörter nutzen alle Parteien."
         subtitle="Was war das meistgenutzte Wort?"
+        slideId="intro-common-words"
       />
     );
   }

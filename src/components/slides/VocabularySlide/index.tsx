@@ -43,6 +43,7 @@ export const VocabularySlide = memo(function VocabularySlide({
         emoji="📚"
         title="Jede Fraktion hat ihre Lieblingswörter."
         subtitle="Erkennst du, welches Wort die Partei Die Linke am meisten Verwendet (im Vergleich zu anderen?"
+        slideId="intro-vocabulary"
       />
     );
   }

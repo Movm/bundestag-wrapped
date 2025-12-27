@@ -18,6 +18,7 @@ export const DiscriminatorySlide = memo(function DiscriminatorySlide({
         emoji="⚠️"
         title="Manche Begriffe sind nicht neutral."
         subtitle="Welche Fraktion fällt auf?"
+        slideId="intro-discriminatory"
       />
     );
   }
