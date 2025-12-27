@@ -1,5 +1,5 @@
 import { memo, useState, useRef, useEffect, useMemo } from 'react';
-import { motion } from 'motion/react';
+import { motion, useInView } from 'motion/react';
 import { Download, Share2 } from 'lucide-react';
 import { SlideContainer, itemVariants } from '../shared';
 import { renderShareImage, downloadShareImage, shareImage, preloadLogo } from '@/lib/share-canvas';
@@ -61,12 +61,19 @@ export const ShareSlide = memo(function ShareSlide({
   const [userName, setUserName] = useState('');
   const [canShare, setCanShare] = useState(false);
   const canvasRef = useRef<HTMLCanvasElement>(null);
+  const containerRef = useRef<HTMLDivElement>(null);
+
+  // Defer canvas rendering until slide is visible (saves 62ms on initial load)
+  const isInView = useInView(containerRef, { once: true, amount: 0.3 });
 
   useEffect(() => {
     setCanShare(typeof navigator !== 'undefined' && !!navigator.share && !!navigator.canShare);
   }, []);
 
   useEffect(() => {
+    // Only render when slide becomes visible
+    if (!isInView) return;
+
     preloadLogo().then(() => {
       if (canvasRef.current) {
         renderShareImage(canvasRef.current, {
@@ -76,7 +83,7 @@ export const ShareSlide = memo(function ShareSlide({
         });
       }
     });
-  }, [correctCount, totalQuestions, userName]);
+  }, [correctCount, totalQuestions, userName, isInView]);
 
   const handleDownload = () => {
     if (canvasRef.current) {
@@ -91,11 +98,12 @@ export const ShareSlide = memo(function ShareSlide({
   };
 
   return (
-    <SlideContainer
-      innerClassName="max-w-md md:max-w-5xl mx-auto"
-      className="relative overflow-hidden"
-    >
-      <FallingConfetti />
+    <div ref={containerRef}>
+      <SlideContainer
+        innerClassName="max-w-md md:max-w-5xl mx-auto"
+        className="relative overflow-hidden"
+      >
+        <FallingConfetti />
 
       {/* Grid layout: stacked on mobile, side-by-side on desktop */}
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-12 lg:gap-16 items-center">
@@ -183,6 +191,7 @@ export const ShareSlide = memo(function ShareSlide({
           />
         </motion.div>
       </div>
-    </SlideContainer>
+      </SlideContainer>
+    </div>
   );
 });

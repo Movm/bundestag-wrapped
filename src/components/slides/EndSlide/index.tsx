@@ -41,6 +41,10 @@ function InstagramIcon() {
   );
 }
 
+interface EndSlideProps {
+  onRestart?: () => void;
+}
+
 const socialLinks = [
   {
     href: 'https://github.com/Movm/bundestag-wrapped',
@@ -64,7 +68,7 @@ const socialLinks = [
   },
 ];
 
-export const EndSlide = memo(function EndSlide() {
+export const EndSlide = memo(function EndSlide({ onRestart }: EndSlideProps) {
   return (
     <SlideContainer
       innerClassName="max-w-md md:max-w-4xl lg:max-w-5xl"
@@ -156,6 +160,18 @@ export const EndSlide = memo(function EndSlide() {
               <GitHubIcon />
               GitHub
             </a>
+            <button
+              onClick={onRestart}
+              className="inline-flex items-center gap-2 px-5 py-2.5 bg-pink-500 hover:bg-pink-600 rounded-full text-white font-semibold transition-all hover:scale-105 text-sm"
+            >
+              Nochmal starten
+            </button>
+            <Link
+              to="/abgeordnete"
+              className="inline-flex items-center gap-2 px-5 py-2.5 bg-white/10 hover:bg-white/15 border border-white/20 rounded-full text-white font-semibold transition-all hover:scale-105 text-sm"
+            >
+              Abgeordnete
+            </Link>
           </motion.div>
         </div>
       </div>
