@@ -1,39 +1,56 @@
 import { memo, useMemo } from 'react';
 import { motion, type MotionValue } from 'motion/react';
+import type { ThemeColors } from '@/shared/theme-backgrounds/types';
+
+// Default colors (pink/purple) for backwards compatibility
+const DEFAULT_COLORS: ThemeColors = {
+  primary: '236, 72, 153',    // pink-500
+  secondary: '168, 85, 247',  // purple-500
+  accent: '255, 255, 255',    // white
+  glow: '244, 114, 182',      // pink-400
+};
+
+interface ContrailGradientsProps {
+  colors?: ThemeColors;
+  id?: string;
+}
 
 // Shared gradient definitions - render once, reference by ID
-export const ContrailGradients = memo(function ContrailGradients() {
+export const ContrailGradients = memo(function ContrailGradients({
+  colors = DEFAULT_COLORS,
+  id = 'contrail',
+}: ContrailGradientsProps) {
   return (
     <svg className="absolute w-0 h-0" aria-hidden="true">
       <defs>
-        {/* Main contrail gradient - white core fading to pink/purple */}
-        <linearGradient id="contrail-gradient-vertical" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="rgb(255 255 255)" stopOpacity="1" />
-          <stop offset="5%" stopColor="rgb(244 114 182)" stopOpacity="0.95" />
-          <stop offset="20%" stopColor="rgb(236 72 153)" stopOpacity="0.8" />
-          <stop offset="50%" stopColor="rgb(168 85 247)" stopOpacity="0.4" />
-          <stop offset="80%" stopColor="rgb(139 92 246)" stopOpacity="0.15" />
-          <stop offset="100%" stopColor="rgb(139 92 246)" stopOpacity="0" />
+        {/* Main contrail gradient - white core fading to primary/secondary */}
+        <linearGradient id={`${id}-gradient-vertical`} x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor={`rgb(${colors.accent})`} stopOpacity="1" />
+          <stop offset="5%" stopColor={`rgb(${colors.glow})`} stopOpacity="0.95" />
+          <stop offset="20%" stopColor={`rgb(${colors.primary})`} stopOpacity="0.8" />
+          <stop offset="50%" stopColor={`rgb(${colors.secondary})`} stopOpacity="0.4" />
+          <stop offset="80%" stopColor={`rgb(${colors.secondary})`} stopOpacity="0.15" />
+          <stop offset="100%" stopColor={`rgb(${colors.secondary})`} stopOpacity="0" />
         </linearGradient>
 
         {/* Outer glow gradient */}
-        <linearGradient id="contrail-glow-vertical" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="rgb(236 72 153)" stopOpacity="0.6" />
-          <stop offset="30%" stopColor="rgb(168 85 247)" stopOpacity="0.3" />
-          <stop offset="100%" stopColor="rgb(168 85 247)" stopOpacity="0" />
+        <linearGradient id={`${id}-glow-vertical`} x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor={`rgb(${colors.primary})`} stopOpacity="0.6" />
+          <stop offset="30%" stopColor={`rgb(${colors.secondary})`} stopOpacity="0.3" />
+          <stop offset="100%" stopColor={`rgb(${colors.secondary})`} stopOpacity="0" />
         </linearGradient>
 
         {/* Diagonal gradient (for background drifting) */}
-        <linearGradient id="contrail-gradient-diagonal" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="rgb(255 255 255)" stopOpacity="0" />
-          <stop offset="10%" stopColor="rgb(244 114 182)" stopOpacity="0.6" />
-          <stop offset="30%" stopColor="rgb(236 72 153)" stopOpacity="0.4" />
-          <stop offset="60%" stopColor="rgb(168 85 247)" stopOpacity="0.2" />
-          <stop offset="100%" stopColor="rgb(139 92 246)" stopOpacity="0" />
+        <linearGradient id={`${id}-gradient-diagonal`} x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor={`rgb(${colors.accent})`} stopOpacity="0" />
+          <stop offset="10%" stopColor={`rgb(${colors.glow})`} stopOpacity="0.6" />
+          <stop offset="30%" stopColor={`rgb(${colors.primary})`} stopOpacity="0.4" />
+          <stop offset="60%" stopColor={`rgb(${colors.secondary})`} stopOpacity="0.2" />
+          <stop offset="100%" stopColor={`rgb(${colors.secondary})`} stopOpacity="0" />
         </linearGradient>
 
         {/* Intense glow filter for dramatic effects */}
-        <filter id="contrail-glow-filter" x="-100%" y="-50%" width="300%" height="200%">
+        <filter id={`${id}-glow-filter`} x="-100%" y="-50%" width="300%" height="200%">
           <feGaussianBlur stdDeviation="8" result="blur" />
           <feMerge>
             <feMergeNode in="blur" />
@@ -43,7 +60,7 @@ export const ContrailGradients = memo(function ContrailGradients() {
         </filter>
 
         {/* Subtle glow for background contrails */}
-        <filter id="contrail-glow-subtle" x="-50%" y="-50%" width="200%" height="200%">
+        <filter id={`${id}-glow-subtle`} x="-50%" y="-50%" width="200%" height="200%">
           <feGaussianBlur stdDeviation="4" result="blur" />
           <feMerge>
             <feMergeNode in="blur" />
@@ -81,6 +98,7 @@ const BACKGROUND_CONTRAILS: ContrailConfig[] = [
 interface BackgroundContrailsProps {
   intensity?: 'subtle' | 'medium' | 'bold';
   parallaxY?: MotionValue<string>[];
+  colors?: ThemeColors;
 }
 
 /**
@@ -90,6 +108,7 @@ interface BackgroundContrailsProps {
 export const BackgroundContrails = memo(function BackgroundContrails({
   intensity = 'medium',
   parallaxY,
+  colors = DEFAULT_COLORS,
 }: BackgroundContrailsProps) {
   const intensityMultiplier = intensity === 'subtle' ? 0.5 : intensity === 'bold' ? 1.5 : 1;
 
@@ -134,9 +153,9 @@ export const BackgroundContrails = memo(function BackgroundContrails({
             style={{
               background: `linear-gradient(180deg,
                 transparent 0%,
-                rgba(236, 72, 153, ${config.opacity * 0.4}) 15%,
-                rgba(168, 85, 247, ${config.opacity * 0.3}) 50%,
-                rgba(139, 92, 246, ${config.opacity * 0.15}) 85%,
+                rgba(${colors.primary}, ${config.opacity * 0.4}) 15%,
+                rgba(${colors.secondary}, ${config.opacity * 0.3}) 50%,
+                rgba(${colors.secondary}, ${config.opacity * 0.15}) 85%,
                 transparent 100%)`,
               filter: 'blur(8px)',
               width: config.width + 16,
@@ -153,10 +172,10 @@ export const BackgroundContrails = memo(function BackgroundContrails({
               height: '100%',
               background: `linear-gradient(180deg,
                 transparent 0%,
-                rgba(255, 255, 255, ${config.opacity * 0.8}) 5%,
-                rgba(244, 114, 182, ${config.opacity}) 15%,
-                rgba(236, 72, 153, ${config.opacity * 0.7}) 40%,
-                rgba(168, 85, 247, ${config.opacity * 0.3}) 70%,
+                rgba(${colors.accent}, ${config.opacity * 0.8}) 5%,
+                rgba(${colors.glow}, ${config.opacity}) 15%,
+                rgba(${colors.primary}, ${config.opacity * 0.7}) 40%,
+                rgba(${colors.secondary}, ${config.opacity * 0.3}) 70%,
                 transparent 100%)`,
               borderRadius: 2,
             }}

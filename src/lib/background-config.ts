@@ -73,7 +73,6 @@ export const SLIDE_INTENSITY: Record<string, Intensity> = {
   'quiz-words-total': 'medium',
   'quiz-hot-topic': 'medium',
   'quiz-moin-person': 'medium',
-  'quiz-zwischenfragen': 'medium',
   'quiz-aggressive': 'medium',
   'quiz-labeling': 'medium',
   'quiz-collaborative': 'medium',
