@@ -102,19 +102,6 @@ export const QUIZZES: Record<string, QuizQuestion> = {
     correctAnswer: 'GRÜNE',
     explanation: 'GRÜNE haben mit 64% den höchsten Frauenanteil!',
   },
-  'quiz-zwischenfragen': {
-    id: 'quiz-zwischenfragen',
-    type: 'prediction',
-    question: 'Wer stellt die meisten Fragen in der Fragestunde?',
-    options: [
-      'Dr. Rainer Kraft (AfD)',
-      'Dr. Sandra Detzer (GRÜNE)',
-      'Stefan Schröder (AfD)',
-      'Martin Reichardt (AfD)',
-    ],
-    correctAnswer: 'Dr. Rainer Kraft (AfD)',
-    explanation: 'Dr. Rainer Kraft (AfD) mit 29 Fragen!',
-  },
   'quiz-aggressive': {
     id: 'quiz-aggressive',
     type: 'prediction',
