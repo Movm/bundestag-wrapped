@@ -1,0 +1,340 @@
+/**
+ * Abstract Particles CSS Animations
+ *
+ * Pure CSS keyframe animations for optimal performance.
+ * All animations use GPU-accelerated transforms only.
+ * Multiple variants (-0, -1, -2) prevent particles from syncing.
+ */
+
+/* Base animation properties */
+.particle-rise,
+.particle-fall,
+.particle-float,
+.particle-pulse,
+.particle-drift,
+.particle-ripple {
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+  animation-fill-mode: both;
+}
+
+/* ========================================
+   RISE - Particles float upward
+   ======================================== */
+
+@keyframes rise-0 {
+  0%, 100% {
+    transform: translate3d(0, 0, 0);
+    opacity: 0;
+  }
+  10% {
+    opacity: 1;
+  }
+  90% {
+    opacity: 1;
+  }
+  100% {
+    transform: translate3d(5px, -100vh, 0);
+    opacity: 0;
+  }
+}
+
+@keyframes rise-1 {
+  0%, 100% {
+    transform: translate3d(0, 0, 0);
+    opacity: 0;
+  }
+  10% {
+    opacity: 1;
+  }
+  90% {
+    opacity: 1;
+  }
+  100% {
+    transform: translate3d(-8px, -100vh, 0);
+    opacity: 0;
+  }
+}
+
+@keyframes rise-2 {
+  0%, 100% {
+    transform: translate3d(0, 0, 0);
+    opacity: 0;
+  }
+  10% {
+    opacity: 1;
+  }
+  90% {
+    opacity: 1;
+  }
+  100% {
+    transform: translate3d(3px, -100vh, 0);
+    opacity: 0;
+  }
+}
+
+.particle-rise {
+  animation-name: rise-0;
+}
+
+/* ========================================
+   FALL - Particles drift downward
+   ======================================== */
+
+@keyframes fall-0 {
+  0%, 100% {
+    transform: translate3d(0, 0, 0);
+    opacity: 0;
+  }
+  10% {
+    opacity: 1;
+  }
+  90% {
+    opacity: 1;
+  }
+  100% {
+    transform: translate3d(-5px, 100vh, 0);
+    opacity: 0;
+  }
+}
+
+@keyframes fall-1 {
+  0%, 100% {
+    transform: translate3d(0, 0, 0);
+    opacity: 0;
+  }
+  10% {
+    opacity: 1;
+  }
+  90% {
+    opacity: 1;
+  }
+  100% {
+    transform: translate3d(8px, 100vh, 0);
+    opacity: 0;
+  }
+}
+
+@keyframes fall-2 {
+  0%, 100% {
+    transform: translate3d(0, 0, 0);
+    opacity: 0;
+  }
+  10% {
+    opacity: 1;
+  }
+  90% {
+    opacity: 1;
+  }
+  100% {
+    transform: translate3d(-3px, 100vh, 0);
+    opacity: 0;
+  }
+}
+
+.particle-fall {
+  animation-name: fall-0;
+}
+
+/* ========================================
+   FLOAT - Gentle bobbing motion
+   ======================================== */
+
+@keyframes float-0 {
+  0%, 100% {
+    transform: translate3d(0, 0, 0);
+  }
+  25% {
+    transform: translate3d(8px, -12px, 0);
+  }
+  50% {
+    transform: translate3d(-4px, -20px, 0);
+  }
+  75% {
+    transform: translate3d(6px, -10px, 0);
+  }
+}
+
+@keyframes float-1 {
+  0%, 100% {
+    transform: translate3d(0, 0, 0);
+  }
+  25% {
+    transform: translate3d(-10px, -8px, 0);
+  }
+  50% {
+    transform: translate3d(6px, -18px, 0);
+  }
+  75% {
+    transform: translate3d(-5px, -6px, 0);
+  }
+}
+
+@keyframes float-2 {
+  0%, 100% {
+    transform: translate3d(0, 0, 0);
+  }
+  25% {
+    transform: translate3d(6px, -15px, 0);
+  }
+  50% {
+    transform: translate3d(-8px, -22px, 0);
+  }
+  75% {
+    transform: translate3d(4px, -8px, 0);
+  }
+}
+
+.particle-float {
+  animation-name: float-0;
+}
+
+/* ========================================
+   PULSE - Scale and opacity pulsing
+   ======================================== */
+
+@keyframes pulse-0 {
+  0%, 100% {
+    transform: scale3d(1, 1, 1);
+    opacity: 0.3;
+  }
+  50% {
+    transform: scale3d(1.4, 1.4, 1);
+    opacity: 1;
+  }
+}
+
+@keyframes pulse-1 {
+  0%, 100% {
+    transform: scale3d(1, 1, 1);
+    opacity: 0.4;
+  }
+  50% {
+    transform: scale3d(1.3, 1.3, 1);
+    opacity: 0.9;
+  }
+}
+
+@keyframes pulse-2 {
+  0%, 100% {
+    transform: scale3d(1, 1, 1);
+    opacity: 0.35;
+  }
+  50% {
+    transform: scale3d(1.5, 1.5, 1);
+    opacity: 1;
+  }
+}
+
+.particle-pulse {
+  animation-name: pulse-0;
+}
+
+/* ========================================
+   DRIFT - Horizontal wandering
+   ======================================== */
+
+@keyframes drift-0 {
+  0%, 100% {
+    transform: translate3d(0, 0, 0);
+  }
+  25% {
+    transform: translate3d(30px, -5px, 0);
+  }
+  50% {
+    transform: translate3d(50px, 5px, 0);
+  }
+  75% {
+    transform: translate3d(25px, -3px, 0);
+  }
+}
+
+@keyframes drift-1 {
+  0%, 100% {
+    transform: translate3d(0, 0, 0);
+  }
+  25% {
+    transform: translate3d(-25px, 8px, 0);
+  }
+  50% {
+    transform: translate3d(-45px, -5px, 0);
+  }
+  75% {
+    transform: translate3d(-20px, 4px, 0);
+  }
+}
+
+@keyframes drift-2 {
+  0%, 100% {
+    transform: translate3d(0, 0, 0);
+  }
+  25% {
+    transform: translate3d(20px, 10px, 0);
+  }
+  50% {
+    transform: translate3d(40px, -8px, 0);
+  }
+  75% {
+    transform: translate3d(15px, 5px, 0);
+  }
+}
+
+.particle-drift {
+  animation-name: drift-0;
+}
+
+/* ========================================
+   RIPPLE - Expanding rings (for center particles)
+   ======================================== */
+
+@keyframes ripple-0 {
+  0% {
+    transform: scale3d(0.5, 0.5, 1);
+    opacity: 0.6;
+  }
+  100% {
+    transform: scale3d(3, 3, 1);
+    opacity: 0;
+  }
+}
+
+@keyframes ripple-1 {
+  0% {
+    transform: scale3d(0.6, 0.6, 1);
+    opacity: 0.5;
+  }
+  100% {
+    transform: scale3d(2.8, 2.8, 1);
+    opacity: 0;
+  }
+}
+
+@keyframes ripple-2 {
+  0% {
+    transform: scale3d(0.4, 0.4, 1);
+    opacity: 0.55;
+  }
+  100% {
+    transform: scale3d(3.2, 3.2, 1);
+    opacity: 0;
+  }
+}
+
+.particle-ripple {
+  animation-name: ripple-0;
+}
+
+/* ========================================
+   Reduced Motion
+   ======================================== */
+
+@media (prefers-reduced-motion: reduce) {
+  .particle-rise,
+  .particle-fall,
+  .particle-float,
+  .particle-pulse,
+  .particle-drift,
+  .particle-ripple {
+    animation: none;
+  }
+}

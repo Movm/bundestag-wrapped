@@ -18,6 +18,17 @@ export {
 
 // Shared slide components
 export { Confetti } from './Confetti';
+export {
+  DecorativeAccents,
+  RibbonDecoration,
+  WaveDecoration,
+  BarsDecoration,
+  LightningDecoration,
+  PulseDecoration,
+  OrbsDecoration,
+  SparkleDecoration,
+  GradientDecoration,
+} from './DecorativeAccents';
 export { FlipCard } from './FlipCard';
 export { FloatingParticles } from './FloatingParticles';
 export { LaunchEffects, CHARGE_DURATION, FLIGHT_DURATION } from './FlyingBird';

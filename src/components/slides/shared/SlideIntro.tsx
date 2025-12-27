@@ -1,19 +1,34 @@
-import { motion } from 'motion/react';
+import { useRef } from 'react';
+import { motion, useInView } from 'motion/react';
+import { DecorativeAccents, AbstractParticles } from './DecorativeAccents';
 
 interface SlideIntroProps {
   emoji: string;
   title?: string;
   subtitle?: string;
+  /** Show decorative accent elements (default: true) */
+  showAccents?: boolean;
+  /** Slide ID for themed decorations */
+  slideId?: string;
 }
 
 /**
  * Intro phase for a slide - Spotify Wrapped style.
  * Shows emoji with one sentence. Title optional.
  * Animations: emoji pops in with scale bounce, title slides up, subtitle fades in.
+ * Includes decorative ribbon/loop accents on sides and floating abstract particles.
  */
-export function SlideIntro({ emoji, title, subtitle }: SlideIntroProps) {
+export function SlideIntro({ emoji, title, subtitle, showAccents = true, slideId }: SlideIntroProps) {
+  const ref = useRef<HTMLDivElement>(null);
+  const isInView = useInView(ref, { amount: 0.3 });
+
   return (
-    <div className="min-h-screen flex flex-col items-center justify-center px-6">
+    <div ref={ref} className="min-h-screen flex flex-col items-center justify-center px-6 relative overflow-hidden">
+      {/* Layer 1: Abstract floating particles - themed by slideId */}
+      {showAccents && <AbstractParticles slideId={slideId} isInView={isInView} />}
+
+      {/* Layer 2: Decorative accents - themed by slideId */}
+      {showAccents && <DecorativeAccents slideId={slideId} />}
       <div className="text-center">
         {/* Emoji with scale-pop effect */}
         <motion.span
@@ -50,7 +65,7 @@ export function SlideIntro({ emoji, title, subtitle }: SlideIntroProps) {
             initial={{ opacity: 0 }}
             whileInView={{ opacity: 1 }}
             viewport={{ once: true }}
-            transition={{ delay: 0.5, duration: 0.5 }}
+            transition={{ delay: 0.8, duration: 0.5 }}
             className="text-white/60 text-xl md:text-2xl"
           >
             {subtitle}
