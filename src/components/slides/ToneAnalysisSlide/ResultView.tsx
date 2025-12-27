@@ -1,4 +1,4 @@
-import { useMemo } from 'react';
+import { memo, useMemo } from 'react';
 import { motion } from 'motion/react';
 import type { ToneAnalysis, PartyProfile, ExtendedToneScores } from '@/data/wrapped';
 import { getPartyGradient, getPartyColor } from '@/lib/party-colors';
@@ -62,7 +62,16 @@ function getHolisticSummary(scores: ExtendedToneScores): string {
   return 'Sachlich'; // Default fallback
 }
 
-function ToneBubble({
+// Direction vectors for each bubble position (radiates outward from center)
+const ENTRY_DIRECTIONS = [
+  { x: -60, y: -40 },  // top-left enters from upper-left
+  { x: 60, y: -40 },   // top-right enters from upper-right
+  { x: 0, y: -50 },    // center enters from above
+  { x: -60, y: 40 },   // bottom-left enters from lower-left
+  { x: 60, y: 40 },    // bottom-right enters from lower-right
+];
+
+const ToneBubble = memo(function ToneBubble({
   profile,
   index,
   position,
@@ -71,6 +80,7 @@ function ToneBubble({
 }: ToneBubbleProps) {
   const partyColor = getPartyColor(profile.party);
   const holisticSummary = getHolisticSummary(profile.scores);
+  const entryDir = ENTRY_DIRECTIONS[index] || { x: 0, y: -50 };
 
   const bubbleClasses = `
     w-full h-full
@@ -110,14 +120,14 @@ function ToneBubble({
 
   return (
     <motion.div
-      initial={{ opacity: 0, scale: 0 }}
-      whileInView={{ opacity: 1, scale: 1 }}
+      initial={{ opacity: 0, scale: 0.7, x: entryDir.x, y: entryDir.y }}
+      whileInView={{ opacity: 1, scale: 1, x: 0, y: 0 }}
       viewport={{ once: true }}
       transition={{
-        delay: index * 0.12,
+        delay: index * 0.4,
         type: 'spring',
-        stiffness: 150,
-        damping: 15,
+        stiffness: 100,
+        damping: 14,
       }}
       style={{
         position: 'absolute',
@@ -142,7 +152,7 @@ function ToneBubble({
       </motion.div>
     </motion.div>
   );
-}
+});
 
 export function ResultView({ toneAnalysis }: ResultViewProps) {
   const sortedProfiles = useMemo(() => {

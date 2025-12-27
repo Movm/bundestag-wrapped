@@ -1,4 +1,4 @@
-import { useCallback } from 'react';
+import { memo, useMemo } from 'react';
 import { motion } from 'motion/react';
 import type { TopicAnalysis } from '@/data/wrapped';
 import { BUBBLE_POSITIONS, FLOAT_ANIMATIONS, FlipCard } from '../shared';
@@ -24,7 +24,7 @@ interface TopicBubbleProps {
   partyRankings: PartyRanking[];
 }
 
-function TopicBubble({
+const TopicBubble = memo(function TopicBubble({
   topic,
   rank,
   index,
@@ -75,16 +75,19 @@ function TopicBubble({
     </div>
   );
 
+  // Alternate tilt directions for visual interest
+  const tiltAngle = index % 2 === 0 ? -8 : 8;
+
   return (
     <motion.div
-      initial={{ opacity: 0, scale: 0 }}
-      whileInView={{ opacity: 1, scale: 1 }}
+      initial={{ opacity: 0, scale: 0, rotate: tiltAngle }}
+      whileInView={{ opacity: 1, scale: 1, rotate: 0 }}
       viewport={{ once: true }}
       transition={{
-        delay: index * 0.12,
+        delay: index * 0.4,
         type: 'spring',
-        stiffness: 150,
-        damping: 15,
+        stiffness: 110,
+        damping: 12,
       }}
       style={{
         position: 'absolute',
@@ -109,24 +112,29 @@ function TopicBubble({
       </motion.div>
     </motion.div>
   );
-}
+});
 
 export function ResultView({ topicAnalysis }: ResultViewProps) {
   const { topTopics, byParty } = topicAnalysis;
 
   // Get top 5 topics for the bubble layout
-  const displayTopics = topTopics.slice(0, 5);
+  const displayTopics = useMemo(() => topTopics.slice(0, 5), [topTopics]);
 
-  // Calculate party rankings for a given topic
-  const getPartyRankings = useCallback((topicId: string): PartyRanking[] => {
-    const rankings: PartyRanking[] = [];
-    for (const [party, topics] of Object.entries(byParty)) {
-      if (party === 'fraktionslos') continue; // Skip independents
-      const score = topics[topicId] || 0;
-      rankings.push({ party, score });
+  // Pre-compute party rankings for all displayed topics at once
+  // This avoids recalculating rankings for each bubble on every render
+  const allPartyRankings = useMemo(() => {
+    const result: Record<string, PartyRanking[]> = {};
+    for (const topicScore of displayTopics) {
+      const rankings: PartyRanking[] = [];
+      for (const [party, topics] of Object.entries(byParty)) {
+        if (party === 'fraktionslos') continue;
+        const score = topics[topicScore.topic] || 0;
+        rankings.push({ party, score });
+      }
+      result[topicScore.topic] = rankings.sort((a, b) => b.score - a.score);
     }
-    return rankings.sort((a, b) => b.score - a.score);
-  }, [byParty]);
+    return result;
+  }, [displayTopics, byParty]);
 
   return (
     <div className="min-h-screen relative w-full">
@@ -157,7 +165,7 @@ export function ResultView({ topicAnalysis }: ResultViewProps) {
               position={BUBBLE_POSITIONS[i]}
               floatOffset={FLOAT_ANIMATIONS[i]}
               duration={FLOAT_ANIMATIONS[i].duration}
-              partyRankings={getPartyRankings(topicScore.topic)}
+              partyRankings={allPartyRankings[topicScore.topic]}
             />
           );
         })}

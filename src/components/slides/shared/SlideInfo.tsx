@@ -46,7 +46,7 @@ export function SlideInfo({ emoji, title, body }: SlideInfoProps) {
           initial={{ opacity: 0 }}
           whileInView={{ opacity: 1 }}
           viewport={{ once: true }}
-          transition={{ delay: 0.5, duration: 0.5 }}
+          transition={{ delay: 0.8, duration: 0.5 }}
           className="text-white/70 text-base md:text-lg leading-relaxed"
         >
           {body}

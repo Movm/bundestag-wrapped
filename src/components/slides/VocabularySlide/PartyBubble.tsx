@@ -1,3 +1,4 @@
+import { memo } from 'react';
 import { motion } from 'motion/react';
 import type { PartyStats } from '@/data/wrapped';
 import { getPartyGradient } from '@/lib/party-colors';
@@ -11,7 +12,7 @@ interface PartyBubbleProps {
   duration: number;
 }
 
-export function PartyBubble({
+export const PartyBubble = memo(function PartyBubble({
   party,
   index,
   position,
@@ -60,14 +61,14 @@ export function PartyBubble({
 
   return (
     <motion.div
-      initial={{ opacity: 0, scale: 0 }}
-      whileInView={{ opacity: 1, scale: 1 }}
+      initial={{ opacity: 0, scale: 0, rotate: -20 }}
+      whileInView={{ opacity: 1, scale: 1, rotate: 0 }}
       viewport={{ once: true }}
       transition={{
-        delay: index * 0.12,
+        delay: index * 0.4,
         type: 'spring',
-        stiffness: 150,
-        damping: 15,
+        stiffness: 100,
+        damping: 12,
       }}
       style={{
         position: 'absolute',
@@ -92,4 +93,4 @@ export function PartyBubble({
       </motion.div>
     </motion.div>
   );
-}
+});

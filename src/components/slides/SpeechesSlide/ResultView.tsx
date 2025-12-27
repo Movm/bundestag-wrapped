@@ -130,10 +130,10 @@ export const ResultView = memo(function ResultView({ parties }: ResultViewProps)
               whileInView={{ opacity: 1, scale: 1 }}
               viewport={{ once: true }}
               transition={{
-                delay: i * 0.12,
+                delay: i * 0.4,
                 type: 'spring',
-                stiffness: 150,
-                damping: 15,
+                stiffness: 140,
+                damping: 14,
               }}
               style={{
                 position: 'absolute',
